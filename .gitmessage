@@ -1,0 +1,17 @@
+
+# ── TIÊU ĐỀ: <loại>: đổi cái gì (≤ 60 ký tự, không dấu chấm cuối) ────────────
+#
+# loại:  luat     ngưỡng/luật trong kiem-luat.py, kiem-noi-shot.py
+#        skill    SKILL.md hoặc references/
+#        phim     sf-board.json, KICH-BAN.md, build_*/
+#        cong-cu  script sfboard/*.py, luu-ban.sh, quay-lai.sh
+#        docs     CLAUDE.md, AGENTS.md, .claude/git-release.md
+#        chore    dọn dẹp, .gitignore, bỏ file
+#
+# ── THÂN: vì sao đổi. Gặp lỗi gì, hoặc luật cũ sai ở đâu. ────────────────────
+#         Bỏ trống nếu tiêu đề đã đủ. Cách tiêu đề một dòng trắng.
+#
+# Tránh: "update", "sửa lỗi" · kể thao tác thay vì kết quả ("sửa file X") ·
+#        gộp nhiều việc không liên quan vào một commit.
+#
+# Trước khi lưu: `git diff --cached --name-only` có đúng những file định commit?
