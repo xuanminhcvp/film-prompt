@@ -7,7 +7,7 @@
 # tốn đĩa.
 #
 # 2026-08-18: gỡ hẳn phần git. Skill và công cụ nay nằm thẳng trong repo private
-# grokpipe-prompt (`git add -A` là đủ) — script này chỉ còn lo snapshot media,
+# film-prompt (`git add -A` là đủ) — script này chỉ còn lo snapshot media,
 # thứ mà git cố tình không đụng tới vì nặng 190GB.
 #
 # TRƯỚC 2026-08-17 script này ghim đúng MỘT project (PIPELINE-8DOLLARS), mà
