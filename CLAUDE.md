@@ -3,14 +3,14 @@
 Kho này CHỈ còn phần viết prompt cho `sf-board.json`: skill làm phim, luật kiểm
 duyệt, công cụ kiểm luật và dữ liệu phim. Toàn bộ phần chạy máy (board HTTP, job
 lifecycle, executor Grok/ChatGPT, test gate) đã gỡ khỏi thư mục này ngày
-2026-08-18; lịch sử của nó nằm trong repo public `grokpipe` và trong `.git-rieng`.
-Không dựng lại phần đó ở đây.
+2026-08-18; lịch sử của nó nằm ở repo `xuanminhcvp/grokpipe` trên GitHub và ở
+`~/Desktop/grokpipe-git-cu-2026-08-18/`. Không dựng lại phần đó ở đây.
 
 ## Bố cục
 
 ```text
 .claude/skills/skills-film/   luật viết prompt — SKILL.md + references/
-.claude/memory-backup/        bản sao auto memory của user
+.claude/memory-backup/        bản sao auto memory của user (chép TAY, xem dưới)
 sfboard/kiem-luat.py          21 luật cứng trên sf-board.json
 sfboard/kiem-noi-shot.py      kiểm nối shot giữa hai clip liền nhau
 sfboard/liet-ke-dao-cu.py     gợi ý đạo cụ cần REF_PROP_
@@ -62,5 +62,13 @@ tin là "SẠCH".
   cho `assets/`, `videos/`, `versions/`, `.snapshots/`.
 - Không có lệnh git nào chạy tự động. `luu-ban.sh` chỉ snapshot APFS vào
   `<project>/.snapshots` — đó là bản lưu của media, git không thay thế được.
+- `.claude/memory-backup/` trước đây được `day-rieng.sh` tự rsync mỗi lần đẩy.
+  Script đó đã gỡ, nên giờ phải chép tay trước khi commit, nếu không nó lặng lẽ
+  cũ đi mà không ai biết:
+
+  ```bash
+  rsync -a --delete --exclude '.DS_Store' \
+    ~/.claude/projects/-Users-may1-Desktop-grokpipe/memory/ .claude/memory-backup/
+  ```
 - Không pull/push/sync remote nếu user chưa cho phép chính xác.
 - Không dùng commit message chung chung như `update`; mô tả đúng thứ đã đổi.
