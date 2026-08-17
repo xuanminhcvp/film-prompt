@@ -21,7 +21,26 @@ a = ap.parse_args()
 
 PROJ = os.path.abspath(a.project)
 BO = {x.strip() for x in a.bo.split(',') if x.strip()} | {'REF'}
-d = json.load(open(os.path.join(PROJ, 'sf-board.json'), encoding='utf-8'))
+
+# Không có board thì nói thẳng, đừng ném traceback. Hai project trong kho này
+# (8DOLLARS, RUTHS-HOUSE) đang ở đúng tình trạng đó, và Errno 2 trần khiến người
+# đọc tưởng script hỏng thay vì hiểu là phim ấy chưa/không còn phần chữ.
+BOARD = os.path.join(PROJ, 'sf-board.json')
+if not os.path.isfile(BOARD):
+    print(f"✗ {os.path.basename(PROJ)} không có sf-board.json — không có gì để kiểm.")
+    # Sắp theo NGÀY SỬA, không theo bảng chữ cái: tên bản lưu đặt theo việc đang
+    # làm ('bak-treem-125824') nên thứ tự chữ cái chẳng liên quan gì tới thứ tự
+    # thời gian, mà chép nhầm bản cũ là mất phần chữ viết sau đó.
+    BAK = sorted((f for f in os.listdir(PROJ) if 'sf-board.json' in f and f != 'sf-board.json'),
+                 key=lambda f: os.path.getmtime(os.path.join(PROJ, f))) if os.path.isdir(PROJ) else []
+    if BAK:
+        moi = BAK[-1]
+        ngay = __import__('datetime').datetime.fromtimestamp(os.path.getmtime(os.path.join(PROJ, moi)))
+        print(f"  Có {len(BAK)} bản .bak ở gốc project, mới nhất: {moi} ({ngay:%Y-%m-%d %H:%M})")
+        print("  Muốn kiểm thì chép một bản thành sf-board.json trước.")
+    sys.exit(2)
+
+d = json.load(open(BOARD, encoding='utf-8'))
 ALL = {f['id']: f for s in d['scenes'] for f in s.get('sfs', [])}
 
 
