@@ -1,0 +1,41 @@
+# ĐỌC TRƯỚC KHI SỬA
+#
+# Kho này giờ chỉ có MỘT repo và nó PRIVATE. Vì vậy luật đã lật ngược so với
+# trước 2026-08-18: skill, công cụ kiểm và phần chữ của phim nay PHẢI được
+# track — đó chính là thứ cần lưu. Cái duy nhất phải chặn là MEDIA và rác.
+#
+# Media trong thư mục này là 190GB. Chỉ cần một dòng bên dưới bị nới lỏng là
+# push kẹt cứng hoặc GitHub từ chối. Đừng thêm ngoại lệ cho assets/videos.
+
+# ── DỮ LIỆU PHIM: chỉ lấy phần CHỮ ở gốc mỗi project ────────────────────────
+# Chặn sạch bên trong *.project/ rồi mở lại đúng json + md ở tầng gốc. Nhờ vậy
+# assets/, videos/, versions/, .snapshots/, .thumbs/ … không có đường lọt vào,
+# kể cả khi sau này sinh thêm thư mục con mới chưa ai lường trước.
+*.project/*
+!*.project/*.json
+!*.project/*.md
+
+# bản sao lưu sf-board.json (chỉ có ý nghĩa trên máy đang làm)
+*.json.bak-*
+
+# ── MÔI TRƯỜNG VÀ RÁC ───────────────────────────────────────────────────────
+**/.venv/
+**/__pycache__/
+*.pyc
+.DS_Store
+*.jsonl
+
+# phiên đăng nhập trình duyệt — không bao giờ đưa lên git
+**/.chatgpt_profile/
+
+# ── FILE NÉN ────────────────────────────────────────────────────────────────
+# Media 190GB nén lại vẫn là media, và mọi phép kiểm theo tên đường dẫn đều mù
+# với nội dung bên trong file nén. Đã có thật trên máy này (2026-08-08):
+# .claude.zip chứa 21 mục của .claude/skills/ và lọt qua mọi luật.
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.7z
+*.mp4
+*.mov

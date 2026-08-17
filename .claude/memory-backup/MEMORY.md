@@ -1,0 +1,5 @@
+- [Hook auto ăn theo UI grokpipe](hook-auto-an-theo-ui.md) — sfboard.py bên hook là bản copy, grokpipe là nguồn chuẩn; tài khoản Chrome dùng chung
+- [Tối đa 4 Chrome pipeline](toi-da-4-chrome.md) — giới hạn RAM user đặt 2026-07-30
+- [Dùng lại một tab browser](dung-lai-mot-tab-browser.md) — xem board thì navigate vào tab "seed", đừng mở tab mới
+- [Đọc hết references của skills-film](doc-het-references-skills-film.md) — bỏ sót thao-tac-chatgpt.md làm hỏng cấu trúc luatchung cả 19 thẻ
+- [Grep tiếng Việt trong JSON dự án cũ](grep-tieng-viet-json-du-an-cu.md) — file cũ lưu \uXXXX nên grep trả rỗng dù chuỗi có thật
