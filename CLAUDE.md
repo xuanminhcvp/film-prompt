@@ -52,7 +52,7 @@ tin là "SẠCH".
 
 ## Git
 
-- MỘT repo duy nhất: `xuanminhcvp/grokpipe-prompt`, **private**. Hai repo cũ
+- MỘT repo duy nhất: `xuanminhcvp/film-prompt`, **private**. Hai repo cũ
   (`grokpipe` public và `grokpipe-private`) đã cắt khỏi thư mục này ngày
   2026-08-18; kho `.git` của chúng nằm ở `~/Desktop/grokpipe-git-cu-2026-08-18/`.
 - Repo private nên skill, công cụ kiểm và phần chữ của phim đều được track —
