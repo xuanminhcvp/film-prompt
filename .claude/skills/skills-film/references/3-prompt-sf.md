@@ -24,7 +24,14 @@
    - **Lệnh Cắt Tham Chiếu**: BẮT BUỘC phải chỉ đích danh việc gạt bỏ (không tham chiếu) những người thừa ra khỏi lô REF của góc máy đó. Ví dụ: Scene có A, B, C; nhưng nếu SF là góc cận (CU) chỉ có A, thì phải chốt rõ "CHỈ tham chiếu A, KHÔNG tham chiếu B và C".
 
 ## Quy tắc Prompt SF Thường
-- **Cấu trúc 7 phần**: (1) Máy quay, (2) Trạng thái không gian của cụm, (3) Ai đang làm gì, (4) Tay (Tuỳ chọn), (5) Hướng nhìn, (6) Biểu cảm, (7) Câu đóng băng.
+- **Cấu trúc Prompt Ảnh (7 phần)**: MỌI prompt ảnh (cả thẻ địa điểm và SF thường) chỉ còn đúng 7 phần:
+  1. **Máy quay** (bằng thông số đo cụ thể)
+  2. **Trạng thái không gian của cụm** (nhưng chỉ tả những gì lọt vào nón quan sát của góc máy)
+  3. **Ai đang làm gì**
+  4. **Bàn tay** (Tuỳ chọn: chỉ tả nếu có hành động cầm nắm cụ thể hoặc tay có vai trò diễn xuất quan trọng trong shot; đừng lúc nào cũng dùng không sẽ lố/ diễn.)
+  5. **Hướng nhìn**
+  6. **Biểu cảm khoảnh khắc**
+  7. **Câu đóng băng** cuối khung (trạng thái TRƯỚC khi hành động).
 - **Cấm Đạo Diễn Ngón Tay (Anti-Finger Trope)**: vì AI ngôn ngữ rất hay gán hành động "đếm bằng ngón tay", "xoa cằm" khi nhân vật đang thoại. **TUYỆT ĐỐI NGHIÊM CẤM** giơ số ngón tay để minh hoạ.
 - **CẤM TẢ ÁNH SÁNG/THỜI ĐIỂM**: Tuyệt đối không miêu tả thời điểm, thời tiết, ánh sáng hay bảng màu trong prompt của SF lẻ (vd: không viết "CẢNH ĐÊM MƯA" hay "đêm đen"). Những thứ này thuộc về Thẻ địa điểm và đã được KHOÁ LOOK bằng ảnh đính kèm. Miêu tả lại sẽ làm ChatGPT nhiễu và đè mất Look gốc.
 - **Nhất quán Không gian Nâng cao (Spatial Consistency & 180° Rule)**: Không chỉ gọi tên vật thể nền, mà còn BẮT BUỘC thiết lập 4 khóa trục không gian nhằm chống hallucination tuyệt đối khi đổi góc máy:
@@ -50,6 +57,11 @@
 - **Trần câu cấm**: Dưới 10 chữ `KHÔNG`.
 - **Máy quay**: Bằng số đo cụ thể (cỡ cảnh, cao độ mét, khoảng cách, hướng sáng).
 - **Câu đóng băng**: Mọi SF kết thúc bằng *"đúng khoảnh khắc ngay TRƯỚC khi..."*.
+
+## Giới hạn ký tự (Trần)
+- **Thẻ địa điểm**: `1.400 ký tự`.
+- **SF thường**: `< 1.000 ký tự` 
+- **LUẬT CHUNG**: `2500 ký tự` (Khai 1 lần cho mỗi địa điểm).
 
 ## Thiết kế một khung hình
 - **Khung OTS**: Vai ở tiền cảnh phải là của NGƯỜI ĐANG ĐƯỢC NÓI VỚI.

@@ -109,7 +109,7 @@ def cmd_patch(board_path, scene_id, patch_file):
                 scene['shots'].append(p_sh)
 
     # XOÁ có kiểm soát. Viết lại một scene thì phải bỏ được SF/shot cũ, nếu không
-    # `shots[].sf` sẽ còn trỏ vào SF đã chết và hỏng lúc render hàng loạt.
+    # `shots[].sf` sẽ còn trỏ vào SF đã chết và hỏng dữ liệu sau này.
     for khoa, kho in (('xoa_sfs', 'sfs'), ('xoa_shots', 'shots')):
         ids = set(patch_data.get(khoa) or [])
         if ids:

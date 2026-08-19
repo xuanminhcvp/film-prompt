@@ -308,7 +308,7 @@ LOI = collections.Counter()
 C = collections.Counter()
 CANH_BAO = []          # lỗi mức nhắc, không tính vào mã thoát
 CANH_BAO_HANH_DONG = [] # nhắc khi thoại có chứa mệnh lệnh thay đổi trạng thái
-CHUA_ANH = []          # SF chưa render — TIẾN ĐỘ, không phải lỗi
+CHUA_ANH = []          # SF chưa có ảnh — TIẾN ĐỘ, không phải lỗi
 DAI = []               # prompt vượt mục tiêu ~1.000 nhưng chưa tới mức hỏng
 BANG = []              # scene đang ở giai đoạn BẢNG SHOT (chưa sinh SF)
 POSE_CHUOI = []        # SF có `pose` kiểu CHUỖI → phép kiểm người-trong-phòng bỏ qua
@@ -333,9 +333,16 @@ for sc in scs:
     for f in sc['sfs']:
         i = f['id']
         # THẺ ĐỊA ĐIỂM được miễn các phép kiểm dưới: nó không có `refs.bg` (nó
-        # LÀ gốc), và trần ký tự của nó là 1.400-1.800 chứ không phải 1.000.
+        # LÀ gốc).
         # Dấu hiệu là CÓ `luatchung`; tiền tố `SF-M-` là quy ước cũ, vẫn nhận.
-        if (f.get('luatchung') or '').strip() or i.startswith('SF-M-'):
+        _luatchung = (f.get('luatchung') or '').strip()
+        if _luatchung or i.startswith('SF-M-'):
+            # Cập nhật trần ký tự theo quy định mới: Thẻ địa điểm (1.400), LUẬT CHUNG (2.500)
+            _pr = f.get('prompt') or ''
+            if len(_pr) > 1400:
+                bad.append(('thẻ-địa-điểm-quá-dài', f"{i}: {len(_pr)} ký tự (trần 1.400)"))
+            if len(_luatchung) > 2500:
+                bad.append(('luật-chung-quá-dài', f"{i}: {len(_luatchung)} ký tự (trần 2.500)"))
             continue
         if f['refs'].get('bg') not in ALL:
             bad.append(('bg-hỏng', f"{i}: bg={f['refs'].get('bg')!r}"))
@@ -347,7 +354,7 @@ for sc in scs:
         if not f.get('pose'):
             bad.append(('thiếu-pose', i))
         bad += loi_goc(i, goc_cua(i))
-        # CHƯA RENDER KHÔNG PHẢI LỖI — đó là TIẾN ĐỘ. Đếm riêng, in một dòng ở
+        # CHƯA CÓ ẢNH KHÔNG PHẢI LỖI — đó là TIẾN ĐỘ. Đếm riêng, in một dòng ở
         # cuối. Trộn nó vào danh sách lỗi thì nó chiếm 43% bảng và đẩy các lỗi
         # thật ra khỏi tầm mắt; bảng kiểm nhiễu thì người ta thôi đọc.
         if not co_anh(i):
@@ -355,16 +362,10 @@ for sc in scs:
         if i not in load and i not in LA_NEO:
             bad.append(('SF-mồ-côi', i))
         pr = f.get('prompt') or ''
-        # Trần ký tự: SF con <1.000. Master được 1.400-1.800 vì gánh bản đồ vị
-        # trí cho cả cụm — nhưng master đã `continue` ở trên nên không tới đây.
-        # ~1.000 là MỤC TIÊU chứ không phải trần (skill viết 'dưới ~1.000').
-        # Đo trên dữ liệu thật: trung vị 981 — đặt lỗi ở 1.000 thì 45% thẻ bị
-        # gắn nhãn lỗi, tức dán nhãn lên công việc bình thường. Lỗi chỉ khi
-        # vượt XA; phần giữa gom thành một dòng nhắc.
-        if len(pr) > 1300:
-            bad.append(('SF-quá-dài', f"{i}: {len(pr)} ký tự (mục tiêu ~1.000)"))
-        elif len(pr) > 1000:
-            DAI.append(i)
+        # Trần ký tự: SF con < 1.000 ký tự (theo quy định mới). 
+        # Master đã `continue` ở trên nên không tới đây.
+        if len(pr) > 1000:
+            bad.append(('SF-quá-dài', f"{i}: {len(pr)} ký tự (trần 1.000)"))
         thieu = [k for k in KHOI_SF if k + ':' not in pr]
         if thieu:
             bad.append(('SF-thiếu-khối', f"{i}: {', '.join(thieu)}"))
@@ -449,6 +450,14 @@ for sc in scs:
             bad.append(('thiếu-giây', f"{x['id']}: {w} từ cần {can:.1f}s, đang {x['dur']}"))
         if not isinstance(x['dur'], int):
             bad.append(('dur-sai-kiểu', f"{x['id']}: {x['dur']!r}"))
+        # OTS ĐƯỢC KHAI Ở `goc` CỦA SHOT, KHÔNG PHỤ THUỘC SF — nên phải đếm ở
+        # ngoài nhánh `co_sf` dưới đây. Bản cũ đếm bên trong nhánh đó, mà ở giai
+        # đoạn BẢNG SHOT chưa SF nào tồn tại nên `co_ots` không bao giờ bật:
+        # mọi scene đều ăn `thiếu-OTS` kể cả khi từng dòng `goc` đã ghi rõ OTS.
+        # Đúng lúc bảng shot là lúc phép kiểm này đáng giá nhất thì nó báo oan.
+        if '[NHỊP' not in x['text'] and RE_OTS.search(x.get('goc') or goc_cua(x['sf'])):
+            co_ots = True
+
         # NGƯỜI NÓI CÓ TRONG KHUNG KHÔNG — chỉ hỏi được khi `goc` tồn tại.
         # SF không có `goc` thì mọi người nói đều "vắng khung", và bảng kiểm
         # phun ra hàng trăm dòng vô nghĩa che mất lỗi thật (đã đo: 325 dòng trên
@@ -468,9 +477,6 @@ for sc in scs:
             is_offscreen = any(offscreen_hop_le(ten, x.get('text', ''), pv) for ten in _sf_speakers)
             if noi_truc_tiep and len(_sf_speakers) > 0 and not is_offscreen and _who and len(_who) == 1 and not is_scene_phone and not la_ban_sao_os(x):
                 bad.append(('khung-1-người-sai-luật', f"{x['id']}: thoại trực tiếp nhưng pose.who chỉ có 1 người"))
-                
-            if RE_OTS.search(x.get('goc') or goc_cua(x['sf'])):
-                co_ots = True
                 
         # Thiếu REF_PROP
         for prop_name in TEN_PROP:
@@ -649,7 +655,7 @@ if BANG:
 if CHUA_ANH or DAI:
     print(f"\n── TIẾN ĐỘ, KHÔNG PHẢI LỖI ──")
     if CHUA_ANH:
-        print(f"  · {len(CHUA_ANH)} SF chưa render ảnh")
+        print(f"  · {len(CHUA_ANH)} SF chưa có ảnh")
     if DAI:
         print(f"  · {len(DAI)} prompt 1.000-1.300 ký tự — vượt mục tiêu, chưa tới mức hỏng")
 

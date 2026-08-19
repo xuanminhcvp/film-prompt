@@ -20,7 +20,7 @@
 # Bản lưu thật của phim là .snapshots cục bộ, không phải git.
 set -euo pipefail
 
-ROOT="/Users/may1/Desktop/grokpipe"
+ROOT="/Users/may1/Desktop/film-prompts"
 GIU_NGAY=30
 NGAY=$(date +%Y-%m-%d)
 GIO=$(date +%H%M)

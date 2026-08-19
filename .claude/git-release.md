@@ -1,11 +1,6 @@
 # Quy trình đẩy Git — ĐỌC TRƯỚC MỖI LẦN PUSH
 
 > *Luật cứng nằm ở `CLAUDE.md`. File này chỉ chứa thao tác.*
->
-> **Viết lại 2026-08-18.** Trước đó thư mục này có HAI kho chung một chỗ, và
-> quy trình cũ xoay quanh việc chặn `.claude/` với `*.project/` khỏi kho public.
-> Nay chỉ còn MỘT kho và nó private, nên luật lật ngược: skill và phần chữ của
-> phim PHẢI lên git; thứ duy nhất phải chặn là MEDIA.
 
 ## 1. Kiểm TRƯỚC khi push
 

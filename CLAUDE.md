@@ -1,4 +1,4 @@
-# grokpipe — kho viết prompt
+# film-prompts — kho viết prompt
 
 Kho này CHỈ còn phần viết prompt cho `sf-board.json`: skill làm phim, luật kiểm
 duyệt, công cụ kiểm luật và dữ liệu phim. Toàn bộ phần chạy máy (board HTTP, job
@@ -68,7 +68,7 @@ tin là "SẠCH".
 
   ```bash
   rsync -a --delete --exclude '.DS_Store' \
-    ~/.claude/projects/-Users-may1-Desktop-grokpipe/memory/ .claude/memory-backup/
+    ~/.claude/projects/-Users-may1-Desktop-film-prompts/memory/ .claude/memory-backup/
   ```
 - Không pull/push/sync remote nếu user chưa cho phép chính xác.
 - Không dùng commit message chung chung như `update`; mô tả đúng thứ đã đổi.

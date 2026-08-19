@@ -46,7 +46,7 @@ python3 sfboard/kiem-noi-shot.py <PROJECT> [S6] --day-du   # Nối shot: zone, t
 3. **MỘT SHOT = MỘT SF**: Số SF = số shot. Cùng góc nhưng khác beat/tay thì vẫn sinh SF mới.
 4. **Gộp scene**: Gộp 5-6 scene làm một lượt để tiết kiệm token nạp luật.
 5. **Chạy song song**: Có thể dùng subagent chạy song song nhiều scene, nhưng **phải chung thư viện dựng prompt**.
-6. **Hai chế độ**: Làm theo lệnh user từng bước, hoặc "tạo hết" (chạy 5 bước, tự duyệt). Việc viết prompt có thể gộp, nhưng chạy ảnh luôn tuần tự (ảnh sau đính ảnh trước làm background).
+6. **Hai chế độ**: Làm theo lệnh user từng bước, hoặc "tạo hết" (chạy 5 bước, tự duyệt). Việc viết prompt có thể gộp.
 
 ---
 

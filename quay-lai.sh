@@ -19,7 +19,7 @@
 #    Nay đọc thẳng từ snapshot — đó là nơi duy nhất thật sự có nó.
 set -euo pipefail
 
-ROOT="/Users/may1/Desktop/grokpipe"
+ROOT="/Users/may1/Desktop/film-prompts"
 cd "$ROOT"
 
 # ── không tham số: liệt kê project ──────────────────────────────────────────

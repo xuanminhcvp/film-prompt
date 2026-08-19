@@ -28,8 +28,12 @@
 
 ## Ảnh chân dung (PORTRAIT)
 - **Mục đích:** Khóa khuôn mặt chuẩn cho cả phim. MỖI NHÂN VẬT CHỈ CÓ 1 PORTRAIT DUY NHẤT. (Tỷ lệ 2:3, Scene `REF`).
-- **Góc chụp:** Nhìn thẳng camera. SÁNG RÕ (chụp studio).
-- **Prompt:** Khoá cứng chủng tộc, kiểu tóc, tuổi bằng chữ. Không đính `refs.bg` hay ref nào khác.
+- **Góc chụp & Khung hình:** BẮT BUỘC chụp từ NGANG CỔ TRỞ LÊN, chính diện, nhìn thẳng vào ống kính. KHÔNG lấy thân người, KHÔNG lấy quần áo.
+- **Ánh sáng & Nền:** Nền trắng xám trung tính trơn. Ánh sáng studio dịu đều, không mảng tối gắt.
+- **Định dạng Prompt mẫu (Bắt buộc dùng phần mở đầu này):**
+  > Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.
+- **Mô tả nhân vật:** Khoá cứng chủng tộc, kiểu tóc, tuổi bằng chữ. Không đính `refs.bg` hay ref nào khác.
+- **Biểu cảm & Chặn lỗi:** Ánh nhìn tỉnh, ấm, chắc. Cấm làm hốc hác, quầng thâm hay nét khắc khổ (trừ khi kịch bản bắt buộc).
 - **Lưu ý:** Không tự ý crop ảnh đã duyệt.
 
 ---
@@ -43,9 +47,13 @@
 ---
 
 ## Luật: Trang phục & Mức sống
-- **Đồ thường ngày (Nghèo):** 
-  - BẮT BUỘC có từ khóa chỉ độ cũ (bạc màu, sờn cổ, giày mòn). 
-  - **Phanh hãm độ lố:** Phải luôn đi kèm từ khóa "sạch sẽ, được giặt cẩn thận". Cấm vẽ rách nát tơi tả như ăn xin trừ khi kịch bản yêu cầu. Nghèo thể hiện qua sự hao mòn chất liệu, không phải sự dơ bẩn.
+- **Số lượng trang phục bắt buộc (áp dụng cho 4 nhân vật quan trọng nhất):** Phân bổ dựa theo số lượng phân cảnh (scene) xuất hiện để đảm bảo sự đa dạng:
+  - **> 15 phân cảnh:** Bắt buộc có ít nhất 10 bộ trang phục.
+  - **Từ 8 - 15 phân cảnh:** Bắt buộc có ít nhất 6 bộ trang phục.
+  - **Từ 4 - 7 phân cảnh:** Bắt buộc có ít nhất 4 bộ trang phục.
+- **Đồ thường ngày (Nếu nghèo):** 
+  - BẮT BUỘC có từ khóa chỉ độ cũ (bạc màu, sờn vải). 
+  - **Phanh hãm độ lố:** Phải luôn đi kèm từ khóa "được giặt cẩn thận". Cấm vẽ rách nát tơi tả như ăn xin trừ khi kịch bản yêu cầu. Nghèo thể hiện qua sự hao mòn chất liệu, không phải sự dơ bẩn.
 - **Bộ ra ngoài (Bộ tử tế khi đi văn phòng/ việc quan trọng):** Phẳng phiu, vừa vặn.
 - **Gương mặt:** TUYỆT ĐỐI KHÔNG làm xấu khuôn mặt/thần thái nhân vật chính (không quầng thâm, hốc hác) dù hoàn cảnh tệ.
 
@@ -90,7 +98,19 @@
 - **Thẻ địa điểm khoá KHÔNG GIAN, không khoá CAMERA**: SF thường TỰ DO đổi góc quay (xoay 360°, đổi cỡ cảnh). Đổi hướng thì PHẢI tả thứ thấy ở hướng đó.
 
 ## Quy tắc viết luatchung
-- **KHÓA LOOK (CẤM TẢ ÁNH SÁNG/THỜI ĐIỂM)**: Tuyệt đối KHÔNG dùng các từ ngữ tả thời tiết, ánh sáng, giờ giấc (vd: "đêm đen", "đèn vàng ấm") trong khối `luatchung`. Vì `luatchung` sẽ bị tự động nhúng vào mọi prompt khung hình con, khiến DALL-E tự chế lại ánh sáng làm hỏng Look gốc của thẻ. Hãy chỉ đạo AI bằng lệnh: *"Ảnh bối cảnh đính kèm là để KHOÁ LOOK. Giữ nguyên 100% ánh sáng, bảng màu và tông màu của frame tham chiếu."*
+
+Nằm ở trường `luatchung` của thẻ địa điểm. Được gửi 1 lần duy nhất để định nghĩa không gian và quy tắc nền cho ChatGPT.
+**Cấu trúc LUẬT CHUNG:**
+Khối 1 (Khung & Look) BẮT BUỘC phải dùng CHÍNH XÁC đoạn lệnh sau:
+`1. KHUNG & LOOK
+Tạo ảnh và trả về cho tôi đúng số ảnh (16:9) tương ứng với số prompt ảnh dưới đây. CẤM GỘP ẢNH (no grid, no collage, no contact sheet). Thứ tự ảnh đúng như thứ tự prompt tôi gửi. Bắt buộc lấy y hệt bảng màu, nhiệt độ. TUY NHIÊN, KHÔNG KHOÁ GÓC MÁY. Hãy tự do quay các hướng khác nhau trong phòng. - Tỉ lệ 16:9, ảnh tĩnh photorealistic điện ảnh, vật liệu và tỉ lệ kiến trúc hiện thực.`
+
+2. **Ảnh đính kèm**: Ảnh nào là mặt của ai, đồ của ai.
+3. **Nhân vật**: Mỗi người 1 đoạn, gọi bằng TÊN THẬT, tả 1 lần.
+4. **Đạo cụ & Nơi chốn**: Gọi bằng tên thật.
+5. **Trục**: Máy quay phía nào, ai luôn bên trái, ai phải (Không bao giờ đảo chiều).
+6. **Liên tục**: Trạng thái đạo cụ theo dòng thời gian (vd: *S3 đóng -> S10 mở*).
+
 - **CẤM "Ngụ ý văn học"**: Dịch ẩn ý đạo diễn thành ngôn ngữ thị giác thuần tuý. Cấm viết "đây là sân nhà của cô ấy", "sự lệch pha là nội dung". Chỉ viết thị giác: "Sự tương phản mạnh giữa bộ vest đắt tiền và chiếc ghế bọc da nứt nẻ." AI vẽ pixel, không vẽ ẩn ý.
 - **CẤM nhét Đạo cụ di động (Dynamic Props)**: Những đạo cụ thay đổi trạng thái hoặc chỉ xuất hiện ở vài khung hình (như lấy đồng hồ từ túi ra, đẩy tờ giấy qua bàn) BẮT BUỘC để ở prompt của từng khung SF lẻ. Tuyệt đối không đưa vào `luatchung` để tránh việc AI hallucinate vẽ nó tràn lan ở mọi khung hình.
 - **Rút gọn Lệnh hệ thống**: Viết các chỉ định (như phong cách, bộ lọc) thành các gạch đầu dòng sắc bén, tránh viết văn xuôi dài dòng.
