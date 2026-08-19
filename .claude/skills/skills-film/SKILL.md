@@ -18,11 +18,14 @@ description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF), prompt vid
 
 ---
 
-## Quy trình 5 bước
+## Quy trình cốt lõi
 **MỖI BƯỚC MỘT FILE, và là nguồn sự thật duy nhất cho bước đó**. Bắt buộc mở file của bước trước khi viết prompt.
 
 | Bước | Việc | Đọc file |
 |---|---|---|
+| **00** | **Khởi tạo Dự án**: Cấu trúc thư mục, khởi tạo `sf-board.json` chuẩn Schema. | [00-khoi-tao-du-an.md](references/00-khoi-tao-du-an.md) |
+| **0A** | **Tư duy đạo diễn**: Nền tảng triết lý chuyển góc máy, nhịp điệu kể chuyện và kiểm soát cảm xúc khán giả. | [6-tu-duy-dien-anh.md](references/6-tu-duy-dien-anh.md) |
+| **0B** | **Nghệ thuật Ánh sáng (D.O.P)**: Từ vựng ánh sáng, tỷ lệ tương phản, và bảng màu điện ảnh (Color Grading). | [7-nghe-thuat-anh-sang.md](references/7-nghe-thuat-anh-sang.md) |
 | **1** | **Chia shot**: Bảng shot (1 shot = 1 SF), chèn nhịp lặng, nối shot, khai báo `goc`. | [1-chia-shot.md](references/1-chia-shot.md) |
 | **2** | **Tạo hình & Địa điểm (REF)**: Ảnh portrait, full-body từng trang phục, Thẻ địa điểm (mọi biến thể Sáng/Tối của địa điểm đó xuất hiện trong kịch bản). | [2-tao-hinh-va-dia-diem.md](references/2-tao-hinh-va-dia-diem.md) |
 | **3** | **Prompt SF (Khung hình)** | [3-prompt-sf.md](references/3-prompt-sf.md) |

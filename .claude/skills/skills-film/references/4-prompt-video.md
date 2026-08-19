@@ -25,7 +25,7 @@ Nhận diện:
 - <Tên B> = <mô tả tuổi, sắc tộc, quần áo>
 Trong khung: <Mô tả chính xác ai RÕ MẶT, ai bị MỜ/QUAY LƯNG/CHỈ THẤY VAI GÁY tuỳ theo đúng ảnh SF thực tế>. <nếu chỉ thấy Vai và gáy thì không được quay mặt lại, vì quay mặt lại sẽ bị tạo ra nhân vật khác>. (TUYỆT ĐỐI CẤM chêm thêm các câu thừa thãi như "Ngoài những người đã nêu, không thêm ai khác vào khung" hay "Không ai khác lọt khung").
 
-Một shot liền <N> giây, không chuyển cảnh. Camera <TĨNH / PUSH-IN chậm / DOLLY ngang nhẹ...>. TUYỆT ĐỐI KHÔNG để Camera lùi, kéo lùi hay PULL-OUT.
+Một shot liền duy nhất <N> giây, tuyệt đối không chuyển cảnh. Camera <TĨNH / PUSH-IN chậm / PAN nhẹ...>. 
 
 <Mô tả hành động của người nói trước/trong khi thoại>:
 
@@ -41,7 +41,7 @@ KẾT CLIP: <CHỈ viết khi shot sau đổi trạng thái>
 - **Khối `Trong khung`**: 
   - Khung OTS -> BẮT BUỘC viết: *"<B> chỉ thấy VAI VÀ GÁY... TUYỆT ĐỐI KHÔNG quay mặt về camera"* (Không được viết "Cả hai rõ mặt").
   - Phải mô tả ĐÚNG với ảnh thực tế đã render.
-- **Camera**: Chỉ được dùng TĨNH, PUSH-IN, PAN, DOLLY ngang. Tuyệt đối không dùng lệnh lùi (Pull-out, Kéo lùi).
+- **Camera (Start-frame rule)**: TUYỆT ĐỐI không bắt AI vẽ không gian mới. Chỉ dùng Mức A (Tĩnh, Push-in chậm, Rack focus) hoặc Mức B (Pan/Tilt cực nhẹ nếu vùng đó đã hiện diện trong ảnh). CẤM TOÀN BỘ Mức C (Pull-out, Dolly out, Orbit, Crane, Tracking ra ngoài frame, từ khóa 'revealing'). Có thể kết hợp: `0-3s static, 3-8s slow push-in`.
 - **Cảm xúc**: Hành động và tính từ phải nhẹ nhàng/hợp lý (vd: không viết "quát", trẻ em gặp người lớn thì ghi bỡ ngỡ chứ không ghi giật mình sợ hãi). 
 
 ## Khối KẾT CLIP < 7% số shot của phim

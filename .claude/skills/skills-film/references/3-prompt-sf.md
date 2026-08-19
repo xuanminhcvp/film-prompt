@@ -21,27 +21,28 @@
 4. **Xác định CAST & Lọc Tham chiếu (REF Filtering) theo góc máy**: Lấy từ bản đồ không gian toàn cảnh -> Đặt máy quay -> Xác định nón quan sát.
    - **Mô tả văn bản**: Những người có thoại hoặc nằm trong nón quan sát thì BẮT BUỘC phải xuất hiện bằng chữ (không được tàng hình).
    - **Lọc REF (Chống lỗi chật khung)**: Mỗi SF chỉ được phép mang thẻ tham chiếu (REF keys) của những nhân vật **THỰC SỰ CÓ MẶT** trong nón quan sát.
-   - **Lệnh Cắt Tham Chiếu**: BẮT BUỘC phải chỉ đích danh việc gạt bỏ (không tham chiếu) những người thừa ra khỏi lô REF của góc máy đó. Ví dụ: Scene có A, B, C; nhưng nếu SF là góc cận (CU) chỉ có A, thì phải chốt rõ "CHỈ tham chiếu A, KHÔNG tham chiếu B và C".
+   - **Lệnh Cắt Tham Chiếu**: BẮT BUỘC phải chỉ đích danh TÊN việc gạt bỏ (không tham chiếu) những Diễn viên thừa ra khỏi lô REF của góc máy đó. Ví dụ: Scene có A, B, C; nhưng nếu SF là góc cận (CU) chỉ có A, thì phải chốt rõ "CHỈ tham chiếu A, KHÔNG tham chiếu B và C".
 
 ## Quy tắc Prompt SF Thường
-- **Cấu trúc Prompt Ảnh (7 phần)**: MỌI prompt ảnh (cả thẻ địa điểm và SF thường) chỉ còn đúng 7 phần:
-  1. **Máy quay** (bằng thông số đo cụ thể)
-  2. **Trạng thái không gian của cụm** (nhưng chỉ tả những gì lọt vào nón quan sát của góc máy)
-  3. **Ai đang làm gì**
-  4. **Bàn tay** (Tuỳ chọn: chỉ tả nếu có hành động cầm nắm cụ thể hoặc tay có vai trò diễn xuất quan trọng trong shot; đừng lúc nào cũng dùng không sẽ lố/ diễn.)
-  5. **Hướng nhìn**
-  6. **Biểu cảm khoảnh khắc**
-  7. **Câu đóng băng** cuối khung (trạng thái TRƯỚC khi hành động).
+- **Cấu trúc Prompt Ảnh (8 phần)**: MỌI prompt SF lẻ phải xuất ra 8 khối (block) sau:
+  1. **MÁY QUAY**: Bằng thông số đo cụ thể.
+  2. **AI VÀ ĐANG LÀM GÌ**: 
+  3. **QUẦN CHÚNG NỀN**: Nếu nón quan sát có quần chúng, phải tả rõ họ như nào/làm gì. Nếu không có hoặc không lọt vào khung, BẮT BUỘC ghi: *"Không có quần chúng nền"*.
+  4. **TAY**: Tay là tuỳ chọn: Chỉ tả nếu có hành động cầm nắm cụ thể hoặc tay có vai trò diễn xuất quan trọng trong shot; đừng lúc nào cũng dùng không sẽ lố.
+  5. **HƯỚNG NHÌN**: 
+  6. **BIỂU CẢM khoảnh khắc**: 
+  7. **ĐÓNG BĂNG**: Câu đóng băng cuối khung (trạng thái TRƯỚC khi hành động).
+  8. **THAM CHIẾU**: Lệnh cắt tham chiếu.
 - **Cấm Đạo Diễn Ngón Tay (Anti-Finger Trope)**: vì AI ngôn ngữ rất hay gán hành động "đếm bằng ngón tay", "xoa cằm" khi nhân vật đang thoại. **TUYỆT ĐỐI NGHIÊM CẤM** giơ số ngón tay để minh hoạ.
-- **CẤM TẢ ÁNH SÁNG/THỜI ĐIỂM**: Tuyệt đối không miêu tả thời điểm, thời tiết, ánh sáng hay bảng màu trong prompt của SF lẻ (vd: không viết "CẢNH ĐÊM MƯA" hay "đêm đen"). Những thứ này thuộc về Thẻ địa điểm và đã được KHOÁ LOOK bằng ảnh đính kèm. Miêu tả lại sẽ làm ChatGPT nhiễu và đè mất Look gốc.
+- **CẤM TẢ ÁNH SÁNG/THỜI ĐIỂM**: Tuyệt đối không miêu tả thời điểm, thời tiết, ánh sáng hay bảng màu trong prompt của SF lẻ (vd: không viết "CẢNH ĐÊM MƯA" hay "đêm đen").
 - **Nhất quán Không gian Nâng cao (Spatial Consistency & 180° Rule)**: Không chỉ gọi tên vật thể nền, mà còn BẮT BUỘC thiết lập 4 khóa trục không gian nhằm chống hallucination tuyệt đối khi đổi góc máy:
-  - **1. Khóa hướng Camera**: Chọn một hướng la bàn cố định và không vượt qua nó (Vd: "Máy quay luôn ở hướng Nam, nhìn về Bắc").
+  - **1. Camera tự do**:
   - **2. Khóa vị trí màn hình (Screen Mapping)**: Gắn cứng nhân vật/phe phái vào một nửa khung hình (Vd: A luôn ở SCREEN RIGHT, B luôn ở SCREEN LEFT). Tuyệt đối không đảo ngược.
   - **3. Khóa nền theo nhân vật (Background Coupling)**: Nếu A ở bên phải màn hình nhìn sang trái, hậu cảnh sau lưng A sẽ luôn là Cảnh A. Khi xoay máy quay sang B, hậu cảnh sau lưng B luôn là Cảnh B. Prompt BẮT BUỘC phải trích xuất đúng Cảnh A hoặc Cảnh B từ Floor Plan để làm nền.
   - **4. Khóa hướng sáng (Lighting Axis)**: Cố định nguồn sáng theo phương hướng màn hình (Vd: "Ánh sáng mặt trời chiếu từ bên phải màn hình") để đổ bóng luôn nhất quán.
 - **TRẠNG THÁI KHÔNG GIAN CỦA CỤM**: Nêu tổng thể ai đang làm gì, nhưng **chỉ cắt theo nón quan sát của góc máy**. KHÔNG được nhồi tất cả nhân vật của scene vào khối này nếu họ không lọt vào khung.
 - **Quy tắc TRẠNG THÁI CHỜ (Pending State)**: Nếu kịch bản/thoại có một mệnh lệnh thay đổi trạng thái tĩnh (ví dụ: mở cửa, ngồi xuống, đứng lên, đưa đồ), ảnh SF BẮT BUỘC phải vẽ trạng thái TRƯỚC KHI hành động đó xảy ra (cửa đóng, đang đứng, chưa cầm đồ). Tuyệt đối không vẽ trạng thái sau khi đã làm xong (vd: thoại nói "open up" thì SF phải vẽ cửa đang đóng). Thân người trung tính, nhưng **BIỂU CẢM PHẢI CỤ THỂ**. Cảm xúc nêu nguyên nhân (vd: *"vừa mất chỗ đứng..."*).
-- **Quần chúng nền (Background Extras)**: Quần chúng nền ĐƯỢC QUYẾT ĐỊNH ĐỘC LẬP CHO TỪNG SF (tuỳ diễn biến và góc quay), TUYỆT ĐỐI KHÔNG khoá cố định hay quy chuẩn theo Thẻ Địa Điểm. Vì Thẻ Địa điểm (`refs.bg`) mặc định luôn là BỐI CẢNH TRỐNG, mọi nhân vật phụ/nền nếu có BẮT BUỘC phải được tạo ra bằng chữ trực tiếp trong khối `<AI VÀ ĐANG LÀM GÌ>` của riêng SF đó. 
+- **Quần chúng nền (Background Extras)**: Quần chúng nền ĐƯỢC QUYẾT ĐỊNH ĐỘC LẬP CHO TỪNG SF (tuỳ diễn biến và góc quay), TUYỆT ĐỐI KHÔNG khoá cố định hay quy chuẩn theo Thẻ Địa Điểm. Vì Thẻ Địa điểm (`refs.bg`) mặc định luôn là BỐI CẢNH không người, mọi nhân vật phụ/nền nếu có BẮT BUỘC phải được tạo ra bằng chữ trực tiếp trong khối `<AI VÀ ĐANG LÀM GÌ>` của riêng SF đó. 
   - **Nguyên lý 1: Mật độ Sinh tồn (Quy mô không gian)**
     Sự hiện diện và mật độ của đám đông không phải là một con số cố định, mà là tấm gương phản chiếu tính chất của bối cảnh tại khoảnh khắc đó. Không gian riêng tư triệt tiêu hoàn toàn sự tồn tại của nhân vật nền. Không gian công cộng điều tiết mật độ dựa trên thời gian thực tế của kịch bản (vắng vẻ ban đêm, luân chuyển giờ hành chính). Nếu nón quan sát không đổi, tuyệt đối không để đám đông bốc hơi một cách vô lý giữa các shot liền kề.
   - **Nguyên lý 2: Trạng thái Hành động & Tiết chế Cảm xúc**
@@ -54,7 +55,7 @@
 
 - **Hướng nhìn**: 2 người thì NHÌN THẲNG MẮT NHAU (trừ khi thoại bảo khác). 1 người thì nhìn vật/ngoài khung. Quần chúng **TUYỆT ĐỐI KHÔNG nhìn camera**.
 - **Viết ngắn gọn**: Cắt mọi thứ ảnh ref đã có (màu áo, tóc), bỏ mã nội bộ.
-- **Trần câu cấm**: Dưới 10 chữ `KHÔNG`.
+- **CẤM LẠM DỤNG TỪ "KHÔNG" (Negative Prompts rác)**: TUYỆT ĐỐI CẤM thói quen chèn các từ cấm vô nghĩa (như *"KHÔNG chữ, KHÔNG watermark, KHÔNG logo"*) vào cuối prompt SF. Chỉ dùng chữ KHÔNG khi thực sự cần thiết để chặn hành vi sai của nhân vật (VD: "nhìn nhau nhưng không chạm tay", "đứng yên không bước tới"). Đừng biến câu cấm thành rác.
 - **Máy quay**: Bằng số đo cụ thể (cỡ cảnh, cao độ mét, khoảng cách, hướng sáng).
 - **Câu đóng băng**: Mọi SF kết thúc bằng *"đúng khoảnh khắc ngay TRƯỚC khi..."*.
 

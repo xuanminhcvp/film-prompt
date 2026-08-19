@@ -91,11 +91,11 @@
 - **Khởi tạo ĐỒNG LOẠT ở Bước 1**: Toàn bộ Thẻ địa điểm (và mọi biến thể thời gian của chúng) của CẢ KỊCH BẢN phải được tạo và đưa vào scene `REF` ngay từ đầu, cùng lúc với tạo hình Nhân vật. 
 - **Biến thể sinh ra từ BẢN GỐC**: Dù mỗi biến thể giờ giấc (vd: Bếp ngày, Bếp đêm) bắt buộc phải là MỘT Thẻ địa điểm độc lập (có mã REF riêng), **TUYỆT ĐỐI KHÔNG** tạo lại prompt không gian từ đầu cho từng thẻ. Hãy chọn một thời điểm xuất hiện nhiều nhất/chi tiết nhất làm "Bối cảnh gốc" và tạo prompt. Với các biến thể thời gian khác, đính ảnh của Bối cảnh gốc vào làm tham chiếu (`refs.bg`) để **KHÓA KIẾN TRÚC**. Prompt của thẻ biến thể lúc này cực ngắn, chỉ tập trung vào việc ra lệnh thay đổi thời điểm (VD: *"Giữ nguyên 100% không gian và đồ đạc của ảnh tham chiếu, chỉ đổi ánh sáng thành ban đêm với đèn đường vàng hắt vào"*).
 - **Đồng bộ Kiến trúc cùng tòa nhà (Cross-Room Reference)**: Tương tự như biến thể thời gian, các căn phòng khác nhau trong cùng một tòa nhà (VD: Phòng khách, Bếp, Phòng ngủ) cũng phải đính kèm ảnh của một "Phòng Chủ đạo" (thường là Phòng khách) vào `refs.bg`. Tuy nhiên, thay vì khóa không gian, `luatchung` của các phòng phụ phải mang lệnh đổi không gian: *"1. ĐỒNG BỘ PHONG CÁCH: Dùng ảnh tham chiếu CHỈ ĐỂ LẤY VẬT LIỆU (màu sơn tường, sàn/ nền, phong cách nội thất, độ cũ mới). ĐÂY LÀ MỘT CĂN PHÒNG KHÁC (Phòng Bếp). KHÔNG copy đồ đạc của ảnh gốc."* Điều này đảm bảo chúng chung một Art Direction.
-- **Thẻ địa điểm là BỐI CẢNH TRỐNG (KHÔNG NGƯỜI)**: Thẻ địa điểm dùng để khóa Kiến trúc, Ánh sáng môi trường, và Trục không gian. Do đó, trường `refs.chars` BẮT BUỘC ĐỂ TRỐNG (không đính kèm nhân vật).
+- **Thẻ địa điểm là BỐI CẢNH KHÔNG NGƯỜI (Empty Location)**: Thẻ địa điểm dùng để khóa Kiến trúc, Ánh sáng môi trường, và Trục không gian. Do đó, trường `refs.chars` BẮT BUỘC ĐỂ TRỐNG (không đính kèm nhân vật).
 - **Nội dung luatchung (SIÊU NGẮN)**: Thẻ địa điểm CHỈ chứa quy hoạch không gian (Floor Plan), quy tắc trục (Screen Mapping), và luật khung ảnh chung. TUYỆT ĐỐI KHÔNG chép lại ngoại hình, tính cách hay trang phục nhân vật vào `luatchung`.
-- **CẤM NHÉT QUẦN CHÚNG/NHÂN VẬT NỀN VÀO LUATCHUNG**: Mọi nhân vật phụ, khách qua đường, hay người làm nền BẮT BUỘC PHẢI để trống ở `luatchung` và chỉ được mô tả định lượng rõ ràng trong từng lệnh SF cụ thể. Thẻ địa điểm phải là nhà trống.
+- **CẤM NHÉT QUẦN CHÚNG VÀ CẤM NEGATIVE PROMPTS RÁC**: Mọi nhân vật phụ hay người làm nền BẮT BUỘC PHẢI để trống ở `luatchung`. Để thể hiện bối cảnh trống, CHỈ CẦN ghi đúng 1 cụm: *"Không có người trong khung hình"*. **TUYỆT ĐỐI CẤM** AI tự ý nhồi nhét các câu "Negative Prompts" rác rưởi kiểu cũ như *"KHÔNG chữ, KHÔNG watermark, KHÔNG logo"*. CŨNG CẤM việc áp dụng chữ "KHÔNG" một cách máy móc làm hỏng bản chất bối cảnh (Ví dụ: Bãi đỗ xe thì phải có xe đỗ, cấm viết *"KHÔNG xe"*).
 - **Thẻ địa điểm là BẢN NEO**: Chờ user duyệt sinh ảnh và chốt 100% thẻ địa điểm mới bắt đầu chia shot cho các scene. Khung hình con sẽ neo vào thẻ bằng `refs.bg`.
-- **Thẻ địa điểm khoá KHÔNG GIAN, không khoá CAMERA**: SF thường TỰ DO đổi góc quay (xoay 360°, đổi cỡ cảnh). Đổi hướng thì PHẢI tả thứ thấy ở hướng đó.
+- **Thẻ địa điểm  Không khoá CAMERA**: SF thường TỰ DO đổi góc quay (xoay 360°, đổi cỡ cảnh). Đổi hướng thì PHẢI tả thứ thấy ở hướng đó.
 
 ## Quy tắc viết luatchung
 
@@ -103,7 +103,7 @@ Nằm ở trường `luatchung` của thẻ địa điểm. Được gửi 1 l�
 **Cấu trúc LUẬT CHUNG:**
 Khối 1 (Khung & Look) BẮT BUỘC phải dùng CHÍNH XÁC đoạn lệnh sau:
 `1. KHUNG & LOOK
-Tạo ảnh và trả về cho tôi đúng số ảnh (16:9) tương ứng với số prompt ảnh dưới đây. CẤM GỘP ẢNH (no grid, no collage, no contact sheet). Thứ tự ảnh đúng như thứ tự prompt tôi gửi. Bắt buộc lấy y hệt bảng màu, nhiệt độ. TUY NHIÊN, KHÔNG KHOÁ GÓC MÁY. Hãy tự do quay các hướng khác nhau trong phòng. - Tỉ lệ 16:9, ảnh tĩnh photorealistic điện ảnh, vật liệu và tỉ lệ kiến trúc hiện thực.`
+Tạo ảnh và trả về cho tôi đúng số ảnh (16:9) tương ứng với số prompt ảnh dưới đây. CẤM GỘP ẢNH (no grid, no collage, no contact sheet). Thứ tự ảnh đúng như thứ tự prompt tôi gửi. Bắt buộc lấy y hệt bảng màu, nhiệt độ. TUY NHIÊN, KHÔNG KHOÁ GÓC MÁY. Hãy tự do quay các hướng khác nhau trong phòng. - Tỉ lệ 16:9, ảnh tĩnh điện ảnh chất lượng cao (Cinematic shot), ánh sáng có chủ đích (Cinematic lighting, volumetric light, soft shadows, professional color grading), vật liệu kiến trúc hiện thực.`
 
 2. **Ảnh đính kèm**: Ảnh nào là mặt của ai, đồ của ai.
 3. **Nhân vật**: Mỗi người 1 đoạn, gọi bằng TÊN THẬT, tả 1 lần.
@@ -114,8 +114,10 @@ Tạo ảnh và trả về cho tôi đúng số ảnh (16:9) tương ứng với
 - **CẤM "Ngụ ý văn học"**: Dịch ẩn ý đạo diễn thành ngôn ngữ thị giác thuần tuý. Cấm viết "đây là sân nhà của cô ấy", "sự lệch pha là nội dung". Chỉ viết thị giác: "Sự tương phản mạnh giữa bộ vest đắt tiền và chiếc ghế bọc da nứt nẻ." AI vẽ pixel, không vẽ ẩn ý.
 - **CẤM nhét Đạo cụ di động (Dynamic Props)**: Những đạo cụ thay đổi trạng thái hoặc chỉ xuất hiện ở vài khung hình (như lấy đồng hồ từ túi ra, đẩy tờ giấy qua bàn) BẮT BUỘC để ở prompt của từng khung SF lẻ. Tuyệt đối không đưa vào `luatchung` để tránh việc AI hallucinate vẽ nó tràn lan ở mọi khung hình.
 - **Rút gọn Lệnh hệ thống**: Viết các chỉ định (như phong cách, bộ lọc) thành các gạch đầu dòng sắc bén, tránh viết văn xuôi dài dòng.
+- **Giới hạn Độ dài Prompt (Word Limit):** Phần prompt miêu tả Bối cảnh BẮT BUỘC phải nằm trong khoảng **200 đến 300 từ**.
 - **Quy hoạch không gian 360° (Floor Plan)**: BẮT BUỘC miêu tả vị trí tương quan của các vật thể/tường lớn theo 4 hướng (Trái, Phải, Đối diện, Sau lưng). Ví dụ: "Bên trái là dãy cửa sổ, đối diện là quầy bar inox, sau lưng là cửa ra vào". Việc này cấp dữ liệu thô để AI tạo ảnh không bị "mù" không gian khi camera xoay góc.
 
+- **Miêu tả thời gian/độ cũ (Production Design):** KHÔNG dùng số năm (ví dụ: *đã mở 30 năm, xây từ lâu*) vì AI sẽ bóp méo thành nhà kho bỏ hoang rùng rợn. Phải dùng từ miêu tả vibe: *nostalgic, retro, well-maintained, lived-in* (hoài cổ, có dấu vết thời gian nhưng bảo trì tốt). *(Ghi chú: Để thiết lập ánh sáng/màu sắc điện ảnh, phải tuân thủ nghiêm ngặt các quy tắc D.O.P tại file số 7).*
 
 ## Checklist trước khi sang Bước 3
 - [ ] Mọi nhân vật có tên đều có 1 portrait duy nhất.
