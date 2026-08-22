@@ -81,8 +81,10 @@ def cc(p):
     Một dòng thống kê sai kiểu đó nguy hơn không có dòng nào, vì nó khiến người
     ta đi sửa một tỷ lệ vốn đã đạt.
     """
+    # MỤC ĐÍCH: Phân loại các cỡ cảnh trong prompt SF (bao gồm góc đặc tả Insert/ECU với mốc rất hạn chế ~2%).
     m = re.search(r'MÁY QUAY:([^\n]*)', p)
     dong = m.group(1).lower() if m else p.lower()
+    if re.search(r'đặc tả|insert|extreme close-up|\becu\b', dong): return 'đặc-tả'
     if re.search(r'cinematic wide|toàn cảnh|viễn cảnh', dong): return 'RỘNG'
     if re.search(r'medium-wide|trung[- ]rộng', dong): return 'trung-rộng'
     if re.search(r'close-up|cận', dong): return 'cận'
@@ -100,6 +102,12 @@ def nguoi_noi(t):
     return {m.group(1).strip() for m in re.finditer(
         r'^\s*([A-Z][A-Z0-9 .\'’-]{0,40}?)(?:\s*\([^\n)]*\))?\s*:', t, re.M)
         if m.group(1).strip() not in bo}
+
+
+# MỘT DÒNG THOẠI = tên viết hoa đứng đầu dòng rồi dấu hai chấm. Dùng để TÁCH
+# lời nhân vật khỏi phần mô tả khung ([NHỊP], `goc`, prompt video) — hai thứ đó
+# nói hai chuyện khác nhau và không được trộn khi hỏi "khung này có gì".
+RE_DONG_THOAI = re.compile(r"^[ \t]*[A-Z][A-Z0-9 .'\u2019-]{0,40}(?:\s*\([^\n)]*\))?\s*:.*$", re.M)
 
 
 def co_trong_goc(ten, goc):
@@ -190,9 +198,15 @@ def la_ban_sao_os(x):
     return 'BẢN SAO O.S' in ((x.get('notes') or '') + (x.get('label') or ''))
 
 
+def la_master(f):
+    """SF này có phải Master của một CỤM KHÔNG GIAN không (skill bước 1)?"""
+    i = f['id']
+    return 'MASTER' in i or (i.startswith('SF-M-') and f['refs'].get('bg'))
+
+
 def master(sf):
     f = ALL.get(sf)
-    while f and not ((f.get('luatchung') or '').strip() or f['id'].startswith('SF-M-')):
+    while f and not (f['id'].startswith('REF_BG_') or f['id'].startswith('SF-M-') or 'MASTER' in f['id']):
         b = f['refs'].get('bg')
         if not b: return None
         f = ALL.get(b)
@@ -207,8 +221,7 @@ def master(sf):
 # không cưỡng chế được, chỉ script mới cưỡng chế được.
 NHAN_CAM = ('angry', 'shouting', 'harsh', 'furious', 'sharp', 'cutting',
             'cold', 'icy', 'stern', 'snapping', 'menacing')
-# 6 khối bắt buộc của một prompt SF
-KHOI_SF = ('MÁY QUAY', 'AI VÀ ĐANG LÀM GÌ', 'TAY', 'HƯỚNG NHÌN', 'BIỂU CẢM', 'ĐÓNG BĂNG')
+# (Đã bỏ quy tắc 6 khối bắt buộc vì chuyển sang viết văn phong cinematic mạch lạc)
 # Dấu hiệu CÓ TRẺ EM TRONG KHUNG — quyết định mức nặng của lỗi nhãn cảm xúc.
 #
 # HAI BẪY đã mắc khi viết phép kiểm này (2026-08-07), đừng lặp lại:
@@ -262,18 +275,18 @@ def nhan_cam_xuc(p):
 RE_TOI = re.compile(r'CHẬP\s*TỐI|RẠNG\s*SÁNG|BAN\s*ĐÊM|\bĐÊM\b|\bKHUYA\b', re.I)
 RE_SANG = re.compile(r'BAN\s*NGÀY|CHIỀU|\bTRƯA\b|\bSÁNG\b', re.I)
 # Hậu tố id là tín hiệu chắc nhất (thẻ đặt tên `REF_<NƠI>_<GIỜ>`), rồi tới nhãn,
-# cuối cùng mới tới khối ÁNH SÁNG. Đừng quét cả `luatchung`: chữ 'đêm' nằm rải
+# cuối cùng mới tới khối ÁNH SÁNG. Đừng quét toàn bộ prompt: chữ 'đêm' nằm rải
 # trong phần tả đạo cụ và thoại, quét mù là thẻ ban ngày cũng ra 'tối'.
 GIO_HAU_TO = {'DEM': 'tối', 'CHAPTOI': 'tối', 'KHUYA': 'tối', 'RANGSANG': 'tối',
               'NGAY': 'sáng', 'SANG': 'sáng', 'TRUA': 'sáng', 'CHIEU': 'sáng'}
 
 
 def the_dia_diem(sf_id):
-    """Leo `refs.bg` tới thẻ mang `luatchung`. Dừng ở nút cuối nếu không có."""
+    """Leo `refs.bg` tới thẻ gốc (Location Card). Dừng ở nút cuối nếu không có."""
     f, seen = ALL.get(sf_id), set()
     while f and f['id'] not in seen:
         seen.add(f['id'])
-        if (f.get('luatchung') or '').strip():
+        if f['id'].startswith('REF_BG_'):
             return f
         b = f['refs'].get('bg')
         if not b or b not in ALL:
@@ -289,7 +302,7 @@ def gio_cua_the(f):
     hau = f['id'].rsplit('_', 1)[-1].upper()
     if hau in GIO_HAU_TO:
         return GIO_HAU_TO[hau]
-    for s in (f.get('label') or '', re.search(r'ÁNH SÁNG:[^\n]*', f.get('luatchung') or '')):
+    for s in (f.get('label') or '', re.search(r'ÁNH SÁNG:[^\n]*', f.get('prompt') or '')):
         s = s.group(0) if hasattr(s, 'group') else s
         if not s:
             continue
@@ -298,16 +311,11 @@ def gio_cua_the(f):
     return None
 
 
-# KHÔNG kiểm 'hướng thứ N' (user chốt 2026-08-07). Quy ước đánh số vị trí máy
-# chỉ là ghi chú cho người viết, không phải luật — hai shot trùng số vẫn có thể
-# khác cỡ cảnh và khác chủ thể nét, tức vẫn đủ lệch. Máy đọc con số đó rồi phán
-# "trùng góc" là suy diễn quá xa khỏi thứ nó thật sự đo được.
-
-
 LOI = collections.Counter()
 C = collections.Counter()
 CANH_BAO = []          # lỗi mức nhắc, không tính vào mã thoát
 CANH_BAO_HANH_DONG = [] # nhắc khi thoại có chứa mệnh lệnh thay đổi trạng thái
+NHAC_PROP = []         # thoại nhắc tên đạo cụ — người đọc tự quyết có trong khung không
 CHUA_ANH = []          # SF chưa có ảnh — TIẾN ĐỘ, không phải lỗi
 DAI = []               # prompt vượt mục tiêu ~1.000 nhưng chưa tới mức hỏng
 BANG = []              # scene đang ở giai đoạn BẢNG SHOT (chưa sinh SF)
@@ -326,6 +334,57 @@ if _bo_that:
           f"  → thêm --bo \"\" để kiểm cả những scene này\n")
 
 for sc in scs:
+    # ---- MẬT ĐỘ MAIN CAST TRONG KHUNG ----------------------------------------
+    # Scene có 3 người mà đa số khung chỉ có 2 thì khán giả mất dấu người thứ ba
+    # giữa một cuộc đối chất. Đo trên S1 ngày 2026-08-21: 3 người 14% · 2 người 73%
+    # — đúng ngược định mức, và sinh ra từ việc đọc luật 'chia để trị' thành 'xoá
+    # người khỏi khung'.
+    #
+    # BẢN SAO O.S KHÔNG TÍNH VÀO CAST: clip quay lại người nói câu vọng/điện thoại
+    # cố tình đứng MỘT MÌNH ở không gian khác (skill bước 1, 'Xử lý Thoại O.S').
+    # Tính họ vào cast là biến cảnh điện thoại 2 người thành cảnh 3 người, rồi đòi
+    # 60% khung phải có đủ ba — một yêu cầu KHÔNG THỂ đạt, và cách duy nhất để
+    # 'đạt' nó là nhồi người vào khung cho vừa con số. Đã báo oan đúng kiểu đó với
+    # S4 ngày 2026-08-22 (Maya · Owen ở vỉa hè + dược sĩ ở quầy thuốc).
+    #
+    # ĐO THEO CỤM KHÔNG GIAN, KHÔNG ĐO CẢ SCENE (sửa 2026-08-22). Bản cũ gộp cả
+    # scene rồi đòi 60% khung phải có ĐỦ mặt mọi người từng xuất hiện trong đó.
+    # Cảnh có người BƯỚC VÀO GIỮA CHỪNG là báo oan không cách nào chữa: S7 có
+    # Ellis vào ở shot thứ chín, nên tám khung đầu KHÔNG THỂ có anh ta — và cách
+    # duy nhất để 'đạt' con số là nhét anh ta vào phòng trước khi kịch bản cho
+    # anh ta vào, đúng cái bẫy đã ghi ở đoạn bản sao O.S ngay trên.
+    # Skill bước 1 chia scene thành CỤM KHÔNG GIAN, mỗi cụm một Master SF và một
+    # thế trận riêng — cast đếm được là cast CỦA MỘT CỤM, không phải của scene.
+    # Ranh giới cụm: mỗi Master SF mở một cụm mới (sfs vốn đã bắt buộc xếp theo
+    # thứ tự thời gian, có phép kiểm riêng ở dưới).
+    _sf_ban_sao = {x['sf'] for x in sc['shots'] if la_ban_sao_os(x)}
+    _cum, _dang = [], []
+    for f in sc['sfs']:
+        if la_master(f) and _dang:
+            _cum.append(_dang)
+            _dang = []
+        _dang.append(f)
+    if _dang:
+        _cum.append(_dang)
+    for _nhom in _cum:
+        khung = [f for f in _nhom if f['id'] not in _sf_ban_sao
+                 and isinstance((f.get('pose') or {}).get('who'), dict)]
+        cast = set()
+        for f in khung:
+            cast |= set(f['pose']['who'])
+        if len(cast) < 3:
+            continue
+        ten_cum = next((f['id'] for f in _nhom if la_master(f)), _nhom[0]['id'])
+        du   = sum(1 for f in khung if len(f['pose']['who']) >= len(cast))
+        hai  = sum(1 for f in khung if len(f['pose']['who']) == 2)
+        t = len(khung) or 1
+        if du / t < 0.60:
+            print(f"  ✗ {sc['id']} · cụm {ten_cum}: chỉ {du}/{t} SF ({du/t:.0%}) có đủ {len(cast)} main cast — đích ≥60%")
+            LOI['thiếu-khung-đủ-cast'] += 1
+        if hai / t > 0.20:
+            print(f"  ✗ {sc['id']} · cụm {ten_cum}: {hai}/{t} SF ({hai/t:.0%}) chỉ có 2 người — trần 20%")
+            LOI['quá-nhiều-khung-2-người'] += 1
+
     bad = []
     sh = sc['shots']
     load = collections.Counter(x['sf'] for x in sh)
@@ -333,24 +392,34 @@ for sc in scs:
     for f in sc['sfs']:
         i = f['id']
         # THẺ ĐỊA ĐIỂM được miễn các phép kiểm dưới: nó không có `refs.bg` (nó
-        # LÀ gốc).
-        # Dấu hiệu là CÓ `luatchung`; tiền tố `SF-M-` là quy ước cũ, vẫn nhận.
-        _luatchung = (f.get('luatchung') or '').strip()
-        if _luatchung or i.startswith('SF-M-'):
-            # Cập nhật trần ký tự theo quy định mới: Thẻ địa điểm (1.400), LUẬT CHUNG (2.500)
+        # LÀ gốc). Dấu hiệu là tiền tố `REF_BG_` hoặc `SF-M-` (quy ước cũ).
+        if i.startswith('REF_BG_') or (i.startswith('SF-M-') and not f['refs'].get('bg')):
+            # Cập nhật trần ký tự theo quy định mới: Thẻ địa điểm (1.400)
             _pr = f.get('prompt') or ''
             if len(_pr) > 1400:
                 bad.append(('thẻ-địa-điểm-quá-dài', f"{i}: {len(_pr)} ký tự (trần 1.400)"))
-            if len(_luatchung) > 2500:
-                bad.append(('luật-chung-quá-dài', f"{i}: {len(_luatchung)} ký tự (trần 2.500)"))
             continue
         if f['refs'].get('bg') not in ALL:
             bad.append(('bg-hỏng', f"{i}: bg={f['refs'].get('bg')!r}"))
+
+        # MỤC ĐÍCH: Kiểm tra SF con phải cùng cụm không gian với Master SF mà nó trỏ tới (zone của SF con phải khớp với zone của Master SF).
+        _m = master(i)
+        if _m and _m != i and _m in ALL and isinstance(f.get('pose'), dict):
+            _zc = re.split(r'→', f['pose'].get('zone') or '')[0].strip().lower()
+            _pm = ALL[_m].get('pose')
+            _zm = re.split(r'→', (_pm or {}).get('zone') or '')[0].strip().lower() \
+                if isinstance(_pm, dict) else ''
+            if _zc and _zm and not (set(_zc.split()) <= set(_zm.split())
+                                    or set(_zm.split()) <= set(_zc.split())):
+                bad.append(('SF-trỏ-sai-cụm',
+                            f"{i}: zone {_zc!r} nhưng master {_m} ở cụm {_zm!r}"))
         for c in f['refs']['chars']:
             if c not in ALL:
                 bad.append(('ref-chết', f"{i}: {c}"))
-        if len(f['refs']['chars']) > 8:
-            bad.append(('quá-4-nhân-vật', f"{i}: {len(f['refs']['chars'])} ảnh ref"))
+        # MỤC ĐÍCH: Đếm số thẻ ref nhân vật (bỏ qua thẻ Master SF neo bối cảnh phụ trong khung gối đầu).
+        ref_nhan_vat = [c for c in f['refs']['chars'] if not ('MASTER' in c or c.startswith('SF-'))]
+        if len(ref_nhan_vat) > 8:
+            bad.append(('quá-4-nhân-vật', f"{i}: {len(ref_nhan_vat)} ảnh ref nhân vật"))
         if not f.get('pose'):
             bad.append(('thiếu-pose', i))
         bad += loi_goc(i, goc_cua(i))
@@ -362,27 +431,18 @@ for sc in scs:
         if i not in load and i not in LA_NEO:
             bad.append(('SF-mồ-côi', i))
         pr = f.get('prompt') or ''
-        # Trần ký tự: SF con < 1.000 ký tự (theo quy định mới). 
-        # Master đã `continue` ở trên nên không tới đây.
-        if len(pr) > 1000:
-            bad.append(('SF-quá-dài', f"{i}: {len(pr)} ký tự (trần 1.000)"))
-        thieu = [k for k in KHOI_SF if k + ':' not in pr]
-        if thieu:
-            bad.append(('SF-thiếu-khối', f"{i}: {', '.join(thieu)}"))
+        # Trần ký tự: SF con < 1.000 ký tự, Master SF < 1.400 ký tự.
+        is_master = 'MASTER' in i or (i.startswith('SF-M-') and f['refs'].get('bg'))
+        limit = 1400 if is_master else 1000
+        if len(pr) > limit:
+            DAI.append(f"{i}: {len(pr)} (trần {limit})")
+        # (Đã bỏ khối kiểm tra thiếu tiêu đề để viết tự nhiên hơn)
         # Trần "dưới 10 chữ KHÔNG": câu cấm nhiều quá thì model đọc thành nhiễu
         # và bắt đầu bỏ qua cả những câu cấm thật sự quan trọng.
         nk = len(re.findall(r'KHÔNG', pr))
         if nk >= 10:
             bad.append(('quá-10-chữ-KHÔNG', f"{i}: {nk} chữ KHÔNG"))
-        # MÁY QUAY VIẾT BẰNG SỐ: tiêu cự + độ cao + khoảng cách. Thiếu số thì
-        # model tự chọn, và mỗi SF trong cùng cụm ra một cỡ cảnh khác nhau.
-        mq = re.search(r'MÁY QUAY:(.*?)(?:\n\n|AI VÀ)', pr, re.S)
-        mq = mq.group(1) if mq else ''
-        thieu_so = [t for t, rx in (('mm', r'\d+\s*mm'), ('độ cao', r'cao\s*\d'),
-                                    ('khoảng cách', r'cách\s'))
-                    if not re.search(rx, mq)]
-        if mq and thieu_so:
-            bad.append(('máy-quay-thiếu-số', f"{i}: thiếu {', '.join(thieu_so)}"))
+        # (Đã bỏ kiểm tra thông số máy quay cứng ngắc vì văn phong cinematic dùng mô tả tương đối như "ngang tầm mắt")
 
         # NGƯỜI CÒN TRONG PHÒNG MÀ VẮNG `goc` → model dựng căn phòng KHÔNG CÓ họ.
         # `người-nói-vắng-khung` không bắt được ca này: nó chỉ soi người CÓ THOẠI,
@@ -406,12 +466,9 @@ for sc in scs:
         elif _pose:
             POSE_CHUOI.append(i)
             
-        # DƯ NGƯỜI TRONG PROMPT: Tên nhân vật nhắc trong thân prompt phải có trong `goc` hoặc `pose.who`
-        # Trừ khối THAM CHIẾU — Lệnh Cắt Tham Chiếu gọi tên người bị gạt CHÍNH VÌ
-        # họ không có trong khung, nên quét cả khối đó thì mọi SF đều báo dư người.
+        # DƯ NGƯỜI TRONG PROMPT: Tên nhân vật nhắc trong prompt phải có trong `goc` hoặc `pose.who`
         if pr and isinstance(_who, dict):
-            than_pr = re.split(r'\n\s*THAM CHIẾU:', pr)[0]
-            nguoi_trong_pr = [t for t in TEN_NV if re.search(r'\b' + re.escape(t) + r'\b', than_pr, re.I)]
+            nguoi_trong_pr = [t for t in TEN_NV if re.search(r'\b' + re.escape(t) + r'\b', pr, re.I)]
             du_nguoi = [t for t in nguoi_trong_pr if t not in _who and not co_trong_goc(t, goc_cua(i))]
             if du_nguoi:
                 bad.append(('dư-người-trong-prompt', f"{i}: {', '.join(du_nguoi)} có trong prompt nhưng không có trong pose/goc"))
@@ -423,7 +480,7 @@ for sc in scs:
     # giây · kiểu dur · luật 1:1. Nhận ra giai đoạn này thì bỏ SF-chết và chạy
     # tiếp phần không cần SF.
     _sf_that = {f['id'] for f in sc['sfs']
-                if not ((f.get('luatchung') or '').strip() or f['id'].startswith('SF-M-'))}
+                if not (f['id'].startswith('REF_BG_') or f['id'].startswith('SF-M-') or 'MASTER' in f['id'])}
     giai_doan_bang = not _sf_that and len(sh) > 1
     if giai_doan_bang:
         BANG.append(f"{sc['id']} ({len(sh)} shot)")
@@ -431,7 +488,20 @@ for sc in scs:
     so_nguoi_phat_ngon = len({n for x in sh for n in nguoi_noi(x.get('text') or '')})
     noi_truc_tiep = so_nguoi_phat_ngon >= 2
     co_ots = False
-    is_scene_phone = any(re.search(r'ống\s*nghe|điện\s*thoại|đầu\s*dây|phone', x.get('prompt') or '', re.I) for x in sh)
+    # CẢNH ĐIỆN THOẠI: đọc từ `goc` + prompt SF, KHÔNG chỉ prompt video.
+    # Hai phép kiểm dựa vào cờ này (thiếu-OTS · khung-1-người) chạy ngay từ bước 3,
+    # còn prompt video mãi bước 4 mới có — nên bản cũ LUÔN ra False đúng lúc cần
+    # nó nhất. S8 và S12 là hai cảnh điện thoại hai đầu dây, mỗi đầu một mình,
+    # không dựng OTS được; chính ghi chú trong shot của S8 đã ghi là phép kiểm
+    # phải tự tắt, mà nó không tắt. `goc` có từ bước 1, sớm nhất trong ba nguồn.
+    # ĐẾM TỶ LỆ chứ không dùng any(): một shot lẻ có người nhấc máy (S9 gọi kiểm
+    # tra người tham chiếu) KHÔNG được phép tắt phép kiểm OTS của cả cảnh
+    # mặt-đối-mặt.
+    def _co_dien_thoai(x):
+        nguon = ((x.get('goc') or '') + '\n' + (x.get('prompt') or '') + '\n'
+                 + ((ALL.get(x['sf']) or {}).get('prompt') or ''))
+        return bool(re.search(r'ống\s*nghe|điện\s*thoại|đầu\s*dây|phone', nguon, re.I))
+    is_scene_phone = bool(sh) and sum(map(_co_dien_thoai, sh)) / len(sh) >= 0.5
 
     for k, x in enumerate(sh):
         co_sf = x['sf'] in ALL
@@ -478,12 +548,31 @@ for sc in scs:
             if noi_truc_tiep and len(_sf_speakers) > 0 and not is_offscreen and _who and len(_who) == 1 and not is_scene_phone and not la_ban_sao_os(x):
                 bad.append(('khung-1-người-sai-luật', f"{x['id']}: thoại trực tiếp nhưng pose.who chỉ có 1 người"))
                 
-        # Thiếu REF_PROP
+        # THIẾU REF_PROP — hỏi "đạo cụ có TRONG KHUNG không", chứ không phải "có
+        # ai NHẮC TỚI nó không". Bản cũ quét cả dòng thoại nên báo oan kiểu không
+        # thể chữa: Maya kể cái thùng máy giặt còn nằm lại trong cửa hàng
+        # (V-S8-09) trong lúc cô đứng ở cầu thang bộ, và kể cho con nghe về "a
+        # polite one. With a pen." (V-S6-06) ở bàn bếp. Đính REF_PROP cho hai
+        # khung ấy là bắt model dựng cái thùng vào cầu thang — cách duy nhất để
+        # "hết lỗi" lại chính là cách làm hỏng đúng cái ảnh.
+        # Chỉ phần MÔ TẢ KHUNG mới tính là lỗi; nhắc trong thoại hạ xuống mức
+        # nhắc và in riêng ở cuối, để tín hiệu không mất chứ không thành lỗi.
+        _mo_ta = (RE_DONG_THOAI.sub('', x.get('text') or '') + '\n'
+                  + (x.get('goc') or '') + '\n' + pv)
+        _thoai = RE_DONG_THOAI.findall(x.get('text') or '')
         for prop_name in TEN_PROP:
-            if re.search(r'\b' + re.escape(prop_name) + r'\b', (x.get('text') or '') + '\n' + pv, re.I):
-                if co_sf and not any(c.startswith('REF_PROP_') and prop_name in c[9:].lower().replace('_', ' ') for c in ALL[x['sf']]['refs']['chars']):
-                    bad.append(('thiếu-REF-PROP', f"{x['id']}: nhắc tới '{prop_name}' nhưng không đính ảnh REF_PROP"))
-
+            _re_prop = re.compile(r'\b' + re.escape(prop_name) + r'\b', re.I)
+            if co_sf and any(c.startswith('REF_PROP_')
+                             and prop_name in c[9:].lower().replace('_', ' ')
+                             for c in ALL[x['sf']]['refs']['chars']):
+                continue
+            if _re_prop.search(_mo_ta):
+                if co_sf:
+                    bad.append(('thiếu-REF-PROP',
+                                f"{x['id']}: khung có '{prop_name}' nhưng không đính ảnh REF_PROP"))
+            elif any(_re_prop.search(t) for t in _thoai):
+                NHAC_PROP.append(f"{sc['id']:5} {x['id']:11} thoại nhắc '{prop_name}'"
+                                 f" — chỉ đính REF_PROP nếu khung thật sự thấy món đó")
         if not pv:
             continue          # chưa viết prompt video — các phép dưới chưa áp được
         # Bước 5 CẤM viết tên file vào prompt video (Grok không hiểu chuỗi đó) —
@@ -500,8 +589,8 @@ for sc in scs:
             bad.append(('prompt-quá-dài', f"{x['id']}: {len(pv)} ký tự (trần 1.400)"))
         if '[NHỊP' in x['text'] and not (x.get('music') or {}).get('a'):
             bad.append(('nhịp-thiếu-nhạc', x['id']))
-        if '[NHỊP' not in x['text'] and co_sf and cc(ALL[x['sf']]['prompt']) == 'RỘNG':
-            bad.append(('thoại-trên-khung-rộng', x['id']))
+        # MỤC ĐÍCH: Cho phép góc rộng mở rộng đến 20-25% và dùng thoại khi hợp lý (thiết lập bối cảnh nhóm/di chuyển).
+        # Không bắt lỗi thoại-trên-khung-rộng cứng để tăng tính linh hoạt cho góc rộng.
         # CẢNH BÁO: Hành động thay đổi trạng thái trong thoại
         # Nếu thoại chứa các cụm lệnh kinh điển, phải nhắc người duyệt kiểm tra SF
         RE_HANH_DONG = re.compile(r'\b(?:open up|open the door|sit|sit down|stand up|let me in|give it to me)\b', re.I)
@@ -523,26 +612,103 @@ for sc in scs:
     if noi_truc_tiep and len(sh) >= 3 and not co_ots and not is_scene_phone:
         bad.append(('thiếu-OTS', f"{sc['id']}: cụm thoại trực tiếp >=3 shot nhưng không có khung OTS nào"))
 
-    # LUẬT 1:1 (user chốt 2026-08-06): mỗi SF gánh ĐÚNG MỘT shot.
+    # MỤC ĐÍCH: Cho phép tái sử dụng SF khoảng 20-25% toàn dự án (scene thoại đảo góc có thể đạt 30-50%).
+    # Cảnh báo nếu một SF bị lạm dụng gánh quá 5 shot hoặc tỷ lệ tái sử dụng vượt ngưỡng 50% trong scene.
+    so_shot_dung_lai = sum(v - 1 for v in load.values() if v > 1)
+    ty_le_reuse = (so_shot_dung_lai / max(len(sh), 1)) * 100
+    if ty_le_reuse > 50.0:
+        bad.append(('tái-sử-dụng-SF-quá-nhiều', f"{sc['id']}: dùng lại SF {ty_le_reuse:.1f}% shot (trần 50% cho scene)"))
     for k, v in load.items():
-        if v > 1:
-            bad.append(('SF-gánh-2-shot', f"{k}: {v} shot — 1 shot = 1 SF"))
+        if v > 5:
+            bad.append(('SF-gánh-nhiều-shot', f"{k}: gánh {v} shot (nên <= 5 shot)"))
+
+    # KIỂM TRA THỨ TỰ THỜI GIAN CỦA SF (Chronological order)
+    # Mục đích: Đảm bảo các SF trong mảng sfs được sắp xếp đúng theo thứ tự thời gian xuất hiện của chúng trong video.
+    # Phát hiện lỗi gom các Master SF lên đầu mảng nếu thực tế chúng xuất hiện ở giữa hoặc cuối cảnh.
+    first_shot_idx = {}
+    for idx, x in enumerate(sh):
+        if x['sf'] not in first_shot_idx:
+            first_shot_idx[x['sf']] = idx
+            
+    sfs_in_order = [f['id'] for f in sc['sfs'] if f['id'] in first_shot_idx]
+    
+    for k in range(len(sfs_in_order) - 1):
+        if first_shot_idx[sfs_in_order[k]] > first_shot_idx[sfs_in_order[k+1]]:
+            sf1 = sfs_in_order[k]
+            sf2 = sfs_in_order[k+1]
+            if 'MASTER' in sf1 or (sf1.startswith('SF-M-') and ALL.get(sf1, {}).get('refs', {}).get('bg')):
+                bad.append(('SF-Master-sai-thứ-tự', f"{sf1} đứng trước {sf2} nhưng xuất hiện sau trong mạch shot"))
+            else:
+                bad.append(('SF-sai-thứ-tự-thời-gian', f"{sf1} đứng trước {sf2} nhưng xuất hiện sau trong mạch shot"))
 
     nsf += len(load); nshot += len(sh); giay += sum(x['dur'] for x in sh)
     for t, _ in bad:
         LOI[t] += 1
-    print(f"{'✓' if not bad else '✗'} {sc['id']:5}{len(load):3} SF {len(sh):3} shot"
-          f"{'' if len(load) == len(sh) else f'  ⚠ 1:1 lệch ({len(load)} SF / {len(sh)} shot)'}")
+    # MỤC ĐÍCH: Hiển thị thống kê số lượng SF, shot và tỷ lệ tái sử dụng SF trong cảnh.
+    rate_str = f" [Dùng lại SF: {so_shot_dung_lai}/{len(sh)} ({ty_le_reuse:.0f}%)]" if so_shot_dung_lai > 0 else ""
+    print(f"{'✓' if not bad else '✗'} {sc['id']:5}{len(load):3} SF {len(sh):3} shot{rate_str}")
     for t, m in bad:
         print(f"      ✗ {t:22} {m}")
+
+# ---- NHÃN HIỆU: bề mặt mang chữ phải được khoá là hư cấu ------------------
+RE_HANGHOA = re.compile(
+    r'thùng carton|thùng hàng|thùng rác|xe đẩy hàng|tủ điện|bình chữa cháy|máy giặt|máy sấy|tủ lạnh|tivi|màn hình|lò vi sóng'
+    r'|lò nướng|máy hút bụi|máy pha cà phê|hộp thuốc|máy tính|laptop|điện thoại'
+    r'|xe hơi|sedan|bao bì|vỏ hộp', re.I)
+RE_KHOA_NHAN = re.compile(r'hư cấu|làm mờ|không.{0,25}thương hiệu có thật', re.I)
+RE_BRAND = re.compile(
+    r'\b(samsung|lg|sony|panasonic|toshiba|whirlpool|maytag|kenmore|frigidaire'
+    r'|bosch|lenovo|dell|apple|iphone|macbook|nike|adidas|coca[- ]?cola|pepsi'
+    r'|toyota|honda|ford|chevrolet|bmw|mercedes)\b', re.I)
+
+# MỤC ĐÍCH: Đảm bảo các khung hình ngoại cảnh có lòng đường/ngã tư bắt buộc phải khai báo xe cộ di chuyển hoặc đỗ lề đường, tránh biến mặt đường thành phố đi bộ hoang vắng.
+RE_CO_DUONG = re.compile(r'lòng đường|mặt đường|ngã tư|làn xe|bãi đỗ', re.I)
+RE_CO_XE = re.compile(
+    r'(ô tô|xe hơi|sedan|xe tải|xe bán tải|taxi|xe buýt|xe máy|xe đạp)[^.\n]{0,40}?'
+    r'(chạy|di chuyển|lăn bánh|đỗ|dừng|nối đuôi)'
+    r'|(đỗ|dừng)[^.\n]{0,20}?(sát lề|ven đường|dọc lề)', re.I)
+
+print('\n── TỪ KHOÁ NHÃN HIỆU & THƯƠNG HIỆU CÓ THẬT ──')
+loi_nhan = 0
+for i, f in ALL.items():
+    pr = f.get('prompt') or ''
+    if not pr: continue
+    m = RE_BRAND.search(pr)
+    if m:
+        print(f"  ✗ {i:28} Cảnh báo có thương hiệu thật '{m.group(0)}' lọt vào prompt")
+        loi_nhan += 1
+        LOI['thương-hiệu-có-thật'] += 1
+    elif RE_HANGHOA.search(pr) and not RE_KHOA_NHAN.search(pr):
+        print(f"  ✗ {i:28} Có hàng hoá/thiết bị nhưng chưa khoá nhãn hư cấu")
+        loi_nhan += 1
+        LOI['nhãn-chưa-khoá'] += 1
+    if RE_CO_DUONG.search(pr) and not RE_CO_XE.search(pr):
+        print(f"  ✗ {i:28} Có lòng đường/mặt đường nhưng chưa khai báo xe cộ đỗ/chạy")
+        loi_nhan += 1
+        LOI['ngoại-cảnh-phố-vắng-xe'] += 1
+if not loi_nhan:
+    print('  ✓ không có')
 
 # mối nối + đổi không gian
 print('\n── ĐỔI KHÔNG GIAN KHÔNG CÓ NHỊP LẶNG ──')
 allsh = [(s['id'], x) for s in d['scenes'] if s.get('shots') for x in s['shots']]
-hong = 0
+hong = loi_nhan
 for (sa, x), (sb, y) in zip(allsh, allsh[1:]):
     ma, mb = master(x['sf']), master(y['sf'])
     if ma == mb or ma is None or mb is None:
+        continue
+    # ĐỔI MASTER KHÔNG PHẢI LÀ ĐỔI KHÔNG GIAN. Skill bước 1 bắt mở Master SF mới
+    # mỗi khi THẾ TRẬN đổi — người thứ ba bước vào, cả nhóm xoay 180 độ — kể cả
+    # khi không ai rời khỏi chỗ cũ. Bản cũ so mã Master nên coi mọi lần đổi thế
+    # trận là đổi cảnh và đòi chèn nhịp lặng vào giữa: S13 (ông cụ đứng vào hàng
+    # ngay sau lưng Maya) và S14 (bà Holt bước ra sau vai con gái) đều bị đòi,
+    # mà chèn nhịp ở đó là cắt ngang đúng nhịp căng nhất của cảnh.
+    # Phép kiểm này tên là ĐỔI KHÔNG GIAN thì phải hỏi đúng câu đó: hai Master
+    # có leo về cùng một THẺ ĐỊA ĐIỂM không. Cú nhảy vị trí trong cùng một phòng
+    # đã có `kiem-noi-shot.py` gác bằng bốn trục zone/who/dist/hands, chính xác
+    # hơn nhiều — không cần gác hai lần bằng một phép kiểm thô hơn.
+    _na, _nb = the_dia_diem(x['sf']), the_dia_diem(y['sf'])
+    if _na is not None and _na is _nb:
         continue
     if '[NHỊP' in x['text'] or '[NHỊP' in y['text']:
         continue
@@ -636,10 +802,20 @@ if not a.scene:
 # có 1-2 SF nên tỷ lệ ra 100% cho một loại — con số đúng về số học nhưng đọc ra
 # thì sai hẳn, và một dòng thống kê đánh lừa cũng tệ như một lỗi báo oan.
 t = sum(C.values()) or 1
-print(f"\n{nsf} SF · {nshot} shot · {giay // 60}:{giay % 60:02d} · shot/SF {nshot / max(nsf,1):.2f} (luật 1:1 → phải là 1.00)")
+# MỤC ĐÍCH: Thống kê tổng quan số SF, shot, thời lượng và tỷ lệ tái sử dụng SF toàn bộ kịch bản.
+n_reuse_all = nshot - nsf
+reuse_pct_all = (n_reuse_all / max(nshot, 1)) * 100
+print(f"\n{nsf} SF · {nshot} shot · {giay // 60}:{giay % 60:02d} · Tái sử dụng SF: {n_reuse_all}/{nshot} shot ({reuse_pct_all:.1f}%, đích ~20-25%)")
+
+# MỤC ĐÍCH: Phát hiện và cảnh báo khi dự án có nhiều shot nhưng chưa áp dụng tái sử dụng SF cho các shot đảo góc đối thoại.
+CANH_BAO_REUSE = []
+if nshot >= 10 and reuse_pct_all < 5.0:
+    CANH_BAO_REUSE.append(f"Tỷ lệ tái sử dụng SF mới đạt {reuse_pct_all:.1f}% ({n_reuse_all}/{nshot} shot) — chưa dùng lại SF cũ cho các shot đối thoại lặp góc (đích ~20-25%).")
+
+# MỤC ĐÍCH: Thống kê tỷ lệ cỡ cảnh (rộng ~20-25%, đặc tả rất hạn chế ~2%).
 if sum(C.values()) >= nshot * 0.8:
-    print(f"cận {C['cận']/t:.0%} · trung {C['trung']/t:.0%} · trung-rộng {C['trung-rộng']/t:.0%} · rộng {C['RỘNG']/t:.0%}"
-          f" → cận+trung {(C['cận']+C['trung'])/t:.0%} (đích 75-80%)")
+    print(f"cận {C['cận']/t:.0%} · trung {C['trung']/t:.0%} · trung-rộng {C['trung-rộng']/t:.0%} · rộng {C['RỘNG']/t:.0%} · đặc-tả {C['đặc-tả']/t:.0%}"
+          f" → rộng {C['RỘNG']/t:.0%} (đích ~20-25%) · đặc-tả {C['đặc-tả']/t:.0%} (đích ~2%)")
 else:
     print(f"(chưa tính tỷ lệ cỡ cảnh — mới {sum(C.values())}/{nshot} shot có SF)")
 nhip = sum(1 for _, x in allsh if '[NHỊP' in x['text'])
@@ -647,7 +823,7 @@ print(f"nhịp không thoại {nhip}/{len(allsh)-nhip} shot thoại = {nhip/max(
 
 if BANG:
     print(f"\n── ĐANG Ở GIAI ĐOẠN BẢNG SHOT ({len(BANG)}) ──")
-    print("   Chưa sinh SF nên chỉ kiểm được: giây · kiểu dur · 1 shot = 1 SF.")
+    print("   Chưa sinh SF nên chỉ kiểm được: giây · kiểu dur · cấu trúc bảng shot.")
     print("   Sửa bảng cho sạch RỒI mới sinh prompt — sửa ô rẻ hơn sửa 17 đoạn văn.")
     for m in BANG:
         print(f"  · {m}")
@@ -677,6 +853,12 @@ if KHONG_RO_GIO or THIEU_DUNG:
         print(f"   · {len(THIEU_DUNG)} thẻ `_FULL` thiếu dòng `Dùng: S4 · S5 · …` trong `desc`")
         print(f"     {', '.join(THIEU_DUNG)}")
 
+if CANH_BAO_REUSE:
+    print(f"\n── CẢNH BÁO: CHƯA TÁI SỬ DỤNG SF ({len(CANH_BAO_REUSE)}) ──")
+    print("   Quy định: Với các shot đối thoại lặp góc (chuỗi A-B-A-B), trỏ ô `sf` về SF cũ thay vì sinh prompt SF mới trùng lặp.")
+    for m in CANH_BAO_REUSE:
+        print(f"  · {m}")
+
 if CANH_BAO:
     print(f"\n── NHÃN CẢM XÚC GAY GẮT, khung KHÔNG có trẻ em ({len(CANH_BAO)}) ──")
     print("   Không tự sửa: cảnh người lớn đôi khi cần đúng sắc đó. User quyết.")
@@ -687,6 +869,13 @@ if CANH_BAO_HANH_DONG:
     print(f"\n── CẢNH BÁO: THOẠI CÓ LỆNH THAY ĐỔI TRẠNG THÁI ({len(CANH_BAO_HANH_DONG)}) ──")
     print("   Quy tắc Trạng thái chờ: Khi thoại yêu cầu hành động, SF phải ở trạng thái CHƯA LÀM.")
     for m in CANH_BAO_HANH_DONG:
+        print(f"  · {m}")
+
+if NHAC_PROP:
+    print(f"\n── NHẮC: THOẠI GỌI TÊN ĐẠO CỤ ({len(NHAC_PROP)}) ──")
+    print("   Không phải lỗi. Nhắc trong thoại KHÔNG có nghĩa món đó ở trong khung;")
+    print("   chỉ đính REF_PROP khi ảnh SF thật sự phải thấy nó.")
+    for m in NHAC_PROP:
         print(f"  · {m}")
 
 print(f"\n{'✓ SẠCH' if not LOI else '✗ TỔNG ' + str(sum(LOI.values())) + ' lỗi: ' + dict(LOI).__repr__()}")

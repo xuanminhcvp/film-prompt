@@ -108,7 +108,7 @@ Sử dụng cho các shot phim thực tế (S1, S2...). Mọi tham chiếu nhân
       "TEN_NHAN_VAT_A": "Tay trái cầm cốc nước..."
     }
   },
-  "prompt": "MÁY QUAY:...\n\nAI VÀ ĐANG LÀM GÌ:...\n\nTAY:...\n\nHƯỚNG NHÌN:...\n\nBIỂU CẢM:...\n\nĐÓNG BĂNG:...",
+  "prompt": "ẢNH THAM CHIẾU: [Ref], và SF-MASTER...\n\nTạo MỘT ẢNH TĨNH photorealistic 16:9, cinematic medium shot...\n\nCHỦ THỂ: [Mô tả nhân vật, trang phục, tay, mắt, cảm xúc]...\n\nHẬU CẢNH: [Mô tả không gian, quần chúng]...\n\nCHỮ ĐƯỢC PHÉP: ... Tuyệt đối không...",
   "refs": {
     "chars": [
       "REF_TEN_NHAN_VAT_PORTRAIT"

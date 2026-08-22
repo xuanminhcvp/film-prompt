@@ -1,10 +1,7 @@
 # film-prompts — kho viết prompt
 
 Kho này CHỈ còn phần viết prompt cho `sf-board.json`: skill làm phim, luật kiểm
-duyệt, công cụ kiểm luật và dữ liệu phim. Toàn bộ phần chạy máy (board HTTP, job
-lifecycle, executor Grok/ChatGPT, test gate) đã gỡ khỏi thư mục này ngày
-2026-08-18; lịch sử của nó nằm ở repo `xuanminhcvp/grokpipe` trên GitHub và ở
-`~/Desktop/grokpipe-git-cu-2026-08-18/`. Không dựng lại phần đó ở đây.
+duyệt, công cụ kiểm luật và dữ liệu phim.
 
 ## Bố cục
 
@@ -40,7 +37,6 @@ tin là "SẠCH".
 ## Luật cứng
 
 - Luôn trả lời người dùng bằng tiếng Việt.
-- Không tự ý sửa, xoá, thay thế hoặc chọn version khác của ảnh/video đang dùng.
 - Không sửa `SKILL.md` hay file trong `.claude/skills/` nếu user không yêu cầu
   rõ. Không tự sửa skill khi user chê output.
 - Không tự ý sửa `KICH-BAN.md` gốc. Chỉ sửa khi user yêu cầu đích danh, và phải
@@ -52,9 +48,7 @@ tin là "SẠCH".
 
 ## Git
 
-- MỘT repo duy nhất: `xuanminhcvp/film-prompt`, **private**. Hai repo cũ
-  (`grokpipe` public và `grokpipe-private`) đã cắt khỏi thư mục này ngày
-  2026-08-18; kho `.git` của chúng nằm ở `~/Desktop/grokpipe-git-cu-2026-08-18/`.
+- MỘT repo duy nhất: `xuanminhcvp/film-prompt`, **private**.
 - Repo private nên skill, công cụ kiểm và phần chữ của phim đều được track —
   đó chính là thứ cần lưu. `.gitignore` chỉ chặn MEDIA và rác.
 - ⛔ Media trong thư mục này là 190GB. `.gitignore` chặn sạch bên trong

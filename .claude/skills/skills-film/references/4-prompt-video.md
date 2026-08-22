@@ -23,34 +23,34 @@
 Nhận diện:
 - <Tên A> = <mô tả tuổi, sắc tộc, quần áo> 
 - <Tên B> = <mô tả tuổi, sắc tộc, quần áo>
-Trong khung: <Mô tả chính xác ai RÕ MẶT, ai bị MỜ/QUAY LƯNG/CHỈ THẤY VAI GÁY tuỳ theo đúng ảnh SF thực tế>. <nếu chỉ thấy Vai và gáy thì không được quay mặt lại, vì quay mặt lại sẽ bị tạo ra nhân vật khác>. (TUYỆT ĐỐI CẤM chêm thêm các câu thừa thãi như "Ngoài những người đã nêu, không thêm ai khác vào khung" hay "Không ai khác lọt khung").
 
 Một shot liền duy nhất <N> giây, tuyệt đối không chuyển cảnh. Camera <TĨNH / PUSH-IN chậm / PAN nhẹ...>. 
 
-<Mô tả hành động của người nói trước/trong khi thoại>:
+<Mô tả NHIỆM VỤ / MỤC ĐÍCH của nhân vật (Tránh tả hành động cơ học cụ thể. Hãy tả mục đích để AI tự tận dụng vật thể có sẵn trong ảnh)>:
 
 <TÊN NÓI> — <nhãn cảm xúc tiếng Anh, vd: quiet, firm>: "<thoại tiếng Anh nguyên văn>"
 
 <TÊN NGƯỜI NGHE> — silent, <nhãn cảm xúc tiếng Anh, vd: listening intently, frowning>
+
+<QUẦN CHÚNG NỀN> (nếu có) — <mô tả hành động nền nhẹ nhàng, vd: murmuring softly, shifting weight, subtle natural movements> (Bắt buộc phải tả nhẹ để quần chúng không bị đơ cứng như tượng gỗ).
 
 Âm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không âm nền. Không nhạc, không narrator, không phụ đề. MỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.
 
 KẾT CLIP: <CHỈ viết khi shot sau đổi trạng thái>
 ```
 - **Khối `Nhận diện`**: BẮT BUỘC trình bày dạng gạch đầu dòng, mô tả ngắn gọn nhân dạng (tuổi, giới tính, sắc tộc, màu áo).
-- **Khối `Trong khung`**: 
-  - Khung OTS -> BẮT BUỘC viết: *"<B> chỉ thấy VAI VÀ GÁY... TUYỆT ĐỐI KHÔNG quay mặt về camera"* (Không được viết "Cả hai rõ mặt").
-  - Phải mô tả ĐÚNG với ảnh thực tế đã render.
+- **Nhiệm vụ / Mục đích**: Thay vì mô tả hành động tay chân cụ thể (vd: "lấy cốc nước trên bàn rồi uống"), hãy mô tả mục đích/trạng thái (vd: "đang làm việc nhà một cách uể oải", "tìm cách giải tỏa căng thẳng"). Điều này giúp AI tự tận dụng các vật thể ĐÃ CÓ SẴN trong khung hình, tránh tình trạng AI "ảo giác" tự vẽ ra đồ vật lạ lặp đi lặp lại khi prompt ép một hành động cụ thể.
 - **Camera (Start-frame rule)**: TUYỆT ĐỐI không bắt AI vẽ không gian mới. Chỉ dùng Mức A (Tĩnh, Push-in chậm, Rack focus) hoặc Mức B (Pan/Tilt cực nhẹ nếu vùng đó đã hiện diện trong ảnh). CẤM TOÀN BỘ Mức C (Pull-out, Dolly out, Orbit, Crane, Tracking ra ngoài frame, từ khóa 'revealing'). Có thể kết hợp: `0-3s static, 3-8s slow push-in`.
 - **Cảm xúc**: Hành động và tính từ phải nhẹ nhàng/hợp lý (vd: không viết "quát", trẻ em gặp người lớn thì ghi bỡ ngỡ chứ không ghi giật mình sợ hãi). 
 
 ## Khối KẾT CLIP < 7% số shot của phim
 **CẢNH BÁO LẠM DỤNG**: CHỈ `< 7%` số shot của phim thật sự cần khối kết clip.
 
-**1. Định luật Bảo toàn Image-to-Video (TỐI QUAN TRỌNG)**
-Video sinh ra từ MỘT BỨC ẢNH tĩnh duy nhất. Nếu ảnh SF hiện tại KHÔNG CÓ nhân vật A hay đạo cụ X, hay vật thể Y, video không thể đẻ ra cái đó được. 
-- **Cách viết ĐÚNG**: Chỉ viết từ những vốn liếng đang có sẵn trong SF hiện tại, không bịa ra một cái mà SF hiện tại không có.
-- **TUYỆT ĐỐI CẤM**: Lấy trạng thái của shot kế tiếp kéo về bắt shot hiện tại phải vẽ thêm trong khi shot hiện tại không có (Ví dụ: Bắt "A bước vào" trong khi SF hiện tại không hề có hình bóng A ở trong khung).
+**1. Định luật Bảo toàn Image-to-Video & Chọn lại SF (TỐI QUAN TRỌNG)**
+Video sinh ra từ MỘT BỨC ẢNH tĩnh duy nhất (được trỏ bởi ô `"sf"` trong mảng `shots`).
+- **Chọn lại SF khi lặp góc máy**: Khi shot video đảo góc quay lại cùng nhân vật và tư thế cũ, ô `"sf"` của shot đó sẽ trỏ trực tiếp về ID của SF đã sinh trước đó (VD: `"sf": "SF-S1-01"`). Bảng `sfs` tuyệt đối không sinh ra prompt SF trùng lặp.
+- **Cách viết Video Prompt khi chọn lại SF cũ**: Video shot này đọc đúng bức ảnh SF được trỏ tới làm Start Frame gốc. Chỉ viết prompt diễn biến/thoại/hành động dựa trên vốn liếng bối cảnh, vị trí và nhân vật đã có sẵn ở SF đó, không bịa ra thứ mà SF đó không có.
+- **TUYỆT ĐỐI CẤM**: Lấy trạng thái của shot kế tiếp kéo về bắt shot hiện tại phải vẽ thêm trong khi SF được trỏ tới không có (Ví dụ: Bắt "A bước vào" trong khi SF hiện tại không hề có hình bóng A ở trong khung).
 
 **2. Bốn (04) Dạng Hành Động trong khối kết clip Hợp Lệ Nhất (White-list)**
 Cấm tự phát minh hành động. Chỉ được phép dùng 4 dạng sau:
@@ -77,7 +77,6 @@ Cấm tự phát minh hành động. Chỉ được phép dùng 4 dạng sau:
 
 ## Kiểm tra cuối bước
 - [ ] Không có khối nào thừa ngoài form chuẩn. Không tả lại tuổi/quần áo/nhân dạng.
-- [ ] Khối `Trong khung` mô tả đúng thứ ảnh cho thấy.
 - [ ] Khối KẾT CLIP đặt đúng chỗ, dư thời gian diễn.
 - [ ] Người thoại luôn có mặt (ngoại trừ qua điện thoại/loa).
 - [ ] Mọi nhịp không thoại có vai trò rõ ràng, kèm đủ 2 prompt Suno (tại file `5b`).
