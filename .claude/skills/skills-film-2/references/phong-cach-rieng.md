@@ -28,22 +28,25 @@ Chỉ viết khi ô shot có khai `cat` (giây xảy ra cut). Không khai `cat` 
 > 0-<cat>s — <cỡ cảnh>, <ai trong khung>, camera <TĨNH / một cú Mức ○>.
 > <cat>-<N>s — vẫn <bối cảnh nhắc lại bằng 5-8 chữ>; đổi sang <cỡ cảnh mới> trên CÙNG một trục. Trong khung có/CHỈ còn <danh sách người>. <chỉ định chỗ cut theo lời thoại>.
 
-*(Footer, khối Nhận diện, khối thoại giữ y như form một-shot).*
+*Với clip có cat, thay cụm footer "MỘT SHOT LIỀN DUY NHẤT suốt cả video — KHÔNG cắt" bằng: "ĐÚNG HAI ĐOẠN và ĐÚNG MỘT hard cut ở giây <cat> như mô tả trên — tuyệt đối không cắt thêm, không dissolve, không morph." Khối Nhận diện, khối thoại giữ y như form một-shot.*
 
 **Điểm cắt:**
 - 10s → 5/5 (55%) · 6/4 (30%) · 7/3 (15%). 
 - 6s → chỉ 4/2. 
 - *Cấm 3/3 ở clip thoại.*
+- Mốc cắt phải chọn sao cho người nói vế sau chính là người xuất hiện ở nửa sau. Ngoại lệ duy nhất: giọng qua điện thoại/loa — khi đó câu chốt viết "trước khi tiếng X vọng lại qua điện thoại".
 
 **Kiểu cut:**
-- Cùng trục đổi cỡ: 45% 
-- Cắt sang đặc tả có sẵn trong khung: 30% 
+- Cùng trục đổi cỡ: 70% 
 - Đảo góc OTS: 20% 
-- Đổi cỡ kèm giảm người: 5%
+- Đổi cỡ kèm giảm người: 10% (*Lưu ý: `giam-nguoi` là sàn, không phải trần; phần trăm của hai kiểu kia tính trên số còn lại.*)
+- **CẤM cắt sang đặc tả / insert đạo cụ — nửa sau luôn phải là một khuôn mặt.**
 
 **Điều kiện cắt (Quyết định tỷ lệ đạt):**
-- **Cắt trong nhịp có thoại:** cut rơi vào khoảng lặng giữa hai câu và phải viết câu đó ra; cut trùng với đổi người nói; không cắt giữa một câu dài (nếu buộc thì chỉ cắt sang đặc tả, không cắt sang mặt); nửa sau chừa 0,3-0,5s hình trước khi có tiếng; câu của ai thì người đó nét ở đúng nửa chứa câu ấy.
+- **Cắt trong nhịp có thoại:** cut rơi vào khoảng lặng giữa hai câu và phải viết câu đó ra; cut trùng với đổi người nói; không cắt giữa một câu dài — nếu mốc rơi vào giữa câu thì dời mốc sang khoảng lặng khác, hoặc bỏ cut ở clip đó và chuyển hạn mức sang clip khác; nửa sau chừa 0,3-0,5s hình trước khi có tiếng; câu của ai thì người đó nét ở đúng nửa chứa câu ấy.
+- **Xác minh nhân dạng (Raccord khuôn mặt):** Nửa sau chỉ được lấy khuôn mặt ĐÃ THẤY RÕ ở nửa đầu. Muốn lấy người đang out nét ở tiền cảnh thì bắt buộc là `dao-goc`. Không có luật này, `doi-co` sẽ cắt sang một khuôn mặt model chưa từng nhìn thấy trong ảnh gốc → vỡ nhân dạng.
 - **Cắt trong khung ≥3 người:** chỉ giảm người, không bao giờ tăng; bắt buộc câu "Trong khung CHỈ còn X"; giữ nguyên trái/phải; nhắc lại đúng bullet Nhận diện của người còn lại, không thêm chi tiết mới.
+- **Nhịp lặng có cut:** câu chốt lấy từ hai vế của Gợi ý diễn biến, nên gợi ý của clip đó bắt buộc viết đúng hai vế ngăn bằng dấu chấm phẩy. Clip mở phim / khép phim giữ một shot liền, không cắt.
 - **Luật chống chồng rủi ro:** clip có cat thì camera chỉ tĩnh hoặc một cú Mức ○ ở một nửa; mỗi scene ≤3 cut (scene ≥9 clip 10s được 4); không ba clip có cut liền kề.
 
 ## 4. Camera (Thay thế mục Camera hiện tại)
@@ -78,22 +81,21 @@ Chỉ viết khi ô shot có khai `cat` (giây xảy ra cut). Không khai `cat` 
 - Dutch angle khai ở prompt SF như bố cục tĩnh, không viết thành động tác lăn máy.
 - **CẤM TOÀN BỘ:** orbit trọn vòng, crane, tracking ra ngoài frame, whip pan, snap zoom, foreground wipe, dolly zoom, và mọi chữ revealing / pull back to show.
 
-**Bảng phân bổ Camera:**
-| Nhóm | Tĩnh | ○ | ◐ | ● |
-|---|---|---|---|---|
-| 6s | 60% | 33% | 7% | 0 |
-| 10s | 35% | 40% | 20% | 5% |
-| Cận | 55% | 40% (rack, breathing, micro-dolly) | 0 | 0 |
-| Trung | 35% | 30% | 30% | 5% |
-| Trung-rộng / rộng | 20% | 30% | 35% | 15% |
-| Shot thoại | 55% | 35% | 9% | 1% |
-| Nhịp lặng | 15% | 40% | 35% | 10% |
+**Bảng phân bổ Camera (Chuẩn theo Ô thời lượng x Loại):**
+| Ô | tĩnh | ◐ | ● |
+|---|---|---|---|
+| 6s · thoại | 62% | 7% | 0 |
+| 6s · nhịp lặng | 20% | 9% | 0 |
+| 10s · thoại | 45% | 12% | 0 |
+| 10s · nhịp lặng | 10% | 34% | 19% |
+
+*(Lưu ý: Các tỷ lệ theo cỡ cảnh được dùng như hướng dẫn chứ không ép hạn ngạch cứng: Cận nghiêng về tĩnh, trung-rộng nghiêng về động, cận cấm tuyệt đối ◐/●).*
 
 ## 5. Khóa Dữ liệu Mới trong Board (`sf-board.json`)
 Cần sử dụng 4 khóa sau trong file dữ liệu để thể hiện thiết kế shot (đã được thêm vào `VALID_SHOT_KEYS` của `sua-board.py` để tránh bị lọc mất):
 - `cat` (số): giây xảy ra hard cut. Không có ô này = clip một shot liền.
 - `goc2` (chuỗi): góc/cast của nửa sau, viết đúng văn phong ô `goc`. (Khóa này vá lỗi kiểm nối shot `kiem-noi-shot.py` để so sánh shot nối tiếp với nửa sau của clip).
-- `kieu_cat` (chuỗi): `doi-co` · `dac-ta` · `dao-goc` · `giam-nguoi`.
+- `kieu_cat` (chuỗi): `doi-co` · `dao-goc` · `giam-nguoi`.
 - `cam` (chuỗi): mã cú máy (`tinh`, `pushin`, `rack`, `pan`, `pullback`…).
 *(⚠️ Đừng dùng lại ô `chuyen` vì nó đang mang ý nghĩa khác cho kịch bản).*
 
@@ -106,8 +108,10 @@ Cần sử dụng 4 khóa sau trong file dữ liệu để thể hiện thiết 
 3. Có `cat` mà prompt thiếu câu "Đúng MỘT hard cut ở giây <cat>" khớp số → lỗi. Ngược lại: prompt có hard cut/hai đoạn mà shot không khai `cat` → lỗi.
 4. Có `cat` mà prompt thiếu câu "Trong khung CHỈ còn" → lỗi.
 5. Tên người xuất hiện ở đoạn 2 phải là tập con của đoạn 1 → tăng người = lỗi.
-6. `kieu_cat` với khung ≥3 người chỉ được `dac-ta` hoặc `giam-nguoi`.
+6. Khung ≥3 người chỉ được `giam-nguoi`.
 7. Có `cat` mà `cam` thuộc nhóm ◐/● → lỗi.
+7b. Prompt chứa đặc tả / insert đạo cụ trong khối HAI ĐOẠN → lỗi (luôn phải cắt sang khuôn mặt).
+7c. Xác minh nhân dạng: Mục (người) của nửa sau phải nằm trong tập người KHÔNG mang cờ mờ ở khối Nhận diện của nửa đầu.
 8. Trần theo scene: >3 clip có `cat` trong một scene (>4 nếu scene có ≥9 clip 10s) → lỗi; ba clip có `cat` liền kề → lỗi.
 9. Trần theo phim: in ra bảng 7 hạng với % thực tế vs % đích, cảnh báo khi lệch quá ±5 điểm.
 10. Phân bố điểm cắt: cảnh báo nếu >70% clip 10s dùng cùng một kiểu chia (tránh 5/5 đều đặn).

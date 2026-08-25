@@ -67,7 +67,7 @@ Dòng `goc` trả lời câu hỏi "Khung này quay bằng góc gì, có ai, né
 
 - **Tỷ lệ phân bổ (Cinematic Ratio)**: Khuyên dùng: ~40-50% Cận/Trung (CU/MCU) để bắt biểu cảm, 20-30% Góc đôi (Two-Shot/OTS) để giữ liên kết không gian, **20–25%** cho Toàn cảnh/Góc rộng (Wide/Cinematic Wide), và **rất hạn chế ~2%** cho Góc Đặc Tả (Insert/ECU).
 - **Góc rộng**: Dùng làm Master Shot mở cảnh, khép/chuyển cảnh, hoặc khung hình bao quát khi các nhân vật đối thoại nhóm/di chuyển trong bối cảnh khi thấy hợp lý.
-- **Góc Đặc Tả (Insert/ECU)**: Rất hạn chế góc máy này (chỉ giữ mức **~2%** tổng số shot toàn kịch bản). Dùng để đặc tả đồ vật quan trọng, chi tiết tay, mắt... nhằm chuyển nhịp hoặc che giấu raccord.
+- **Góc Đặc Tả (Insert/ECU)**: Rất hạn chế góc máy này (chỉ giữ mức **~2%** tổng số shot toàn kịch bản). Dùng để đặc tả đồ vật quan trọng, chi tiết tay, mắt... nhằm chuyển nhịp hoặc che giấu raccord. **Đặc tả/Insert đạo cụ BẮT BUỘC phải là một shot độc lập (có mã SF riêng), tuyệt đối không được dùng hard-cut (khối hai đoạn) để cắt sang đặc tả.**
 - **Góc cực đoan (High/Low/POV)**: Rất hạn chế, chỉ dùng có chủ đích (nhấn mạnh tâm lý, quyền lực, hoặc nhập vai).
 
 ### Phân rã đối thoại 2 người (Bộ góc tiêu chuẩn)
