@@ -42,7 +42,7 @@ for DUONG in "$ROOT"/*.project; do
   for TH in videos assets versions; do
     [ -d "$DUONG/$TH" ] && cp -c -R "$DUONG/$TH" "$DICH/$TH" 2>/dev/null || true
   done
-  # sf-board.json là thứ QUAN TRỌNG NHẤT ở đây: prompt, luatchung, quan hệ REF.
+  # sf-board.json là thứ QUAN TRỌNG NHẤT ở đây: prompt, quan hệ REF.
   # Mất ảnh còn vẽ lại được; mất nó là mất toàn bộ phần chữ đã viết.
   CO_BOARD="—"
   if [ -f "$DUONG/sf-board.json" ]; then

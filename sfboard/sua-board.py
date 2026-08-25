@@ -5,16 +5,19 @@ import os
 
 VALID_SF_KEYS = {
     'id', 'label', 'goc', 'pose', 'prompt', 'refs', 'status', 'notes',
-    'desc', 'luatchung', 'ai_request', 'ai_done', 'picked', 'image', 'chat'
+    'desc', 'ai_request', 'ai_done', 'picked', 'image', 'chat'
 }
 
 # Khoá định danh của shot trong sf-board.json là 'id', KHÔNG phải 'sh'. Bản cũ
 # chỉ nhận 'sh' nên `if 'sh' not in p_sh: continue` bỏ qua SẠCH mọi shot rồi vẫn
 # in "patch thành công" — hỏng hoàn toàn im lặng. 'sh' giữ lại làm bí danh.
+# 'chuyen'/'hoituong' là cách DUY NHẤT khai gián đoạn cố ý cho kiem-noi-shot.py.
+# Thiếu chúng trong whitelist thì patch bị lọc sạch mà vẫn báo "thành công" — đúng
+# kiểu hỏng im lặng đã gặp với 'sh'.
 VALID_SHOT_KEYS = {
     'id', 'sh', 'sf', 'dur', 'text', 'goc', 'prompt', 'notes', 'video',
     'vstatus', 'vpicked', 'vversions', 'ai_request', 'ai_done',
-    'music'
+    'music', 'chuyen', 'hoituong'
 }
 
 def load_json(path):

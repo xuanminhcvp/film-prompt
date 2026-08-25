@@ -1,0 +1,1373 @@
+{
+  "film": "HOOK FERRARI — CẬU BÉ NGHE ĐỘNG CƠ (2 PHÚT ĐẦU)",
+  "updated_at": "2026-08-24 15:02:51",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_BG_GARAGE_BELLAMY_NGAY",
+          "label": "GARA DINH THỰ BELLAMY — BAN NGÀY",
+          "desc": "Khoang gara riêng sau dinh thự, ba tuần nay bị đội kỹ thuật hãng xe biến thành trạm chẩn đoán tạm. Bối cảnh của S1.",
+          "prompt": "Bối cảnh ở Mỹ. Một khoang gara riêng phía sau dinh thự đang được dùng làm trạm chẩn đoán tạm cho đội kỹ thuật hãng xe suốt ba tuần: bàn dụng cụ kê thêm, dây tín hiệu chạy dọc chân tường, hộp đồ nghề mở nắp xếp thành hàng, một xe đẩy dụng cụ mang máy tính xách tay (nhãn hư cấu, logo làm mờ). photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, camera ngang tầm mắt. Không có người trong khung hình.\n\nQUY HOẠCH 360°: Bên TRÁI là dãy tủ kính khung nhôm chứa dụng cụ và một bàn thợ mặt thép dài. Bên PHẢI là tường panel trắng ngà, hai chiếc xe khác phủ bạt vải xám, và một ghế đẩu thép thấp kê sát góc gần cửa. ĐỐI DIỆN là vách gỗ óc chó sẫm với cuộn ống khí nén và tủ đồ âm tường. SAU LƯNG là cửa cuốn kính mở hết cỡ nhìn ra lối sỏi sáng nắng và hàng rào cây xén.\n\nVẬT LIỆU & MÀU: sàn lát gạch men khổ lớn màu xám sáng bóng mờ, tường trắng ngà, viền nhôm xước mịn, gỗ óc chó ấm vừa phải. Tổng thể SÁNG, SẠCH, hơi lạnh và đắt tiền — phải KHÁC HẲN cái ấm nâu-vàng ám dầu của gara một khoang trong cảnh hồi tưởng.\n\nÁNH SÁNG: BAN NGÀY. Đèn LED trắng trung tính dịu chạy dọc trần rọi đều toàn khoang, không ám xanh, không tối góc; thêm một luồng nắng ấm tràn vào từ cửa cuốn phía sau, đổ một vệt sáng dài trên nền gạch. Độ tương phản trung bình, bóng đổ mềm, giữ skin tone tự nhiên. Không u tối, không moody, không cháy trắng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BG_TUCKER_GARAGE_SANG",
+          "label": "GARA TUCKER — SÁNG THỨ BẢY (HỒI TƯỞNG)",
+          "desc": "Gara sửa xe một khoang trong khu dân cư, nơi Amos dạy Fabian nghe động cơ. Bối cảnh của S2.",
+          "prompt": "Bối cảnh ở Mỹ. Một gara sửa xe một khoang trong khu dân cư đang mở cửa buổi sáng thứ Bảy: cửa cuốn tôn kéo lên hết, giữa khoang là một chiếc xe cũ đỗ quay đầu ra ngoài với nắp ca-pô mở dựng. photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, camera ngang tầm mắt. Không có người trong khung hình.\n\nQUY HOẠCH 360°: Bên TRÁI là bàn thợ gỗ dày có ê tô và bảng treo dụng cụ vẽ viền phấn trắng quanh từng món. Bên PHẢI là tủ đồ nghề thép nhiều ngăn sơn đỏ bạc màu, trên nóc có bình cà phê và mấy chiếc ca men. ĐỐI DIỆN là tường gạch sơn kem đã ố, một tấm lịch giấy và cầu nâng thấp. SAU LƯNG, qua cửa cuốn, là sân bê tông rồi tới lòng đường khu dân cư với vài chiếc ô tô đỗ sát lề.\n\nVẬT LIỆU & MÀU: sàn bê tông vá loang vệt dầu sẫm, tường kem ố, gỗ nâu sờn, thép đỏ bạc màu. Tổng thể ẤM, ngả nâu-vàng, retro, well-maintained, lived-in, không gian sáng sủa và đang hoạt động bình thường — phải KHÁC HẲN cái xám-trắng sạch lạnh của gara dinh thự.\n\nÁNH SÁNG: BAN NGÀY, nắng sớm. Nắng vàng nhạt xiên vào từ cửa cuốn phía sau đổ một mảng sáng rộng lên sàn bê tông; hai bóng huỳnh quang trần cũ ám vàng nhẹ mở đều phần trong khoang. Bóng đổ mềm, độ tương phản trung bình, giữ skin tone tự nhiên. Không u tối, không moody, không cháy trắng.\n\nXe trong khoang mang nhãn hư cấu, phù hiệu hãng và biển số làm mờ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_FABIAN_PORTRAIT",
+          "label": "★ FABIAN TUCKER — chân dung gốc",
+          "desc": "Nhân vật chính. Thiếu niên da đen 16 tuổi, cháu nội thợ máy Amos. Có mặt S1. Mặt phải đọc ra: một người đang LẮNG NGHE rất kỹ — tỉnh, ấm, chắc, không van xin ai.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nThiếu niên nam da đen Mỹ, mười sáu tuổi. Gương mặt ưa nhìn và khoẻ mạnh: xương gò má rõ, cằm gọn, mũi thẳng vừa, môi đầy vừa phải, đường quai hàm còn nét trẻ. Tóc xoăn tự nhiên cắt ngắn, hai bên tém sát, đường chân tóc trán vuông sắc nét. Da nâu sẫm ấm, đều màu, sạch, căng. Mắt nâu sẫm, ánh nhìn tỉnh, ấm và chắc, kiểu người đang lắng nghe rất kỹ. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm, KHÔNG khuyên tai.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_FABIAN_FULL",
+          "label": "FABIAN — ĐỒ LÀM VƯỜN CUỐI TUẦN",
+          "desc": "Bộ cậu mặc khi làm cỏ thuê ở dinh thự: đồ lao động rẻ tiền nhưng giặt cẩn thận và phẳng phiu.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nThiếu niên mặc áo phông cotton xanh navy đã bạc màu, cổ tròn còn giữ phom, được giặt cẩn thận và là phẳng; quần vải canvas màu olive sờn nhạt ở hai đầu gối, cạp luồn thắt lưng da nâu cũ đã mòn lỗ; giày lao động da nâu trầy mũi, đế dính vệt cỏ khô. Áo bỏ ngoài quần, gọn gàng, không nhàu.\n\nQuàng qua cổ một chiếc ống nghe thợ máy cũ: que dò thép dài, dây cao su đen đã nứt và được quấn băng dính điện đen từng đoạn, hai nhánh tai thép buông xuống trước ngực.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_SUTCLIFFE_PORTRAIT",
+          "label": "★ BRAM SUTCLIFFE — chân dung gốc",
+          "desc": "Quản gia điền trang, đàn ông da trắng ngoài năm mươi. Phản diện của S1. Mặt phải đọc ra: người quen cầm chìa khoá của người khác và thích cho người khác thấy điều đó.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng Mỹ, ngoài năm mươi tuổi. Gương mặt ưa nhìn, khoẻ mạnh và chỉn chu: mặt dài vừa, gò má cao, mũi thẳng, môi mỏng, quai hàm còn gọn. Tóc nâu sẫm điểm bạc hai bên thái dương, chải rẽ ngôi gọn sát. Cạo râu nhẵn. Da sáng, đều màu, sạch. Mắt xám xanh, ánh nhìn sắc sảo và tự tin. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_SUTCLIFFE_FULL",
+          "label": "SUTCLIFFE — VEST XÁM THAN QUẢN GIA",
+          "desc": "Bộ đồ công việc của quản gia điền trang: chỉn chu tới mức thành vũ khí.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nĐàn ông mặc vest một hàng khuy màu xám than, vải mịn, cắt vừa vặn ôm vai, cài kín khuy trên; sơ mi trắng cổ cứng cài kín toàn bộ cúc; cà vạt lụa xanh navy trơn thắt chặt sát cổ, có kẹp cà vạt bằng thép trắng bản mảnh; quần âu cùng bộ ly là sắc; giày da đen buộc dây đánh xi bóng. Đồng hồ mặt tròn dây da nâu ở cổ tay TRÁI. Toàn bộ phẳng phiu, không nhàu, không xộc xệch.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BELLAMY_PORTRAIT",
+          "label": "★ EDMUND BELLAMY — chân dung gốc",
+          "desc": "Chủ dinh thự, đàn ông da trắng năm mươi tám tuổi, tiền quỹ đầu cơ. Có mặt S1. Mặt phải đọc ra: một người vừa nghe câu 'không' đầu tiên sau nhiều năm và đang tính một bài toán không có tiền trong đó.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng Mỹ, năm mươi tám tuổi. Gương mặt ưa nhìn và khoẻ mạnh: trán rộng, mũi thẳng, môi vừa, quai hàm vuông đã hơi chùng theo tuổi. Tóc bạc muối tiêu cắt ngắn gọn, chải ngược ra sau. Cạo râu nhẵn. Da sáng, rám nhẹ, đều màu. Mắt nâu nhạt, ánh nhìn trầm, mệt, còn giữ được sự lịch thiệp. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BELLAMY_FULL",
+          "label": "BELLAMY — ÁO LEN XÁM CUỐI TUẦN",
+          "desc": "Đồ cuối tuần ở nhà của người rất giàu: đắt tiền nhưng không phô.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nĐàn ông mặc áo len cashmere màu xám tro, cổ khoá kéo ngắn kéo lên nửa chừng, phom vừa vặn, mặt vải mịn; bên trong là sơ mi trắng cổ mở một khuy, cổ áo lật gọn ra ngoài; quần âu vải sẫm màu than may đo, ly là sắc; giày lười da lộn nâu không tất lộ. Đồng hồ thép mặt trắng dây thép ở cổ tay TRÁI. Toàn bộ phẳng phiu, sạch, không nhàu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BELLAMY_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_RAVELLI_PORTRAIT",
+          "label": "★ ETTORE RAVELLI — chân dung gốc",
+          "desc": "Thợ dựng động cơ già người Ý, sáu mươi chín tuổi, bốn mươi năm ở Maranello. Có mặt S1. Mặt phải đọc ra: người đã nghe thứ âm thanh này một lần trong đời và chưa bao giờ quên được.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng người Ý, sáu mươi chín tuổi. Gương mặt ưa nhìn, phong trần và khoẻ mạnh: mũi khoằm nhẹ, gò má cao, nếp nhăn sâu ở khoé mắt và hai bên miệng do cười và do nheo mắt lâu năm. Tóc bạc trắng dày chải ngược, lông mày rậm còn sẫm. Cạo râu nhẵn. Da sáng ngả nâu, đều màu. Mắt nâu sẫm, ánh nhìn trầm, tĩnh và xa xăm. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_RAVELLI_FULL",
+          "label": "RAVELLI — ÁO LAO ĐỘNG NAVY CỦA THỢ MÁY GIÀ",
+          "desc": "Ông đi theo đoàn với tư cách cố vấn, không mặc áo đội: đồ nghề của riêng ông.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nĐàn ông mặc áo sơ mi lao động vải chéo màu xanh navy, tay ngắn, cài kín toàn bộ cúc, hai túi ngực có nắp, vải đã bạc nhẹ ở vai nhưng phẳng phiu và sạch; quần vải sẫm màu xanh than, gấu thẳng; giày da nâu đế bằng đã mòn gót. Không đeo trang sức, không đeo thẻ đoàn.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RAVELLI_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_AMOS_PORTRAIT",
+          "label": "★ AMOS TUCKER — chân dung gốc (hồi tưởng)",
+          "desc": "Ông nội Fabian, thợ máy da đen, ngoài bảy mươi ở thời điểm hồi tưởng. Có mặt S2. Mặt phải đọc ra: sự điềm đạm của người biết mình đúng và không cần ai công nhận.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da đen Mỹ, ngoài bảy mươi tuổi. Gương mặt ưa nhìn và khoẻ mạnh: xương gò má rộng, mũi bè vừa, môi đầy, quai hàm còn chắc, nếp nhăn cười sâu ở khoé mắt. Tóc xoăn cắt cực ngắn đã bạc trắng gần hết, ria mép bạc tỉa gọn. Da nâu sẫm ấm, đều màu, khoẻ. Mắt nâu sẫm, ánh nhìn ấm, tỉnh và điềm đạm. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_AMOS_FULL",
+          "label": "AMOS — ÁO LAO ĐỘNG NAVY MỞ TIỆM SÁNG THỨ BẢY",
+          "desc": "Bộ ông mặc mỗi sáng mở tiệm: cũ, bạc, nhưng giặt cẩn thận và là phẳng.\nDùng: S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nĐàn ông mặc áo sơ mi lao động cotton dày màu xanh navy đã bạc màu, được giặt cẩn thận, tay áo xắn gọn tới khuỷu, cài kín toàn bộ cúc phần thân, hai túi ngực có nắp; quần vải kaki sẫm màu sờn nhạt ở đầu gối, cạp có thắt lưng da nâu cũ; giày da lao động nâu mòn mũi. Một chiếc khăn lau máy màu đỏ gấp vắt ở túi quần sau bên PHẢI.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_FABIANNHO_PORTRAIT",
+          "label": "★ FABIAN NHỎ — chân dung gốc (hồi tưởng, 8 tuổi)",
+          "desc": "Fabian lúc tám tuổi trong hồi tưởng. Có mặt S2. Mặt phải đọc ra: một đứa trẻ đang say sưa chơi trò của ông nội, vui và tập trung.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân hay quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nBé trai da đen Mỹ, tám tuổi. Gương mặt trẻ con ưa nhìn, khoẻ mạnh, má còn đầy: mũi nhỏ, môi đầy, trán tròn. Tóc xoăn tự nhiên cắt ngắn gọn. Da nâu sẫm ấm, đều màu, sạch, khoẻ. Mắt nâu sẫm to, ánh nhìn sáng, tò mò và vui. KHÔNG đeo kính, KHÔNG sẹo, KHÔNG hình xăm, KHÔNG khuyên tai.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_FABIANNHO_FULL",
+          "label": "FABIAN NHỎ — ĐỒ CHƠI SÁNG THỨ BẢY",
+          "desc": "Đồ trẻ con đi theo ông ra tiệm: cũ, bạc, nhưng sạch sẽ và vừa vặn.\nDùng: S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC toàn thân, photorealistic, KHUNG DỌC 9:16, nhân vật đứng thẳng chính diện, hai tay buông tự nhiên. Nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nBé trai mặc áo phông cotton màu xám nhạt đã bạc màu, cổ tròn còn phom, sạch và phẳng, bỏ trong quần; quần jean xanh sẫm sờn nhạt ở hai đầu gối, cạp chun; giày vải bố màu trắng ngà đã ngả xám, buộc dây gọn. Toàn thân che kín, không hở hang.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIANNHO_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_PROP_ONG_NGHE",
+          "label": "Ống nghe thợ máy của Amos — que dò thép, dây quấn băng dính điện",
+          "desc": "Món đồ nghề gieo-trả của cả phim: ông nội dùng nó suốt bốn mươi năm, giờ treo trên cổ cháu. Trạng thái ảnh gốc = trạng thái nó xuất hiện lần đầu trong kịch bản: nguyên vẹn, dây đã nứt và quấn băng dính.\nDùng: S1 · S2",
+          "prompt": "Ảnh tĩnh đạo cụ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm mặt bàn, ánh sáng studio dịu và đều, không bóng gắt. KHÔNG có người, KHÔNG có bàn tay trong khung.\n\nMột chiếc ống nghe thợ máy cũ đặt nằm trên một mặt bàn gỗ trơn màu nâu trung tính để đọc rõ tỉ lệ và bóng đổ: một que dò bằng thép dài khoảng hai mươi centimet, đầu nhọn, thân thép xước mờ; nối vào một khối nghe kim loại tròn dẹt; từ đó chạy ra dây cao su đen đã nứt chân chim, được quấn băng dính điện đen thành ba đoạn ngắn không đều nhau; hai nhánh tai bằng thép cong hình chữ V với hai nút bịt tai cao su đen đã bạc.\n\nMọi chữ khắc trên khối kim loại là nhãn hư cấu, mờ và không đọc được thành thương hiệu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_PROP_F50",
+          "label": "Siêu xe Ý đỏ Rosso trong gara dinh thự — chiếc xe hỏng của S1",
+          "desc": "Chiếc xe ba triệu đô nằm giữa cuộc đối đầu S1. Trạng thái ảnh gốc: đứng im trên nền gạch gara, nắp khoang động cơ ĐÓNG, chưa ai đụng vào.\nDùng: S1",
+          "prompt": "Ảnh tĩnh đạo cụ cỡ lớn, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ phía trước bên trái, camera đặt NGANG TẦM HÔNG người lớn, không chụp từ trên xuống. KHÔNG có người trong khung hình.\n\nMột chiếc siêu xe thể thao Ý hai chỗ, động cơ đặt giữa, sơn đỏ Rosso bóng, đứng trên nền gạch men xám sáng của chính khoang gara: thân thấp và rộng, mũi nhọn dẹt, hốc gió lớn hai bên sườn, cánh gió đuôi cao liền khối, mâm hợp kim năm chấu, lốp bản rộng. Nắp khoang động cơ ĐÓNG kín.\n\nKHOÁ TỈ LỆ: nóc xe chỉ cao ngang hông người lớn, khoảng một mét mốt; một chiếc ghế đẩu thép thấp đặt cạnh bánh trước bên trái làm mốc so sánh.\n\nPhù hiệu hãng, chữ trên đuôi xe và biển số đều LÀM MỜ, không đọc được; mọi nhãn hiệu là nhãn hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_GARAGE_BELLAMY_NGAY"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "name": "S1 — Gara dinh thự Bellamy, ban ngày: cậu bé xin mười phút",
+      "sfs": [
+        {
+          "id": "SF-S1-01-MASTER",
+          "label": "MASTER A — vòng vây chế nhạo trước mũi xe",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 35mm, camera ngang tầm mắt đặt chếch bên trái mũi xe, cách 4 mét.\n\nMũi và hông trái chiếc siêu xe đỏ chiếm khoảng một phần ba bên trái tiền cảnh, nắp khoang động cơ đóng. SUTCLIFFE đứng giữa khung hơi chếch trái, chắn ngay trước mũi xe, người xoay ba phần tư về bên phải, cằm hất lên, đang bật cười. FABIAN đứng lệch phải khung, sát mép cửa cuốn đang mở, cách Sutcliffe khoảng hai mét, người thẳng, hai vai buông, ống nghe thợ máy treo trước ngực. BELLAMY đứng lùi sâu hơn ở nửa trái khung, cạnh đuôi xe, hai tay đút túi quần, mặt quay về phía hai người. Hai kỹ thuật viên mặc áo polo đỏ đứng ngay sau lưng Sutcliffe, một người khoanh tay, một người tì hông vào xe đẩy dụng cụ mang máy tính xách tay (nhãn hư cấu, logo làm mờ); cả hai nhếch mép cười theo và không nhìn camera.\n\nHƯỚNG NHÌN: Sutcliffe nhìn thẳng vào Fabian; Fabian nhìn vượt qua vai Sutcliffe về phía Bellamy; Bellamy nhìn Fabian.\n\nBIỂU CẢM: Sutcliffe khoái trá và bề trên. Fabian điềm tĩnh, quai hàm khép, không cụp mắt. Bellamy mệt mỏi, mày hơi nhíu, đang cân nhắc.\n\nĐúng khoảnh khắc ngay TRƯỚC khi tiếng cười của Sutcliffe dội hết vào nền gạch men.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_PROP_F50"
+            ],
+            "bg": "REF_BG_GARAGE_BELLAMY_NGAY"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "Sutcliffe cận, buông câu cuối cùng",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh trung (MCU), ống kính 50mm, camera ngang tầm mắt, cách 1,5 mét, hơi chếch trái.\n\nSUTCLIFFE nét, chiếm phần giữa khung, người xoay ba phần tư về bên phải. Rìa phải tiền cảnh có một mảng vai và cánh tay của FABIAN out nét. Lùi sâu ở nửa trái khung, BELLAMY đứng mờ cạnh đuôi xe, đủ nhận ra dáng và áo len xám. Một mảng đỏ của thân xe out nét chạy dọc rìa dưới khung.\n\nHƯỚNG NHÌN: Sutcliffe nhìn thẳng vào Fabian, mắt hơi nheo.\n\nBIỂU CẢM: Sutcliffe cười nửa miệng, khoái trá, biết chắc mình đang được đám đông ủng hộ.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Sutcliffe buông nốt câu cuối và bật cười thành tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-03",
+          "label": "Tiếng cười dội vào nền gạch",
+          "desc": "",
+          "prompt": "MÁY QUAY: medium-wide, ống kính 35mm, camera hạ thấp ngang tầm ngực (low angle nhẹ), cách 3 mét, chếch trái.\n\nNhìn hơi ngước lên: SUTCLIFFE nét chiếm nửa trái khung, đầu ngửa ra sau, miệng mở đang cười, một tay chống hông. Hai kỹ thuật viên áo polo đỏ đứng sát sau lưng ông ta cùng cười theo, mắt hướng về phía Fabian, không nhìn camera. FABIAN đứng ở rìa phải khung, người thẳng, đứng yên hoàn toàn giữa vệt nắng hắt vào từ cửa cuốn. BELLAMY ở lớp sau nửa trái khung, cạnh đuôi xe, không cười.\n\nHƯỚNG NHÌN: Sutcliffe nhìn lên trần rồi hạ về phía Fabian; Fabian nhìn thẳng Sutcliffe; Bellamy nhìn xuống nền gạch.\n\nBIỂU CẢM: Sutcliffe hả hê. Fabian bất động, nhẫn nại. Bellamy khó chịu vì trò đùa nhưng không can.\n\nĐúng khoảnh khắc ngay TRƯỚC khi tiếng cười tắt dần.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-04",
+          "label": "Hai kỹ thuật viên cười theo",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 50mm, camera ngang tầm mắt, cách 2,5 mét, chếch phải.\n\nHai kỹ thuật viên mặc áo polo đỏ nét ở lớp giữa khung, một người khoanh tay, một người tì hông vào xe đẩy dụng cụ mang máy tính xách tay (nhãn hư cấu, logo làm mờ); cả hai đang cười theo, mắt hướng chếch ra ngoài khung về phía Fabian, không nhìn camera. Tiền cảnh trái là mảng vai và gáy của SUTCLIFFE out nét. FABIAN nét nhỏ ở rìa phải khung, đứng thẳng. BELLAMY ở lớp sau, cạnh đuôi xe, đủ nhận ra dáng và áo len xám.\n\nHƯỚNG NHÌN: Bellamy nhìn hai kỹ thuật viên; Fabian nhìn thẳng về phía Sutcliffe.\n\nBIỂU CẢM: Fabian không đổi nét mặt. Bellamy chán nản.\n\nĐúng khoảnh khắc ngay TRƯỚC khi một trong hai người quay đi tiếp tục công việc.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-05",
+          "label": "Fabian đứng ở mép sáng, ống nghe trước ngực",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh (CU), ống kính 85mm, camera ngang tầm mắt, cách 1,2 mét, đặt ngay sau vai phải Sutcliffe.\n\nKhung qua vai: mảng vai và gáy của SUTCLIFFE out nét chiếm rìa trái tiền cảnh. FABIAN nét chiếm phần giữa khung, từ ngực trở lên, người thẳng. Chiếc ống nghe thợ máy treo trước ngực cậu hiện rõ trọn vẹn trong khung: que dò thép, dây cao su đen quấn băng dính điện, hai nhánh tai thép buông xuống.\n\nHẬU CẢNH: sau lưng Fabian là cửa cuốn kính mở hết cỡ nhìn ra lối sỏi sáng nắng và hàng rào cây xén; không có người ở phần sân đó.\n\nHƯỚNG NHÌN: Fabian nhìn thẳng vượt qua vai Sutcliffe, không chớp.\n\nBIỂU CẢM: điềm tĩnh, tập trung, cằm giữ thẳng, ánh mắt của người đang chờ đúng một câu để nói.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Fabian mở lời.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_PROP_ONG_NGHE"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "SUTCLIFFE": "tay phải chống hông"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-06",
+          "label": "Fabian nói vượt qua quản gia, hướng về chủ nhà",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 40mm, camera ngang tầm mắt, cách 2 mét, đặt ngay sau vai trái Fabian.\n\nKhung qua vai: mảng vai và gáy của FABIAN out nét chiếm rìa phải tiền cảnh, thấy được một phần dây ống nghe trên vai cậu. SUTCLIFFE nét ở lớp giữa khung, người xoay ba phần tư, đầu vừa hạ xuống sau tràng cười. BELLAMY nét ở lớp sau nửa trái khung, cạnh đuôi xe, hai tay đút túi quần. Hông trái chiếc siêu xe đỏ chạy chéo qua nửa dưới khung, nối hai người lại với nhau.\n\nHƯỚNG NHÌN: Fabian nhìn vượt qua Sutcliffe, thẳng vào Bellamy; Bellamy vừa ngẩng lên bắt được ánh mắt đó; Sutcliffe vẫn nhìn Fabian.\n\nBIỂU CẢM: Fabian lễ độ và chắc. Bellamy bất ngờ vì bị gọi trực tiếp. Sutcliffe hơi cụt hứng.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Fabian cất tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_PROP_F50"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-07",
+          "label": "Hai người trong một khung, cậu bé đặt điều kiện",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh hai người (tight two-shot), ống kính 50mm, camera ngang tầm mắt, cách 1,8 mét, chính diện giữa hai người.\n\nFABIAN nét ở nửa phải khung, từ ngực trở lên, ống nghe thợ máy treo trước ngực. SUTCLIFFE nét ở nửa trái khung, cùng cỡ mặt, người xoay ba phần tư về phía Fabian. Giữa hai người là một khoảng trống hẹp thấy được mảng đỏ của thân xe ở lớp sau. BELLAMY đứng mờ ở lớp sau sâu, giữa hai vai của hai người, đủ nhận ra dáng và áo len xám.\n\nHƯỚNG NHÌN: Fabian và Sutcliffe nhìn thẳng mắt nhau.\n\nBIỂU CẢM: Fabian bình thản, không thách thức, chỉ rành mạch. Sutcliffe khó chịu vì mất quyền dẫn dắt.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Fabian nói hết điều kiện của mình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-08",
+          "label": "Cả khoang gara khựng lại",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 40mm, camera ngang tầm mắt, cách 2,5 mét, chếch trái.\n\nSUTCLIFFE nét ở nửa trái khung, nụ cười đang tắt, khoé miệng chùng xuống. BELLAMY nét ở lớp sau nửa trái, cạnh đuôi xe, vừa rời mắt khỏi nền gạch để nhìn lên. FABIAN nét nhỏ ở rìa phải khung, vẫn đứng nguyên chỗ cũ. Phía sau Sutcliffe, hai kỹ thuật viên áo polo đỏ dừng tay, một người thôi khoanh tay và liếc sang người kia, không ai nhìn camera.\n\nHƯỚNG NHÌN: Sutcliffe nhìn Fabian; Bellamy nhìn Fabian; Fabian nhìn Bellamy.\n\nBIỂU CẢM: Sutcliffe hụt hẫng vì trò đùa không còn buồn cười. Bellamy bắt đầu thật sự cân nhắc. Fabian điềm tĩnh.\n\nĐúng khoảnh khắc ngay TRƯỚC khi ai đó trong nhóm lên tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B1",
+          "label": "🎬 NHỊP LẶNG — ba triệu đô nằm im giữa hai phía",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, camera ngang tầm ngực, cách 5 mét, chính diện hông xe.\n\nChiếc siêu xe đỏ nằm chắn ngang trọn bề ngang khung, chiếm phần giữa, nắp khoang động cơ đóng, không ai chạm vào nó. Bên trái xe: SUTCLIFFE nét đứng cạnh mũi xe, BELLAMY nét đứng lùi sau ở cạnh đuôi xe. Bên phải xe: FABIAN nét đứng một mình sát mép cửa cuốn, nhỏ hơn hẳn trong khung. Xe đẩy dụng cụ mang máy tính xách tay (nhãn hư cấu, logo làm mờ) đứng im bên trái, dây tín hiệu buông thõng xuống nền gạch. Hai kỹ thuật viên áo polo đỏ đứng lùi ở hậu cảnh trái, tay không cầm gì, không nhìn camera.\n\nHƯỚNG NHÌN: Sutcliffe và Bellamy nhìn về phía Fabian ngang qua nóc xe; Fabian nhìn chiếc xe.\n\nBIỂU CẢM: cả ba đều đứng yên, khoảng cách giữa hai bên là nội dung của khung hình.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Bellamy nhấc chân rời chỗ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_SUTCLIFFE_PORTRAIT",
+              "REF_SUTCLIFFE_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_PROP_F50"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara trước mũi xe",
+            "who": {
+              "SUTCLIFFE": "đứng thẳng chắn trước mũi xe",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn",
+              "BELLAMY": "đứng thẳng cạnh đuôi xe"
+            },
+            "dist": "Sutcliffe cách Fabian 2m · Bellamy lùi sau 4m",
+            "hands": {
+              "SUTCLIFFE": "tay phải chống hông",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực",
+              "BELLAMY": "hai tay đút túi quần"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-09-MASTER",
+          "label": "MASTER B — góc ghế đẩu: ông già lên tiếng",
+          "desc": "",
+          "prompt": "MÁY QUAY: medium-wide, ống kính 35mm, camera ngang tầm mắt, cách 3,5 mét, đặt phía trong khoang nhìn ngược ra cửa cuốn.\n\nRAVELLI nét ở nửa trái khung, ngồi trên chiếc ghế đẩu thép thấp kê sát góc gần cửa, hai khuỷu tay chống lên gối, hai bàn tay đan vào nhau, lưng hơi khom về phía trước. BELLAMY nét đứng giữa khung, người xoay về phía ghế đẩu, vừa dừng chân. FABIAN nét ở lớp sau bên phải, vẫn đứng sát mép cửa cuốn, xa hơn hai người khoảng ba mét. Sau lưng cả nhóm là cửa cuốn kính mở, ánh nắng lối sỏi tràn vào tạo một mảng sáng rộng trên nền gạch. Ở rìa trái khung thấy một phần đuôi xe đỏ out nét.\n\nHƯỚNG NHÌN: Ravelli nhìn thẳng vào Bellamy; Bellamy nhìn xuống Ravelli; Fabian nhìn về phía hai người.\n\nBIỂU CẢM: Ravelli trầm tĩnh, chắc chắn, như người vừa quyết định phá vỡ ba tuần im lặng của chính mình. Bellamy chưng hửng. Fabian nín thở.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Ravelli mở lời.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RAVELLI_PORTRAIT",
+              "REF_RAVELLI_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL"
+            ],
+            "bg": "REF_BG_GARAGE_BELLAMY_NGAY"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "RAVELLI": "ngồi trên ghế đẩu thép, khuỷu tay chống gối",
+              "BELLAMY": "đứng thẳng giữa khoang quay về phía ghế đẩu",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "RAVELLI": "hai bàn tay đan vào nhau",
+              "BELLAMY": "hai tay đút túi quần",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-10",
+          "label": "Ravelli cận — thứ âm thanh ông đã từng nghe",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh trung (MCU), ống kính 85mm, camera hơi cao hơn tầm mắt người ngồi, cách 1,3 mét, đặt ngay sau vai trái Bellamy.\n\nKhung qua vai: mảng vai và gáy của BELLAMY out nét chiếm rìa trái tiền cảnh. RAVELLI nét chiếm phần giữa khung, từ ngực trở lên, vẫn ngồi trên ghế đẩu, hai bàn tay đan vào nhau. FABIAN đứng mờ ở lớp sau bên phải, đủ nhận ra dáng và chiếc ống nghe treo trước ngực.\n\nHẬU CẢNH: sau lưng Ravelli là tường panel trắng ngà và mép cửa cuốn kính đang mở.\n\nHƯỚNG NHÌN: Ravelli nhìn thẳng vào Bellamy, không né.\n\nBIỂU CẢM: trầm, chắc, mắt của người đang kéo một ký ức rất xa về gần.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Ravelli chớp mắt lần đầu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RAVELLI_PORTRAIT",
+              "REF_RAVELLI_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL"
+            ],
+            "bg": "SF-S1-09-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "RAVELLI": "ngồi trên ghế đẩu thép, khuỷu tay chống gối",
+              "BELLAMY": "đứng thẳng giữa khoang quay về phía ghế đẩu",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "RAVELLI": "hai bàn tay đan vào nhau",
+              "BELLAMY": "hai tay đút túi quần",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-11",
+          "label": "Ánh mắt Ravelli rơi về Modena",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh (CU), ống kính 100mm, camera ngang tầm mắt người ngồi, cách 0,9 mét, chếch phải.\n\nRAVELLI nét chiếm gần kín khung, từ vai trở lên, thấy rõ nếp nhăn ở khoé mắt và tóc bạc. Rìa trái khung có một mảng vai áo len xám của BELLAMY out nét. Lớp sau sâu bên phải, FABIAN đứng mờ thành một dáng người nhận ra được.\n\nHẬU CẢNH: sau lưng Ravelli là tường panel trắng ngà xoá mờ mạnh.\n\nHƯỚNG NHÌN: Ravelli rời mắt khỏi Bellamy, nhìn chệch ra ngoài khung về phía chiếc xe.\n\nBIỂU CẢM: xa xăm, nặng, như người vừa mở lại một ngăn ký ức mình đã đóng rất lâu; không buồn thảm, chỉ tĩnh.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Ravelli hít vào một hơi.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RAVELLI_PORTRAIT",
+              "REF_RAVELLI_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL"
+            ],
+            "bg": "SF-S1-09-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "RAVELLI": "ngồi trên ghế đẩu thép, khuỷu tay chống gối",
+              "BELLAMY": "đứng thẳng giữa khoang quay về phía ghế đẩu",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "RAVELLI": "hai bàn tay đan vào nhau",
+              "BELLAMY": "hai tay đút túi quần",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-12",
+          "label": "Cả căn phòng chuyên gia nhìn về phía cậu bé",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, cách 4,5 mét, đặt sau lưng Ravelli nhìn ngược vào lòng khoang gara.\n\nMảng vai và gáy của RAVELLI out nét chiếm rìa trái tiền cảnh. BELLAMY nét đứng giữa khung. FABIAN nét đứng bên phải khung, sát mép cửa cuốn. Ở lớp sau là chiếc siêu xe đỏ và nhóm kỹ thuật viên áo polo đỏ đứng quanh xe đẩy dụng cụ mang máy tính xách tay (nhãn hư cấu, logo làm mờ), tất cả đều đã dừng tay và quay mặt về cùng một phía; không ai nhìn camera.\n\nHẬU CẢNH: phía đối diện là vách gỗ óc chó sẫm với cuộn ống khí nén và tủ đồ âm tường.\n\nHƯỚNG NHÌN: Bellamy nhìn Fabian; Fabian nhìn lại Bellamy; cả nhóm nền nhìn về phía Fabian.\n\nBIỂU CẢM: căn phòng chuyển từ chế nhạo sang tò mò trong cùng một khung hình.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Bellamy gật đầu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RAVELLI_PORTRAIT",
+              "REF_RAVELLI_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL"
+            ],
+            "bg": "SF-S1-09-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "RAVELLI": "ngồi trên ghế đẩu thép, khuỷu tay chống gối",
+              "BELLAMY": "đứng thẳng giữa khoang quay về phía ghế đẩu",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "RAVELLI": "hai bàn tay đan vào nhau",
+              "BELLAMY": "hai tay đút túi quần",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-13",
+          "label": "Ba người, ba phía, một quyết định",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 40mm, camera ngang tầm mắt, cách 2,8 mét, chếch phải.\n\nFABIAN nét ở nửa phải khung, từ hông trở lên, người thẳng, ống nghe thợ máy treo trước ngực. BELLAMY nét ở giữa khung, xoay ba phần tư về phía Fabian. RAVELLI nét ở nửa trái khung, vẫn ngồi trên ghế đẩu, đầu ngẩng lên nhìn theo. Ba người nằm trên ba lớp chiều sâu khác nhau nhưng đều rõ mặt.\n\nHẬU CẢNH: sau lưng cả ba là mép cửa cuốn kính mở và mảng nắng lối sỏi.\n\nHƯỚNG NHÌN: Bellamy nhìn Fabian; Fabian nhìn Bellamy; Ravelli nhìn Bellamy.\n\nBIỂU CẢM: Fabian giữ được sự bình tĩnh mà cậu đã giữ từ đầu. Bellamy đã quyết. Ravelli hài lòng lặng lẽ.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Fabian đưa tay lên phía ngực.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_BELLAMY_PORTRAIT",
+              "REF_BELLAMY_FULL",
+              "REF_RAVELLI_PORTRAIT",
+              "REF_RAVELLI_FULL"
+            ],
+            "bg": "SF-S1-09-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "RAVELLI": "ngồi trên ghế đẩu thép, khuỷu tay chống gối",
+              "BELLAMY": "đứng thẳng giữa khoang quay về phía ghế đẩu",
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "RAVELLI": "hai bàn tay đan vào nhau",
+              "BELLAMY": "hai tay đút túi quần",
+              "FABIAN": "hai tay buông, ống nghe treo trước ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B2",
+          "label": "🎬 NHỊP LẶNG — bàn tay tìm về chiếc ống nghe (cầu nối hồi tưởng)",
+          "desc": "",
+          "prompt": "MÁY QUAY: đặc tả (insert), ống kính 100mm macro, camera ngang tầm ngực, cách 0,5 mét, chếch phải.\n\nKhung chỉ còn phần ngực áo phông navy bạc màu của FABIAN và chiếc ống nghe thợ máy treo trên đó: que dò thép, dây cao su đen nứt chân chim quấn băng dính điện, hai nhánh tai thép. Bàn tay phải của cậu đang nâng lên ngang ngực, các ngón hơi mở, CHƯA chạm vào dây ống nghe. Phía trên khung, cằm và phần dưới khuôn mặt FABIAN xoá mờ nhẹ, vẫn nhận ra là cậu.\n\nHẬU CẢNH: một mảng sáng trắng ngà xoá mờ hoàn toàn, không đọc ra chi tiết.\n\nBIỂU CẢM: bàn tay chững lại giữa chừng, kiểu người vừa nhớ ra ai đã trao cho mình món đồ này.\n\nĐúng khoảnh khắc ngay TRƯỚC khi các ngón tay khép lại quanh sợi dây.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIAN_PORTRAIT",
+              "REF_FABIAN_FULL",
+              "REF_PROP_ONG_NGHE"
+            ],
+            "bg": "SF-S1-09-MASTER"
+          },
+          "pose": {
+            "zone": "khoang gara góc ghế đẩu cạnh cửa cuốn",
+            "who": {
+              "FABIAN": "đứng thẳng sát mép cửa cuốn"
+            },
+            "dist": "Bellamy cách Ravelli 2m · Fabian lùi sau 3m",
+            "hands": {
+              "FABIAN": "bàn tay phải nâng lên trước ngực, chưa chạm vào ống nghe"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-01-MASTER",
+          "dur": 6,
+          "text": "SUTCLIFFE: \"The maid's boy wants a turn. Maranello just spent three weeks failing, but sure — let's ask YouTube.\"",
+          "music": null,
+          "goc": "Cinematic wide — SUTCLIFFE giữa khung, rõ mặt · FABIAN lệch phải, rõ mặt · BELLAMY lớp sau cạnh đuôi xe, rõ mặt",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nSutcliffe đang biểu diễn sự bề trên của mình cho những người đứng quanh xem; Fabian giữ nguyên chỗ đứng và chịu trận mà không lùi; Bellamy đứng ngoài, theo dõi.\n\nSUTCLIFFE — amused, condescending: \"The maid's boy wants a turn. Maranello just spent three weeks failing, but sure — let's ask YouTube.\"\n\nFABIAN — silent, listening intently, level\n\nBELLAMY — silent, weary, watching\n\nQUẦN CHÚNG NỀN — hai kỹ thuật viên áo polo đỏ đứng sau lưng Sutcliffe: đổi trọng tâm chân, nhếch mép cười theo rất khẽ, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 4,
+          "text": "SUTCLIFFE: \"Go on, boy. Dazzle us.\"",
+          "music": null,
+          "goc": "MCU dirty single — SUTCLIFFE nét giữa khung, rõ mặt · vai FABIAN out nét rìa phải tiền cảnh · BELLAMY mờ lớp sau",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nSutcliffe đang chốt hạ màn trình diễn của mình rồi thả người ra cười.\n\nSUTCLIFFE — amused, mocking: \"Go on, boy. Dazzle us.\"\n\nFABIAN — silent, still\n\nBELLAMY — silent, weary\n\nQUẦN CHÚNG NỀN — hai kỹ thuật viên áo polo đỏ đứng sau lưng Sutcliffe: đổi trọng tâm chân, nhếch mép cười theo rất khẽ, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-03",
+          "sf": "SF-S1-03",
+          "dur": 4,
+          "text": "NARRATOR: The estate manager's laugh bounced off the garage tile.",
+          "music": null,
+          "goc": "Low angle trung-rộng — SUTCLIFFE nét nửa trái khung, rõ mặt · FABIAN rìa phải, rõ mặt · BELLAMY lớp sau, rõ mặt",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nSutcliffe đang tận hưởng tiếng cười của chính mình vang trong khoang gara; Fabian đứng yên chịu đựng; Bellamy không tham gia.\n\nSUTCLIFFE — silent, laughing out loud, delighted with himself\n\nFABIAN — silent, motionless, patient\n\nBELLAMY — silent, uncomfortable, looking down\n\nQUẦN CHÚNG NỀN — hai kỹ thuật viên áo polo đỏ đứng sau lưng Sutcliffe: đổi trọng tâm chân, nhếch mép cười theo rất khẽ, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04",
+          "dur": 4,
+          "text": "NARRATOR: Two techs in Rosso Corsa shirts smiled with him.",
+          "music": null,
+          "goc": "Medium — SUTCLIFFE vai và gáy out nét tiền cảnh trái · FABIAN rìa phải, rõ mặt · BELLAMY lớp sau, rõ mặt",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 4 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nHai kỹ thuật viên đang hùa theo ông quản gia; Fabian đứng ngoài vòng đó; Bellamy quan sát cả nhóm.\n\nSUTCLIFFE — silent, back to camera, shoulders shaking lightly\n\nFABIAN — silent, unmoved\n\nBELLAMY — silent, tired of it\n\nQUẦN CHÚNG NỀN — hai kỹ thuật viên áo polo đỏ cười khẽ rồi một người đưa tay gõ nhẹ lên mép xe đẩy dụng cụ, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05",
+          "dur": 6,
+          "text": "NARRATOR: Fabian Tucker, sixteen, stood at the edge of the light, his grandfather's stethoscope around his neck.",
+          "music": null,
+          "goc": "OTS qua vai SUTCLIFFE → FABIAN — FABIAN nét giữa khung, rõ mặt · vai và gáy SUTCLIFFE out nét tiền cảnh trái",
+          "prompt": "Nhận diện:\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nFabian đang giữ chỗ đứng của mình và đợi khoảng lặng để được nói; cậu không phản ứng lại tiếng cười.\n\nFABIAN — silent, composed, steady breathing, one slow blink\n\nSUTCLIFFE — silent, back to camera, shoulder still moving from the laugh\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-06",
+          "dur": 5,
+          "text": "FABIAN: \"Ten minutes, sir,\"\nNARRATOR: he said — to the owner, not the manager.",
+          "music": null,
+          "goc": "OTS qua vai FABIAN → BELLAMY — BELLAMY nét lớp sau, rõ mặt · SUTCLIFFE nét lớp giữa, rõ mặt · vai và gáy FABIAN out nét tiền cảnh phải",
+          "prompt": "Nhận diện:\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nFabian bỏ qua ông quản gia và nói thẳng với người chủ; Bellamy nhận ra câu đó dành cho mình.\n\nFABIAN — quiet, respectful, firm: \"Ten minutes, sir,\"\n\nBELLAMY — silent, caught off guard, straightening slightly\n\nSUTCLIFFE — silent, smile flattening, jaw tightening\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-07",
+          "sf": "SF-S1-07",
+          "dur": 5,
+          "text": "FABIAN: \"I won't touch a bolt without asking. I only want to listen to it.\"",
+          "music": null,
+          "goc": "Tight two-shot — FABIAN nét nửa phải, rõ mặt · SUTCLIFFE nét nửa trái, rõ mặt · BELLAMY mờ lớp sau",
+          "prompt": "Nhận diện:\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nFabian đang tự rào lại giới hạn của mình trước khi ai kịp từ chối; Sutcliffe nghe mà không tin nổi.\n\nFABIAN — quiet, plain, sincere: \"I won't touch a bolt without asking. I only want to listen to it.\"\n\nSUTCLIFFE — silent, disbelieving, one eyebrow lifting\n\nBELLAMY — silent, attentive\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-08",
+          "sf": "SF-S1-08",
+          "dur": 4,
+          "text": "NARRATOR: Listen to it. Six factory technicians exchanged glances.",
+          "music": null,
+          "goc": "Medium — SUTCLIFFE nét nửa trái, rõ mặt · BELLAMY nét lớp sau, rõ mặt · FABIAN rìa phải, rõ mặt",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nCả khoang gara vừa nghe một câu không ai chuẩn bị trước và đang tự hỏi có nên coi nó là nghiêm túc không.\n\nSUTCLIFFE — silent, smile fading, mouth tightening\n\nBELLAMY — silent, genuinely considering it\n\nFABIAN — silent, calm, waiting\n\nQUẦN CHÚNG NỀN — nhóm kỹ thuật viên áo polo đỏ quanh xe đẩy dụng cụ phía sau: ngẩng lên nhìn về phía góc ghế đẩu rồi liếc nhau, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B1",
+          "sf": "SF-S1-B1",
+          "dur": 7,
+          "text": "[NHỊP] Nhịp không thoại — chiếc xe hỏng nằm im giữa hai phía, rồi Bellamy rời chỗ.\nNARRATOR: Three million dollars of Ferrari sat between them, broken in a way their laptops couldn't name.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Ba triệu đô nằm im giữa hai phía; cả phòng phải giữ mặt lạnh trong khi bên trong đã cạn cách — nhạc phải kìm hơn cảm xúc thật.",
+            "a": "Cinematic soul-blues at 68 BPM, a male baritone singing very close to the mic, gravelled and almost spoken; muted electric guitar on the offbeat, upright bass walking slowly, brushed snare entering only at the halfway mark, one low cello note swelling under the peak then pulling straight back to voice and guitar; lyrics about a beautiful machine that has stopped speaking to the people who built it, never triumphant, no big chorus; warm analog mix, tape saturation, male vocal, soul-blues, restrained, intimate",
+            "a_kind": "có lời",
+            "b": "Instrumental slow-burn at 68 BPM; a single detuned electric guitar figure repeating with a long reverb tail, upright bass holding one low sustained note underneath, a faint metallic room hum like a cold workshop, no drums until one soft kick at the two-thirds mark, then everything drops away to the guitar alone and stops; dry intimate mix, cinematic, blues, sparse, tense, no vocals",
+            "b_kind": "không lời"
+          },
+          "goc": "Cinematic wide — SUTCLIFFE nét bên trái, rõ mặt · BELLAMY nét bên trái lớp sau, rõ mặt · FABIAN nét bên phải, rõ mặt",
+          "prompt": "Nhận diện:\n- SUTCLIFFE = quản gia điền trang, đàn ông da trắng ngoài năm mươi, vest xám than, cà vạt navy\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 7 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói.\n\nTrạng thái: cả căn phòng vừa cạn hết cách. Ba tuần đo đạc không trả lời được câu hỏi đơn giản nhất, và thứ đắt nhất trong phòng lại là thứ im lặng nhất. Gợi ý diễn biến: giữ mọi người gần như bất động ở đầu clip, để một hơi thở dài của Sutcliffe và một cái liếc của Fabian về phía chiếc xe làm toàn bộ chuyển động.\n\nQUẦN CHÚNG NỀN — hai kỹ thuật viên áo polo đỏ ở hậu cảnh trái đứng yên, một người khoanh tay rồi buông xuống, cử động rất nhẹ, không ai nhìn camera.\n\nÂm thanh: KHÔNG thoại, KHÔNG nhạc. Chỉ ambient gara rất nhẹ: tiếng quạt thông gió đều đều và một tiếng kim loại lách cách rất khẽ từ xe đẩy dụng cụ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.\n\nKẾT CLIP: Bellamy rút hai tay khỏi túi quần, rời chỗ đứng cạnh đuôi xe và bước vòng qua hông xe về phía góc gần cửa cuốn, rồi dừng lại giữa khoang.",
+          "chuyen": true
+        },
+        {
+          "id": "V-S1-09",
+          "sf": "SF-S1-09-MASTER",
+          "dur": 6,
+          "text": "RAVELLI: \"Let him,\"\nNARRATOR: said a voice from the corner. Roughened by forty years of engine rooms.",
+          "music": null,
+          "goc": "Medium wide — RAVELLI nét nửa trái, rõ mặt · BELLAMY nét giữa khung, rõ mặt · FABIAN lớp sau bên phải, rõ mặt",
+          "prompt": "Nhận diện:\n- RAVELLI = thợ máy già người Ý sáu mươi chín tuổi, tóc bạc, áo sơ mi lao động navy tay ngắn\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nNgười già nhất trong phòng, người ba tuần nay chỉ ngồi nhìn, quyết định lên tiếng một lần duy nhất.\n\nRAVELLI — low, gravelled, quiet: \"Let him,\"\n\nBELLAMY — silent, turning fully toward him, surprised\n\nFABIAN — silent, holding his breath\n\nQUẦN CHÚNG NỀN — nhóm kỹ thuật viên áo polo đỏ ở hậu cảnh sâu ngẩng lên nhìn về phía ghế đẩu, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-10",
+          "sf": "SF-S1-10",
+          "dur": 6,
+          "text": "NARRATOR: Because the sound this boy was about to describe — one man in that garage had heard before.",
+          "music": null,
+          "goc": "OTS qua vai BELLAMY → RAVELLI — RAVELLI nét giữa khung, rõ mặt · vai và gáy BELLAMY out nét tiền cảnh trái · FABIAN mờ lớp sau",
+          "prompt": "Nhận diện:\n- RAVELLI = thợ máy già người Ý sáu mươi chín tuổi, tóc bạc, áo sơ mi lao động navy tay ngắn\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nRavelli đang giữ nguyên chỗ ngồi của mình và để người khác tự hiểu vì sao ông nói câu đó.\n\nRAVELLI — silent, unblinking, then one slow blink, jaw set\n\nBELLAMY — silent, back to camera, head tilting slightly\n\nFABIAN — silent, watching from behind\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-11",
+          "sf": "SF-S1-11",
+          "dur": 4,
+          "text": "NARRATOR: Decades ago. In Modena. It had haunted him ever since.",
+          "music": null,
+          "goc": "CU — RAVELLI nét kín khung, rõ mặt · vai BELLAMY out nét rìa trái · FABIAN mờ lớp sau",
+          "prompt": "Nhận diện:\n- RAVELLI = thợ máy già người Ý sáu mươi chín tuổi, tóc bạc, áo sơ mi lao động navy tay ngắn\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nRavelli đang ở một nơi khác trong đầu và tự kéo mình về.\n\nRAVELLI — silent, distant, one long inhale through the nose\n\nBELLAMY — silent, shoulder only, motionless\n\nFABIAN — silent, blurred in the background\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-12",
+          "sf": "SF-S1-12",
+          "dur": 6,
+          "text": "NARRATOR: Have you ever watched a room full of experts get humbled by somebody they wouldn't even look at",
+          "music": null,
+          "goc": "Cinematic wide từ sau lưng RAVELLI — vai và gáy RAVELLI out nét tiền cảnh trái · BELLAMY nét giữa khung, rõ mặt · FABIAN nét bên phải, rõ mặt",
+          "prompt": "Nhận diện:\n- RAVELLI = thợ máy già người Ý sáu mươi chín tuổi, tóc bạc, áo sơ mi lao động navy tay ngắn\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 6 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nCả nhóm chuyên gia đang lần đầu thật sự nhìn về phía cậu thiếu niên mà suốt ba tuần họ đi ngang qua.\n\nRAVELLI — silent, shoulder in foreground, unmoving\n\nBELLAMY — silent, weighing it, a small nod forming\n\nFABIAN — silent, standing his ground\n\nQUẦN CHÚNG NỀN — nhóm kỹ thuật viên áo polo đỏ quanh xe đẩy dụng cụ phía sau: ngẩng lên nhìn về phía góc ghế đẩu rồi liếc nhau, cử động tự nhiên nhẹ, không ai nhìn camera.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-13",
+          "sf": "SF-S1-13",
+          "dur": 6,
+          "text": "NARRATOR: — and cheer while it happened? You're about to. Drop a comment with your city, smash like,",
+          "music": null,
+          "goc": "Medium — FABIAN nét nửa phải, rõ mặt · BELLAMY nét giữa khung, rõ mặt · RAVELLI nét nửa trái, rõ mặt",
+          "prompt": "Nhận diện:\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n- BELLAMY = chủ nhà, đàn ông da trắng năm mươi tám tuổi, áo len xám cổ khoá kéo ngắn\n- RAVELLI = thợ máy già người Ý sáu mươi chín tuổi, tóc bạc, áo sơ mi lao động navy tay ngắn\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nBa người vừa đi tới một thoả thuận không ai nói thành lời.\n\nFABIAN — silent, steady, a short breath in\n\nBELLAMY — silent, one small decisive nod\n\nRAVELLI — silent, quietly satisfied, leaning back a little\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ và một hai phản ứng âm thanh ngắn không lời (thở ra qua mũi, hừ khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B2",
+          "sf": "SF-S1-B2",
+          "dur": 6,
+          "text": "[NHỊP] Cầu nối sang hồi tưởng — bàn tay Fabian khép lại quanh sợi dây ống nghe của ông nội.\nNARRATOR: and let me take you back to a one-bay garage where this story really began.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Bản lề của cả hook: kéo khán giả từ khoang gara ba triệu đô về căn tiệm một khoang. Đây là chỗ duy nhất trong hai phút nhạc được chiếm sân khấu.",
+            "a": "Gospel-soul build at 84 BPM; a female alto lead entering alone and very close to the mic, joined by a three-voice hum choir at the halfway mark; Rhodes and tambourine underneath, kick and clap arriving together on the lift, one brass swell at the peak, then an open unresolved ending; lyrics about going back to the small room where a boy was taught how to listen, hopeful but never victorious; warm analog mix, female vocal, gospel-soul, rising, cinematic",
+            "a_kind": "có lời",
+            "b": "Instrumental build at 84 BPM; felt piano stating a four-note motif alone, low strings entering underneath and climbing, a floor tom pattern arriving at the halfway mark and doubling, one cymbal swell at the peak, then cutting straight to a single sustained piano note left ringing; cinematic, orchestral, rising, warm, no vocals",
+            "b_kind": "không lời"
+          },
+          "goc": "Đặc tả — ngực áo và bàn tay phải FABIAN nét kín khung · cằm FABIAN mờ ở mép trên khung",
+          "prompt": "Nhận diện:\n- FABIAN = thiếu niên da đen mười sáu tuổi, áo phông navy bạc màu, ống nghe thợ máy quàng cổ\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói.\n\nTrạng thái: cậu bé vừa được cho phép làm điều mình xin, và phản xạ đầu tiên là tìm về món đồ của người đã dạy mình. Gợi ý diễn biến: bàn tay đang lơ lửng khép dần lại quanh sợi dây quấn băng dính, giữ ở đó, ngực nâng lên một nhịp thở sâu. Ngoài bàn tay và nhịp thở, không có chuyển động nào khác.\n\nÂm thanh: KHÔNG thoại, KHÔNG nhạc. Chỉ ambient rất nhẹ: tiếng quạt thông gió xa và tiếng vải áo cọ khẽ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — Gara Tucker, sáng thứ Bảy (hồi tưởng): Name That Cylinder",
+      "sfs": [
+        {
+          "id": "SF-S2-01-MASTER",
+          "label": "MASTER S2 — sáng thứ Bảy ở tiệm của ông nội",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, cách 4 mét, đặt ở cửa khoang chếch phải.\n\nChiếc xe cũ đỗ giữa khoang, nắp ca-pô mở dựng, chiếm phần giữa khung; phù hiệu hãng và biển số làm mờ, nhãn hư cấu. AMOS đứng bên trái xe, cạnh chắn bùn trước bên trái, người hơi cúi về phía khoang máy, hai tay chống lên mép chắn bùn, đầu nghiêng sang một bên như đang nghe. FABIAN NHỎ ngồi bên phải khung trên một két sữa nhựa lật ngược đặt cách bánh trước khoảng một mét rưỡi, hai chân chạm đất, hai tay đặt trên đầu gối, lưng thẳng. Không có ai khác trong khoang.\n\nHƯỚNG NHÌN: Amos nhìn xuống khoang máy; Fabian nhỏ nhìn ông nội.\n\nBIỂU CẢM: Amos điềm đạm và chăm chú. Fabian nhỏ háo hức, đang chờ tới lượt mình đoán.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos nhắm mắt lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "REF_BG_TUCKER_GARAGE_SANG"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-02",
+          "label": "Thằng bé nhắm mắt đoán máy nổ",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh hai người, ống kính 50mm, camera hạ thấp ngang tầm mắt đứa trẻ ngồi, cách 2 mét, chếch trái.\n\nFABIAN NHỎ nét ở nửa phải khung, ngồi trên két sữa lật ngược, hai tay đặt trên đầu gối, mắt nhắm lại, đầu hơi nghiêng về phía chiếc xe. AMOS nét ở nửa trái khung, vẫn đứng cúi bên chắn bùn, quay đầu nhìn sang thằng bé. Giữa hai người là một khoảng trống thấy được mép cánh ca-pô mở dựng.\n\nHƯỚNG NHÌN: Fabian nhỏ nhắm mắt, mặt hướng về phía chiếc xe; Amos nhìn thằng bé.\n\nBIỂU CẢM: Fabian nhỏ tập trung hết sức, môi mím lại vì cố. Amos vui thầm, khoé mắt nhăn lại.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi thằng bé mở miệng đoán.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL",
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-03",
+          "label": "Bốn mươi năm đứng một chỗ",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh (CU), ống kính 85mm, camera ngang tầm mắt, cách 1,2 mét, chếch phải.\n\nAMOS nét chiếm gần kín khung, từ vai trở lên, thấy rõ tóc bạc cắt sát, ria bạc tỉa gọn và nếp nhăn cười ở khoé mắt. Lớp sau bên phải, FABIAN NHỎ ngồi mờ trên két sữa, nhận ra được dáng đứa trẻ.\n\nHẬU CẢNH: sau lưng Amos là bàn thợ gỗ dày và bảng treo dụng cụ có viền phấn trắng, xoá mờ vừa phải.\n\nHƯỚNG NHÌN: Amos nhìn xuống khoang máy, ngoài khung.\n\nBIỂU CẢM: điềm đạm, chắc chắn, gương mặt của người đứng ở đúng chỗ này suốt bốn mươi năm.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos gật đầu một cái.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-04",
+          "label": "Cái tiệm ông tự dựng lên",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, cách 4,5 mét, đặt phía trong khoang nhìn ngược ra cửa cuốn.\n\nAMOS nét đứng giữa khung, đã đứng thẳng lưng lên, một tay còn tì lên mép chắn bùn, người xoay ba phần tư về phía cửa. FABIAN NHỎ nét ngồi bên phải khung trên két sữa lật ngược. Cửa cuốn tôn kéo lên hết ở hậu cảnh, nắng sớm tràn vào đổ một mảng sáng rộng lên sàn bê tông vá loang vệt dầu. Đuôi chiếc xe cũ chạy chéo qua rìa trái khung, phù hiệu hãng và biển số làm mờ, nhãn hư cấu.\n\nHƯỚNG NHÌN: Amos nhìn ra phía cửa; Fabian nhỏ nhìn ông nội.\n\nBIỂU CẢM: Amos bình thản, một chút tự hào rất kín. Fabian nhỏ ngưỡng mộ.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos cúi trở lại về phía khoang máy.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-05",
+          "label": "Giữ tiệm sống bằng tay nghề và lời truyền miệng",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 50mm, camera ngang tầm mắt, cách 2,2 mét, chính diện.\n\nAMOS nét ở nửa trái khung, từ hông trở lên, đang cúi trở lại về phía khoang máy, tay phải với lấy chiếc khăn lau máy màu đỏ ở túi quần sau. FABIAN NHỎ nét ở nửa phải khung, ngồi trên két sữa, ngước nhìn lên. Ở lớp sau bên trái thấy tủ đồ nghề thép sơn đỏ bạc màu nhiều ngăn.\n\nHƯỚNG NHÌN: Amos nhìn xuống hai bàn tay mình; Fabian nhỏ nhìn ông nội.\n\nBIỂU CẢM: Amos tập trung vào việc đang làm. Fabian nhỏ kiên nhẫn chờ.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos rút hẳn chiếc khăn ra.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-06",
+          "label": "Người thợ mà thợ khác mang bài toán tới",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 40mm, camera đặt cao ngang mép khoang máy nhìn qua nắp ca-pô mở, cách 1,8 mét.\n\nNhìn qua khe giữa cánh ca-pô mở dựng và thân xe: AMOS nét chiếm phần giữa khung, từ ngực trở lên, hai tay chống mép chắn bùn, mặt hướng xuống. FABIAN NHỎ ngồi mờ ở lớp sau bên phải, thấy được dáng đứa trẻ trên két sữa. Mép cánh ca-pô sơn tối chạy ngang rìa dưới khung làm tiền cảnh.\n\nHƯỚNG NHÌN: Amos nhìn xuống, mắt vừa khép lại; Fabian nhỏ nhìn ông.\n\nBIỂU CẢM: Amos như người sắp bước vào một buổi hoà nhạc chứ không phải một ca sửa chữa.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos nhắm hẳn mắt.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-07",
+          "label": "Những chiếc xe mà máy móc đã bó tay",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, cách 4 mét, chếch trái.\n\nToàn khoang gara trong một khung: chiếc xe cũ nắp ca-pô mở dựng ở giữa (phù hiệu hãng và biển số làm mờ, nhãn hư cấu), AMOS nét đứng bên trái xe cạnh chắn bùn, FABIAN NHỎ nét ngồi bên phải trên két sữa lật ngược. Bên trái khung là bàn thợ gỗ dày với ê tô và bảng treo dụng cụ viền phấn; bên phải là tủ đồ nghề thép sơn đỏ bạc màu, trên nóc có bình cà phê và mấy chiếc ca men.\n\nHƯỚNG NHÌN: Amos nhắm mắt, mặt hướng xuống khoang máy; Fabian nhỏ nhìn ông nội.\n\nBIỂU CẢM: cả khoang gara lặng đi, chỉ còn hai ông cháu và tiếng máy.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos nghiêng đầu thêm một chút.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-08",
+          "label": "Nghe như người nghe hoà nhạc",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh (CU), ống kính 100mm, camera ngang tầm mắt, cách 0,9 mét, chếch trái.\n\nAMOS nét chiếm gần kín khung, từ vai trở lên, hai mắt nhắm, đầu nghiêng nhẹ sang một bên, môi khép, cơ hàm giãn ra hoàn toàn. Lớp sau bên phải, FABIAN NHỎ ngồi mờ, chỉ nhận ra dáng đứa trẻ.\n\nHẬU CẢNH: tường gạch sơn kem đã ố xoá mờ mạnh.\n\nHƯỚNG NHÌN: mắt nhắm, mặt hơi hướng xuống về phía tiếng máy.\n\nBIỂU CẢM: thanh thản, hoàn toàn chìm vào âm thanh, gương mặt của người đang nghe nhạc chứ không phải đang chẩn bệnh.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos mở mắt.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-09",
+          "label": "Ông nói ra bệnh, và ông đúng",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh hai người, ống kính 50mm, camera ngang tầm mắt, cách 2 mét, chính diện giữa hai người.\n\nAMOS nét ở nửa trái khung, từ ngực trở lên, đã mở mắt, quay đầu sang phía thằng bé. FABIAN NHỎ nét ở nửa phải khung, cùng cỡ mặt, ngồi trên két sữa, ngẩng lên. Giữa hai người là khoảng trống thấy được mép cánh ca-pô mở dựng ở lớp sau.\n\nHƯỚNG NHÌN: hai ông cháu nhìn thẳng mắt nhau.\n\nBIỂU CẢM: Amos chắc chắn, không đắc thắng. Fabian nhỏ há miệng thán phục.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos nhướn mày hỏi lại thằng bé.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay chống mép chắn bùn",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-B1",
+          "label": "🎬 NHỊP LẶNG — món đồ nghề của ông nội",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh (CU), ống kính 100mm, camera ngang tầm ngực, cách 0,6 mét, chếch phải.\n\nKhung chỉ còn hai bàn tay của AMOS nâng chiếc ống nghe thợ máy lên ngang ngực: que dò thép dài, khối nghe kim loại tròn dẹt, dây cao su đen nứt chân chim quấn băng dính điện thành từng đoạn, hai nhánh tai thép buông xuống. Bàn tay còn vệt dầu ở kẽ móng. Phía trên khung, phần ngực áo lao động navy bạc màu và cằm của AMOS xoá mờ nhẹ, vẫn nhận ra là ông.\n\nHẬU CẢNH: mảng sáng ấm của cửa cuốn mở xoá mờ hoàn toàn, không đọc ra chi tiết.\n\nBIỂU CẢM: hai bàn tay cầm món đồ một cách quen thuộc và nhẹ nhàng, kiểu người cầm nó mỗi ngày suốt bốn mươi năm.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos đưa hai nhánh tai lên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_PROP_ONG_NGHE"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai bàn tay nâng chiếc ống nghe ngang ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-10",
+          "label": "Cả đạo lý của ông vừa đủ một chiếc khăn lau máy",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 50mm, camera ngang tầm mắt, cách 2,2 mét, chếch phải.\n\nAMOS nét ở giữa khung, từ hông trở lên, hai tay đang lau vào chiếc khăn lau máy màu đỏ, người xoay hẳn về phía thằng bé. FABIAN NHỎ nét ở nửa phải khung, ngồi trên két sữa lật ngược, ngẩng lên chờ. Ở lớp sau bên trái là bàn thợ gỗ dày và ê tô.\n\nHƯỚNG NHÌN: Amos nhìn thẳng vào thằng bé; Fabian nhỏ nhìn lại ông.\n\nBIỂU CẢM: Amos ấm và thong thả, sắp nói một câu ông đã nói nhiều lần. Fabian nhỏ chờ đợi.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos cất tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay lau vào khăn lau máy đỏ",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-11",
+          "label": "Câu ông nội dạy cháu",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh hai người (tight two-shot), ống kính 50mm, camera hạ thấp ngang tầm mắt đứa trẻ ngồi, cách 1,6 mét, chính diện giữa hai người.\n\nAMOS nét ở nửa trái khung, từ ngực trở lên, đã khom người xuống thấp cho ngang tầm thằng bé, chiếc khăn lau máy đỏ gấp trong tay. FABIAN NHỎ nét ở nửa phải khung, cùng cỡ mặt, ngồi trên két sữa, ngẩng nhìn ông. Ở lớp sau thấy mảng sáng ấm của cửa cuốn mở, xoá mờ.\n\nHƯỚNG NHÌN: hai ông cháu nhìn thẳng mắt nhau.\n\nBIỂU CẢM: Amos ấm, thong thả, nghiêm túc vừa đủ. Fabian nhỏ nghe như nuốt từng chữ.\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nĐúng khoảnh khắc ngay TRƯỚC khi Amos nói câu đầu tiên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AMOS_PORTRAIT",
+              "REF_AMOS_FULL",
+              "REF_FABIANNHO_PORTRAIT",
+              "REF_FABIANNHO_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "pose": {
+            "zone": "gara Tucker khoang duy nhất",
+            "who": {
+              "AMOS": "đứng cúi trên khoang máy mở nắp",
+              "FABIAN NHỎ": "ngồi trên két sữa lật ngược cạnh bánh trước"
+            },
+            "dist": "Amos cách Fabian nhỏ 1,5m",
+            "hands": {
+              "AMOS": "hai tay lau vào khăn lau máy đỏ",
+              "FABIAN NHỎ": "hai tay đặt trên đầu gối"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S2-01",
+          "sf": "SF-S2-01-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: Every Saturday morning of his childhood, Fabian Tucker sat on an upturned milk crate in a one-bay garage",
+          "music": null,
+          "goc": "Cinematic wide — AMOS nét bên trái cạnh khoang máy, rõ mặt · FABIAN NHỎ nét bên phải trên két sữa, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nHai ông cháu đang ở giữa buổi sáng thứ Bảy quen thuộc của họ: ông làm việc, thằng bé ngồi hóng.\n\nAMOS — silent, calm, head tilting, then eyes closing to listen\n\nFABIAN NHỎ — silent, delighted, small excited breath in\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-02",
+          "sf": "SF-S2-02",
+          "dur": 6,
+          "text": "NARRATOR: that smelled of oil and coffee, playing a game his grandfather called Name That Cylinder.",
+          "music": null,
+          "goc": "Medium two-shot — FABIAN NHỎ nét nửa phải, mắt nhắm, rõ mặt · AMOS nét nửa trái, rõ mặt",
+          "prompt": "Nhận diện:\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nThằng bé đang chơi trò quen thuộc của hai ông cháu và cố hết sức để đoán trúng.\n\nFABIAN NHỎ — silent, eyes closed, brow furrowing with effort, then a small proud smile\n\nAMOS — silent, warm, quietly amused, one nod\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-03",
+          "sf": "SF-S2-03",
+          "dur": 4,
+          "text": "NARRATOR: Amos Tucker ran Tucker's Garage for forty years —",
+          "music": null,
+          "goc": "CU — AMOS nét kín khung, rõ mặt · FABIAN NHỎ mờ lớp sau bên phải",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos đang làm cái việc ông làm mỗi ngày, không cần ai nhìn.\n\nAMOS — silent, steady, one slow nod\n\nFABIAN NHỎ — silent, blurred behind, swinging one foot lightly\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-04",
+          "sf": "SF-S2-04",
+          "dur": 6,
+          "text": "NARRATOR: a Black man who'd opened his own shop in a decade when banks laughed at the application,",
+          "music": null,
+          "goc": "Cinematic wide — AMOS nét giữa khung, rõ mặt · FABIAN NHỎ nét bên phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nAmos đang đứng giữa cái tiệm do chính ông dựng lên và không tỏ ra điều gì về chuyện đó.\n\nAMOS — silent, calm, wiping one hand on his hip, looking toward the open door\n\nFABIAN NHỎ — silent, watching his grandfather with open admiration\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-05",
+          "sf": "SF-S2-05",
+          "dur": 5,
+          "text": "NARRATOR: and kept it alive on nothing but skill and word of mouth.",
+          "music": null,
+          "goc": "Medium — AMOS nét nửa trái, rõ mặt · FABIAN NHỎ nét nửa phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos đang tiếp tục công việc bằng đúng thứ duy nhất ông có: đôi tay.\n\nAMOS — silent, unhurried, pulling the red rag free and wiping his fingers\n\nFABIAN NHỎ — silent, patient, waiting his turn\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-06",
+          "sf": "SF-S2-06",
+          "dur": 5,
+          "text": "NARRATOR: He was the mechanic other mechanics brought their headaches to.",
+          "music": null,
+          "goc": "Medium nhìn qua khoang máy — AMOS nét giữa khung, rõ mặt · FABIAN NHỎ mờ lớp sau bên phải",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos đang chuẩn bị làm cái việc mà không máy móc nào trong tiệm làm được thay ông.\n\nAMOS — silent, settling himself, eyes closing\n\nFABIAN NHỎ — silent, going very still so as not to disturb him\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-07",
+          "sf": "SF-S2-07",
+          "dur": 5,
+          "text": "NARRATOR: Dealerships would quietly send him the cars their computers had given up on,",
+          "music": null,
+          "goc": "Cinematic wide — AMOS nét bên trái, rõ mặt · FABIAN NHỎ nét bên phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nCả khoang gara chỉ còn hai ông cháu và một chiếc xe mà không ai khác gọi tên được bệnh của nó.\n\nAMOS — silent, eyes closed, head tilting a fraction more\n\nFABIAN NHỎ — silent, motionless, copying his grandfather's stillness\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-08",
+          "sf": "SF-S2-08",
+          "dur": 6,
+          "text": "NARRATOR: and Amos would stand over the engine with his eyes closed like a man at a concert,",
+          "music": null,
+          "goc": "CU — AMOS nét kín khung, mắt nhắm, rõ mặt · FABIAN NHỎ mờ lớp sau bên phải",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos đang lắng nghe chiếc máy theo cách người ta nghe một bản nhạc, và không vội.\n\nAMOS — silent, serene, eyes closed, one long breath, then eyes opening\n\nFABIAN NHỎ — silent, blurred behind, watching without a sound\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-09",
+          "sf": "SF-S2-09",
+          "dur": 7,
+          "text": "NARRATOR: and then he'd tell you what was wrong, and he was right so often it made people uncomfortable.",
+          "music": null,
+          "goc": "Medium two-shot — AMOS nét nửa trái, rõ mặt · FABIAN NHỎ nét nửa phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos vừa gọi đúng tên thứ đang hỏng và quay sang xem thằng bé có nghe ra như mình không.\n\nAMOS — silent, certain, never boastful, one eyebrow lifting toward the boy\n\nFABIAN NHỎ — silent, mouth opening in amazement, then a wide grin\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-B1",
+          "sf": "SF-S2-B1",
+          "dur": 6,
+          "text": "[NHỊP] Nhịp không thoại — chiếc ống nghe thợ máy cũ trong hai bàn tay Amos.\nNARRATOR: His instrument was an old mechanic's stethoscope — steel probe, cracked tubing wrapped in electrical tape —",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Nhịp thở duy nhất của hai phút. Khán giả cần một khoảng lặng để tự nhận ra món đồ trong tay ông nội chính là món đang treo trên cổ cậu bé ở gara dinh thự.",
+            "a": "Front-porch folk at 58 BPM; a weathered male tenor singing quietly and almost spoken, one fingerpicked acoustic guitar, a faint upright bass brushed in the low end, no percussion at all; the melody circles back on itself twice and simply fades out; lyrics about an old tool outliving the hand that used it, plain and unsentimental, never nostalgic; dry intimate mix, close-mic, folk, male vocal, warm, minimal",
+            "a_kind": "có lời",
+            "b": "Ambient instrumental at 54 BPM; one warm pad breathing very slowly, a felt-piano phrase repeating with long sustain and getting quieter each pass, a faint metallic workshop hum underneath, no percussion, no arc, simply fading out; extremely soft mix, almost subliminal, ambient, piano, warm, minimal, no vocals",
+            "b_kind": "không lời"
+          },
+          "goc": "Cận cảnh — hai bàn tay AMOS nét kín khung · cằm và ngực áo AMOS mờ ở mép trên khung",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói.\n\nTrạng thái: đây là toàn bộ công nghệ mà người thợ giỏi nhất vùng cần tới, và nó cũ đến mức phải quấn băng dính mới dùng được. Gợi ý diễn biến: hai bàn tay xoay nhẹ món đồ để dây quấn băng dính lộ ra rõ hơn, rồi nâng hai nhánh tai lên khỏi mép khung. Ngoài đôi bàn tay, không có chuyển động nào khác.\n\nÂm thanh: KHÔNG thoại, KHÔNG nhạc. Chỉ ambient rất nhẹ: động cơ nổ đều ở chế độ không tải và tiếng cao su cọ khẽ vào nhau.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-10",
+          "sf": "SF-S2-10",
+          "dur": 4,
+          "text": "NARRATOR: and his doctrine fit on a shop rag:",
+          "music": null,
+          "goc": "Medium — AMOS nét giữa khung, rõ mặt · FABIAN NHỎ nét nửa phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos vừa xong việc và quay hẳn sang thằng bé để trả lời câu hỏi nó chưa kịp hỏi.\n\nAMOS — silent, warm, unhurried, folding the rag once\n\nFABIAN NHỎ — silent, expectant, sitting up straighter\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. Nhân vật diễn kịch câm, chỉ có âm nền gara rất nhẹ (động cơ nổ đều ở chế độ không tải, chim ngoài sân) và một hai phản ứng âm thanh ngắn không lời (cười khẽ qua mũi, hít vào thích thú). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-11",
+          "sf": "SF-S2-11",
+          "dur": 6,
+          "text": "AMOS: \"Engines talk. Most folks just don't sit still long enough to listen.\"",
+          "music": null,
+          "goc": "Tight two-shot — AMOS nét nửa trái, rõ mặt · FABIAN NHỎ nét nửa phải, rõ mặt",
+          "prompt": "Nhận diện:\n- AMOS = ông nội, đàn ông da đen ngoài bảy mươi, tóc bạc, áo lao động navy bạc màu xắn tay\n- FABIAN NHỎ = bé trai da đen tám tuổi, áo phông xám nhạt bạc màu, quần jean xanh sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nAmos đang trao cho thằng bé cái nguyên tắc mà cả đời ông sống theo, bằng giọng nói chuyện bình thường.\n\nAMOS — warm, unhurried, matter-of-fact: \"Engines talk. Most folks just don't sit still long enough to listen.\"\n\nFABIAN NHỎ — silent, taking in every word, nodding once\n\nAn toàn: không ai đưa tay vào trong khoang máy, không ai cúi đầu xuống dưới nắp ca-pô đang mở, cậu bé ngồi yên tại chỗ cách xe một khoảng và không với tới bất cứ bộ phận nào.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    }
+  ]
+}

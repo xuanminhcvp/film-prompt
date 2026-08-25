@@ -1,0 +1,1361 @@
+{
+  "film": "HOOK — PRESTON TOLLIVER · LIKE A SWITCH (2 PHÚT)",
+  "updated_at": "2026-08-24 09:37:30",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_PRESTON_PORTRAIT",
+          "label": "★ PRESTON TOLLIVER — 11 tuổi",
+          "desc": "Nhân vật chính · 11 tuổi · con trai của nữ nhân viên cấp cứu Yvette, sống chung với chứng loạn nhịp tim từ năm 7 tuổi nên hiểu bệnh của mình hơn phần lớn người lớn. Có mặt gần như toàn bộ 2 phút.\nMặt phải đọc ra: một đứa trẻ ĐIỀM TĨNH và TỈNH TÁO, quen quan sát, không sợ sệt, không láu cá.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nBé trai người Mỹ gốc Phi 11 tuổi, da nâu sẫm đều màu, khoẻ mạnh, má còn đầy. Tóc xoăn tự nhiên cắt ngắn sát đầu, đường chân tóc cắt gọn. Mũi rộng vừa, môi đầy, cằm tròn. Mắt to, hai mí rõ, tròng mắt nâu sẫm, lông mi dày. Ánh nhìn TỈNH, ẤM và CHẮC — kiểu đứa trẻ quen ngồi yên quan sát và đếm mọi thứ. Da mặt sạch, không quầng thâm, không hốc hác.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PRESTON_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_PRESTON_FULL",
+          "label": "PRESTON — áo thun navy · khoác nỉ xám (ngày khánh thành)",
+          "desc": "Bộ duy nhất của Preston trong 2 phút: đồ mặc đi theo mẹ tới ca trực, gia đình eo hẹp nên đồ cũ nhưng sạch sẽ tinh tươm.\nDùng: S1 · S2 · S4 · S5",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, TOÀN THÂN từ đỉnh đầu tới giày, chính diện, đứng thẳng tự nhiên, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống HỆT ẢNH PORTRAIT THAM CHIẾU đính kèm.\n\nBé trai 11 tuổi, cao khoảng một mét bốn mươi hai, người gầy, vai nhỏ.\n\nTRANG PHỤC: Áo thun cotton xanh navy trơn, cổ tròn, đã bạc màu nhẹ vì giặt nhiều nhưng PHẲNG PHIU và được giặt cẩn thận, không rách, không bẩn. Khoác ngoài một áo nỉ mỏng màu xám ghi có khoá kéo, khoá kéo để MỞ hoàn toàn, hai cổ tay áo hơi sờn chỉ. Quần jean xanh sẫm vừa vặn, gấu quần gập lên một lần. Giày thể thao vải màu trắng đã ngả kem, dây buộc gọn gàng.\n\nCHẶN LỖI: Cổ tay TRÁI để TRỐNG hoàn toàn. Không đeo trang sức, không đội mũ, không đeo kính, không đeo balô. Toàn bộ cúc và khoá ở trạng thái như mô tả, không xộc xệch.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_PRESTON_FULL_v1.png"
+        },
+        {
+          "id": "REF_YVETTE_PORTRAIT",
+          "label": "★ YVETTE TOLLIVER — 36 tuổi, nhân viên cấp cứu",
+          "desc": "Mẹ Preston · 36 tuổi · nhân viên cấp cứu 9 năm nghề, đang trực y tế cho buổi lễ. Người duy nhất trong phòng tin con mình.\nMặt phải đọc ra: một người ĐÃ QUEN CHỊU TRÁCH NHIỆM, bình tĩnh nghề nghiệp, mệt nhưng vững.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nPhụ nữ người Mỹ gốc Phi 36 tuổi, da nâu trung bình, khoẻ mạnh. Tóc đen dày kéo thẳng ra sau và buộc thấp gọn sát gáy, không sợi lòa xòa. Gương mặt trái xoan, gò má cao, mũi thẳng vừa, môi đầy vừa. Mắt hình quả hạnh, tròng nâu sẫm, ánh nhìn thẳng và điềm đạm. Da mặt sạch, không quầng thâm, không hốc hác, không trang điểm đậm — chỉ một lớp rất mỏng tự nhiên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_YVETTE_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_YVETTE_FULL",
+          "label": "YVETTE — đồng phục cấp cứu Medic 12",
+          "desc": "Bộ duy nhất của Yvette trong 2 phút: đang trong ca trực y tế của buổi lễ.\nĐồng phục: CAPCUU (neo)\nDùng: S2 · S3 · S5",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, TOÀN THÂN từ đỉnh đầu tới giày, chính diện, đứng thẳng tự nhiên, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống HỆT ẢNH PORTRAIT THAM CHIẾU đính kèm.\n\nPhụ nữ 36 tuổi, cao khoảng một mét sáu tám, dáng chắc.\n\nTRANG PHỤC: Áo polo đồng phục cấp cứu màu xanh navy đậm, vải dày, cài kín toàn bộ cúc cổ, tay áo ngắn, phù hiệu vải thêu hình khiên ở tay áo TRÁI và một dải chữ thêu nhỏ ở ngực phải — chữ trên phù hiệu là tên đơn vị hư cấu, không dùng nhãn hiệu có thật. Quần cargo navy cùng tông, túi hộp hai bên đùi, thắt lưng vải đen bản to có khoá kim loại đen. Bốt da đen cổ thấp buộc dây. Một bộ đàm nhỏ màu đen kẹp ở dây vai áo bên trái, dây xoắn chạy xuống.\n\nTRANG SỨC: một đồng hồ mặt tròn dây cao su đen ở cổ tay TRÁI, và đôi khuyên tai tròn nhỏ bằng vàng mảnh. Không đeo thêm gì khác.\n\nCHẶN LỖI: Áo cài kín, sơ vin gọn, quần áo phẳng phiu và sạch.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_YVETTE_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_YVETTE_FULL_v1.png"
+        },
+        {
+          "id": "REF_KILBOURNE_PORTRAIT",
+          "label": "★ ROLAND KILBOURNE — 54 tuổi, chủ trung tâm",
+          "desc": "Nhà phát triển bất động sản · 54 tuổi · chủ nhân buổi lễ, người ném ra lời thách đố và là người đổ gục chín phút sau đó.\nMặt phải đọc ra: một người quen đứng trước ống kính, tự tin, hoạt ngôn, thích được nhìn.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng 54 tuổi, khuôn mặt vuông, quai hàm rộng, da rám nắng đều và khoẻ. Tóc dày màu muối tiêu chải ngược ra sau gọn gàng, hai bên thái dương bạc rõ. Lông mày rậm ngang, mũi thẳng và to, môi mỏng vừa. Mắt xanh xám, nếp nhăn cười rõ ở đuôi mắt. Ánh nhìn thẳng, tự tin, hơi thách thức. Cạo râu sạch. Không đeo kính. thêm cà vạt.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_KILBOURNE_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_KILBOURNE_FULL",
+          "label": "KILBOURNE — vest xanh than ngày khánh thành",
+          "desc": "Bộ duy nhất của Kilbourne trong 2 phút: bộ vest ông mặc để cắt băng khánh thành.\nDùng: S1 · S2 · S3 · S5",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, TOÀN THÂN từ đỉnh đầu tới giày, chính diện, đứng thẳng tự nhiên, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống HỆT ẢNH PORTRAIT THAM CHIẾU đính kèm.\n\nĐàn ông 54 tuổi, cao khoảng một mét tám ba, thân hình to và vững, hơi đầy ở bụng.\n\nTRANG PHỤC: Vest hai mảnh may đo màu xanh than đậm, vải len mịn có độ rủ đắt tiền, áo vest cài MỘT khuy giữa. Sơ mi trắng tinh cài kín toàn bộ cúc kể cả cúc cổ, đeo cà vạt. Khăn cài túi ngực bằng lụa màu xanh dương nhạt gấp thẳng. Quần âu cùng bộ, ly quần sắc, giày da đen buộc dây đánh bóng.\n\nTRANG SỨC: một đồng hồ kim loại bạc mặt tròn ở cổ tay TRÁI, nhãn hiệu hư cấu, không logo có thật. Nhẫn cưới vàng trơn ở tay trái.\n\nCHẶN LỖI: Toàn bộ quần áo PHẲNG PHIU, cài kín, chỉnh tề — đây là trạng thái đầu buổi lễ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_KILBOURNE_FULL_v2.png"
+        },
+        {
+          "id": "REF_QUINT_PORTRAIT",
+          "label": "★ DR. FOSTER QUINT — 58 tuổi, bác sĩ riêng",
+          "desc": "Bác sĩ riêng của Kilbourne · 58 tuổi · ba năm liền chẩn đoán 'rối loạn hoảng sợ' và bảo vệ chẩn đoán đó tới cùng. Vai phản diện mềm.\nMặt phải đọc ra: chỉn chu, tự tin nghề nghiệp, quen được tin — KHÔNG dữ tợn, KHÔNG nham hiểm.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng 58 tuổi, mặt dài, xương gò má cao, da sáng và được chăm sóc kỹ. Tóc bạc trắng dày chải ngược ra sau rất gọn, không một sợi rối. Lông mày bạc mảnh, mũi cao và hẹp, môi mỏng. Mắt xám nhạt, nếp nhăn ngang trán rõ. Ánh nhìn điềm tĩnh và hơi bề trên của một người quen được nghe theo. Cạo râu sạch, không đeo kính.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_QUINT_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_QUINT_FULL",
+          "label": "QUINT — vest xám sáng · cà vạt lụa",
+          "desc": "Bộ duy nhất của Quint trong 2 phút: bộ ông mặc để nhận chức giám đốc y khoa sáng hôm đó.\nDùng: S3 · S5",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, TOÀN THÂN từ đỉnh đầu tới giày, chính diện, đứng thẳng tự nhiên, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống HỆT ẢNH PORTRAIT THAM CHIẾU đính kèm.\n\nĐàn ông 58 tuổi, cao khoảng một mét bảy tám, người gầy và thẳng.\n\nTRANG PHỤC: Vest ba mảnh màu xám sáng, vải len mỏng bóng nhẹ, áo gi-lê bên trong cài kín toàn bộ khuy, áo khoác ngoài cài một khuy. Sơ mi trắng cổ cứng cài kín, cà vạt lụa màu xanh dương đậm có hoa văn chấm nhỏ, thắt nút chặt và ngay ngắn. Quần âu cùng bộ, giày da nâu sẫm buộc dây đánh bóng.\n\nTRANG SỨC: đồng hồ dây da nâu ở cổ tay TRÁI, nhãn hiệu hư cấu.\n\nCHẶN LỖI: Toàn bộ trang phục phẳng phiu, cài kín, không xộc xệch, không xắn tay.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_QUINT_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_QUINT_FULL_v1.png"
+        },
+        {
+          "id": "REF_OSGOOD_PORTRAIT",
+          "label": "★ DR. NADINE OSGOOD — 61 tuổi, trưởng khoa điện sinh lý tim",
+          "desc": "Khách mời ngồi hàng ghế thứ hai · 61 tuổi · ba mươi năm trong ngành điện sinh lý tim, người duy nhất trong phòng đủ thẩm quyền để bắt cả phòng im lặng. Chỉ xuất hiện ở cuối 2 phút.\nMặt phải đọc ra: uy quyền chuyên môn thật, sắc sảo, không phô trương.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nPhụ nữ da trắng 61 tuổi, mặt gầy có xương, da sáng có nếp nhăn tự nhiên đúng tuổi, được chăm sóc tốt. Tóc bạc trắng cắt bob ngắn ngang tai, rẽ ngôi lệch, rất gọn. Lông mày mảnh màu xám, mũi thẳng, môi mỏng. Mắt xanh lam nhạt, ánh nhìn RẤT THẲNG và sắc — kiểu người đọc vị một tình huống trong hai giây. Không trang điểm đậm, không đeo kính.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_OSGOOD_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_OSGOOD_FULL",
+          "label": "OSGOOD — blazer xanh rêu (khách mời)",
+          "desc": "Bộ duy nhất của Osgood trong 2 phút: đồ khách mời danh dự ngồi hàng ghế thứ hai.\nDùng: S6",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, TOÀN THÂN từ đỉnh đầu tới giày, chính diện, đứng thẳng tự nhiên, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống HỆT ẢNH PORTRAIT THAM CHIẾU đính kèm.\n\nPhụ nữ 61 tuổi, cao khoảng một mét sáu lăm, dáng thẳng và gọn.\n\nTRANG PHỤC: Blazer vải len màu xanh rêu đậm, cắt may vừa vặn, KHÔNG cài khuy, tay áo dài đúng cổ tay. Bên trong là áo lụa màu kem cài kín tới nút thứ hai từ trên xuống, cổ áo mềm. Quần âu ống đứng màu xám than, giày da đen gót thấp.\n\nTRANG SỨC: một dây chuyền vàng mảnh có mặt tròn nhỏ nằm hở trên nền áo lụa, và một đồng hồ mặt vuông dây da đen ở cổ tay TRÁI. Không đeo thêm gì khác.\n\nCHẶN LỖI: Trang phục phẳng phiu, chỉnh tề.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_OSGOOD_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_OSGOOD_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_VONG_Y_TE",
+          "label": "Vòng cảnh báo y tế của Preston — thẻ thép khắc chữ",
+          "desc": "Vật gieo-trả của cả hook: Preston giấu nó trong túi vì bị bạn trêu, và đeo nó lên đúng lúc quyết định bước ra. Chữ trên vòng là bằng chứng cậu bé nói bằng kinh nghiệm của chính mình.\nDùng: S4",
+          "prompt": "Ảnh tĩnh photorealistic tỷ lệ 1:1, góc 3/4 từ ngang tầm mắt, cận cảnh sản phẩm, nét căng, không có người, không có bàn tay.\n\nVẬT: Một chiếc vòng cảnh báo y tế cỡ trẻ em nằm NGỬA trên mặt bàn gỗ trơn màu sáng, dây silicon dẹt màu đỏ tươi đã hơi ngả màu vì đeo lâu, khoá cài nhựa đen. Gắn giữa dây là một thẻ thép không gỉ hình chữ nhật bo góc, mặt thẻ NGỬA LÊN TRÊN và quay thẳng về phía máy quay, thấy rõ toàn bộ chữ khắc.\n\nCHỮ KHẮC trên mặt thẻ, khắc chìm, ba dòng căn giữa, chữ in hoa rõ ràng, sắc nét, KHÔNG nhoè, đánh vần chính xác:\ndòng 1: AVNRT\ndòng 2: PATIENT-MANAGED\ndòng 3: CALL 911 IF UNRESOLVED\nBên cạnh chữ có khắc chìm biểu tượng cây gậy y tế nhỏ.\n\nVòng ở trạng thái ĐÃ MỞ KHOÁ, nằm duỗi thẳng — đây là trạng thái nó nằm trong túi quần trước khi được đeo lên. Không có nhãn hiệu có thật nào trên vật.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_VONG_Y_TE_v1.png"
+        },
+        {
+          "id": "REF_PROP_HOP_THUOC",
+          "label": "Hộp thuốc an thần trong túi của Quint — vật lấy nhầm",
+          "desc": "Thứ Quint với tay lấy ra trong lúc cần một cái máy chứ không phải một viên thuốc. Vật này chính là ba năm chẩn đoán sai đóng thành một cái hộp.\nDùng: S3",
+          "prompt": "Ảnh tĩnh photorealistic tỷ lệ 1:1, góc 3/4 từ ngang tầm mắt, cận cảnh sản phẩm, nét căng, không có người, không có bàn tay.\n\nVẬT: Một hộp thuốc giấy nhỏ cỡ lòng bàn tay, đặt ĐỨNG trên mặt bàn gỗ trơn màu sáng, mặt trước quay thẳng về phía máy quay. Hộp màu trắng ngà với một dải màu xanh dương nhạt chạy ngang phía dưới, in chữ đen nhỏ. Tên thương hiệu và tên thuốc in trên hộp là NHÃN HIỆU HƯ CẤU do bạn tự đặt, không dùng bất kỳ nhãn hiệu dược phẩm có thật nào; chữ in rõ ràng, không nhoè. Góc trên bên phải hộp có một biểu tượng tam giác cảnh báo nhỏ.\n\nHộp ở trạng thái CÒN NGUYÊN, nắp chưa mở, tem niêm còn nguyên — đây là trạng thái nó nằm trong túi y tế trước khi được lấy ra. Cạnh hộp đặt một chiếc bút bi đen làm mốc tỷ lệ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_HOP_THUOC_v1.png"
+        },
+        {
+          "id": "REF_PROP_MONITOR",
+          "label": "Máy theo dõi nhịp tim cầm tay của xe cấp cứu",
+          "desc": "Cái máy mà không ai từng gắn lên người Kilbourne trong suốt ba năm. Yvette gọi tên nó hai lần trong thoại.\nDùng: S3",
+          "prompt": "Ảnh tĩnh photorealistic tỷ lệ 1:1, góc 3/4 từ ngang tầm mắt, cận cảnh sản phẩm, nét căng, không có người, không có bàn tay.\n\nVẬT: Một máy theo dõi nhịp tim cầm tay dùng trong xe cấp cứu, đặt trên mặt bàn gỗ trơn màu sáng. Thân máy nhựa cứng màu vàng nghệ và xám than, có tay xách gấp phía trên, mặt trước là một màn hình chữ nhật nhỏ nền đen ĐANG TẮT (không hiển thị số hay đường sóng nào). Bên cạnh màn hình là hàng nút bấm cao su tròn. Ba sợi dây điện cực màu trắng, đỏ, xanh cuộn gọn treo ở móc bên hông máy, đầu dây có miếng dán tròn.\n\nMọi chữ và biểu tượng trên vỏ máy là NHÃN HIỆU HƯ CẤU do bạn tự đặt, không dùng nhãn hiệu thiết bị y tế có thật. Máy ở trạng thái ĐANG TẮT, dây còn cuộn — trạng thái trước khi dùng. Cạnh máy đặt một cuốn sổ tay nhỏ làm mốc tỷ lệ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_MONITOR_v1.png"
+        },
+        {
+          "id": "REF_BG_DAI_SANH_NGAY",
+          "label": "ĐẠI SẢNH KHÁNH THÀNH — BAN NGÀY (bối cảnh gốc)",
+          "desc": "Bối cảnh gốc của cả hook: đại sảnh sự kiện nhìn về phía sân khấu. Khoá kiến trúc, vật liệu và ánh sáng cho mọi Master SF.",
+          "prompt": "Bối cảnh ở Mỹ. Một đại sảnh sự kiện vừa được dựng xong cho lễ cắt băng khánh thành một trung tâm chăm sóc sức khoẻ tư nhân đắt tiền: hàng ghế xếp kê thẳng lối cho khách mời, một sân khấu thấp ở cuối phòng, một dải ruy băng đỏ bản rộng căng ngang trước sân khấu đang chờ cắt. Photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, camera ngang tầm mắt.\n\nQUY HOẠCH 360°: ĐỐI DIỆN là sân khấu gỗ thấp cao chừng bốn mươi phân, trên có một bục phát biểu gỗ óc chó gắn micro cần, và một chiếc ghế gấp bọc nỉ xám đặt sát mép sân khấu phía phải. BÊN TRÁI là dãy cửa kính cao từ sàn tới trần nhìn ra sân cỏ trước toà nhà. BÊN PHẢI là bức tường ốp đá sáng, cuối tường có một quầy lễ tân thấp bằng gỗ. SAU LƯNG các hàng ghế là cửa hàng hoá mở rộng và một khoảng trống dựng lều bạt trắng. Sàn trải thảm xám xanh, trần cao có đèn âm.\n\nMÀU & VẬT LIỆU: tường trắng ngà sáng, gỗ óc chó ấm, inox sạch, ghế nỉ xám xanh. Tổng thể SÁNG SỦA, SẠCH, RÕ NÉT, ngả ấm rất nhẹ.\n\nÁNH SÁNG: BAN NGÀY, khoảng hai giờ chiều. Đèn LED trắng trung tính dịu từ trần chiếu đều khắp phòng, cộng thêm nắng chiều vàng nhạt xiên qua dãy cửa kính bên trái tạo những vệt sáng dài trên thảm. Độ tương phản trung bình, bóng đổ mềm; không u tối, không moody, không low-key, không cháy trắng, giữ skin tone tự nhiên.\n\nPhòng TRỐNG, KHÔNG CÓ NGƯỜI. Mọi chữ trên biển hiệu và bảng tên là thương hiệu hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_DAI_SANH_NGAY_v1.png"
+        },
+        {
+          "id": "REF_BG_LEU_Y_TE_NGAY",
+          "label": "GÓC LỀU Y TẾ CUỐI ĐẠI SẢNH — BAN NGÀY",
+          "desc": "Góc cuối cùng đại sảnh, nơi kíp cấp cứu trực và nơi Preston ngồi đọc sách. Máy quay ở đây nhìn NGƯỢC TRỤC so với bối cảnh gốc.",
+          "prompt": "1. ĐỒNG BỘ PHONG CÁCH: Dùng ảnh tham chiếu CHỈ ĐỂ LẤY VẬT LIỆU (màu tường, màu và chất thảm, trần, độ sáng, tông màu). ĐÂY LÀ MỘT GÓC KHÁC của CÙNG MỘT đại sảnh thông nhau — góc cuối phòng sát cửa hàng hoá. Riêng KHUNG ẢNH NÀY không có sân khấu, vì sân khấu nằm SAU LƯNG máy quay; nó vẫn tồn tại trong cùng sảnh và các khung quay ngược trục sẽ neo nó bằng ảnh thẻ đại sảnh.\n\n2. TÌNH HUỐNG: một góc trực y tế dựng tạm cho buổi lễ, kê sát cửa hàng hoá để xe cứu thương lùi vào. Photorealistic, điện ảnh nhưng hiện thực, 35mm, camera ngang tầm mắt.\n\nQUY HOẠCH 360°: ĐỐI DIỆN là cửa hàng hoá cuốn mở hết cỡ, đuôi một xe cứu thương màu trắng vạch phản quang lùi vào tới ngưỡng cửa, hai cánh cửa sau xe MỞ, bên trong thấy cáng và ngăn tủ thiết bị — mọi chữ và số hiệu trên thân xe là ký hiệu hư cấu, không dùng nhãn hiệu có thật. BÊN TRÁI là một lều bạt trắng nhỏ khung nhôm, vạt lều vén một bên, dưới lều có một bàn gấp và hai ghế gấp kim loại. BÊN PHẢI là tường ốp đá sáng và một xe đẩy thiết bị y tế phủ vải xanh — nhãn trên vỏ thiết bị là nhãn hư cấu. SAU LƯNG máy quay là các hàng ghế cuối khán phòng, xa hơn là sân khấu.\n\nÁNH SÁNG: BAN NGÀY, hai giờ chiều. Vẫn là đèn LED trắng trung tính từ trần, cộng một mảng sáng trắng ban ngày tràn vào từ cửa hàng hoá phía sau xe cứu thương làm nền sáng hơn hẳn khu vực này. Bóng đổ mềm, không tối góc, giữ skin tone tự nhiên.\n\nKhu vực TRỐNG, KHÔNG CÓ NGƯỜI.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_DAI_SANH_NGAY"
+          },
+          "picked": "REF_BG_LEU_Y_TE_NGAY_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "S1",
+      "name": "S1 — Đại sảnh · lời thách đố và cánh tay không ai nhìn",
+      "sfs": [
+        {
+          "id": "SF-S1-M1-MASTER",
+          "label": "MASTER cụm A — khán phòng nhìn lên sân khấu · KILBOURNE ném lời thách",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, ngang tầm mắt, đặt giữa lối đi chính cách sân khấu khoảng 12 mét, thu trọn sân khấu và bốn hàng ghế đầu.\n\nAI VÀ ĐANG LÀM GÌ: KILBOURNE đứng sau bục phát biểu ở giữa sân khấu thấp, hai tay dang rộng sang hai bên, thân người hơi ngả về phía khán phòng, miệng đang mở trong một câu nói lớn.\n\nHẬU CẢNH — người: khoảng bốn mươi khách mời ngồi kín các hàng ghế xếp ở tiền cảnh và trung cảnh, máy quay thấy họ từ phía sau gáy và vai; vài người đang vỗ tay, vài người ngả sang nhau nói khẽ. Hai người quay phim đứng ở rìa trái và rìa phải lối đi, ống kính chĩa lên sân khấu. Một nhân viên phục vụ đứng sát tường phải. Không ai nhìn vào camera.\n\nTAY: KILBOURNE dang hai tay ngang vai, lòng bàn tay ngửa lên, không cầm gì.\n\nHƯỚNG NHÌN: KILBOURNE quét mắt khắp khán phòng, hơi nghiêng về phía cuối phòng bên phải.\n\nBIỂU CẢM: khoái trá, tự mãn, đang tận hưởng sân khấu của chính mình.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi tiếng cười của cả khán phòng vỡ ra.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL"
+            ],
+            "bg": "REF_BG_DAI_SANH_NGAY"
+          },
+          "pose": {
+            "zone": "khán phòng · trục nhìn lên sân khấu",
+            "who": {
+              "KILBOURNE": "đứng sau bục phát biểu"
+            },
+            "dist": "12m",
+            "hands": {
+              "KILBOURNE": "trống"
+            }
+          },
+          "picked": "SF-S1-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S1-B2",
+          "label": "🎬 NHỊP LẶNG — ba trăm người và bốn máy quay, nhìn từ sân khấu xuống",
+          "desc": "",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU HAI CỤM: 24mm nhìn dọc cả phòng nên cuối phòng lọt khung — neo REF_BG_LEU_Y_TE_NGAY cho khu lều, và PRESTON có mặt ở đó nên phải khai đủ ref.",
+          "usedBy": [],
+          "picked": "SF-S1-B2_v1.png",
+          "goc": "Cinematic wide từ sân khấu nhìn ngược xuống khán phòng · KILBOURNE vai và gáy tiền cảnh, dang hai tay, không thấy mặt · PRESTON ngồi ghế gấp cuối phòng, rất xa và nhỏ",
+          "prompt": "MÁY QUAY: cinematic wide, 24mm, đặt trên sân khấu sau lưng KILBOURNE, ngang vai ông, nhìn NGƯỢC xuống khán phòng.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh là vai và gáy KILBOURNE ở rìa dưới khung, out nét, hai tay dang rộng về phía khán phòng. Cuối phòng, rất xa và rất nhỏ, PRESTON ngồi trên ghế gấp cạnh vạt lều bạt trắng.\n\nHẬU CẢNH — KHUNG GỐI ĐẦU HAI CỤM: máy chĩa NGƯỢC TRỤC so với ảnh Master sân khấu nên toàn khung là lòng khán phòng: ba trăm khách mời ngồi kín ghế, hướng lên sân khấu, nhiều người vỗ tay. BỐN người quay phim đứng rải bốn vị trí, ống kính chĩa về phía máy quay, người cầm máy nhìn khung ngắm, KHÔNG nhìn camera. Cuối phòng là khu lều bạt trắng và cửa hàng hoá — lấy theo ẢNH THAM CHIẾU GÓC LỀU đính kèm.\n\nTAY: dang ngang vai, lòng bàn tay ngửa.\n\nHƯỚNG NHÌN: KILBOURNE quay lưng về máy, không thấy mặt; PRESTON ngước lên sân khấu.\n\nBIỂU CẢM: KILBOURNE đọc qua ngôn ngữ cơ thể — vai mở, lưng ưỡn, đang tận hưởng căn phòng.\n\nĐÓNG BĂNG: ngay TRƯỚC khi ở cuối phòng có một cánh tay giơ lên",
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_BG_LEU_Y_TE_NGAY"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khán phòng · trục nhìn lên sân khấu → góc lều y tế (REF_BG_LEU_Y_TE_NGAY)",
+            "who": {
+              "KILBOURNE": "đứng sau bục phát biểu",
+              "PRESTON": "ngồi trên ghế gấp"
+            },
+            "dist": "0,5m",
+            "hands": {
+              "KILBOURNE": "trống, dang hai tay"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B1",
+          "label": "🎬 NHỊP LẶNG — bàn tay nhỏ giơ lên cạnh lều y tế",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh hẹp, ống kính 50mm, ngang tầm mắt, cách 2,5 mét, chếch 3/4 từ phía trái PRESTON.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON vừa ĐỨNG LÊN khỏi chiếc ghế gấp kim loại kê cạnh vạt lều bạt trắng đã vén, người thẳng, chiếc ghế bỏ trống ngay sau lưng cậu. Cậu vừa giơ THẲNG cánh tay phải lên cao qua đầu.\n\nHẬU CẢNH — TRỤC BỐI CẢNH: sau lưng cậu là mấy hàng ghế cuối khán phòng, xa hơn là mảng sáng trắng của cửa hàng hoá. Người: bốn năm khách mời ngồi quay lưng về phía máy, hướng lên sân khấu ở xa; một người vừa quay đầu nhìn cậu bé. Không ai nhìn vào camera.\n\nTAY: tay phải giơ thẳng lên cao, các ngón khép tự nhiên, lòng bàn tay hướng về phía sân khấu; tay trái cầm một cuốn sách bìa mềm đã gập lại, ép vào bên hông.\n\nHƯỚNG NHÌN: nhìn thẳng về phía sân khấu ở xa, ngoài khung bên phải.\n\nBIỂU CẢM: bình tĩnh, tập trung, không hào hứng, không sợ — vẻ mặt của một đứa trẻ biết chắc điều mình định nói.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi có người trên sân khấu nhìn thấy cánh tay ấy.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL"
+            ],
+            "bg": "SF-S2-M1-MASTER"
+          },
+          "pose": {
+            "zone": "góc lều y tế cuối đại sảnh",
+            "who": {
+              "PRESTON": "đứng cạnh ghế gấp"
+            },
+            "dist": "2,5m",
+            "hands": {
+              "PRESTON": "sách gập trong tay trái"
+            }
+          },
+          "picked": "SF-S1-B1_v3.png"
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "Từ sau vai PRESTON nhìn lên sân khấu — KILBOURNE chỉ tay xuống",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, 35mm, ngang tầm mắt, đặt ngay sau vai trái PRESTON, nhìn dọc khán phòng lên sân khấu cách 20 mét.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh trái là đầu và vai PRESTON đứng cạnh chiếc ghế gấp bỏ trống, out nét, chiếm một phần tư khung, tay phải vẫn còn giơ lên. Lớp sau, trên sân khấu, KILBOURNE vẫn đứng sau bục phát biểu, người ngả ra sau vì cười, tay phải chỉ thẳng về phía cuối phòng.\n\nHẬU CẢNH — KHUNG GỐI ĐẦU HAI CỤM: quanh cậu bé ở tiền cảnh là góc lều y tế (vạt lều bạt trắng, ghế gấp) — lấy theo ẢNH THAM CHIẾU GÓC LỀU đính kèm. Người: giữa hai người là khán phòng chật ghế, năm mươi khách mời thấy từ sau gáy, nhiều người quay đầu ngược về phía máy. Ruy băng đỏ trước sân khấu.\n\nTAY: KILBOURNE tay phải chỉ về phía cuối phòng, tay trái bám mép bục.\n\nHƯỚNG NHÌN: KILBOURNE nhìn thẳng xuống chỗ PRESTON.\n\nBIỂU CẢM: KILBOURNE khoái chí, bề trên, đùa cho cả phòng cùng cười — coi nhẹ, KHÔNG hung dữ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi tiếng cười lan hết cả phòng.",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU HAI CỤM: bg neo cụm sân khấu (chủ thể), REF_BG_LEU_Y_TE_NGAY trong refs.chars neo góc lều ở tiền cảnh.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_BG_LEU_Y_TE_NGAY"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khán phòng · trục nhìn lên sân khấu → góc lều y tế",
+            "who": {
+              "PRESTON": "đứng cạnh ghế gấp",
+              "KILBOURNE": "đứng sau bục phát biểu"
+            },
+            "dist": "20m",
+            "hands": {
+              "KILBOURNE": "trống",
+              "PRESTON": "sách gập trong tay trái"
+            }
+          },
+          "picked": "SF-S1-02_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "S1-01",
+          "sf": "SF-S1-M1-MASTER",
+          "dur": 6,
+          "text": "KILBOURNE: Heal me and I'll pay a million dollars. Cash. Today. Eleven specialists couldn't — so somebody here, please, embarrass them.",
+          "goc": "Cinematic wide toàn cảnh khán phòng nhìn lên sân khấu · KILBOURNE đứng sau bục, RÕ MẶT",
+          "prompt": "Nhận diện:\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN nhanh về phía sân khấu.\n\nKILBOURNE đang tận hưởng sân khấu của chính mình và ném ra một lời thách đố nửa đùa nửa thật cho cả khán phòng; ông giữ hai tay dang rộng gần hết câu rồi hạ xuống bám mép bục.\n\nKILBOURNE — booming, playful, self-satisfied: \"Heal me and I'll pay a million dollars. Cash. Today. Eleven specialists couldn't — so somebody here, please, embarrass them.\"\n\nQUẦN CHÚNG NỀN — khách mời ngồi kín các hàng ghế, thấy từ sau gáy: cười, vỗ tay rời rạc, vài người ngả sang nhau nói khẽ; cử động nhỏ và tự nhiên, không ai đứng dậy.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có tiếng vọng nhẹ của micro trong phòng lớn và tiếng cười nền.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null,
+          "vpicked": "S1-01_v1.mp4"
+        },
+        {
+          "id": "S1-B2",
+          "sf": "SF-S1-B2",
+          "dur": 6,
+          "goc": "Cinematic wide từ sân khấu nhìn ngược xuống khán phòng · KILBOURNE vai và gáy tiền cảnh, dang hai tay, không thấy mặt · PRESTON ngồi ghế gấp cuối phòng, rất xa và nhỏ",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Mở màn cần một cú đà đưa khán giả vào phòng và cho thấy quy mô — nhạc dựng lên rồi dừng đúng lúc bàn tay nhỏ giơ lên ở nhịp sau.",
+            "a_kind": "có lời",
+            "a": "Gospel-soul opener at 86 BPM; a Hammond organ chord and a tambourine on the offbeat starting together, a female alto entering at 0:02 low in her range, close to the mic, two backing voices answering her once; upright bass walking upward, brushed snare on two and four, strings sliding in at 0:04 and stopping dead at the top with no resolution; lyrics about a man standing in a room he built and enjoying every second of it, never mocking; warm analog mix, organ, tambourine, soul, gospel, rising",
+            "b_kind": "không lời",
+            "b": "Instrumental opener at 88 BPM; a struck piano octave marking the pulse, cellos entering with a rising three-note figure and adding a voice each bar, a soft mallet layer at 0:03, high strings arriving last and cutting off abruptly with the room tail left ringing, no cymbal; clean cinematic mix, strings, piano, propulsive"
+          },
+          "text": "[NHỊP] Ba trăm người. Bốn máy quay. Và ông ta dang tay ra giữa sân khấu của chính mình.\nNARRATOR: Roland Kilbourne spread his arms on his own stage, grinning at three hundred people and four cameras.",
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau. Khung ngược trục, chốt quy mô khán phòng.",
+          "prompt": "Nhận diện:\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, chỉ thấy vai và gáy ở tiền cảnh.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN về phía khán phòng.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Đây là khoảnh khắc người đàn ông ấy đang ở đỉnh cao của buổi lễ do chính mình bỏ tiền dựng nên, và cả căn phòng đang hưởng ứng ông. Gợi ý diễn biến: hai cánh tay dang rộng giữ nguyên gần hết clip rồi hạ xuống một nhịp; khán phòng vỗ tay rộ lên thành đợt. Cho phép một tiếng cười khan của ông vang qua micro, KHÔNG thành lời rõ.\n\nQUẦN CHÚNG NỀN — ba trăm khách mời kín các hàng ghế: vỗ tay thành đợt, vài người ngả sang nhau nói khẽ; bốn người quay phim giữ máy ổn định, chỉ chỉnh lấy nét.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient của một khán phòng lớn đang vỗ tay.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "vpicked": "S1-B2_v2.mp4"
+        },
+        {
+          "id": "S1-B1",
+          "sf": "SF-S1-B1",
+          "dur": 4,
+          "text": "[NHỊP] Một bàn tay nhỏ giơ lên ở cuối phòng, cạnh lều y tế. Không ai để ý.\nNARRATOR: A hand went up near the medical tent. Small one.",
+          "goc": "Trung cảnh hẹp 3/4 · PRESTON vừa đứng lên khỏi ghế gấp cạnh lều y tế, RÕ MẶT, giơ tay phải",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN rất chậm về phía cậu bé.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cậu bé vừa nghe thấy trên sân khấu chính ba chữ mà bản thân cậu đã nói với bốn bác sĩ khác nhau. Cậu không phấn khích, không rụt rè — cậu chỉ đang chờ được gọi. Gợi ý diễn biến: giữ cánh tay giơ thẳng suốt clip, thân người rất tĩnh, chỉ có hơi thở và một cái chớp mắt; bàn tay trái siết chặt hơn vào cuốn sách gập. Cho phép một hơi hít vào ngắn, không thành tiếng nói.\n\nQUẦN CHÚNG NỀN — vài khách mời ngồi phía sau: hướng lên sân khấu, một người quay đầu nhìn cậu bé một giây rồi quay đi.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient. Chỉ ambient của một khán phòng đông người: tiếng rì rầm, tiếng ghế kim loại, bước chân trên thảm.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Cậu bé giơ tay giữa một căn phòng không nhìn thấy nó — nhạc phải nhỏ hơn khoảnh khắc, giữ lại toàn bộ sức nặng cho về sau.",
+            "a_kind": "có lời",
+            "a": "Slow soul-gospel at 62 BPM with a single female alto sung very close to the mic, warm and slightly worn, almost spoken; one felt-piano and an upright bass only, brushed drums never entering, a lone Rhodes chord swelling once at 0:02 then pulling straight back; lyrics about a small voice waiting to be called on in a room full of louder people, never pleading, never triumphant; warm analog mix, tape saturation, intimate, restrained, female vocal, soul, gospel",
+            "b_kind": "không lời",
+            "b": "Minimal piano miniature at 58 BPM; one felt-piano figure of four notes repeating with heavy sustain, a very low cello note held underneath and breathing, no percussion, no build, ending unresolved on the same note it started; dry intimate late-afternoon mix, almost subliminal, piano, cello, minimal, patient"
+          },
+          "chuyen": true,
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn.",
+          "vpicked": "S1-B1_v1.mp4"
+        },
+        {
+          "id": "S1-02",
+          "sf": "SF-S1-02",
+          "dur": 6,
+          "text": "KILBOURNE: Not you, son. Sit down. This room is for grown people with degrees. Go find your mother.",
+          "goc": "Cinematic wide từ sau vai PRESTON nhìn lên sân khấu · PRESTON đứng cạnh ghế gấp, vai và gáy tiền cảnh trái out nét · KILBOURNE đứng sau bục trên sân khấu RÕ MẶT, chỉ tay xuống",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm dọc theo lối đi về phía sân khấu, giữ nguyên vai cậu bé ở tiền cảnh.\n\nKILBOURNE đang biến cánh tay giơ lên ở cuối phòng thành một câu đùa cho cả khán phòng cùng cười; ông chỉ tay xuống rồi buông tay, quay lại phía bục.\n\nKILBOURNE — amused, dismissive, playing to the room: \"Not you, son. Sit down. This room is for grown people with degrees. Go find your mother.\"\n\nPRESTON — silent, still, listening; chỉ thấy vai và gáy ở tiền cảnh, cánh tay vẫn giơ.\n\nQUẦN CHÚNG NỀN — khách mời khắp khán phòng: bật cười thành đợt, vài người ngoái nhìn về phía cuối phòng rồi quay đi, cử động nhẹ và tự nhiên.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có tiếng cười của đám đông dâng lên ở nửa sau clip.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — Lều y tế · mẹ bảo con ngồi xuống",
+      "sfs": [
+        {
+          "id": "SF-S2-B1",
+          "label": "🎬 NHỊP LẶNG — cánh tay hạ xuống, cả phòng quay đi",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, 50mm, ngang tầm mắt, cách 3 mét, chếch 3/4 từ phía cửa hàng hoá, trục lệch 45 độ so với hướng cậu bé nhìn — vừa thấy mặt cậu vừa lọt sân khấu lớp sau bên trái.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON vẫn ĐỨNG cạnh chiếc ghế gấp bỏ trống bên vạt lều, KHÔNG ngồi xuống, tay phải vừa hạ ngang vai. Rìa phải khung là YVETTE đứng khoanh tay cạnh đuôi xe cứu thương, out nét.\n\nHẬU CẢNH — KHUNG GỐI ĐẦU HAI CỤM: lớp sau bên trái, rất xa, là sân khấu với KILBOURNE VẪN ĐỨNG SAU BỤC PHÁT BIỂU — lấy sân khấu, bục và dáng người phát biểu theo ẢNH THAM CHIẾU MASTER SÂN KHẤU đính kèm; ông nhỏ và out nét. Người: giữa hai lớp là hàng ghế cuối khán phòng, mười khách mời vừa quay đầu về phía sân khấu, hai người còn ngoái nhìn cậu bé. Không ai nhìn camera.\n\nTAY: tay trái ép cuốn sách gập vào hông.\n\nHƯỚNG NHÌN: nhìn chếch về sân khấu lớp sau bên trái, KHÔNG nhìn ống kính.\n\nBIỂU CẢM: điềm tĩnh, không tủi thân, không cụp mắt; quai hàm siết một nấc.\n\nĐÓNG BĂNG: ngay TRƯỚC khi mẹ cậu lên tiếng.",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU HAI CỤM: SF-S1-M1-MASTER neo sân khấu cùng người phát biểu ở lớp sau. Cùng trục với SF-S2-M1-MASTER.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "SF-S2-M1-MASTER"
+          },
+          "pose": {
+            "zone": "góc lều y tế cuối đại sảnh → sân khấu (SF-S1-M1-MASTER)",
+            "who": {
+              "PRESTON": "đứng cạnh ghế gấp",
+              "YVETTE": "đứng cạnh đuôi xe cứu thương",
+              "KILBOURNE": "đứng sau bục phát biểu"
+            },
+            "dist": "3m",
+            "hands": {
+              "PRESTON": "sách gập trong tay trái"
+            }
+          },
+          "picked": "SF-S2-B1_v2.png"
+        },
+        {
+          "id": "SF-S2-M1-MASTER",
+          "label": "MASTER cụm B — lều y tế · YVETTE và PRESTON",
+          "desc": "",
+          "prompt": "MÁY QUAY: medium two-shot, ống kính 35mm, ngang tầm mắt, cách 3,5 mét, chếch 3/4 từ phía cửa hàng hoá nhìn vào.\n\nAI VÀ ĐANG LÀM GÌ: YVETTE đứng bên phải khung, sát đuôi xe cứu thương mở hai cánh cửa sau, khoanh tay trước ngực, người quay chếch về phía con trai. PRESTON ĐỨNG cạnh chiếc ghế gấp kim loại bỏ trống bên trái khung, sát vạt lều bạt trắng đã vén, cuốn sách bìa mềm đã gập cầm ở tay trái, cánh tay phải đã hạ hẳn xuống. Giữa hai người là một bàn gấp có hộp dụng cụ y tế đóng nắp.\n\nHẬU CẢNH — TRỤC BỐI CẢNH (KHUNG GỐI ĐẦU HAI CỤM): máy quay nhìn ngược vào lòng đại sảnh, nên lớp sau ở xa là các hàng ghế cuối khán phòng và SÂN KHẤU, TRÊN ĐÓ KILBOURNE VẪN ĐANG ĐỨNG SAU BỤC PHÁT BIỂU. Lấy sân khấu, bục, phông, ruy băng đỏ VÀ dáng người phát biểu theo ẢNH THAM CHIẾU MASTER SÂN KHẤU đính kèm — KHÔNG dựng sân khấu mới. KILBOURNE ở rất xa, nhỏ, hơi out nét. Người: mười lăm khách mời ngồi ở hàng ghế cuối quay lưng hướng lên sân khấu; một bảo vệ đứng cạnh cửa hàng hoá. Không ai nhìn camera.\n\nTAY: YVETTE khoanh tay, hai bàn tay kẹp dưới khuỷu. PRESTON tay trái ép cuốn sách gập vào hông, tay phải buông dọc thân.\n\nHƯỚNG NHÌN: YVETTE nhìn thẳng xuống mặt con; PRESTON ngước nhìn thẳng vào mắt mẹ.\n\nBIỂU CẢM: YVETTE nén và mệt, quai hàm siết một nấc, nói khẽ chứ không mắng. PRESTON bình tĩnh, không cãi lại.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi PRESTON ngồi xuống chiếc ghế gấp.",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU HAI CỤM: bg neo cụm lều (chủ thể); SF-S1-M1-MASTER trong refs.chars neo sân khấu Ở LỚP SAU CÙNG NGƯỜI ĐANG PHÁT BIỂU — thẻ địa điểm trống không dùng được ở đây vì nó sẽ xoá mất KILBOURNE khỏi bục.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_LEU_Y_TE_NGAY"
+          },
+          "pose": {
+            "zone": "góc lều y tế cuối đại sảnh → sân khấu (SF-S1-M1-MASTER)",
+            "who": {
+              "YVETTE": "đứng cạnh đuôi xe cứu thương",
+              "PRESTON": "đứng cạnh ghế gấp",
+              "KILBOURNE": "đứng sau bục phát biểu"
+            },
+            "dist": "3,5m",
+            "hands": {
+              "YVETTE": "khoanh tay",
+              "PRESTON": "sách gập trong tay trái"
+            }
+          },
+          "picked": "SF-S2-M1-MASTER_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "S2-B1",
+          "sf": "SF-S2-B1",
+          "dur": 8,
+          "text": "[NHỊP] Cậu bé hạ tay xuống. Ba trăm người quay lại phía sân khấu như một con nước.\nNARRATOR: Preston Tolliver, eleven, put his hand down. Soft. Level. He did not sit. The crowd chuckled and moved on. Nobody looked at him twice.",
+          "goc": "Trung cảnh 3/4 từ phía cửa hàng hoá · PRESTON đứng cạnh ghế gấp RÕ MẶT, tay phải đang hạ xuống · YVETTE đứng khoanh tay rìa phải, out nét · KILBOURNE đứng sau bục trên sân khấu lớp sau rất xa, nhỏ, out nét",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, đồng phục cấp cứu polo navy, ở rìa phải khung.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, ở RẤT XA trên sân khấu lớp sau.\n\nMột shot liền 8 giây, không chuyển cảnh. Camera TĨNH.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cậu bé vừa bị gạt đi trước cả khán phòng và cả khán phòng vừa cười. Cậu không khóc, không cụp mắt — chỉ ghi nhận. Gợi ý diễn biến: cánh tay hạ nốt xuống dọc thân, một cái nuốt khan, cậu vẫn đứng nguyên không ngồi xuống, mắt dán về hướng sân khấu. Cho phép một hơi thở ra qua mũi nghe được, không thành lời.\n\nYVETTE — silent, khoanh tay ở rìa phải, quai hàm siết một nấc, không bước tới.\n\nKILBOURNE — ở rất xa trên sân khấu lớp sau, vẫn phát biểu, lời KHÔNG nghe rõ.\n\nQUẦN CHÚNG NỀN — khách mời phía sau: đồng loạt quay đầu về phía sân khấu, tiếng cười tắt dần; một người ngoái nhìn cậu bé rồi quay đi.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient khán phòng: rì rầm, ghế kim loại, bước chân trên thảm.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Tiếng cười vừa tắt. Đây là chỗ khán giả cần một giây để thấy cậu bé không hề gục — nhạc gần như biến mất để nhường chỗ cho gương mặt.",
+            "a_kind": "có lời",
+            "a": "Sparse folk-soul at 54 BPM, one male-and-female pair humming in unison very quietly rather than singing words, entering only at 0:02; a single nylon-string guitar played with the thumb, one note per bar, a room-tone hum underneath, no drums, no swell, fading out mid-phrase; lyrics reduced to one repeated line about being counted out and staying put, never bitter; dry intimate mix, folk, soul, hushed, minimal",
+            "b_kind": "không lời",
+            "b": "Ambient miniature at 50 BPM; one warm analog pad breathing in and out twice, a muted upright bass note landing once, a faint air-conditioning-like hum underneath, no percussion, no arc, simply stopping; extremely soft mix, almost subliminal, ambient, warm, still, minimal"
+          },
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn."
+        },
+        {
+          "id": "S2-01",
+          "sf": "SF-S2-M1-MASTER",
+          "dur": 4,
+          "text": "YVETTE: Baby. Sit down and read your book.",
+          "goc": "Medium two-shot 3/4 · YVETTE đứng cạnh đuôi xe cứu thương RÕ MẶT · PRESTON đứng cạnh ghế gấp RÕ MẶT · KILBOURNE đứng sau bục trên sân khấu ở lớp sau rất xa, nhỏ, out nét",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, ở RẤT XA trên sân khấu lớp sau.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera DOLLY IN chậm về phía hai mẹ con.\n\nYVETTE cố giữ con ở đúng chỗ an toàn trong ca trực, nói khẽ và ngắn để không ai khác nghe thấy; PRESTON nghe lời nhưng không rời mắt khỏi hướng sân khấu.\n\nYVETTE — quiet, weary, protective: \"Baby. Sit down and read your book.\"\n\nPRESTON — silent, listening, không phản đối; ánh mắt trôi về hướng sân khấu rồi quay lại nhìn mẹ.\n\nKILBOURNE — ở rất xa trên sân khấu lớp sau, tiếp tục nói vào micro nhưng lời KHÔNG nghe rõ; chỉ thấy dáng người và cử động tay nhỏ.\n\nQUẦN CHÚNG NỀN — khách mời các hàng ghế phía sau: ngồi hướng lên sân khấu, cử động nhỏ tự nhiên; bảo vệ đứng cạnh cửa hàng hoá đổi chân.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có ambient rì rầm rất nhẹ của khán phòng phía sau.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.\n\nKẾT CLIP: PRESTON ngồi xuống chiếc ghế gấp, lưng dựa vào lưng ghế, cuốn sách vẫn gập trong tay trái, mắt vẫn hướng về phía sân khấu. Clip dừng ngay ở đó.",
+          "music": null
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "name": "S3 — Bên chiếc ghế · gục xuống và hộp thuốc sai",
+      "sfs": [
+        {
+          "id": "SF-S3-B1",
+          "label": "🎬 NHỊP LẶNG — KILBOURNE dừng giữa câu ở bục phát biểu",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, 50mm, thấp hơn tầm mắt một chút, cách 2,5 mét, chính diện chếch trái bục phát biểu.\n\nAI VÀ ĐANG LÀM GÌ: KILBOURNE đứng sau bục phát biểu, thân trên đổ về trước, hai bàn tay áp thẳng xuống mặt bục đỡ lấy người, hai vai gồng lên.\n\nHẬU CẢNH — TRỤC BỐI CẢNH: máy đứng dưới khán phòng nhìn lên, CÙNG TRỤC ảnh tham chiếu — sau lưng ông là mảng tường phông sáng của sân khấu và khung gỗ óc chó hai bên — lấy ĐÚNG theo ẢNH THAM CHIẾU MASTER SÂN KHẤU đính kèm. Dải ruy băng đỏ căng ngang PHÍA TRƯỚC sân khấu, GIỮA máy quay và chiếc bục — nếu lọt khung thì chỉ ở mép dưới, KHÔNG nằm sau lưng ông. Người: rìa khung phải có đầu và vai hai khách mời hàng đầu vừa bật dậy, out nét.\n\nTAY: hai lòng bàn tay áp chặt mặt bục, các ngón xoè.\n\nHƯỚNG NHÌN: nhìn xuống mặt bục, mắt không tụ tiêu\n\nBIỂU CẢM: sắc mặt xám trắng đi, trán và thái dương lấm tấm mồ hôi, miệng hé thở gấp; hoang mang chứ không quằn quại — mặt KHÔNG méo mó, KHÔNG co giật.\n\nĐÓNG BĂNG: ngay TRƯỚC khi đầu gối ông khuỵu xuống.",
+          "status": "approved",
+          "notes": "Khung THUỘC CỤM A (sân khấu/bục), chỉ nằm trong scene S3 theo mạch kể. bg neo SF-S1-M1-MASTER — cùng điểm đặt máy, cùng trục. KHÔNG trỏ về master cụm C (chiếc ghế) vì đó là hướng khác, sẽ ra một sân khấu khác.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khán phòng · trục nhìn lên sân khấu",
+            "who": {
+              "KILBOURNE": "đứng sau bục phát biểu"
+            },
+            "dist": "2,5m",
+            "hands": {
+              "KILBOURNE": "áp xuống mặt bục"
+            }
+          },
+          "picked": "SF-S3-B1_v2.png"
+        },
+        {
+          "id": "SF-S3-M1-MASTER",
+          "label": "MASTER cụm C — chiếc ghế bên mép sân khấu · QUINT rút hộp thuốc",
+          "desc": "",
+          "prompt": "MÁY QUAY: medium-wide, ống kính 35mm, ngang tầm mắt, cách 3,5 mét, chếch 3/4 từ phía khán phòng nhìn vào mép phải sân khấu.\n\nAI VÀ ĐANG LÀM GÌ: KILBOURNE ngồi trên chiếc ghế gấp bọc nỉ xám sát mép sân khấu, lưng dựa, cúc trên cùng sơ mi đã bung, mặt xám và ướt mồ hôi. QUINT quỳ một gối bên phải ghế, túi y tế da nâu mở toang trên thảm, tay phải vừa rút từ trong túi ra một hộp thuốc giấy nhỏ còn nguyên nắp. YVETTE vừa quỳ xuống bên trái chiếc ghế, một tay đặt lên cổ tay KILBOURNE, tay kia vừa hạ chiếc máy theo dõi nhịp tim màu vàng nghệ xuống thảm cạnh gối mình.\n\nHẬU CẢNH — người: sau lưng ba người là mép sân khấu và các hàng ghế đầu. Khoảng ba mươi khách mời đứng dồn thành vòng cung cách chừng ba mét, đã dừng việc đang làm và quay nhìn về phía chiếc ghế, vài người giơ điện thoại; một người quay phim rìa trái chĩa máy vào. Không ai nhìn camera.\n\nTAY: QUINT cầm hộp thuốc trong lòng bàn tay phải. YVETTE ấn hai ngón trỏ và giữa lên mặt trong cổ tay KILBOURNE. KILBOURNE hai tay bám hai mép ghế.\n\nHƯỚNG NHÌN: QUINT nhìn mặt KILBOURNE; YVETTE nhìn xuống chỗ tay mình đang bắt mạch; KILBOURNE nhìn mơ hồ về phía trước.\n\nBIỂU CẢM: QUINT trấn an và chắc chắn về kết luận của mình. YVETTE tập trung, miệng mím phẳng. KILBOURNE mệt, thở gấp, hoang mang.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi QUINT bóc nắp hộp thuốc.\n\nCHỮ TRONG KHUNG: chữ trên hộp thuốc, vỏ máy và điện thoại là nhãn hư cấu.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_QUINT_PORTRAIT",
+              "REF_QUINT_FULL",
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_PROP_HOP_THUOC",
+              "REF_PROP_MONITOR"
+            ],
+            "bg": "REF_BG_DAI_SANH_NGAY"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "QUINT": "quỳ một gối bên phải ghế",
+              "YVETTE": "quỳ một gối bên trái ghế"
+            },
+            "dist": "3,5m",
+            "hands": {
+              "QUINT": "hộp thuốc trong tay phải",
+              "YVETTE": "hai ngón trên cổ tay KILBOURNE",
+              "KILBOURNE": "bám mép ghế"
+            }
+          },
+          "picked": "SF-S3-M1-MASTER_v4.png"
+        },
+        {
+          "id": "SF-S3-B2",
+          "label": "🎬 NHỊP LẶNG — bàn tay tìm thấy thứ nó vẫn luôn tìm thấy",
+          "desc": "",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S3-B2_v1.png",
+          "goc": "Đặc tả bàn tay QUINT siết quanh hộp thuốc · không có mặt người trong khung",
+          "prompt": "MÁY QUAY: ĐẶC TẢ (insert), 100mm, ngang tầm chiếc túi y tế đặt trên thảm, cách 40 phân, chếch 3/4 từ trên xuống.\n\nAI VÀ ĐANG LÀM GÌ: bàn tay phải QUINT vừa thò vào miệng chiếc túi y tế da nâu mở toang trên thảm, năm ngón đang siết quanh một hộp thuốc giấy nhỏ còn nguyên nắp. Cổ tay áo sơ mi trắng và mép tay áo vest xám sáng lọt khung. Nền là thảm xám xanh và một mảng ống quần âu của chính ông.\n\nHẬU CẢNH: xoá mờ mạnh, chỉ còn mảng màu thảm và một chân chiếc ghế gấp.\n\nTAY: năm ngón siết quanh hộp thuốc, mặt trước hộp quay lên phía máy quay, thấy rõ chữ in trên hộp, không bị ngón tay che.\n\nHƯỚNG NHÌN: không có mặt người trong khung.\n\nBIỂU CẢM: đọc qua bàn tay — dứt khoát, đi thẳng tới đúng thứ cần lấy, không dò dẫm, không phân vân.\n\nĐÓNG BĂNG: ngay TRƯỚC khi ông nhấc hộp thuốc ra khỏi lòng túi.\n\nCHỮ TRONG KHUNG: chữ in trên hộp thuốc là nhãn hư cấu, không dùng thương hiệu có thật.",
+          "refs": {
+            "chars": [
+              "REF_QUINT_FULL",
+              "REF_PROP_HOP_THUOC"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "QUINT": "quỳ một gối bên phải ghế"
+            },
+            "dist": "0,4m",
+            "hands": {
+              "QUINT": "hộp thuốc trong tay phải"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-B3",
+          "label": "🎬 NHỊP LẶNG — hai ngón tay trên cổ tay, mạch chạy như máy",
+          "desc": "",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S3-B3_v1.png",
+          "goc": "Cận cảnh 3/4 · YVETTE cúi bắt mạch RÕ MẶT · cổ tay KILBOURNE nét ở tiền cảnh dưới · QUINT thân người rìa phải, out nét",
+          "prompt": "MÁY QUAY: cận cảnh, 85mm, ngang tầm người đang quỳ, cách 1 mét, chếch 3/4 từ phía trước chiếc ghế.\n\nAI VÀ ĐANG LÀM GÌ: NÉT ở tiền cảnh dưới là cổ tay trái KILBOURNE ngửa trên tay vịn ghế, hai ngón trỏ và giữa của YVETTE ấn lên mặt trong cổ tay ấy. Cùng lớp nét phía trên là gương mặt YVETTE cúi xuống. Rìa phải khung là một mảng thân người QUINT đứng khom, out nét.\n\nHẬU CẢNH: mảng người vây quanh xoá mờ mạnh thành khối, không đọc được mặt ai.\n\nTAY: hai ngón YVETTE ấn trên cổ tay KILBOURNE; tay còn lại đặt trên đùi mình.\n\nHƯỚNG NHÌN: YVETTE nhìn xuống chỗ bàn tay mình, không nhìn ai.\n\nBIỂU CẢM: miệng cô mím phẳng lại, quai hàm siết một nấc — vừa nhận ra một thứ cô đã từng cảm thấy dưới chính hai ngón tay này, ở một nơi khác, trên một người khác.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cô ngẩng đầu lên.",
+          "refs": {
+            "chars": [
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_QUINT_FULL"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "quỳ một gối bên phải ghế"
+            },
+            "dist": "1m",
+            "hands": {
+              "YVETTE": "hai ngón trên cổ tay KILBOURNE"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-02",
+          "label": "OTS qua vai QUINT → YVETTE đòi gắn máy theo dõi",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh OTS, ống kính 50mm, ngang tầm mắt người quỳ, cách 1,5 mét, qua vai phải QUINT.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh phải là vai và một phần gáy QUINT, out nét, chiếm chừng một phần ba khung. NÉT ở giữa khung là YVETTE quỳ bên kia chiếc ghế, người hơi chồm tới; chiếc máy theo dõi nhịp tim màu vàng nghệ đã kéo lên đặt trên đùi cô, một sợi dây điện cực trắng đã gỡ khỏi cuộn và vắt qua tay. Lớp sau bên phải là KILBOURNE ngồi trên ghế, thấy nghiêng từ ngực trở lên, hơi out nét.\n\nHẬU CẢNH — người: sau ba người là vòng cung khách mời đứng vây cách vài mét, chỉ còn là hình khối mờ, tất cả hướng mặt về phía chiếc ghế.\n\nTAY: YVETTE tay trái giữ thân máy, tay phải cầm đầu dây điện cực có miếng dán tròn.\n\nHƯỚNG NHÌN: YVETTE nhìn thẳng vào mặt KILBOURNE.\n\nBIỂU CẢM: bình tĩnh nghề nghiệp, dứt khoát — đang báo trước một việc sắp làm chứ không xin phép.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cô đưa miếng dán điện cực về phía ngực KILBOURNE.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_QUINT_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_PROP_MONITOR"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "QUINT": "quỳ một gối bên phải ghế",
+              "YVETTE": "quỳ một gối bên trái ghế"
+            },
+            "dist": "1,5m",
+            "hands": {
+              "YVETTE": "máy theo dõi trên đùi, dây điện cực trong tay phải"
+            }
+          },
+          "picked": "SF-S3-02_v1.png"
+        },
+        {
+          "id": "SF-S3-03",
+          "label": "OTS qua vai YVETTE → QUINT gạt đi",
+          "desc": "",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "picked": "",
+          "goc": "OTS qua vai YVETTE → QUINT RÕ MẶT, cầm hộp thuốc · KILBOURNE ngồi ghế lớp sau, hơi out nét",
+          "prompt": "MÁY QUAY: cận cảnh OTS, 50mm, ngang tầm người quỳ, cách 1,5 mét, qua vai trái YVETTE.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh trái là vai và gáy YVETTE, out nét. NÉT ở giữa khung là QUINT quỳ một gối bên kia chiếc ghế, người thẳng lên một chút, hộp thuốc giấy nhỏ nằm trong lòng bàn tay phải đưa lên ngang ngực. Lớp sau bên trái là KILBOURNE ngồi trên ghế, thấy nghiêng, hơi out nét.\n\nHẬU CẢNH — người: vòng cung khách mời đứng vây phía sau, hình khối mờ, hướng mặt về chiếc ghế.\n\nTAY: QUINT tay phải giữ hộp thuốc ngang ngực, tay trái xoè ra một chút về phía YVETTE, không chạm vào ai.\n\nHƯỚNG NHÌN: QUINT nhìn thẳng vào mắt YVETTE.\n\nBIỂU CẢM: chắc nịch và coi nhẹ, hơi khó chịu vì bị chen ngang công việc của mình — mệt mỏi chứ không gay gắt.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi ông nói hết câu.\n\nCHỮ TRONG KHUNG: chữ trên hộp thuốc là nhãn hư cấu.",
+          "refs": {
+            "chars": [
+              "REF_QUINT_PORTRAIT",
+              "REF_QUINT_FULL",
+              "REF_YVETTE_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "QUINT": "quỳ một gối bên phải ghế",
+              "YVETTE": "quỳ một gối bên trái ghế"
+            },
+            "dist": "1,5m",
+            "hands": {
+              "QUINT": "hộp thuốc trong tay phải"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "S3-B1",
+          "sf": "SF-S3-B1",
+          "dur": 7,
+          "text": "[NHỊP] Chín phút sau. Giữa một câu nói, mặt người đàn ông trên bục chuyển sang màu giấy.\nNARRATOR: Nine minutes later, Kilbourne's face went gray at the podium, and his private doctor reached into a bag for the wrong thing.",
+          "goc": "Trung cảnh chính diện chếch trái, hơi thấp · KILBOURNE đứng sau bục, RÕ MẶT",
+          "prompt": "Nhận diện:\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía bục phát biểu.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cái thứ vẫn đến với ông suốt ba năm vừa bật lên một lần nữa, đúng giữa buổi lễ của chính ông, và lần này nó không chờ ông nói hết câu. Gợi ý diễn biến: câu nói tắt giữa chừng, hai tay tìm mặt bục để chống, đầu cúi thấp dần, một tay đưa lên nới cổ áo. Cho phép tiếng thở gấp và một tiếng hắng giọng — KHÔNG thành lời. Tuyệt đối KHÔNG co giật, KHÔNG ngã xuống trong clip này.\n\nQUẦN CHÚNG NỀN — khách mời hàng ghế đầu ở rìa khung: vài người bật dậy khỏi ghế, một người bước lên nửa bước rồi dừng.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient: tiếng micro hú nhẹ khi ông dừng lại, tiếng rì rầm hoảng hốt dâng lên từ khán phòng, tiếng ghế kim loại xô.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Đây là cú lật của hook: lời thách đố quay lại tìm chính người ném nó ra. Nhạc được phép chiếm sân khấu đúng năm giây này.",
+            "a_kind": "có lời",
+            "a": "Cinematic soul at 76 BPM opening on one hard piano chord and a low male choir hum; strings entering underneath within two bars and climbing, a single female alto cutting in over the top at 0:03 with one long held note instead of a phrase, kick drum landing twice only, ending wide open on an unresolved chord; lyrics reduced to one line about a switch being thrown, no words of triumph; big warm analog mix, tape saturation, strings, choir, soul, cinematic",
+            "b_kind": "không lời",
+            "b": "Orchestral stinger at 78 BPM; low strings entering on a single sustained note and swelling fast, a lone cello rising a fifth against them, one deep timpani hit at 0:03, high violins arriving last and holding, no resolution, cut off while still ringing; wide cinematic mix with real room tail, strings, timpani, urgent, unresolved"
+          },
+          "chuyen": true,
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn."
+        },
+        {
+          "id": "S3-01",
+          "sf": "SF-S3-M1-MASTER",
+          "dur": 4,
+          "goc": "Medium-wide 3/4 · KILBOURNE ngồi ghế RÕ MẶT · QUINT quỳ bên phải ghế RÕ MẶT · YVETTE quỳ bên trái ghế RÕ MẶT",
+          "text": "QUINT: It's the panic thing, Roland. Big day. Big crowd. Breathe with me.",
+          "prompt": "Nhận diện:\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera DOLLY IN chậm về phía chiếc ghế.\n\nQUINT đang làm đúng cái việc ông đã làm suốt ba năm: trấn an cả căn phòng bằng một kết luận ông tin chắc, tay đã thò vào túi y tế tìm thứ luôn là câu trả lời của ông. YVETTE thì đang làm việc của mình, không nghe ông.\n\nQUINT — calm, reassuring, certain: \"It's the panic thing, Roland. Big day. Big crowd. Breathe with me.\"\n\nKILBOURNE — silent, breathing hard, dazed; gật một cái rất nhỏ.\n\nYVETTE — silent, focused, không ngẩng lên; đang đếm mạch dưới ngón tay.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời đứng vây cách vài mét: rì rầm khẽ, vài người giơ điện thoại, người quay phim rìa trái chỉnh máy.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có ambient rì rầm của đám đông.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S3-B2",
+          "sf": "SF-S3-B2",
+          "dur": 3,
+          "text": "[NHỊP] Bàn tay ông bác sĩ riêng tìm thấy trong túi thứ ông vẫn luôn tìm thấy.\nNARRATOR: To his everlasting discredit, he already knew the answer.",
+          "goc": "Đặc tả bàn tay QUINT siết quanh hộp thuốc · không có mặt người trong khung",
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau. Master cụm C lên hình ở chính nhịp này.",
+          "prompt": "Nhận diện:\n- QUINT = đàn ông da trắng 58 tuổi, vest ba mảnh xám sáng — trong khung CHỈ thấy bàn tay phải, cổ tay áo sơ mi trắng và mép tay áo vest.\n\nMột shot liền 3 giây, không chuyển cảnh. Camera PUSH-IN rất chậm vào bàn tay QUINT.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: QUINT không hề phân vân — ông đã có sẵn câu trả lời từ ba năm trước và bàn tay ông đi thẳng tới thứ vẫn luôn là câu trả lời ấy. Gợi ý diễn biến: các ngón siết chặt quanh hộp thuốc rồi nhấc nó ra khỏi lòng túi, cổ tay xoay nhẹ để mặt chữ quay lên phía máy quay. TRONG KHUNG KHÔNG CÓ MẶT NGƯỜI NÀO — chỉ bàn tay, chiếc túi và mặt thảm. Cho phép một tiếng thở ra qua mũi ngoài khung, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — không ai lọt vào khung đặc tả này; đám đông chỉ tồn tại bằng tiếng rì rầm.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient của đám đông vây quanh.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Khán giả cần thấy sự tự tin của một người đang sai — nhạc phải lạnh và nhỏ hơn khoảnh khắc, không bình luận thay lời dẫn.",
+            "a_kind": "có lời",
+            "a": "Sparse noir-soul at 64 BPM; a male baritone humming one low phrase close to the mic, almost muttered, entering at 0:01; muted upright bass walking three notes, one brushed snare, a single detuned Rhodes chord held underneath and never resolving; lyrics reduced to one line about reaching for the answer you already decided on, cold but never villainous; dry analog mix, tape hiss, noir, soul, restrained",
+            "b_kind": "không lời",
+            "b": "Minimal noir instrumental at 62 BPM; one detuned Rhodes chord held and slowly wavering, a muted double bass note landing twice, a faint metallic room tone underneath, no percussion, no arc, cut off flat; dry intimate mix, Rhodes, upright bass, cold, unresolved"
+          }
+        },
+        {
+          "id": "S3-B3",
+          "sf": "SF-S3-B3",
+          "dur": 6,
+          "text": "[NHỊP] Dưới hai ngón tay cô, quả tim ấy chạy đều như một cỗ máy lên dây.\nNARRATOR: She had felt that exact pulse before. On her own kitchen floor. On a nine-year-old.",
+          "goc": "Cận cảnh 3/4 · YVETTE cúi bắt mạch RÕ MẶT · cổ tay KILBOURNE nét ở tiền cảnh dưới · QUINT thân người rìa phải, out nét",
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau. Beat nối hai tuyến truyện.",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, chỉ thấy cổ tay và tay áo.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN rất chậm vào mặt YVETTE.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cô đang đếm một nhịp tim mà cô đã đếm trước đây, trên sàn bếp nhà mình, trên chính con trai mình — và cô nhận ra điều đó ngay dưới hai ngón tay. Không kịch tính hoá: một người làm nghề đang xác nhận một dữ kiện. Gợi ý diễn biến: hai ngón tay giữ nguyên, mắt cô đứng yên một điểm rồi hơi hẹp lại, quai hàm siết, một nhịp nuốt khan trước khi đầu bắt đầu ngẩng lên. Cho phép một hơi hít vào nghe được, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — mảng người vây quanh phía sau, xoá mờ thành khối: chỉ còn chuyển động rất nhẹ, không ai bước vào khung.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient của đám đông vây quanh.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Cả hook đang dồn; đây là giây duy nhất để khán giả nghe hai tuyến truyện khớp vào nhau. Nhạc gần như biến mất để nhường chỗ cho một gương mặt.",
+            "a_kind": "có lời",
+            "a": "Ambient soul at 52 BPM; one female alto singing a single wordless line very close to the mic, breathy and unadorned, entering at 0:02 and leaving before the bar ends; a felt-piano note repeating with heavy sustain underneath, no bass, no percussion, no build; the only lyric a single repeated word about home, never sentimental; extremely soft late-afternoon mix, almost subliminal, piano, ambient, intimate",
+            "b_kind": "không lời",
+            "b": "Ambient miniature at 50 BPM; one felt-piano note struck and left to decay completely, a low warm pad breathing once underneath, a faint heartbeat-like thud far back in the mix at a steady fast rate, no percussion otherwise, no resolution, simply fading; extremely soft mix, piano, pad, still, minimal"
+          }
+        },
+        {
+          "id": "S3-02",
+          "sf": "SF-S3-02",
+          "dur": 3,
+          "text": "YVETTE: Sir, I need to put a monitor on you.",
+          "goc": "OTS qua vai QUINT → YVETTE RÕ MẶT · KILBOURNE ngồi ghế lớp sau, hơi out nét",
+          "prompt": "Nhận diện:\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng, cà vạt xanh.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 3 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía YVETTE.\n\nYVETTE vừa cảm thấy dưới ngón tay mình một thứ cô đã từng cảm thấy trên sàn bếp nhà mình, và cô đang chuyển sang làm việc bằng máy thay vì bằng phỏng đoán.\n\nYVETTE — level, firm, professional: \"Sir, I need to put a monitor on you.\"\n\nKILBOURNE — silent, breathing hard; mắt chuyển sang nhìn cô.\n\nQUINT — silent, ở tiền cảnh chỉ thấy vai và gáy; vai xoay nhẹ về phía cô.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời phía sau, chỉ là hình khối mờ: rì rầm khẽ, cử động nhỏ.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S3-03",
+          "sf": "SF-S3-03",
+          "dur": 4,
+          "goc": "OTS qua vai YVETTE → QUINT RÕ MẶT, cầm hộp thuốc · KILBOURNE ngồi ghế lớp sau, hơi out nét",
+          "text": "QUINT: He's fine. He's had a hundred of these.",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía QUINT.\n\nQUINT đang bảo vệ một kết luận ông đã đặt cược ba năm vào đó, trước mặt một nhân viên cấp cứu vừa định làm cái việc có thể chấm điểm ông.\n\nQUINT — dismissive, weary, certain: \"He's fine. He's had a hundred of these.\"\n\nYVETTE — silent, ở tiền cảnh chỉ thấy vai và gáy; không nhúc nhích khỏi tư thế đang làm.\n\nKILBOURNE — silent, breathing hard, mắt đảo giữa hai người.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời phía sau, hình khối mờ: rì rầm khẽ, một hai người nhích lên.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S3-04",
+          "sf": "SF-S3-02",
+          "dur": 3,
+          "goc": "OTS qua vai QUINT → YVETTE RÕ MẶT · KILBOURNE ngồi ghế lớp sau, hơi out nét",
+          "text": "YVETTE: Sir, I'm going to put a monitor on you.",
+          "prompt": "Nhận diện:\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n\nMột shot liền 3 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía YVETTE.\n\nYVETTE nhắc lại đúng câu vừa nói, lần này bỏ chữ xin phép đi — cô không hỏi nữa, cô báo trước việc mình sắp làm.\n\nYVETTE — level, firm, unmovable: \"Sir, I'm going to put a monitor on you.\"\n\nKILBOURNE — silent, breathing hard; mắt chuyển sang nhìn cô.\n\nQUINT — silent, ở tiền cảnh chỉ thấy vai và gáy; vai ông cứng lại.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời phía sau, hình khối mờ: rì rầm khẽ.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        }
+      ]
+    },
+    {
+      "id": "S4",
+      "name": "S4 — Lều y tế · cậu bé nhận ra và đeo chiếc vòng",
+      "sfs": [
+        {
+          "id": "SF-S4-B1",
+          "label": "🎬 NHỊP LẶNG — PRESTON đứng bật dậy khỏi ghế gấp",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 50mm, ngang tầm mắt, cách 3 mét, chếch 3/4 từ phía trái.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON vừa đứng bật dậy khỏi chiếc ghế gấp, người còn hơi nghiêng về trước, cuốn sách bìa mềm vừa buông rơi nằm trên mặt ghế phía sau lưng cậu. Chiếc ghế bỏ trống.\n\nHẬU CẢNH — TRỤC BỐI CẢNH: phía sau cậu là vạt lều bạt trắng và đuôi xe cứu thương mở hai cánh cửa. Người: xa hơn về phía cuối khán phòng, khách mời đã rời ghế và dồn thành đám hướng về phía sân khấu — SÂN KHẤU NẰM NGOÀI KHUNG bên phải, không lên hình; chỉ thấy đám người từ sau lưng, hình khối mờ; một nhân viên bảo vệ đang bước nhanh về hướng đó.\n\nTAY: hai tay buông dọc thân, bàn tay phải nắm hờ.\n\nHƯỚNG NHÌN: nhìn chằm chằm về phía sân khấu ở xa, ngoài khung bên phải.\n\nBIỂU CẢM: vừa nhận ra một điều rất quen thuộc; tỉnh táo và căng, KHÔNG hoảng sợ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cậu bước bước đầu tiên.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL"
+            ],
+            "bg": "SF-S2-M1-MASTER"
+          },
+          "pose": {
+            "zone": "góc lều y tế cuối đại sảnh",
+            "who": {
+              "PRESTON": "đứng cạnh ghế gấp"
+            },
+            "dist": "3m",
+            "hands": {
+              "PRESTON": "trống, sách đã rơi trên ghế"
+            }
+          },
+          "picked": "SF-S4-B1_v2.png"
+        },
+        {
+          "id": "SF-S4-01",
+          "label": "Cận PRESTON — chiếc vòng y tế trong lòng bàn tay, cổ tay còn trống",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh, ống kính 85mm, thấp hơn tầm mắt cậu bé một chút, cách 1,2 mét, chính diện chếch phải.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON đứng, khung lấy từ giữa ngực trở lên. Bàn tay phải của cậu vừa rút khỏi túi quần và đang mở ngửa ra ngang trước bụng; nằm trong lòng bàn tay là chiếc vòng cảnh báo y tế dây đỏ có thẻ thép khắc chữ, thẻ NGỬA lên thấy rõ mặt chữ, khoá cài còn mở. Cổ tay TRÁI của cậu vẫn đang TRỐNG.\n\nHẬU CẢNH: sau lưng cậu là vạt lều bạt trắng và một khoảng thảm trống, xoá mờ mạnh; rìa khung phía xa có một dáng người lớn mờ đi ngang qua.\n\nTAY: tay phải ngửa nâng chiếc vòng; tay trái buông dọc thân, cổ tay để hở.\n\nHƯỚNG NHÌN: nhìn thẳng về phía sân khấu ngoài khung bên phải, KHÔNG nhìn xuống chiếc vòng.\n\nBIỂU CẢM: quyết định đã xong, điềm tĩnh, hơi nghiêm; đây là gương mặt của một đứa trẻ sắp làm điều nó biết là đúng.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cậu cài chiếc vòng lên cổ tay trái.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_PROP_VONG_Y_TE"
+            ],
+            "bg": "SF-S2-M1-MASTER"
+          },
+          "pose": {
+            "zone": "góc lều y tế cuối đại sảnh",
+            "who": {
+              "PRESTON": "đứng cạnh ghế gấp"
+            },
+            "dist": "1,2m",
+            "hands": {
+              "PRESTON": "vòng y tế trong lòng bàn tay phải"
+            }
+          },
+          "picked": "SF-S4-01_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "S4-B1",
+          "sf": "SF-S4-B1",
+          "dur": 5,
+          "text": "[NHỊP] Một người trong khán phòng biết chính xác chuyện gì đang xảy ra. Vì nó vẫn xảy ra với cậu.\nNARRATOR: One person in that ballroom knew exactly what was happening. Because it happens to him.",
+          "goc": "Trung cảnh 3/4 · PRESTON vừa đứng bật dậy khỏi ghế gấp, RÕ MẶT",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía cậu bé.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cậu bé vừa nghe thấy ba chữ của chính mình phát ra từ miệng người khác và vừa nhìn thấy thứ đang xảy ra ở đầu kia căn phòng. Cậu không hoảng — cậu đang đối chiếu. Gợi ý diễn biến: người dừng lại một nhịp sau khi bật dậy, mắt khoá vào một điểm ngoài khung, bàn tay phải nắm rồi mở ra. Cho phép một hơi hít vào nghe được, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — đám đông xa phía cuối khán phòng, hình khối mờ: chen nhau hướng về phía sân khấu, nhân viên bảo vệ đi nhanh qua khung.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient. Chỉ ambient của một khán phòng đông người: tiếng rì rầm, tiếng ghế kim loại, bước chân trên thảm.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Chỗ này nhạc phải đẩy khán giả đứng dậy cùng cậu bé mà không được to hơn cậu — một cú tạo đà, không phải một cú bùng nổ.",
+            "a_kind": "có lời",
+            "a": "Gospel-soul at 84 BPM building from a single Hammond organ note; female alto entering at 0:01 low in her range, close to the mic, half-spoken, joined by two quiet backing voices on the last beat; brushed snare on the two and four only, upright bass walking upward, no cymbals, ending on the rise instead of resolving; lyrics about knowing a thing in your own body before anyone believes you, steady and unafraid; warm analog mix, organ, soul, gospel, rising",
+            "b_kind": "không lời",
+            "b": "Instrumental build at 86 BPM; muted staccato cello ostinato of three notes repeating and gaining one voice each bar, a low piano octave landing under it, a soft mallet pulse appearing at 0:02, everything cut off at the top of the climb with no cymbal and no resolution; tight modern cinematic mix, cello, piano, propulsive, unresolved"
+          },
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn."
+        },
+        {
+          "id": "S4-01",
+          "sf": "SF-S4-01",
+          "dur": 4,
+          "text": "PRESTON: That's not going to work.",
+          "goc": "Cận cảnh chính diện chếch phải · PRESTON RÕ MẶT, tay phải nâng chiếc vòng y tế",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt cậu bé.\n\nPRESTON đang nói với chính mình chứ không với ai, mắt vẫn khoá về phía đầu kia căn phòng; cậu nói bình thản như đọc một điều đã biết trước.\n\nPRESTON — quiet, level, certain, nói khẽ với chính mình: \"That's not going to work.\"\n\nQUẦN CHÚNG NỀN — một dáng người lớn mờ đi ngang phía xa sau lưng cậu; không ai chú ý tới cậu bé.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có ambient rì rầm hoảng hốt rất nhẹ vọng từ đầu kia khán phòng.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.\n\nKẾT CLIP: PRESTON cài chiếc vòng y tế lên cổ tay TRÁI của mình, khoá đóng lại. Clip dừng ngay ở đó, cậu chưa bước đi.",
+          "music": null
+        }
+      ]
+    },
+    {
+      "id": "S5",
+      "name": "S5 — Bên chiếc ghế · cậu bé bước vào cuộc",
+      "sfs": [
+        {
+          "id": "SF-S5-B1",
+          "label": "🎬 NHỊP LẶNG — cậu bé đi giữa lối đi, người lớn rẽ ra",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, ống kính 28mm, đặt thấp ngang tầm mắt cậu bé, cách 4 mét, nhìn dọc lối đi giữa hai dãy ghế về phía sân khấu.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON đang bước ở chính giữa lối đi, người nhỏ giữa hai bức tường người lớn, một chân vừa chạm thảm. Chiếc vòng cảnh báo y tế dây đỏ đã nằm trên cổ tay TRÁI của cậu.\n\nHẬU CẢNH — người: hai bên lối đi khoảng bốn mươi khách mời đứng chen nhau, phần lớn quay lưng hoặc quay nghiêng về phía máy quay, một số vừa dạt sang hai bên nhường chỗ, vài người cúi nhìn theo cậu bé. Cuối lối đi ở xa là mép sân khấu và cụm người vây quanh chiếc ghế — lấy bố cục cụm ấy theo ẢNH THAM CHIẾU CHIẾC GHẾ đính kèm, chỉ còn là hình khối mờ, không đọc được mặt ai. Không ai nhìn vào camera.\n\nTAY: hai tay buông thẳng dọc thân, thấy rõ hai lòng bàn tay trống.\n\nHƯỚNG NHÌN: nhìn thẳng về cuối lối đi.\n\nBIỂU CẢM: tập trung, bước đều, KHÔNG chạy, KHÔNG sợ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cậu tới rìa vòng người vây quanh chiếc ghế.",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU: máy đặt giữa lối đi khán phòng, CÙNG TRỤC cụm A nên bg neo SF-S1-M1-MASTER; cụm đích ở cuối lối đi neo bằng SF-S5-M1-MASTER trong refs.chars.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "SF-S5-M1-MASTER"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khán phòng · trục nhìn lên sân khấu → chiếc ghế (SF-S5-M1-MASTER)",
+            "who": {
+              "PRESTON": "đang bước giữa lối đi"
+            },
+            "dist": "4m",
+            "hands": {
+              "PRESTON": "trống, vòng y tế ở cổ tay trái"
+            }
+          },
+          "picked": "SF-S5-B1_v1.png"
+        },
+        {
+          "id": "SF-S5-M1-MASTER",
+          "label": "MASTER cụm D — bốn người quanh chiếc ghế",
+          "desc": "",
+          "prompt": "MÁY QUAY: medium-wide 3/4, ống kính 35mm, ngang tầm mắt, cách 3 mét, từ phía khán phòng nhìn chếch vào mép phải sân khấu.\n\nAI VÀ ĐANG LÀM GÌ: KILBOURNE ngồi trên chiếc ghế gấp giữa khung, cúc trên sơ mi đã bung, mặt xám và ướt mồ hôi, ba miếng dán điện cực trắng trên phần ngực áo hở, dây chạy xuống chiếc máy theo dõi nhịp tim trên thảm. YVETTE quỳ một gối bên trái ghế, một tay trên thân máy, vừa ngẩng đầu lên. QUINT đứng khom bên phải chiếc ghế, hộp thuốc giấy nhỏ vẫn trong tay trái. PRESTON đứng cách chân ghế chừng một mét, sau vai trái mẹ, hai tay buông để hở, cổ tay trái đeo vòng y tế dây đỏ.\n\nHẬU CẢNH — người: sau bốn người là mép sân khấu và vòng cung khoảng ba mươi khách mời đứng vây cách vài mét, hướng mặt vào chiếc ghế, vài người giơ điện thoại; một người quay phim rìa trái chĩa máy vào. Không ai nhìn camera.\n\nTAY: YVETTE tay trái trên thân máy, tay phải giữ một sợi dây điện cực. QUINT hộp thuốc trong tay trái. PRESTON hai bàn tay để hở, không chạm vào bất cứ thứ gì.\n\nHƯỚNG NHÌN: YVETTE nhìn thẳng lên mặt con; PRESTON nhìn lại mẹ; QUINT nhìn YVETTE; KILBOURNE nhìn xuống ngực mình.\n\nBIỂU CẢM: YVETTE căng, đang ra lệnh cho con bằng mắt, KHÔNG quát. PRESTON điềm tĩnh, không lùi. QUINT khó chịu vì bị quấy rầy. KILBOURNE mệt và thở gấp.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi YVETTE gọi tên con.\n\nCHỮ TRONG KHUNG: chữ trên hộp thuốc, vỏ máy và điện thoại là nhãn hư cấu.",
+          "status": "approved",
+          "notes": "ẢNH NEO — không lên hình. Master của cụm D, làm `refs.bg` cho SF-S5-02/03/04/06/08. Vẫn phải sinh ảnh này trước khi sinh các SF con.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_QUINT_PORTRAIT",
+              "REF_QUINT_FULL",
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL"
+            ],
+            "bg": "REF_BG_DAI_SANH_NGAY"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế",
+              "PRESTON": "đứng cạnh vai trái mẹ"
+            },
+            "dist": "3m",
+            "hands": {
+              "YVETTE": "tay trên máy theo dõi",
+              "QUINT": "hộp thuốc tay trái",
+              "PRESTON": "hai tay để hở"
+            }
+          },
+          "goc": "Medium-wide 3/4 · KILBOURNE ngồi ghế RÕ MẶT · YVETTE quỳ bên trái ghế RÕ MẶT · QUINT đứng khom bên phải ghế RÕ MẶT · PRESTON đứng cách chân ghế một mét RÕ MẶT",
+          "picked": "SF-S5-M1-MASTER_v2.png"
+        },
+        {
+          "id": "SF-S5-02",
+          "label": "OTS qua vai YVETTE → PRESTON đứng nói",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh OTS, ống kính 50mm, thấp hơn tầm mắt người lớn, cách 1,5 mét, qua vai trái YVETTE đang quỳ.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh dưới bên trái là vai và một phần gáy YVETTE, out nét. NÉT ở giữa khung là PRESTON đứng, khung lấy từ thắt lưng trở lên, cổ tay trái đeo vòng y tế dây đỏ thấy rõ. Lớp sau bên phải là KILBOURNE ngồi trên chiếc ghế thấy nghiêng, out nét; rìa phải xa hơn là thân người QUINT đứng khom, mờ.\n\nHẬU CẢNH — người: vòng cung khách mời đứng vây phía sau, chỉ còn hình khối mờ, hướng mặt về phía chiếc ghế.\n\nTAY: PRESTON hai tay buông dọc thân, lòng bàn tay để hở về phía trước, không cầm gì và không chạm vào thứ gì.\n\nHƯỚNG NHÌN: PRESTON nhìn thẳng vào mắt mẹ ở tiền cảnh.\n\nBIỂU CẢM: bình tĩnh, rành mạch, chắc chắn — cách một đứa trẻ nói về đúng thứ nó biết rõ hơn mọi người trong phòng.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cậu bật ra tiếng đầu tiên.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_YVETTE_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_QUINT_FULL"
+            ],
+            "bg": "SF-S5-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế",
+              "PRESTON": "đứng cạnh vai trái mẹ"
+            },
+            "dist": "1,5m",
+            "hands": {
+              "PRESTON": "hai tay để hở"
+            }
+          },
+          "picked": "SF-S5-02_v3.png"
+        },
+        {
+          "id": "SF-S5-03",
+          "label": "OTS qua vai PRESTON → YVETTE và KILBOURNE",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh OTS, ống kính 50mm, cao hơn tầm mắt cậu bé một chút, cách 1,8 mét, qua vai phải PRESTON.\n\nAI VÀ ĐANG LÀM GÌ: tiền cảnh trái là vai và gáy PRESTON, out nét. NÉT là YVETTE quỳ một gối bên chiếc ghế, người xoay hẳn về phía KILBOURNE đang ngồi trên ghế — cả hai cùng nằm trong lớp nét, mặt đối mặt. Rìa phải khung là thân dưới và một bên tay QUINT đứng khom, mờ.\n\nHẬU CẢNH — người: sau lưng họ là mép sân khấu và vòng cung khách mời đứng vây, hình khối mờ, hướng mặt vào chiếc ghế.\n\nTAY: YVETTE tay trái đặt trên thân máy theo dõi dưới sàn, tay phải để hở ngang gối. KILBOURNE hai tay bám hai mép ghế.\n\nHƯỚNG NHÌN: YVETTE nhìn thẳng vào mắt KILBOURNE; KILBOURNE nhìn lại cô.\n\nBIỂU CẢM: YVETTE hỏi chậm và rõ, đủ to cho tận hàng ghế thứ hai nghe, mắt không rời mặt người bệnh. KILBOURNE mệt, thở gấp, đang cố nghe cho hết câu.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi KILBOURNE trả lời.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_PRESTON_FULL",
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_QUINT_FULL"
+            ],
+            "bg": "SF-S5-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế",
+              "PRESTON": "đứng cạnh vai trái mẹ"
+            },
+            "dist": "1,8m",
+            "hands": {
+              "YVETTE": "tay trên máy theo dõi",
+              "KILBOURNE": "bám mép ghế"
+            }
+          },
+          "picked": "SF-S5-03_v3.png"
+        },
+        {
+          "id": "SF-S5-04",
+          "label": "Cận KILBOURNE — ba chữ ông đã nói suốt ba năm",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh, ống kính 85mm, ngang tầm mắt người đang ngồi, cách 1 mét, chính diện chếch trái.\n\nAI VÀ ĐANG LÀM GÌ: KILBOURNE ngồi trên chiếc ghế gấp, khung lấy từ vai trở lên, mồ hôi trên trán và thái dương, cổ áo bung cúc trên, đầu một sợi dây điện cực trắng vắt qua vai áo. Tiền cảnh rìa trái là vai YVETTE, out nét. Lớp sau rìa phải là một mảng thân người QUINT đứng khom, mờ.\n\nHẬU CẢNH: sau đầu ông là mép sân khấu và mảng người vây quanh, xoá mờ mạnh thành hình khối.\n\nTAY: hai tay bám hai mép ghế, các đốt ngón tay hằn lên.\n\nHƯỚNG NHÌN: nhìn thẳng vào mắt YVETTE ở tiền cảnh.\n\nBIỂU CẢM: mệt và thở gấp, nhưng ánh mắt vừa bắt được một thứ khớp với chính mình — nhận ra chứ không sợ hãi.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi ông thốt ra ba chữ.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_KILBOURNE_PORTRAIT",
+              "REF_KILBOURNE_FULL",
+              "REF_YVETTE_FULL",
+              "REF_QUINT_FULL"
+            ],
+            "bg": "SF-S5-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế"
+            },
+            "dist": "1m",
+            "hands": {
+              "KILBOURNE": "bám mép ghế"
+            }
+          },
+          "picked": "SF-S5-04_v2.png"
+        },
+        {
+          "id": "SF-S5-06",
+          "label": "QUINT đứng thẳng lên, đưa tay chắn ngang",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 35mm, thấp hơn tầm mắt người lớn — nhìn từ phía cậu bé lên, cách 2 mét.\n\nAI VÀ ĐANG LÀM GÌ: QUINT vẫn đứng khom bên phải chiếc ghế, vừa xoay hẳn người về phía YVETTE và PRESTON, hộp thuốc giấy nhỏ vẫn trong tay trái, tay phải đưa ngang ra như một cái chắn giữa cậu bé và chiếc ghế nhưng KHÔNG chạm vào ai. Lớp giữa là YVETTE vẫn quỳ, vừa ngẩng lên. PRESTON đứng cạnh vai mẹ, thấy nghiêng. Lớp sau là KILBOURNE ngồi trên ghế, mờ.\n\nHẬU CẢNH — người: vòng cung khách mời đứng vây phía sau, hình khối mờ; hai người ở hàng trong cùng vừa lùi lại nửa bước.\n\nTAY: QUINT tay trái giữ hộp thuốc ngang ngực, tay phải xoè ngang trong không khí.\n\nHƯỚNG NHÌN: QUINT nhìn thẳng vào mặt YVETTE, không nhìn cậu bé.\n\nBIỂU CẢM: bối rối và mất bình tĩnh vì bị chen ngang trước cả một khán phòng — flustered, KHÔNG hung dữ, KHÔNG quát vào mặt đứa trẻ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi ông nói hết câu.\n\nCHỮ TRONG KHUNG: chữ trên hộp thuốc, vỏ máy và điện thoại là nhãn hư cấu.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_QUINT_PORTRAIT",
+              "REF_QUINT_FULL",
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_KILBOURNE_FULL"
+            ],
+            "bg": "SF-S5-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế",
+              "PRESTON": "đứng cạnh vai trái mẹ"
+            },
+            "dist": "2m",
+            "hands": {
+              "QUINT": "hộp thuốc tay trái, tay phải xoè ngang"
+            }
+          },
+          "picked": "SF-S5-06_v2.png"
+        },
+        {
+          "id": "SF-S5-08",
+          "label": "Cận PRESTON qua vai QUINT — cậu bé nói tên căn bệnh",
+          "desc": "",
+          "prompt": "MÁY QUAY: cận cảnh, ống kính 85mm, ngang tầm mắt cậu bé, cách 1,2 mét, chếch 3/4 từ phía phải.\n\nAI VÀ ĐANG LÀM GÌ: PRESTON đứng, khung lấy từ giữa ngực trở lên, NÉT. Tiền cảnh rìa phải là vai và một phần tay áo QUINT, out nét. Lớp sau bên trái là YVETTE đang quỳ, chỉ thấy đỉnh đầu và một bên vai, mờ; xa hơn nữa là KILBOURNE ngồi trên ghế, mờ hẳn.\n\nHẬU CẢNH — người: vòng cung khách mời vây quanh, xoá mờ thành hình khối; một người ở hàng trong hạ điện thoại xuống.\n\nTAY: hai tay PRESTON vẫn buông dọc thân, lòng bàn tay để hở về phía trước.\n\nHƯỚNG NHÌN: nhìn thẳng vào mặt người đàn ông ngồi trên ghế, ngoài khung bên trái.\n\nBIỂU CẢM: không hỗn, không sợ — chỉ tuyệt đối chắc chắn; đây là gương mặt một đứa trẻ đang nói về cơ thể của chính nó.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cậu nói ra tên căn bệnh.\n\nCHỮ TRONG KHUNG: chữ trên hộp thuốc, vỏ máy và điện thoại là nhãn hư cấu.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PRESTON_PORTRAIT",
+              "REF_PRESTON_FULL",
+              "REF_QUINT_FULL",
+              "REF_YVETTE_PORTRAIT",
+              "REF_YVETTE_FULL",
+              "REF_KILBOURNE_FULL"
+            ],
+            "bg": "SF-S5-M1-MASTER"
+          },
+          "pose": {
+            "zone": "mép phải sân khấu · quanh chiếc ghế gấp",
+            "who": {
+              "KILBOURNE": "ngồi trên ghế gấp",
+              "YVETTE": "quỳ một gối bên trái ghế",
+              "QUINT": "đứng khom bên phải ghế",
+              "PRESTON": "đứng cạnh vai trái mẹ"
+            },
+            "dist": "1,2m",
+            "hands": {
+              "PRESTON": "hai tay để hở"
+            }
+          },
+          "picked": "SF-S5-08_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "S5-B1",
+          "sf": "SF-S5-B1",
+          "dur": 7,
+          "text": "[NHỊP] Cậu không chạy. Cậu đi. Hai mươi bước thảm, trước ba trăm người và bốn máy quay.\nNARRATOR: He slid a medical bracelet out of his pocket and snapped it onto his wrist. Then the boy stepped forward.",
+          "goc": "Cinematic wide dọc lối đi giữa, máy đặt thấp · PRESTON đang bước giữa lối đi, RÕ MẶT",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 7 giây, không chuyển cảnh. Camera DOLLY IN chậm lùi theo hướng cậu bé đi.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Cậu bé đã tập giữ bình tĩnh từ năm bảy tuổi, vì hoảng lên là thứ duy nhất chắc chắn làm mọi chuyện tệ hơn. Cậu đi đều, không nhanh hơn cũng không chậm hơn. Gợi ý diễn biến: bước chân đều suốt clip, người lớn hai bên dạt ra vì bối rối chứ không phải vì nể; cậu không ngẩng nhìn ai. Cho phép hơi thở nghe được, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — khách mời đứng chen hai bên lối đi: dạt sang hai bên, vài người cúi nhìn theo cậu bé rồi nhìn lên nhau, rì rầm; cử động tự nhiên, không ai chặn cậu lại.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient. Chỉ ambient của một khán phòng đông người: tiếng rì rầm, tiếng ghế kim loại, bước chân trên thảm.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Đây là điểm cảm xúc lớn nhất của hook — một đứa trẻ đi xuyên qua một căn phòng toàn chuyên gia. Nhạc được phép chiếm sân khấu lần thứ hai và cũng là lần cuối.",
+            "a_kind": "có lời",
+            "a": "Cinematic gospel-soul at 80 BPM; a female alto entering alone on the first beat, close to the mic, warm and worn, joined bar by bar by a small choir humming underneath; strings rising in a slow arc, a floor tom pulse walking like footsteps, one handclap layer entering at 0:03, ending on a wide open chord still ringing; lyrics about a small person crossing a big room while everyone who should know better watches, proud but never boastful; big warm analog mix, tape saturation, choir, strings, soul, cinematic",
+            "b_kind": "không lời",
+            "b": "Orchestral processional at 82 BPM; a low piano octave marking footsteps, cellos entering with a rising four-note figure and repeating it a step higher each bar, high strings arriving at 0:03 over the top, one deep drum on the final step, no cymbal crash, ending unresolved and still ringing; wide cinematic mix with real room tail, strings, piano, processional, rising"
+          },
+          "chuyen": true,
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn."
+        },
+        {
+          "id": "S5-01",
+          "sf": "SF-S5-M1-MASTER",
+          "dur": 4,
+          "goc": "Medium-wide 3/4 · KILBOURNE ngồi ghế RÕ MẶT · YVETTE quỳ bên trái ghế RÕ MẶT · QUINT đứng khom bên phải ghế RÕ MẶT · PRESTON đứng cách chân ghế một mét RÕ MẶT",
+          "music": null,
+          "text": "YVETTE: Preston. Back to the tent. Now.",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, áo thun navy, khoác nỉ xám mở.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía chiếc ghế.\n\nYVETTE đang làm hai việc cùng lúc: giữ tay trên máy theo dõi và đẩy con mình ra khỏi một chỗ nó không được phép đứng; cô nói ngắn, không to.\n\nYVETTE — low, urgent, protective: \"Preston. Back to the tent. Now.\"\n\nPRESTON — silent, đứng yên, không lùi, mắt nhìn mẹ.\n\nQUINT — silent, khó chịu vì bị quấy rầy, liếc cậu bé rồi quay lại chiếc ghế.\n\nKILBOURNE — silent, thở gấp, đầu cúi nhìn ngực mình.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời vây quanh: rì rầm, vài người giơ điện thoại; không ai bước vào giữa.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "S5-02",
+          "sf": "SF-S5-02",
+          "dur": 3,
+          "text": "PRESTON: Mama. Ask him if it started like a switch.",
+          "goc": "OTS qua vai YVETTE → PRESTON RÕ MẶT · KILBOURNE ngồi ghế lớp sau out nét · QUINT đứng khom rìa phải, mờ",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 3 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt cậu bé.\n\nPRESTON không cãi lệnh mẹ và cũng không lùi; cậu đưa cho mẹ đúng một câu hỏi, bình thản như đưa một món đồ nghề.\n\nPRESTON — quiet, level, absolutely certain: \"Mama. Ask him if it started like a switch.\"\n\nYVETTE — silent, ở tiền cảnh chỉ thấy vai và gáy; vai cô khựng lại một nhịp.\n\nKILBOURNE — silent, lớp sau, thở gấp, đầu hơi quay về phía tiếng nói.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: rì rầm khẽ dần xuống.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S5-03",
+          "sf": "SF-S5-03",
+          "dur": 6,
+          "text": "YVETTE: Sir. When it started, just now. Did it come on gradual — or did it come on all at once?",
+          "goc": "OTS qua vai PRESTON → YVETTE và KILBOURNE CẢ HAI RÕ MẶT · QUINT đứng khom rìa phải, mờ",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía hai người.\n\nYVETTE hỏi câu hỏi mà cô đã mất hai năm mới có người chịu hỏi về chính con mình; cô hỏi chậm, rõ, đủ to cho cả những hàng ghế phía sau nghe thấy.\n\nYVETTE — slow, clear, deliberate, đủ to cho cả phòng: \"Sir. When it started, just now. Did it come on gradual — or did it come on all at once?\"\n\nKILBOURNE — silent, listening hard, thở gấp; mắt dán vào mặt cô.\n\nPRESTON — silent, ở tiền cảnh chỉ thấy vai và gáy, đứng bất động.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: tiếng rì rầm tắt dần cho tới khi gần như im.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S5-04",
+          "sf": "SF-S5-04",
+          "dur": 3,
+          "text": "KILBOURNE: Like a switch.",
+          "goc": "Cận cảnh KILBOURNE RÕ MẶT · vai YVETTE tiền cảnh trái out nét · QUINT thân người lớp sau rìa phải, mờ",
+          "prompt": "Nhận diện:\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n\nMột shot liền 3 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt KILBOURNE.\n\nKILBOURNE trả lời bằng đúng ba chữ ông đã nói với mười một chuyên gia trong ba năm, và lần này là lần đầu tiên có người hỏi ông đúng lúc nó đang xảy ra.\n\nKILBOURNE — breathless, quiet, exhausted: \"Like a switch.\"\n\nYVETTE — silent, ở tiền cảnh chỉ thấy vai; không nhúc nhích.\n\nQUẦN CHÚNG NỀN — mảng người vây quanh phía sau, xoá mờ: gần như im, chỉ còn cử động rất nhỏ.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S5-05",
+          "sf": "SF-S5-02",
+          "dur": 7,
+          "music": null,
+          "goc": "OTS qua vai YVETTE → PRESTON RÕ MẶT · KILBOURNE ngồi ghế lớp sau out nét · QUINT đứng khom rìa phải, mờ",
+          "text": "PRESTON: Sir, are you dizzy or are you fainting? Because if you're just dizzy, this is fixable in about a minute.",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, áo thun navy, khoác nỉ xám mở.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt cậu bé.\n\nPRESTON đứng yên cạnh hộp đồ nghề của mẹ, không chạm vào bất cứ thứ gì, hai bàn tay vẫn để hở đúng như cậu được dạy từ bé; cậu quay sang người đàn ông trên ghế và hỏi một câu hỏi nghiệp vụ.\n\nPRESTON — calm, precise, matter-of-fact: \"Sir, are you dizzy or are you fainting? Because if you're just dizzy, this is fixable in about a minute.\"\n\nYVETTE — silent, ở tiền cảnh chỉ thấy vai và gáy; không cản con nữa.\n\nKILBOURNE — silent, lớp sau, thở gấp, mắt chuyển hẳn sang cậu bé.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: im, vài người nghiêng đầu nghe.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "S5-06",
+          "sf": "SF-S5-06",
+          "dur": 6,
+          "text": "QUINT: Get this child away from him. Ma'am, control your son — this is a medical emergency, not a school project—",
+          "goc": "Trung cảnh nhìn từ phía cậu bé lên · QUINT đứng khom bên phải ghế, đã xoay người, RÕ MẶT · YVETTE quỳ RÕ MẶT · PRESTON đứng cạnh vai mẹ RÕ MẶT · KILBOURNE ngồi ghế lớp sau, mờ",
+          "prompt": "Nhận diện:\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng, cà vạt xanh.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía QUINT.\n\nQUINT đang mất chỗ đứng của mình ngay giữa buổi lễ nhận chức và ông cố giành lại nó bằng chức danh; giọng ông cao lên nửa bậc và cả những người đứng gần đều nghe thấy nửa bậc ấy. Ông giữ nguyên tư thế đứng khom bên chiếc ghế, chỉ xoay người và giữ cái chắn trong không khí; ông nói với người mẹ chứ không nói vào mặt đứa trẻ, KHÔNG chạm vào ai.\n\nQUINT — flustered, insistent, defensive: \"Get this child away from him. Ma'am, control your son — this is a medical emergency, not a school project—\"\n\nYVETTE — silent, không ngẩng lên, tay vẫn làm việc trên dây điện cực.\n\nPRESTON — silent, đứng yên, không lùi, không cãi lại; chớp mắt một cái.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: vài người liếc nhau, một người lùi nửa bước.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S5-07",
+          "sf": "SF-S5-03",
+          "dur": 5,
+          "music": null,
+          "goc": "OTS qua vai PRESTON → YVETTE và KILBOURNE CẢ HAI RÕ MẶT · QUINT đứng khom rìa phải, mờ",
+          "text": "YVETTE: Then let me work, doctor. And that's my paramedic-in-training you're hollering at.",
+          "prompt": "Nhận diện:\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, mặt xám và ướt mồ hôi.\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, áo thun navy, khoác nỉ xám mở.\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía YVETTE.\n\nYVETTE đáp lại QUINT mà KHÔNG quay sang ông lấy một lần — mắt cô giữ nguyên ở mặt người bệnh và bàn tay vẫn ở chỗ dây điện cực; câu sau cùng là chỗ duy nhất cô cho phép mình lên giọng, và cô nói nó rất bình thản.\n\nYVETTE — level, unbothered, quietly proud: \"Then let me work, doctor. And that's my paramedic-in-training you're hollering at.\"\n\nKILBOURNE — silent, thở gấp, mắt chuyển từ cô sang chỗ cậu bé đứng.\n\nPRESTON — silent, ở tiền cảnh chỉ thấy vai và gáy; đứng thẳng hơn một chút.\n\nQUINT — silent, ở rìa phải khung và out nét; im bặt, không bước tới.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: một tiếng rì rầm ngạc nhiên chạy qua rồi tắt.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "S5-08",
+          "sf": "SF-S5-08",
+          "dur": 5,
+          "text": "PRESTON: He's not having a panic attack, sir. Panic comes on slow and goes away slow.",
+          "goc": "Cận cảnh 3/4 · PRESTON RÕ MẶT · vai QUINT tiền cảnh phải out nét · YVETTE quỳ lớp sau bên trái, mờ · KILBOURNE ngồi ghế lớp sau, mờ hẳn",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc chải ngược, vest ba mảnh xám sáng, cà vạt xanh.\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt cậu bé.\n\nPRESTON không hỗn và cũng không hạ giọng; cậu chỉ đang trình bày thứ cậu đã sống cùng từ năm bảy tuổi, cho một người lớn vừa nói to hơn cậu.\n\nPRESTON — calm, clear, absolutely certain, không hỗn: \"He's not having a panic attack, sir. Panic comes on slow and goes away slow.\"\n\nQUINT — silent, ở tiền cảnh chỉ thấy vai; vai xoay lại về phía cậu bé.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, xoá mờ: im hẳn, một người hạ điện thoại xuống.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S5-09",
+          "sf": "SF-S5-02",
+          "dur": 5,
+          "text": "PRESTON: His came on like a light switch. That's SVT. His heart's stuck in a loop.",
+          "goc": "OTS qua vai YVETTE → PRESTON RÕ MẶT · KILBOURNE ngồi ghế lớp sau out nét · QUINT đứng khom rìa phải, mờ",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, tóc xoăn cắt sát, áo thun navy, khoác nỉ xám mở.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, tóc buộc thấp, đồng phục cấp cứu polo navy, quần cargo navy.\n- KILBOURNE = đàn ông da trắng 54 tuổi, tóc muối tiêu chải ngược, vest xanh than, sơ mi trắng.\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt cậu bé.\n\nPRESTON nói nốt phần còn lại, gọn như đọc một dòng trong hồ sơ của chính mình; cậu đưa mắt sang người đàn ông trên ghế ở nửa sau câu nói.\n\nPRESTON — calm, clear, matter-of-fact: \"His came on like a light switch. That's SVT. His heart's stuck in a loop.\"\n\nYVETTE — silent, ở tiền cảnh chỉ thấy vai và gáy; ngẩng lên nhìn con.\n\nKILBOURNE — silent, lớp sau, thở gấp, mắt mở to hơn.\n\nQUẦN CHÚNG NỀN — vòng người vây quanh, hình khối mờ: im, vài người quay sang nhau.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        }
+      ]
+    },
+    {
+      "id": "S6",
+      "name": "S6 — Hàng ghế thứ hai · để cậu bé nói",
+      "sfs": [
+        {
+          "id": "SF-S6-B1",
+          "label": "🎬 NHỊP LẶNG — chiếc ghế bị đẩy ra ở hàng ghế thứ hai",
+          "desc": "",
+          "prompt": "MÁY QUAY: cinematic wide shot, 28mm, ngang tầm mắt, cách 5 mét, nhìn ngang dọc hàng ghế thứ hai.\n\nAI VÀ ĐANG LÀM GÌ: OSGOOD vừa đứng bật dậy giữa hàng ghế thứ hai, chiếc ghế xếp sau lưng bà bị đẩy lùi lệch hẳn ra khỏi hàng và còn đang nghiêng trên hai chân sau.\n\nHẬU CẢNH — TRỤC BỐI CẢNH (KHUNG GỐI ĐẦU HAI CỤM): sau lưng OSGOOD là các hàng ghế phía sau, xa hơn là góc lều y tế và cửa hàng hoá sáng trắng cuối phòng — lấy theo ẢNH THAM CHIẾU GÓC LỀU đính kèm. KHÔNG thấy sân khấu trong khung này. Người: hai bên bà, khoảng mười khách mời người ngồi người đứng, tất cả hướng mặt về phía trước bên trái ngoài khung; hai người cạnh bà vừa ngẩng lên nhìn. Không ai nhìn vào camera.\n\nTAY: bàn tay phải còn tì trên lưng chiếc ghế ở hàng trước mặt.\n\nHƯỚNG NHÌN: nhìn thẳng về phía trước bên trái, ra ngoài khung.\n\nBIỂU CẢM: vừa nghe thấy một điều mà chỉ bà trong phòng này hiểu hết trọng lượng của nó; tập trung và sắc, không kịch tính hoá.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bà cất tiếng.",
+          "status": "approved",
+          "notes": "KHUNG GỐI ĐẦU HAI CỤM: bg neo cụm hàng ghế, REF_BG_LEU_Y_TE_NGAY trong refs.chars neo góc lều ở lớp sau.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_OSGOOD_PORTRAIT",
+              "REF_OSGOOD_FULL",
+              "REF_BG_LEU_Y_TE_NGAY"
+            ],
+            "bg": "SF-S6-M1-MASTER"
+          },
+          "pose": {
+            "zone": "hàng ghế thứ hai của khán phòng → góc lều y tế",
+            "who": {
+              "OSGOOD": "đứng giữa hàng ghế"
+            },
+            "dist": "5m",
+            "hands": {
+              "OSGOOD": "tay phải tì lưng ghế hàng trước"
+            }
+          },
+          "picked": "SF-S6-B1_v1.png"
+        },
+        {
+          "id": "SF-S6-M1-MASTER",
+          "label": "MASTER cụm E — OSGOOD đứng giữa hàng ghế thứ hai",
+          "desc": "",
+          "prompt": "MÁY QUAY: trung cảnh, ống kính 50mm, ngang tầm mắt, cách 2,5 mét, chính diện hơi chếch trái.\n\nAI VÀ ĐANG LÀM GÌ: OSGOOD đứng thẳng giữa hàng ghế thứ hai, khung lấy từ hông trở lên, một tay còn tì lên lưng chiếc ghế ở hàng trước mặt, vai vuông, người hơi hướng về phía trước bên trái.\n\nHẬU CẢNH — TRỤC BỐI CẢNH: sau lưng bà là các hàng ghế phía sau của khán phòng và xa hơn là mảng sáng của cửa hàng hoá cuối phòng. Người: hai bên bà trong cùng hàng ghế, sáu bảy khách mời đang ngồi hoặc nửa đứng, tất cả quay đầu về phía trước bên trái ngoài khung; người ngồi cạnh bà ngước nhìn lên bà. Không ai nhìn vào camera.\n\nTAY: tay phải tì lưng ghế trước mặt, tay trái buông dọc thân.\n\nHƯỚNG NHÌN: nhìn thẳng về phía trước bên trái, ra ngoài khung, không nhìn ai trong hàng ghế.\n\nBIỂU CẢM: uy quyền chuyên môn thật, điềm tĩnh và sắc; ba mươi năm nghề dồn vào một câu sắp nói ra.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bà lên tiếng cắt ngang cả khán phòng.",
+          "status": "approved",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_OSGOOD_PORTRAIT",
+              "REF_OSGOOD_FULL"
+            ],
+            "bg": "REF_BG_DAI_SANH_NGAY"
+          },
+          "pose": {
+            "zone": "hàng ghế thứ hai của khán phòng",
+            "who": {
+              "OSGOOD": "đứng giữa hàng ghế"
+            },
+            "dist": "2,5m",
+            "hands": {
+              "OSGOOD": "tay phải tì lưng ghế hàng trước"
+            }
+          },
+          "picked": "SF-S6-M1-MASTER_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "S6-B1",
+          "sf": "SF-S6-B1",
+          "dur": 4,
+          "text": "[NHỊP] Từ hàng ghế thứ hai — tiếng một chiếc ghế bị đẩy ra, thật mạnh.\nNARRATOR: There was a sound from the second row — a chair pushed back, hard.",
+          "goc": "Cinematic wide ngang qua hàng ghế thứ hai · OSGOOD đứng giữa hàng ghế thứ hai, RÕ MẶT",
+          "prompt": "Nhận diện:\n- OSGOOD = phụ nữ da trắng 61 tuổi, tóc bạc cắt bob ngắn, blazer xanh rêu, áo lụa kem.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía người phụ nữ.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Bà là người duy nhất trong phòng vừa nghe thấy một chẩn đoán đúng, và nó vừa được nói ra bởi một đứa trẻ mười một tuổi. Ba mươi năm nghề khiến bà đứng dậy trước cả khi kịp nghĩ. Gợi ý diễn biến: đứng bật dậy dứt khoát, chiếc ghế sau lưng bị đẩy lệch và chao một nhịp, đầu quay hẳn về hướng chiếc ghế ở đầu kia phòng. Cho phép một hơi hít vào nghe được, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — khách mời trong cùng hàng ghế và hàng phía sau: người ngồi người nhổm dậy, hai người cạnh bà ngẩng lên nhìn bà rồi nhìn theo hướng bà nhìn.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient. Chỉ tiếng chân ghế kim loại xô mạnh trên thảm và tiếng rì rầm của khán phòng.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Cửa mở cho hồi sau. Nhạc chỉ cần dựng một bậc thang rồi dừng lại đúng chỗ để câu thoại cuối cùng rơi vào khoảng trống.",
+            "a_kind": "có lời",
+            "a": "Soul-gospel lift at 88 BPM; one Hammond organ chord opening alone, a female alto entering at 0:01 with a single rising line sung close to the mic, two backing voices answering her once; tambourine on the offbeat only, upright bass stepping upward, strings sliding in underneath at 0:03 and stopping dead at the top with no resolution; lyrics about a room finally going quiet enough to hear the right voice, never triumphant; warm analog mix, organ, tambourine, soul, gospel, rising",
+            "b_kind": "không lời",
+            "b": "Instrumental lift at 90 BPM; a single struck piano note repeating and gathering a cello, then a viola, then high strings one bar apart, a soft mallet pulse underneath, everything halting abruptly on the last beat with the room tail left ringing, no cymbal, no resolution; clean cinematic mix, strings, piano, expectant"
+          },
+          "notes": "NHỊP DẪN CHUYỆN — ghép voiceover sau, hình minh hoạ đúng nội dung lời dẫn."
+        },
+        {
+          "id": "S6-01",
+          "sf": "SF-S6-M1-MASTER",
+          "dur": 4,
+          "text": "OSGOOD: Everyone stop. Let the boy talk.",
+          "goc": "Trung cảnh chính diện chếch trái · OSGOOD đứng giữa hàng ghế thứ hai, RÕ MẶT",
+          "prompt": "Nhận diện:\n- OSGOOD = phụ nữ da trắng 61 tuổi, tóc bạc cắt bob ngắn, blazer xanh rêu, áo lụa kem.\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt bà.\n\nOSGOOD dùng đúng cái giọng đã điều hành phòng mổ suốt ba mươi năm để cắt ngang cả một khán phòng; bà không cần nói to hơn ai, bà chỉ nói rõ hơn tất cả.\n\nOSGOOD — commanding, clear, unhurried: \"Everyone stop. Let the boy talk.\"\n\nQUẦN CHÚNG NỀN — khách mời trong cùng hàng ghế và các hàng xung quanh: quay hẳn về phía bà rồi quay theo hướng bà nhìn, tiếng rì rầm tắt dần trong câu nói; cử động nhỏ tự nhiên.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không narrator. Có tiếng vọng nhẹ của phòng lớn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": null
+        },
+        {
+          "id": "S6-B2",
+          "sf": "SF-S5-M1-MASTER",
+          "dur": 8,
+          "text": "[NHỊP] Cả khán phòng đứng im. Người duy nhất nói đúng cao chưa tới một mét rưỡi.\nNARRATOR: Have you ever watched a room full of experts get schooled by the one person nobody thought to ask — a kid? You're about to.",
+          "goc": "Medium-wide 3/4 · KILBOURNE ngồi ghế RÕ MẶT · YVETTE quỳ bên trái ghế RÕ MẶT · QUINT đứng khom bên phải ghế RÕ MẶT · PRESTON đứng cách chân ghế một mét RÕ MẶT",
+          "notes": "NHỊP DẪN CHUYỆN — CTA phần 1. Dùng lại ảnh Master cụm D (nhờ vậy master lên hình).",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, áo thun navy, khoác nỉ xám mở.\n- YVETTE = phụ nữ Mỹ gốc Phi 36 tuổi, đồng phục cấp cứu polo navy, đang quỳ.\n- KILBOURNE = đàn ông da trắng 54 tuổi, vest xanh than, ngồi ghế, mặt xám.\n- QUINT = đàn ông da trắng 58 tuổi, tóc bạc, vest xám sáng, đứng khom.\n\nMột shot liền 8 giây, không chuyển cảnh. Camera PUSH-IN rất chậm về phía cậu bé.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Bốn người quanh chiếc ghế vừa dừng lại cùng lúc, và trọng tâm của cả căn phòng vừa dịch sang đứa trẻ đứng cạnh hộp đồ nghề. Gợi ý diễn biến: PRESTON đứng yên, hai bàn tay vẫn để hở; YVETTE ngẩng lên nhìn con rồi nhìn người trên ghế; QUINT lùi nửa bước; KILBOURNE quay mặt về phía cậu bé. Cho phép tiếng thở, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — vòng cung khách mời vây quanh: im, vài người hạ điện thoại xuống, một hai người nghiêng đầu nhìn cậu bé.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient của một khán phòng vừa im bặt.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Chỗ duy nhất nhạc nói thẳng với khán giả — câu hỏi ném ra ngoài màn hình, nhạc phải mở rộng theo nó.",
+            "a_kind": "có lời",
+            "a": "Cinematic gospel-soul at 80 BPM; a female alto entering on beat one, warm and worn, close to the mic, a small choir humming underneath from bar two; strings rising in a long arc, floor tom pulse walking steadily, one handclap layer at 0:05, ending wide open and still ringing; lyrics about the smallest person in the room turning out to be the one who knew, proud but never boastful; big warm analog mix, tape saturation, choir, strings, soul, cinematic",
+            "b_kind": "không lời",
+            "b": "Orchestral swell at 82 BPM; low strings entering alone and climbing a step each bar, a solo cello carrying the line over them from 0:03, high violins arriving last, one deep timpani hit near the end, no cymbal crash, finishing unresolved and left ringing; wide cinematic mix with real room tail, strings, timpani, expansive"
+          },
+          "chuyen": true
+        },
+        {
+          "id": "S6-B3",
+          "sf": "SF-S5-B1",
+          "dur": 8,
+          "text": "[NHỊP] Hai mươi bước thảm ấy bắt đầu từ hai năm trước, ở một nơi khác hẳn.\nNARRATOR: Drop a comment with your city, smash that like button, and let me take you back two years, to a boy that nobody believed either.",
+          "goc": "Cinematic wide dọc lối đi giữa, máy đặt thấp · PRESTON đang bước giữa lối đi, RÕ MẶT",
+          "notes": "NHỊP DẪN CHUYỆN — CTA phần 2, bắc cầu sang hồi tưởng. Dùng lại ảnh nhịp cậu bé đi.",
+          "prompt": "Nhận diện:\n- PRESTON = bé trai người Mỹ gốc Phi 11 tuổi, áo thun navy, khoác nỉ xám mở, cổ tay trái đeo vòng y tế dây đỏ.\n\nMột shot liền 8 giây, không chuyển cảnh. Camera DOLLY IN chậm lùi theo hướng cậu bé đi.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không mấp máy môi.\n\nTRẠNG THÁI: Hình khép lại phần mở đầu và bắc cầu sang câu chuyện hai năm trước. Cậu bé đi đều giữa hai bức tường người lớn, không nhanh hơn cũng không chậm hơn. Gợi ý diễn biến: bước chân đều suốt clip, người lớn hai bên dạt ra vì bối rối, cậu không ngẩng nhìn ai; clip kết thúc khi cậu vẫn còn đang bước. Cho phép hơi thở, KHÔNG thành lời.\n\nQUẦN CHÚNG NỀN — khách mời đứng chen hai bên lối đi: dạt sang hai bên, vài người cúi nhìn theo cậu bé rồi nhìn nhau, rì rầm.\n\nÂm thanh: Clip này sẽ được GHÉP LỜI DẪN (voiceover) SAU khi dựng — trong video KHÔNG có thoại, KHÔNG có giọng dẫn, nhân vật TUYỆT ĐỐI không mấp máy môi đọc lời dẫn. Chỉ ambient của khán phòng đông người.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Câu cuối là lời hẹn dẫn sang hồi tưởng — nhạc hạ xuống và mở ra, không kết bài, để khán giả bước sang chương sau mà không thấy đứt.",
+            "a_kind": "có lời",
+            "a": "Folk-soul outro at 58 BPM; one female alto humming a descending line very quietly, no words until the last bar where she sings a single phrase about going back; nylon-string guitar picked with the thumb, one note per beat, a warm pad underneath, no drums, fading out mid-phrase instead of ending; dry intimate mix, guitar, folk, soul, hushed",
+            "b_kind": "không lời",
+            "b": "Ambient outro at 56 BPM; a nylon-string guitar figure of four descending notes repeating and getting quieter each time, one low warm pad breathing under it, a faint room tone, no percussion, no resolution, fading to almost nothing; extremely soft mix, guitar, pad, warm, open-ended"
+          },
+          "chuyen": true
+        }
+      ]
+    }
+  ]
+}

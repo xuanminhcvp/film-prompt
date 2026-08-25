@@ -67,28 +67,22 @@ def co_anh(i):
 
 
 def cc(p):
-    """Cỡ cảnh — thứ tự kiểm quan trọng: wide → medium-wide → close-up.
+    """Cỡ cảnh — thứ tự kiểm quan trọng: đặc-tả → trung-rộng → RỘNG → cận → trung.
 
     CHỈ đọc dòng `MÁY QUAY:` chứ không quét cả prompt: chữ 'cận' còn nằm trong
     'tiền cảnh', 'cận kề', và chữ 'toàn cảnh' hay được nhắc lại khi tả hậu cảnh.
     Quét cả prompt thì cỡ cảnh bị chấm theo chữ vô tình lọt vào chứ không theo
     lệnh máy quay thật.
-
-    Board viết bằng TIẾNG VIỆT nên phải nhận cả 'cận cảnh', không chỉ 'close-up'.
-    Bản cũ chỉ bắt tiếng Anh ở nhánh cận nhưng lại bắt tiếng Việt ở nhánh rộng,
-    nên mọi khung cận của board tiếng Việt rơi hết vào nhánh mặc định 'trung':
-    ALTAR in ra 'cận 0% · trung 89%' trong khi thực tế là cận 50% · trung 40%.
-    Một dòng thống kê sai kiểu đó nguy hơn không có dòng nào, vì nó khiến người
-    ta đi sửa một tỷ lệ vốn đã đạt.
     """
     # MỤC ĐÍCH: Phân loại các cỡ cảnh trong prompt SF (bao gồm góc đặc tả Insert/ECU với mốc rất hạn chế ~2%).
     m = re.search(r'MÁY QUAY:([^\n]*)', p)
     dong = m.group(1).lower() if m else p.lower()
     if re.search(r'đặc tả|insert|extreme close-up|\becu\b', dong): return 'đặc-tả'
+    if re.search(r'medium[- ]wide|trung[- ]rộng', dong): return 'trung-rộng'
     if re.search(r'cinematic wide|toàn cảnh|viễn cảnh', dong): return 'RỘNG'
-    if re.search(r'medium-wide|trung[- ]rộng', dong): return 'trung-rộng'
     if re.search(r'close-up|cận', dong): return 'cận'
     return 'trung'
+
 
 
 def dem_tu(t):
@@ -466,12 +460,19 @@ for sc in scs:
         elif _pose:
             POSE_CHUOI.append(i)
             
+        # MỤC ĐÍCH: Kiểm tra Master SF bắt buộc phải dùng cỡ cảnh RỘNG (Wide Shot / Cinematic Wide) để bao quát 100% bối cảnh.
+        if (la_master(f) or 'MASTER' in i or i.startswith('SF-M-')) and pr:
+            c_co = cc(pr)
+            if c_co != 'RỘNG' and not re.search(r'wide|toàn\s*cảnh|cinematic\s*wide', pr, re.I):
+                bad.append(('master-thiếu-góc-rộng', f"{i}: Master SF nhưng cỡ cảnh là '{c_co}' (BẮT BUỘC phải dùng góc RỘNG / Wide Shot để bao quát 70%-100% bối cảnh gốc)"))
+
         # DƯ NGƯỜI TRONG PROMPT: Tên nhân vật nhắc trong prompt phải có trong `goc` hoặc `pose.who`
         if pr and isinstance(_who, dict):
             nguoi_trong_pr = [t for t in TEN_NV if re.search(r'\b' + re.escape(t) + r'\b', pr, re.I)]
             du_nguoi = [t for t in nguoi_trong_pr if t not in _who and not co_trong_goc(t, goc_cua(i))]
             if du_nguoi:
                 bad.append(('dư-người-trong-prompt', f"{i}: {', '.join(du_nguoi)} có trong prompt nhưng không có trong pose/goc"))
+
 
     # GIAI ĐOẠN BẢNG SHOT: shots đã chốt nhưng chưa sinh SF nào ngoài thẻ địa
     # điểm. Đây là lúc kiểm ĐÁNG GIÁ NHẤT — sửa một ô trên bảng rẻ hơn sửa 17
@@ -518,6 +519,19 @@ for sc in scs:
         # các câu chỉ vượt 1 từ ở tốc độ 3 từ/giây.
         if x['dur'] < can - 0.5:
             bad.append(('thiếu-giây', f"{x['id']}: {w} từ cần {can:.1f}s, đang {x['dur']}"))
+
+        # MỤC ĐÍCH: Kiểm tra nhịp mang lời dẫn (NARRATOR:) phải đủ thời lượng (giây) đọc và lời dẫn không lọt vào prompt video.
+        # `w = 0` ở trên tắt phép kiểm giây cho mọi shot [NHỊP] — đúng với nhịp câm,
+        # nhưng nhịp CHÍNH LÀ nơi voiceover sống trong phim hook. Không kiểm thì lời
+        # dẫn 24 từ bị nhét vào clip 4 giây và người dựng phát hiện lúc đã render.
+        _nar = re.search(r'^\s*NARRATOR:\s*(.+)$', x['text'] or '', re.M | re.S)
+        if _nar:
+            _wn = len(re.findall(r"[A-Za-z']+", _nar.group(1)))
+            if x['dur'] < _wn / 3 - 0.5:
+                bad.append(('nhịp-thiếu-giây-cho-lời-dẫn',
+                            f"{x['id']}: lời dẫn {_wn} từ cần {_wn/3:.1f}s, đang {x['dur']}s"))
+            if 'NARRATOR' in (x.get('prompt') or ''):
+                bad.append(('lời-dẫn-lọt-prompt-video', x['id']))
         if not isinstance(x['dur'], int):
             bad.append(('dur-sai-kiểu', f"{x['id']}: {x['dur']!r}"))
         # OTS ĐƯỢC KHAI Ở `goc` CỦA SHOT, KHÔNG PHỤ THUỘC SF — nên phải đếm ở
@@ -557,8 +571,14 @@ for sc in scs:
         # "hết lỗi" lại chính là cách làm hỏng đúng cái ảnh.
         # Chỉ phần MÔ TẢ KHUNG mới tính là lỗi; nhắc trong thoại hạ xuống mức
         # nhắc và in riêng ở cuối, để tín hiệu không mất chứ không thành lỗi.
+        # PROMPT VIDEO CŨNG CHỨA THOẠI — chép nguyên văn vào trong dấu nháy kép
+        # (`MAYA — warm: "A polite one. With a pen."`). Bóc dòng thoại khỏi `text`
+        # rồi quên bóc khỏi `pv` thì cái bẫy cũ quay lại y nguyên qua lối thứ hai:
+        # V-S6-06 lại ăn 'thiếu-REF-PROP' ngay khi bước 4 viết xong. Trong prompt
+        # video, thoại LUÔN nằm trong dấu nháy kép, nên bóc theo dấu nháy là đủ và
+        # chính xác — phần mô tả khung không bao giờ nằm trong nháy.
         _mo_ta = (RE_DONG_THOAI.sub('', x.get('text') or '') + '\n'
-                  + (x.get('goc') or '') + '\n' + pv)
+                  + (x.get('goc') or '') + '\n' + re.sub(r'"[^"]*"', ' ', pv))
         _thoai = RE_DONG_THOAI.findall(x.get('text') or '')
         for prop_name in TEN_PROP:
             _re_prop = re.compile(r'\b' + re.escape(prop_name) + r'\b', re.I)
@@ -598,6 +618,70 @@ for sc in scs:
         if hd_match:
             CANH_BAO_HANH_DONG.append(f"{sc['id']:5} {x['id']:11} Thoại lệnh '{hd_match.group(0)}' → Đảm bảo SF vẽ trạng thái CHƯA LÀM (vd: cửa đóng, đang đứng...).")
 
+        # MỤC ĐÍCH: Kiểm tra các luật tinh chỉnh Prompt Video (Nhận diện tối giản, từ cấm phụ kiện/vùng dưới, cấm câu phủ định camera, khớp dur).
+        # MỤC ĐÍCH: Kiểm tra các luật tinh chỉnh Prompt Video (Nhận diện tối giản, từ cấm phụ kiện/vùng dưới, cấm câu phủ định camera, khớp dur, đối chiếu pose.who).
+        if pv:
+            # Bullet nhận diện: sửa regex để nhận cả tên viết hoa lẫn thường (E)
+            bullets = re.findall(r'^\s*-\s*([A-Za-zÀ-ỹ][A-Za-zÀ-ỹ0-9_ ]*?)\s*=\s*(.+)$', pv, re.M)
+            if bullets:
+                for nv_name, nv_desc in bullets:
+                    line_full = f"- {nv_name} = {nv_desc}"
+                    if len(line_full) > 80:
+                        bad.append(('bullet-nhận-diện-quá-dài', f"{x['id']}: bullet '{nv_name}' {len(line_full)} ký tự (trần 80)"))
+                    
+                    # Từ cấm phụ kiện/vùng dưới và loại áo cụ thể (chỉ cho phép ghi màu áo: 'áo màu X')
+                    RE_TU_CAM_ND = re.compile(r'\b(?:tất|vớ|giày|dép|quần|thắt\s*lưng|đồng\s*hồ|nhẫn|khuyên|ba\s*lô|túi|cà\s*vạt|sơ\s*mi|thun|polo|blazer|cardigan|sweater|hoodie|nỉ|len)\b', re.I)
+                    m_cam = RE_TU_CAM_ND.search(nv_desc)
+                    if m_cam:
+                        bad.append(('nhận-diện-chứa-từ-cấm', f"{x['id']}: bullet '{nv_name}' chứa loại áo/từ cấm '{m_cam.group(0)}' (chỉ ghi màu áo: 'áo màu X')"))
+                    
+                    if 'rõ mặt' in nv_desc.lower():
+                        bad.append(('nhận-diện-thừa-rõ-mặt', f"{x['id']}: bullet '{nv_name}' chứa từ thừa 'rõ mặt' (nhân vật chính không cần ghi rõ mặt)"))
+
+                    # MỤC ĐÍCH: Khuyến nghị thêm cụm ', im như tượng' cho nhân vật mờ ở tiền cảnh để khóa chuyển động xoay mặt
+                    if 'mờ' in nv_desc.lower() and 'im như tượng' not in nv_desc.lower():
+                        CANH_BAO.append(f"{sc['id']:5} {x['id']:11} bullet '{nv_name}' mờ tiền cảnh — nên thêm ', im như tượng' để khóa chuyển động xoay mặt")
+
+
+                # MỤC ĐÍCH (G): Đối chiếu khối Nhận diện của shot với pose.who của SF nó đang dùng (tập tên người & cờ mờ ở khung hình).
+                if co_sf and isinstance((ALL[x['sf']].get('pose') or {}).get('who'), dict):
+                    who_dict = ALL[x['sf']]['pose']['who']
+                    bullet_map = {b[0].strip().upper(): b[1].strip() for b in bullets}
+                    who_map_upper = {k.upper(): (k, v) for k, v in who_dict.items()}
+                    
+                    if set(bullet_map.keys()) != set(who_map_upper.keys()):
+                        bad.append(('nhận-diện-lệch-SF', f"{x['id']} → {x['sf']}: người trong Nhận diện ({list(bullet_map.keys())}) không khớp pose.who ({list(who_map_upper.keys())})"))
+                    else:
+                        for k_upper, (orig_name, pose_desc) in who_map_upper.items():
+                            b_desc = bullet_map.get(k_upper, '')
+                            is_pose_mo = bool(re.search(r'out\s*nét|mờ|rìa|ngoài\s*khung|sau\s*lưng', str(pose_desc), re.I))
+                            is_bullet_mo = bool(re.search(r'mờ', b_desc, re.I))
+                            if is_pose_mo and not is_bullet_mo:
+                                bad.append(('nhận-diện-lệch-SF', f"{x['id']}: '{orig_name}' out nét/mờ ở pose.who nhưng bullet Nhận diện thiếu cờ 'mờ ở khung hình'"))
+                            elif not is_pose_mo and is_bullet_mo:
+                                bad.append(('nhận-diện-lệch-SF', f"{x['id']}: '{orig_name}' nét ở pose.who nhưng bullet Nhận diện bị gán cờ 'mờ ở khung hình'"))
+
+            # MỤC ĐÍCH (F): Kiểm tra nhãn thoại không được chứa từ vị trí/khung hình (off-screen, O.S., ngoài khung...) khi nhân vật có mặt trong khung.
+            for m_tb in re.finditer(r'^\s*([A-Za-zÀ-ỹ0-9_ ]+?)\s*—\s*([^:\n]{1,60}):\s*"', pv, re.M):
+                spk_name, emo_label = m_tb.group(1).strip(), m_tb.group(2).strip()
+                RE_POS_LABEL = re.compile(r'\b(?:off[- ]?screen|o\.s\.|ngoài\s*khung|khuất\s*mặt|sau\s*lưng|chỉ\s*thấy\s*vai)\b', re.I)
+                if RE_POS_LABEL.search(emo_label) and not re.search(r'điện\s*thoại|loa', emo_label, re.I):
+                    bad.append(('nhãn-off-screen-sai-khung', f"{x['id']}: nhãn thoại của '{spk_name}' chứa từ vị trí/khung hình '{emo_label}' (chỉ khai mờ ở khung hình ở khối Nhận diện)"))
+
+            # Cấm các cụm từ phủ định camera
+            RE_PHU_DINH_CAM = re.compile(r'back to camera|không ai nhìn về camera|never turning to face|quay lưng về phía camera', re.I)
+            m_pd = RE_PHU_DINH_CAM.search(pv)
+            if m_pd:
+                bad.append(('cấm-phủ-định-camera', f"{x['id']}: chứa cụm phủ định camera '{m_pd.group(0)}'"))
+
+            # Kiểm tra con số giây dur khớp với câu khóa prompt video
+            m_dur = re.search(r'Một shot liền\s+(?:duy nhất\s+)?(\d+)\s*giây', pv, re.I)
+            if m_dur:
+                pv_giay = int(m_dur.group(1))
+                if pv_giay != x['dur']:
+                    bad.append(('dur-lệch-câu-khóa', f"{x['id']}: dur={x['dur']}s nhưng prompt ghi '{pv_giay} giây'"))
+
+
         # NHÃN CẢM XÚC CẤM — hai mức, vì hai file skill từng khai phạm vi khác
         # nhau (SKILL.md cấm không điều kiện · 4-prompt-video.md chỉ cấm khi có
         # trẻ trong khung). Thống nhất 2026-08-07: có trẻ = LỖI, toàn người lớn
@@ -621,6 +705,25 @@ for sc in scs:
     for k, v in load.items():
         if v > 5:
             bad.append(('SF-gánh-nhiều-shot', f"{k}: gánh {v} shot (nên <= 5 shot)"))
+
+    # MỤC ĐÍCH: Đảm bảo thành phần tái sử dụng cân bằng (OTS+cận không dồn quá 60%, cần dùng lại two-shot và master).
+    seen_sf_in_scene = set()
+    re_ots = 0
+    re_wide = 0
+    for x in sh:
+        sf_id = x['sf']
+        if sf_id in seen_sf_in_scene:
+            f = ALL.get(sf_id, {})
+            c_co = cc(f.get('prompt') or '')
+            is_ots = bool(RE_OTS.search(x.get('goc') or goc_cua(sf_id)))
+            if c_co in ('RỘNG', 'trung-rộng') or la_master(f) or 'two-shot' in (x.get('goc') or '').lower():
+                re_wide += 1
+            else:
+                re_ots += 1
+        else:
+            seen_sf_in_scene.add(sf_id)
+    if (re_ots + re_wide) >= 4 and (re_ots / max(re_ots + re_wide, 1)) > 0.60:
+        bad.append(('tái-sử-dụng-dồn-vào-OTS', f"{sc['id']}: {re_ots}/{re_ots+re_wide} shot dùng lại ({re_ots/(re_ots+re_wide):.0%}) dồn vào OTS+cận (trần 60%, cần dùng lại two-shot và master)"))
 
     # KIỂM TRA THỨ TỰ THỜI GIAN CỦA SF (Chronological order)
     # Mục đích: Đảm bảo các SF trong mảng sfs được sắp xếp đúng theo thứ tự thời gian xuất hiện của chúng trong video.
@@ -798,6 +901,33 @@ if not a.scene:
         print('  ✓ không có')
     hong += lech
 
+# MỤC ĐÍCH: Phép kiểm trang phục theo CHỨC VỤ — phát hiện thẻ REF FULL của nhân vật mang chức danh thiết chế (thẩm phán, bác sĩ, cảnh sát...) nhưng prompt thiếu y phục nghi thức/chuyên môn tương ứng.
+MAU_CHUC_VU = {
+    r'thẩm\s*phán|chủ\s*tọa|hội\s*thẩm|chủ\s*tịch\s*hội\s*đồng|judge|chairman': (r'áo\s*choàng|robe|lễ\s*phục', 'áo choàng/lễ phục'),
+    r'bác\s*sĩ|dược\s*sĩ|y\s*tá|doctor|nurse': (r'blouse|áo\s*blouse|đồ\s*mổ|scrubs', 'áo blouse/đồ mổ'),
+    r'cảnh\s*sát|police|officer': (r'đồng\s*phục\s*cảnh\s*sát|police\s*uniform', 'đồng phục cảnh sát'),
+    r'lính\s*cứu\s*hỏa|firefighter': (r'đồ\s*bảo\s*hộ|đồng\s*phục', 'đồ bảo hộ/đồng phục'),
+    r'linh\s*mục|giáo\s*sĩ|priest': (r'áo\s*dòng|lễ\s*phục', 'áo dòng/lễ phục'),
+}
+THIEU_Y_PHUC = []
+for f in ALL.values():
+    if f['id'].endswith('_FULL'):
+        lbl = (f.get('label') or '') + ' ' + (f.get('desc') or '')
+        _port_id = f['id'].replace('_FULL', '_PORTRAIT')
+        if _port_id in ALL:
+            lbl += ' ' + (ALL[_port_id].get('label') or '') + ' ' + (ALL[_port_id].get('desc') or '')
+        pr = f.get('prompt') or ''
+        for pat_cv, (pat_yp, ten_yp) in MAU_CHUC_VU.items():
+            if re.search(r'\b(?:' + pat_cv + r')\b', lbl, re.I):
+                if not re.search(r'\b(?:' + pat_yp + r')\b', pr, re.I):
+                    THIEU_Y_PHUC.append((f['id'], ten_yp))
+
+if THIEU_Y_PHUC:
+    print('\n── TRANG PHỤC SAI CHỨC VỤ (Y PHỤC THIẾT CHẾ) ──')
+    for fid, typ in THIEU_Y_PHUC:
+        print(f"  ✗ {fid}: vai mang chức danh thiết chế nhưng prompt thiếu {typ}")
+        LOI['trang-phục-sai-chức-vụ'] += 1
+
 # Tỷ lệ cỡ cảnh chỉ có nghĩa khi ĐA SỐ shot đã có SF. Ở giai đoạn bảng shot mới
 # có 1-2 SF nên tỷ lệ ra 100% cho một loại — con số đúng về số học nhưng đọc ra
 # thì sai hẳn, và một dòng thống kê đánh lừa cũng tệ như một lỗi báo oan.
@@ -852,6 +982,13 @@ if KHONG_RO_GIO or THIEU_DUNG:
     if THIEU_DUNG:
         print(f"   · {len(THIEU_DUNG)} thẻ `_FULL` thiếu dòng `Dùng: S4 · S5 · …` trong `desc`")
         print(f"     {', '.join(THIEU_DUNG)}")
+
+# MỤC ĐÍCH: Thống kê số shot mang lời dẫn NARRATOR: trong phim hook và nhắc rà soát nếu 0 shot (hỗ trợ cả kịch bản thuần thoại, thuần dẫn hoặc kết hợp).
+if not a.scene and 'HOOK' in (d.get('film') or '').upper():
+    _n = sum(1 for _, x in allsh if 'NARRATOR:' in (x.get('text') or ''))
+    print(f"\n── LỜI DẪN NARRATOR ──\n  {_n} shot mang lời dẫn NARRATOR:")
+    if _n == 0:
+        print("  · Nhắc rà soát: Phim hook hiện có 0 shot lời dẫn. Nếu kịch bản gốc có luồng lời dẫn, hãy rà lại bước bóc hai luồng.")
 
 if CANH_BAO_REUSE:
     print(f"\n── CẢNH BÁO: CHƯA TÁI SỬ DỤNG SF ({len(CANH_BAO_REUSE)}) ──")

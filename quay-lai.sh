@@ -14,7 +14,7 @@
 #    <tag> -- <project>/sf-board.json` trước, và vì tag luôn tồn tại nên nhánh
 #    `elif` đọc snapshot không tới lượt — nhưng `*.project/` nằm trong .gitignore
 #    nên file đó chưa từng có trong git, `git checkout` thất bại im lặng.
-#    Kết quả: media được khôi phục, phần CHỮ (prompt, luatchung, quan hệ REF) giữ
+#    Kết quả: media được khôi phục, phần CHỮ (prompt, quan hệ REF) giữ
 #    nguyên trạng thái hiện tại. Người dùng tưởng đã quay lại xong.
 #    Nay đọc thẳng từ snapshot — đó là nơi duy nhất thật sự có nó.
 set -euo pipefail
@@ -64,7 +64,7 @@ NGUON="$SNAP/$BAN"
 
 echo "Sắp quay $PROJ về bản: $BAN — $(cat "$NGUON/.ghi-chu" 2>/dev/null || echo '-')"
 [ -f "$NGUON/sf-board.json" ] \
-  && echo "  bản này CÓ sf-board.json — prompt và luatchung sẽ bị ghi đè theo." \
+  && echo "  bản này CÓ sf-board.json — prompt sẽ bị ghi đè theo." \
   || echo "  ⚠ bản này KHÔNG có sf-board.json — chỉ media được khôi phục."
 read -p "Chắc chưa? (gõ 'co' để làm) " OK
 [ "$OK" = "co" ] || { echo "đã hủy."; exit 0; }

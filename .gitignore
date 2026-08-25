@@ -24,6 +24,9 @@
 *.pyc
 .DS_Store
 *.jsonl
+.sfboard-*.log
+.sfboard-running.json
+
 
 # phiên đăng nhập trình duyệt — không bao giờ đưa lên git
 **/.chatgpt_profile/

@@ -37,6 +37,7 @@ tin là "SẠCH".
 ## Luật cứng
 
 - Luôn trả lời người dùng bằng tiếng Việt.
+- Không đọc bất cứ project nào đã làm trước đó ( không tham khảo project cũ khi làm kịch bản mới)
 - Không sửa `SKILL.md` hay file trong `.claude/skills/` nếu user không yêu cầu
   rõ. Không tự sửa skill khi user chê output.
 - Không tự ý sửa `KICH-BAN.md` gốc. Chỉ sửa khi user yêu cầu đích danh, và phải

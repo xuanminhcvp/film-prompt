@@ -1,0 +1,985 @@
+{
+  "film": "TEN THOUSAND DOLLAR GRANDMA — HOOK 2 PHÚT · BÀ CỤ 63 TUỔI VÀ NHÀ VÔ ĐỊCH BẤT BẠI",
+  "updated_at": "2026-08-24 14:40:00",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_BG_IRONLINE_CHIEU",
+          "label": "IRONLINE BOXING — SÀN ĐẤU, ĐẦU GIỜ CHIỀU (bản gốc)",
+          "desc": "Phòng tập quyền Anh trong nhà kho cải tạo, đã bị biến thành trường quay nội dung. Bối cảnh gốc khoá kiến trúc cho mọi biến thể giờ giấc.",
+          "prompt": "Bối cảnh ở Mỹ. Một phòng tập quyền Anh trong nhà kho cải tạo đang được dùng làm trường quay nội dung cho một buổi mở cửa tự do: giữa sàn là đài quyền Anh chuẩn, mặt đài cao ngang hông người lớn, bốn cọc bọc đệm đỏ, ba tầng dây đài trắng, mặt bạt trắng ngà đã ố mồ hôi. Quanh chân đài rải chân máy quay nhôm và đèn LED tròn dựng sẵn, dây điện dán băng dính vải đen xuống sàn gỗ.\n\nQUY HOẠCH 360°: BÊN TRÁI là dãy bao cát treo trần, bao nặng nhất vá chằng bằng băng dính vải bạc. BÊN PHẢI là hàng gương tập kín tường và giá tạ thép. ĐỐI DIỆN là tường gạch sơn trắng ngà, sơn stencil chữ đen kẻ tay 'TROTTER TURN' và 'GARY SLIP', dưới chân tường là bảng lịch lớp cơ bản bị dán đè bằng một tờ lịch nội dung in màu. SAU LƯNG là cửa cuốn nhà kho và quầy lễ tân thấp bằng gỗ ép, phía trên treo biển tên nhãn hư cấu 'IRONLINE BOXING' chữ đen nền trắng, đánh vần chính xác.\n\nÁNH SÁNG: BAN NGÀY, đầu giờ chiều. Nắng chiều xiên qua dãy giếng trời trên mái đổ hai vệt sáng rộng xuống mặt đài, trộn với đèn huỳnh quang trần trắng trung tính chiếu đều phần còn lại. Độ tương phản trung bình, bóng đổ mềm, không u tối, không moody, không low-key, không cháy trắng. Tổng thể ẤM, ngả vàng-nâu từ sàn gỗ và da bao cát, phải KHÁC HẲN sắc trắng-lạnh sạch sẽ của căn penthouse buổi sáng. Không gian sáng sủa, đang hoạt động bình thường.\n\nKhông có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_IRONLINE_SANG",
+          "label": "IRONLINE BOXING — SÀN ĐẤU, BUỔI SÁNG (biến thể giờ)",
+          "desc": "Cùng phòng tập, buổi sáng lúc mười giờ, trước khi đám đông kéo tới.",
+          "prompt": "Bối cảnh ở Mỹ. Giữ nguyên 100% không gian, kiến trúc, vị trí đài quyền Anh, bao cát, gương tập, tường chữ stencil và quầy lễ tân của ảnh tham chiếu. CHỈ ĐỔI THỜI ĐIỂM sang BUỔI SÁNG lúc mười giờ: nắng sớm trắng-vàng nhạt rót thẳng xuống qua giếng trời thành cột sáng rõ nét hơn, bụi lơ lửng nhìn thấy trong cột sáng, đèn huỳnh quang trần bật một nửa nên hai bên tường hơi dịu hơn. Độ tương phản trung bình, bóng đổ mềm, không u tối, không cháy trắng. Tổng thể sáng sủa, sạch, tỉnh táo hơn buổi chiều.\n\nKhông có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_IRONLINE_CHIEU"
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_PENTHOUSE_SANG",
+          "label": "PENTHOUSE CỦA DEACON — PHÒNG NGỦ, SÁNG SỚM",
+          "desc": "Phòng ngủ chính của căn hộ áp mái mà nhà vô địch mua bằng tiền thượng đài. Nơi mở đầu buổi sáng của anh ta.",
+          "prompt": "Bối cảnh ở Mỹ. Phòng ngủ chính của một căn hộ áp mái vừa qua một đêm ngủ của người sống một mình: giường cỡ lớn kê sát tường trái, ga xám khói còn nhàu một bên, chăn hất dồn về chân giường, một chiếc gối rơi xuống thảm len xám. Tủ đầu giường gỗ óc chó có bệ sạc và một cốc nước uống dở.\n\nQUY HOẠCH 360°: BÊN TRÁI, đầu giường tựa vào mảng tường ốp gỗ óc chó ấm. ĐỐI DIỆN là vách kính suốt trần-sàn nhìn ra đường chân trời thành phố với các khối nhà cao tầng xa và trời sáng mờ sương. BÊN PHẢI là tủ quần áo âm tường cửa gương và ghế bành da nâu vắt sẵn áo khoác thể thao. SAU LƯNG là lối ra hành lang, trên tường hành lang gắn một tủ kính hẹp trưng chiếc đai vô địch bản to.\n\nÁNH SÁNG: BAN NGÀY, sáng sớm. Ánh sáng ban mai trắng-xanh rất dịu tràn vào từ vách kính đối diện, phủ đều mặt giường và sàn; một đèn hắt vàng nhạt âm trần bật yếu phía hành lang tạo lớp ấm mỏng ở lớp sau để căn phòng có chiều sâu. Độ tương phản thấp, bóng đổ rất mềm, không u tối, không cháy trắng. Tổng thể SẠCH, LẠNH, giàu có và trống trải, phải KHÁC HẲN sắc vàng-nâu ấm và ồn ào của phòng tập Ironline. Ánh sáng chính mềm và rõ, giữ skin tone tự nhiên, rõ mặt nhân vật.\n\nKhông có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_CONSTANCE_PORTRAIT",
+          "label": "★ CONSTANCE TROTTER (chân dung gốc)",
+          "desc": "Vai chính diện · nữ 63 tuổi · người bước vào phòng tập đòi quyền lợi cho cháu và bị thách đấu (S1) · Mặt phải đọc ra: điềm tĩnh tuyệt đối, đang ĐO ĐẠC chứ không giận, ánh nhìn của người từng biết việc này rất rõ.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nPhụ nữ Mỹ gốc Phi 63 tuổi, da nâu sẫm ấm, gương mặt đầy đặn phúc hậu và khoẻ mạnh. Tóc đen đã ngả bạc ở hai bên thái dương, chải mượt ra sau và búi thấp gọn gàng. Xương gò má cao, quai hàm vững, nếp cười mờ hai bên khoé miệng. Mắt nâu sẫm, mí trên hơi trĩu theo tuổi nhưng ánh nhìn tỉnh, ấm và rất chắc, nhìn thẳng không né. Không kính, không sẹo, không hình xăm. Không làm hốc hác, không quầng thâm, không nét khắc khổ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_CONSTANCE_FULL",
+          "label": "CONSTANCE — ÁO KHOÁC ĐI LỄ (bộ tử tế đi việc quan trọng)",
+          "desc": "Bộ bà mặc khi đi tới phòng tập đòi cho cháu: đồ đi lễ, chỉnh tề, đủ trang trọng để người ta phải nghe.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nPhụ nữ 63 tuổi mặc áo khoác dạ dài ngang gối màu xanh navy đậm, vải dày dặn, phẳng phiu, cài kín toàn bộ hàng cúc, cổ bẻ vuông, có một chiếc trâm cài kim loại xỉn nhỏ ở ve áo trái. Bên trong là áo sơ mi lụa màu kem cài kín tới cúc trên cùng. Chân váy vải len màu than dài quá gối. Tất da chân màu trầm. Giày bệt da đen mũi tròn, đế thấp, đánh xi sạch. Đeo khuyên tai kẹp ngọc trai trắng tròn nhỏ ở cả hai tai. Không đeo vòng tay, không nhẫn. Túi xách da nâu sẫm quai ngắn cầm ở tay phải.\n\nToàn bộ trang phục phẳng phiu, vừa vặn, được giặt là cẩn thận. Không xộc xệch, không rách.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_DEACON_PORTRAIT",
+          "label": "★ DEACON BOYLE (chân dung gốc)",
+          "desc": "Vai phản diện · nam 26 tuổi · nhà vô địch bất bại đang sống vì lượt xem, người thách bà Constance mười nghìn đô (S1 · S2 · S3) · Mặt phải đọc ra: đẹp trai, tự tin tới mức khinh suất, quen được ống kính nhìn vào.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nNam giới Mỹ gốc Phi 26 tuổi, da nâu trung, khoẻ mạnh, ưa nhìn. Tóc cắt fade rất ngắn hai bên, đỉnh đầu để ngắn tỉa gọn, đường chân tóc trán tỉa sắc nét. Râu quai nón cạo sát thành viền mỏng ôm quai hàm, ria mỏng. Xương hàm vuông rõ, cổ dày của vận động viên. Mắt nâu sẫm, ánh nhìn tỉnh và chắc, hơi nheo ở đuôi mắt như người quen đùa. Sống mũi thẳng, không biến dạng. Không kính, không sẹo, không hình xăm trên mặt.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_DEACON_GYM_FULL",
+          "label": "DEACON — ĐỒ THƯỢNG ĐÀI TẬP (mặc suốt buổi ở phòng tập)",
+          "desc": "Bộ anh ta mặc khi quay nội dung ở phòng tập và khi trèo vào đài thách đấu.\nDùng: S1 · S3",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nNam 26 tuổi vóc dáng vận động viên hạng trung. Mặc áo tập ba lỗ vải kỹ thuật màu xám than, thân áo vừa ôm, che kín toàn bộ phần ngực và lưng, vạt áo buông ngoài cạp quần. Quần đùi quyền Anh vải satin đen dài quá giữa đùi, cạp bản to màu vàng kim có in dòng chữ hư cấu 'BOYLE' màu đen. Giày thượng đài cổ cao màu đen viền vàng, dây buộc chéo, buộc gọn. Cổ tay quấn băng vải đen gọn tới nửa cẳng tay. Đeo một sợi dây chuyền vàng bản mảnh ngoài cổ áo.\n\nTrang phục sạch, mới, phẳng phiu, vừa vặn. Toàn thân che kín, không cởi trần.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_DEACON_HOME_FULL",
+          "label": "DEACON — ĐỒ NGỦ Ở NHÀ (buổi sáng trong penthouse)",
+          "desc": "Bộ anh ta đang mặc lúc thức dậy và cầm điện thoại kiểm tra lượt theo dõi.\nDùng: S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nNam 26 tuổi vóc dáng vận động viên. Mặc áo phông cotton dày màu xám nhạt, tay ngắn, cổ tròn, thân áo hơi rộng và nhàu nhẹ vì vừa ngủ dậy, che kín toàn bộ thân trên. Quần đùi thun màu đen trơn dài tới đầu gối, cạp chun. Chân đi tất cotton trắng, không giày. Đeo một sợi dây chuyền vàng bản mảnh ngoài cổ áo.\n\nTrang phục sạch, mềm, hơi nhàu tự nhiên của đồ vừa ngủ dậy. Toàn thân che kín, không cởi trần.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_TEDDY_PORTRAIT",
+          "label": "★ TEDDY MARSH (chân dung gốc)",
+          "desc": "Vai chính diện phụ · nam 66 tuổi · huấn luyện viên già đứng góc đài, người duy nhất trong phòng hiểu chuyện gì sắp xảy ra (S1 · S3) · Mặt phải đọc ra: đã nhìn quá nhiều trận đấu, đang nhận ra một thứ mình tưởng chỉ là truyền thuyết.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nNam giới da trắng 66 tuổi, da sáng đã rám và dày lên vì năm tháng, gương mặt khoẻ mạnh và hiền. Tóc bạc trắng cắt cua rất ngắn, chân tóc lùi cao. Râu lởm chởm bạc cạo cách vài ngày ở cằm và quai hàm. Lông mày rậm bạc, nếp nhăn ngang trán và nếp chân chim sâu ở đuôi mắt. Mắt xanh xám nhạt, mí hơi trĩu, ánh nhìn tỉnh, ấm và rất chăm chú. Sống mũi từng gãy nên hơi lệch nhẹ về bên trái, một chi tiết duy nhất của người từng thượng đài. Không kính, không hình xăm. Không làm hốc hác, không quầng thâm.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_TEDDY_FULL",
+          "label": "TEDDY — ĐỒ ĐỨNG GÓC ĐÀI (đồ làm việc hằng ngày)",
+          "desc": "Bộ ông mặc khi đứng góc đài và khi cầm đích tập cho Deacon.\nDùng: S1 · S3",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu.\n\nNam 66 tuổi, người tầm thước, vai còn dày. Mặc áo polo cotton màu xanh rêu đã bạc màu và sờn nhẹ ở cổ áo, cài hai cúc, được giặt cẩn thận, sơ vin lỏng. Quần vải kaki màu be tối rộng ống, thắt lưng da nâu bản to đã mòn. Giày thể thao da trắng ngà kiểu cũ, sạch. Một chiếc khăn mặt bông trắng vắt qua vai phải. Đồng hồ mặt tròn dây da nâu đeo ở cổ tay TRÁI.\n\nTrang phục cũ nhưng gọn gàng, được giặt cẩn thận, cài cúc đầy đủ. Không rách, không dơ bẩn.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_TEDDY_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_BANG_QUAN_TAY",
+          "label": "Cuộn băng quấn tay cũ — chữ thêu ở mép cuộn",
+          "desc": "Món đồ tiết lộ danh tính bà Constance: băng quấn tay của một võ sĩ nhà nghề, giữ hơn ba mươi năm. Lời dẫn gọi tên nó, và nó là thứ khiến ông Teddy nín thở.\nDùng: S1",
+          "prompt": "Ảnh tĩnh photorealistic, chất điện ảnh, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm mắt, nét căng, thấy rõ sợi vải. KHÔNG có người, không có bàn tay trong khung.\n\nHai cuộn băng quấn tay quyền Anh bằng vải cotton dệt, bản khoảng năm centimet, ĐANG CUỘN TRÒN GỌN và cài bằng dải dán mép, đặt cạnh nhau trên một mặt bàn gỗ trơn màu trung tính để thấy rõ tỷ lệ và bóng đổ. Vải vốn màu trắng nay đã ngả vàng ngà rất đều vì tuổi, mặt vải hơi bóng lên như bề mặt đĩa than cũ, các mép sợi đã tưa mảnh. Ở đầu mép ngoài của mỗi cuộn có thêu tay hai chữ cái viết hoa màu chỉ đỏ đã bạc: 'C.T.', đánh vần chính xác, chỉ thêu hơi lệch và nổi rõ trên nền vải ngà. Không có nhãn hiệu nào khác trên vải; mọi chữ khác đều là nhãn hư cấu.\n\nÁnh sáng studio dịu, đều, bóng đổ mềm về bên phải.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "name": "S1 — 3:40 CHIỀU · SÀN ĐẤU IRONLINE: LỜI THÁCH MƯỜI NGHÌN ĐÔ",
+      "sfs": [
+        {
+          "id": "SF-S1-M1-MASTER",
+          "label": "MASTER cụm 1 — Deacon dang tay trong đài, Constance đứng ngoài dây",
+          "desc": "Chốt thế trận cụm sàn đấu: nhà vô địch trong đài, bà cụ ngoài dây, đám đông vây quanh.",
+          "prompt": "MÁY QUAY: 40mm, medium two-shot 3/4, máy đặt ngoài đài ngang tầm ngực người đứng, cách chủ thể 3m, hơi hạ xuống ngang mặt đài.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng giữa mặt đài ở nửa phải khung, hai tay dang ngang hết cỡ, thân người ngả nhẹ về phía dây đài gần nhất. Constance đứng sát bên ngoài dây đài ở nửa trái khung, người quay 3/4 hướng lên Deacon. Vây quanh chân đài là khoảng bốn mươi người xem đủ lứa tuổi mặc đồ tập, đứng thành vòng cung sát mép đài, vài người giơ điện thoại nhãn hư cấu lên quay; hai người quay phim đứng sau chân máy nhôm ở rìa phải khung. Không ai trong nhóm nền nhìn vào ống kính.\n\nTAY: Deacon hai tay dang ngang, lòng bàn tay ngửa, không cầm gì. Constance tay phải đỡ quai chiếc túi xách da nâu móc ở khuỷu tay trái, tay trái buông dọc thân.\n\nHƯỚNG NHÌN: Deacon nhìn thẳng xuống mặt Constance. Constance ngẩng nhìn thẳng vào mắt Deacon.\n\nBIỂU CẢM: Deacon cười rộng khoe răng, đang tận hưởng tiếng cười của đám đông. Constance mặt phẳng lặng, không giận, không bối rối, như đang đo đạc một việc đã biết trước.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Constance rời mắt khỏi Deacon để nhìn xuống chiếc túi trên tay mình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL"
+            ],
+            "bg": "REF_BG_IRONLINE_CHIEU"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài",
+              "CONSTANCE": "đứng sát ngoài dây đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "hai tay dang ngang, không cầm gì",
+              "CONSTANCE": "quai túi xách móc khuỷu tay trái, tay phải đỡ quai"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "Deacon ngửa mặt cười với ống kính, vai Constance tiền cảnh",
+          "desc": "",
+          "prompt": "MÁY QUAY: 50mm, cận cảnh dirty single, máy hạ thấp ngang ngực chếch lên (low angle nhẹ), cách Deacon 1,2m.\n\nAI VÀ ĐANG LÀM GÌ: Deacon chiếm phần lớn khung, đứng trong đài phía sau dây, hai tay vẫn dang ngang, ngực ưỡn về phía trước. Vai và một phần gáy của Constance nằm ở góc trái tiền cảnh, out nét thành khối tối mềm. Sau lưng Deacon là dây đài và vài dáng người xem out nét ở lớp sau.\n\nTAY: Deacon hai tay vẫn dang ngang, các ngón mở, không cầm gì.\n\nHƯỚNG NHÌN: Deacon nhìn chếch sang phải ra ngoài khung, về phía một chiếc máy quay đặt trên chân máy.\n\nBIỂU CẢM: Deacon cười rộng hết cỡ, cằm hất lên, đang diễn cho ống kính chứ không cho người trước mặt.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Deacon quay đầu trở lại phía Constance.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài",
+              "CONSTANCE": "đứng sát ngoài dây đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "hai tay dang ngang, không cầm gì",
+              "CONSTANCE": "quai túi xách móc khuỷu tay trái, tay phải đỡ quai"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-03",
+          "label": "Constance ở ringside, chiếc túi còn trên tay",
+          "desc": "",
+          "prompt": "MÁY QUAY: 50mm, cận cảnh, máy ngang tầm mắt bà, cách 1,5m, hơi chếch từ phía trái.\n\nAI VÀ ĐANG LÀM GÌ: Constance đứng sát ngoài dây đài, chiếm hai phần ba khung bên trái, thân trên thẳng, vai buông. Trong đài phía sau bà, Deacon đứng dang tay thành một khối màu out nét ở lớp sau. Mặt đài trống nằm ngang qua khung ngay dưới cằm bà.\n\nTAY: Constance đang đưa tay phải xuống nắm lấy quai chiếc túi xách da nâu vẫn còn móc ở khuỷu tay trái, chưa nhấc ra, chưa đặt xuống đâu cả.\n\nHƯỚNG NHÌN: Constance nhìn xuống mép mặt đài trước mặt mình.\n\nBIỂU CẢM: Bình thản tuyệt đối, môi khép, mắt tỉnh; vẻ mặt của người vừa quyết định xong một việc và đang thu xếp để làm.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi bà nhấc chiếc túi ra khỏi khuỷu tay.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL",
+              "REF_DEACON_GYM_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "CONSTANCE": "đứng sát ngoài dây đài",
+              "DEACON": "đứng giữa mặt đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "CONSTANCE": "tay phải đang nắm quai túi còn móc ở khuỷu tay trái",
+              "DEACON": "hai tay dang ngang, không cầm gì"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-04",
+          "label": "Toàn cảnh phòng tập — bốn mươi người cười, nhà vô địch cười to nhất",
+          "desc": "",
+          "prompt": "MÁY QUAY: 24mm, cinematic wide shot toàn cảnh, máy đặt cao ngang đầu người ở rìa sàn tập, cách đài 7m, bao trọn đài và vòng người vây quanh.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng giữa mặt đài, đầu ngửa ra sau cười, một tay vỗ lên đùi. Constance đứng nhỏ bé sát ngoài dây đài ở rìa trái, chiếc túi xách da nâu giờ đã nằm trên mép mặt đài cạnh bà. Bốn mươi người xem đứng thành vòng cung dày quanh chân đài, phần lớn đang cười và huýt sáo, nhiều người giơ điện thoại nhãn hư cấu lên quay, vài người quay sang huých nhau; hai người quay phim đứng sau chân máy nhôm ở rìa phải. Không ai nhìn vào ống kính.\n\nTAY: Deacon tay phải vỗ đùi, tay trái buông. Constance hai tay buông xuôi dọc thân.\n\nHƯỚNG NHÌN: Deacon nhìn hất lên trần. Constance nhìn thẳng lên Deacon.\n\nBIỂU CẢM: Deacon cười phá lên khoái trá. Constance mặt không đổi.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi tiếng cười của đám đông lắng xuống.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài",
+              "CONSTANCE": "đứng sát ngoài dây đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "tay phải vỗ đùi, tay trái buông",
+              "CONSTANCE": "hai tay buông xuôi, túi xách đã đặt trên mép mặt đài"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-05",
+          "label": "OTS qua vai Deacon — Constance trả lời",
+          "desc": "",
+          "prompt": "MÁY QUAY: 65mm, cận cảnh OTS, máy đặt trong đài sau vai phải Deacon, cách mặt Constance 1,4m, ngang tầm mắt Deacon nên hơi chúc xuống.\n\nAI VÀ ĐANG LÀM GÌ: Vai phải và một phần gáy của Deacon chiếm khối tối ở rìa phải tiền cảnh, out nét. Constance đứng ngoài dây đài chiếm nửa trái khung, nét căng, đầu hơi ngẩng. Dây đài trắng cắt ngang khung ngay dưới vai bà. Lớp sau là vòng người xem out nét thành các mảng màu.\n\nTAY: Constance hai tay buông xuôi dọc thân, các ngón thả lỏng. Chiếc túi xách da nâu nằm trên mép mặt đài bên phải bà.\n\nHƯỚNG NHÌN: Constance nhìn thẳng vào mắt Deacon.\n\nBIỂU CẢM: Constance môi vừa hé để nói, giọng chưa cất; vẻ mặt phẳng lặng, ấm và rất chắc, không giận.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi câu trả lời của bà bật ra.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL",
+              "REF_DEACON_GYM_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "CONSTANCE": "đứng sát ngoài dây đài",
+              "DEACON": "đứng giữa mặt đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "CONSTANCE": "hai tay buông xuôi, túi xách đã đặt trên mép mặt đài",
+              "DEACON": "hai tay dang ngang, không cầm gì"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-06",
+          "label": "Tight two-shot nghiêng — bà ra điều kiện ba phút",
+          "desc": "",
+          "prompt": "MÁY QUAY: 50mm, cận cảnh profile tight two-shot, máy đặt bên ngoài đài ngang tầm ngực, vuông góc với trục nhìn của hai người, cách 1,8m.\n\nAI VÀ ĐANG LÀM GÌ: Constance đứng ở nửa trái khung nhìn nghiêng sang phải, Deacon đứng trong đài ở nửa phải khung nhìn nghiêng sang trái, dây đài trắng chạy ngang giữa hai người. Cả hai đều nét. Lớp sau là bao cát và vài dáng người xem out nét.\n\nTAY: Constance hai tay buông xuôi dọc thân. Deacon hạ hai tay xuống ngang hông, các ngón hơi co.\n\nHƯỚNG NHÌN: Hai người nhìn thẳng vào mắt nhau, không ai chạm vào ai.\n\nBIỂU CẢM: Constance nói bằng vẻ mặt của người đang mời chứ không đang thách. Deacon nụ cười còn nguyên nhưng đuôi mắt vừa nheo lại một chút vì đang thật sự nghe.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Deacon bật cười trở lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL",
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "CONSTANCE": "đứng sát ngoài dây đài",
+              "DEACON": "đứng giữa mặt đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "CONSTANCE": "hai tay buông xuôi, túi xách đã đặt trên mép mặt đài",
+              "DEACON": "hai tay hạ ngang hông, không cầm gì"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-07",
+          "label": "Cận bàn tay — cuộn băng quấn ngả vàng trong chiếc túi mở",
+          "desc": "",
+          "prompt": "MÁY QUAY: 85mm, cận cảnh bàn tay, máy chúc xuống 30 độ nhìn vào mép mặt đài, cách 0,6m, khẩu mở nên lớp sau tan hoàn toàn.\n\nAI VÀ ĐANG LÀM GÌ: Chiếc túi xách da nâu nằm mở miệng trên mép mặt đài, chiếm nửa phải khung. Trong lòng túi lộ ra hai cuộn băng quấn tay vải cotton đã ngả vàng ngà, còn cuộn tròn gọn, một cuộn xoay đúng góc thấy hai chữ cái thêu chỉ đỏ bạc màu 'C.T.' ở mép ngoài. Hai bàn tay Constance vào khung từ phía trái, thấy tới cổ tay và một đoạn tay áo khoác navy.\n\nTAY: Bàn tay phải của bà đang vươn tới, các ngón vừa chạm mép cuộn băng trên cùng nhưng CHƯA nhấc lên; bàn tay trái đỡ mép miệng túi cho mở ra.\n\nHƯỚNG NHÌN: Không thấy mặt trong khung này, chỉ có bàn tay và chiếc túi.\n\nBIỂU CẢM: Cử động của hai bàn tay chậm, chắc và có thứ tự, kiểu người đã làm việc này hàng nghìn lần.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi bà nhấc cuộn băng ra khỏi túi.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_FULL",
+              "REF_PROP_BANG_QUAN_TAY"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "CONSTANCE": "đứng sát ngoài dây đài, đầu cúi xuống"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "CONSTANCE": "tay phải chạm cuộn băng trong túi mở, tay trái đỡ miệng túi"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-M2-MASTER",
+          "label": "MASTER cụm 2 — Teddy ở góc đài, tay dừng trên xô nước",
+          "desc": "Chốt thế trận cụm góc đài: ông huấn luyện viên già đứng ngoài rìa nội dung, nhìn vào trong đài.",
+          "prompt": "MÁY QUAY: 40mm, medium single, máy đặt ngoài đài ngang tầm ngực, cách Teddy 2,2m, chếch 3/4 từ phía trái ông.\n\nAI VÀ ĐANG LÀM GÌ: Teddy đứng ngay sát cọc góc bọc đệm đỏ, chiếm nửa phải khung, thân người quay 3/4 về phía trong đài. Trên bậc góc đài cạnh ông là một chiếc xô nhựa trắng và một chai nước bóp nhãn hư cấu. Lớp sau bên trái là ba tầng dây đài chạy chéo và vòng người xem out nét thành các mảng màu tối; xa hơn nữa là dãy bao cát treo trần.\n\nTAY: Teddy tay phải đặt hờ lên vành chiếc xô, các ngón vừa dừng lại giữa chừng; tay trái nắm hờ mép chiếc khăn mặt trắng vắt trên vai phải.\n\nHƯỚNG NHÌN: Teddy nhìn chăm chăm vào trong đài, chếch lên phía bên trái khung, không chớp mắt.\n\nBIỂU CẢM: Miệng hé ra một chút, lồng ngực đứng yên; vẻ mặt của người vừa nhận ra một thứ mình tưởng cả đời chỉ là chuyện kể.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi ông buông tay khỏi vành xô.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_TEDDY_PORTRAIT",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "REF_BG_IRONLINE_CHIEU"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "TEDDY": "đứng sát cọc góc đài"
+            },
+            "dist": "đứng sát vòng dây đài",
+            "hands": {
+              "TEDDY": "tay phải đặt hờ vành xô, tay trái nắm mép khăn trên vai"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-09",
+          "label": "Cận Teddy — mắt khoá vào trong đài",
+          "desc": "",
+          "prompt": "MÁY QUAY: 85mm, cận cảnh, máy ngang tầm mắt Teddy, cách 1m, chếch nhẹ từ phía trái ông, lớp sau tan mềm.\n\nAI VÀ ĐANG LÀM GÌ: Teddy chiếm gần trọn khung, thấy từ ngang ngực trở lên, chiếc khăn mặt trắng còn vắt trên vai phải. Sau lưng ông là cọc góc bọc đệm đỏ và một đoạn dây đài trắng chạy chéo, cùng một dáng người xem out nét sát ngay sau lưng.\n\nTAY: Cả hai bàn tay Teddy hạ khỏi khung, chỉ thấy vai và cổ; không cầm gì trong tầm nhìn.\n\nHƯỚNG NHÌN: Teddy nhìn chằm chằm chếch lên bên trái khung, vào trong đài.\n\nBIỂU CẢM: Mắt mở to hơn bình thường, quai hàm chùng xuống, một sợi gân cổ nổi lên; nín thở vì vừa nhận ra kiểu quấn băng đang diễn ra trước mặt mình.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi ông hít vào trở lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_TEDDY_PORTRAIT",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "SF-S1-M2-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "TEDDY": "đứng sát cọc góc đài"
+            },
+            "dist": "đứng sát vòng dây đài",
+            "hands": {
+              "TEDDY": "hai tay hạ khỏi khung, không cầm gì"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-M3-MASTER",
+          "label": "MASTER cụm 3 — trở lại ringside: Constance quấn tay, Deacon diễu trong đài",
+          "desc": "Mở lại thế trận sàn đấu sau khi cắt sang góc đài, chốt vị trí mới: bà đã quấn tay, nhà vô địch vẫn đang diễn.",
+          "prompt": "MÁY QUAY: 40mm, trung cảnh two-shot, máy đặt ngoài đài ngang tầm ngực, cách Constance 2,4m, chếch 3/4 từ phía phải bà.\n\nAI VÀ ĐANG LÀM GÌ: Constance chiếm nửa trái khung, thấy từ ngang hông trở lên, đầu cúi xuống hai bàn tay của chính mình. Deacon đứng trong đài ở nửa phải khung phía sau dây, đang đi đi lại lại, thấy rõ người và mặt nhưng mềm nét hơn bà một bậc. Dây đài trắng cắt chéo giữa hai lớp. Lớp sau cùng là vòng người xem out nét.\n\nTAY: Hai bàn tay Constance đang quấn dở lớp băng vải ngả vàng quanh khớp bàn tay trái, dải băng vắt qua kẽ ngón, phần đuôi cuộn còn thõng xuống; động tác gọn và đều.\n\nHƯỚNG NHÌN: Constance nhìn xuống chính hai bàn tay mình, không nhìn Deacon.\n\nBIỂU CẢM: Tập trung, bình thản, gần như dịu dàng; một nếp cười rất mờ ở khoé miệng vì quen tay.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi bà vòng dải băng thêm một lượt qua cổ tay.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_CONSTANCE_PORTRAIT",
+              "REF_CONSTANCE_FULL",
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_PROP_BANG_QUAN_TAY"
+            ],
+            "bg": "REF_BG_IRONLINE_CHIEU"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "CONSTANCE": "đứng sát ngoài dây đài, đầu cúi xuống",
+              "DEACON": "đứng giữa mặt đài"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "CONSTANCE": "hai tay đang quấn dở dải băng quanh bàn tay trái",
+              "DEACON": "hai tay hạ ngang hông, không cầm gì"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-11",
+          "label": "Toàn cảnh — nhà vô địch diễu trong đài, bà cụ quấn tay ở ringside",
+          "desc": "",
+          "prompt": "MÁY QUAY: 28mm, cinematic wide shot toàn cảnh, máy đặt cao hơn đầu người ở phía đối diện cọc góc xa, cách đài 6m, bao trọn mặt đài và một phần vòng người.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đi vòng nhỏ trong đài, hai tay dang rộng mời gọi, mặt hướng ra đám đông. Constance đứng nhỏ sát ngoài dây đài ở rìa trái, đầu cúi xuống hai bàn tay đang quấn băng, chiếc túi xách nằm trên mép mặt đài cạnh bà. Vòng người xem vẫn dày quanh chân đài, nhiều người giơ điện thoại nhãn hư cấu lên quay, vài người cười và huých nhau; chân máy nhôm và đèn LED tròn dựng ở rìa phải khung. Không ai nhìn vào ống kính.\n\nTAY: Deacon hai tay dang rộng. Constance hai tay quấn dở dải băng ngả vàng.\n\nHƯỚNG NHÌN: Deacon nhìn ra đám đông phía phải. Constance nhìn xuống hai bàn tay mình.\n\nBIỂU CẢM: Deacon phấn khích, đang bán một màn diễn. Constance bình thản, không dự phần.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Deacon quay gót vòng trở lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_FULL",
+              "REF_PROP_BANG_QUAN_TAY"
+            ],
+            "bg": "SF-S1-M3-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài, đi vòng nhỏ",
+              "CONSTANCE": "đứng sát ngoài dây đài, đầu cúi xuống"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "hai tay dang rộng, không cầm gì",
+              "CONSTANCE": "hai tay đang quấn dở dải băng quanh bàn tay trái"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-12",
+          "label": "Trung cận Deacon diễn cho ống kính, vai Constance rìa trái",
+          "desc": "",
+          "prompt": "MÁY QUAY: 50mm, trung cảnh, máy ngang tầm ngực Deacon, cách 2m, hơi chếch từ phía phải.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng trong đài chiếm nửa phải khung, thấy từ ngang đùi trở lên, một tay chỉ thẳng vào chiếc máy quay đặt trên chân máy ngoài khung. Vai và cánh tay áo khoác navy của Constance nằm out nét ở rìa trái tiền cảnh. Lớp sau là dây đài và vòng người xem out nét.\n\nTAY: Deacon tay phải chỉ thẳng về phía trước ra ngoài khung với cả bàn tay mở, KHÔNG giơ ngón đếm; tay trái chống hông.\n\nHƯỚNG NHÌN: Deacon nhìn thẳng về phía chiếc máy quay ngoài khung bên phải.\n\nBIỂU CẢM: Cười rộng, cằm hất, đang gọi khán giả của kênh vào cuộc.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi anh ta hạ tay xuống.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_FULL"
+            ],
+            "bg": "SF-S1-M3-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài",
+              "CONSTANCE": "đứng sát ngoài dây đài, đầu cúi xuống"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "tay phải chỉ ra ngoài khung, tay trái chống hông",
+              "CONSTANCE": "hai tay đang quấn dở dải băng quanh bàn tay trái"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B1",
+          "label": "🎬 NHỊP LẶNG — cầu nối: nụ cười nhà vô địch, bắc sang buổi sáng",
+          "desc": "Nhịp cầu nối khép sàn đấu để lời dẫn kéo khán giả về buổi sáng hôm ấy.",
+          "prompt": "MÁY QUAY: 50mm, trung cảnh, máy ngang tầm mắt Deacon, cách 2,2m, chính diện qua dây đài.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng giữa mặt đài chiếm phần giữa khung, thấy từ ngang eo trở lên, hai tay hạ ngang hông. Ở rìa dưới tiền cảnh, hai bàn tay đang quấn băng của Constance lọt vào khung thành một mảng out nét. Lớp sau là dây đài và vòng người xem out nét.\n\nTAY: Deacon hai tay hạ ngang hông, các ngón hơi co. Constance hai tay quấn dở dải băng ngả vàng ở tiền cảnh.\n\nHƯỚNG NHÌN: Deacon nhìn xuống hai bàn tay đang quấn băng của Constance ở tiền cảnh.\n\nBIỂU CẢM: Nụ cười của Deacon vẫn còn trên mặt nhưng đã chậm lại nửa nhịp, mắt bắt đầu dò hỏi vì thấy một thứ mình chưa hiểu.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi anh ta chớp mắt.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_CONSTANCE_FULL"
+            ],
+            "bg": "SF-S1-M3-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ringside",
+            "who": {
+              "DEACON": "đứng giữa mặt đài",
+              "CONSTANCE": "đứng sát ngoài dây đài, đầu cúi xuống"
+            },
+            "dist": "cách nhau khoảng 2m qua dây đài",
+            "hands": {
+              "DEACON": "hai tay hạ ngang hông, không cầm gì",
+              "CONSTANCE": "hai tay đang quấn dở dải băng quanh bàn tay trái"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-M1-MASTER",
+          "dur": 10,
+          "text": "DEACON: \"Ten thousand dollars, grandma. One clean shot at the champ, right here on camera. Come on — hit me. Unless those old hands are only good for waving church fans.\"",
+          "music": null,
+          "goc": "Medium Two-Shot 3/4 · Deacon trong đài RÕ MẶT · Constance ngoài dây đài phía trái RÕ MẶT 3/4",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 10 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía dây đài.\n\nDeacon đang bán một màn diễn cho kênh của chính mình: biến lời thách thành tiết mục, mời cả phòng cười theo, dùng khoảng sàn trống trong đài để đi và khoe. Constance đứng yên ngoài dây, nhận lời thách như nhận một tờ giấy.\n\nDEACON — cocky, gloating, playing to the camera: \"Ten thousand dollars, grandma. One clean shot at the champ, right here on camera. Come on — hit me. Unless those old hands are only good for waving church fans.\"\n\nCONSTANCE — silent, unmoved, holding steady eye contact\n\nQUẦN CHÚNG NỀN — vòng người quanh chân đài cười ồ và huýt sáo, vài người giơ điện thoại lên quay, chuyển trọng tâm chân, chuyển động nền nhẹ và tự nhiên\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời kể ngoài hình.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 7,
+          "text": "NARRATOR: Deacon Boyle, twenty-four and oh, spread his arms in his own ring and grinned for his own cameras.",
+          "music": null,
+          "goc": "Close-Up dirty single low angle · Deacon RÕ MẶT · vai và gáy Constance out nét rìa trái tiền cảnh",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN chậm, giữ nguyên góc thấp.\n\nDeacon giữ tư thế dang tay và xoay mặt tìm ống kính, tận hưởng việc mình đang được quay; anh ta nói với máy quay chứ không nói với người trước mặt.\n\nDEACON — smug, showing off to the lens, half-laughing: \"Y'all seeing this?\"\n\nCONSTANCE — silent, only a shoulder in frame, motionless\n\nQUẦN CHÚNG NỀN — tiếng cười và huýt sáo ngoài khung, vài dáng người lớp sau nhúc nhích nhẹ\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-03",
+          "sf": "SF-S1-03",
+          "dur": 6,
+          "text": "NARRATOR: The sixty-three-year-old woman at ringside set down her purse.",
+          "music": null,
+          "goc": "Close-Up · Constance RÕ MẶT nghiêng 3/4 · Deacon out nét lớp sau trong đài",
+          "prompt": "Nhận diện:\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN rất chậm.\n\nConstance đang thu xếp để rảnh tay: bà nhấc chiếc túi ra khỏi khuỷu tay và tìm chỗ đặt nó xuống ngay trước mặt. Mọi cử động chậm, gọn, không vội, như thể trong phòng không có ai đang cười.\n\nCONSTANCE — calm, deliberate, unhurried\n\nDEACON — silent, out of focus behind the ropes, still moving\n\nQUẦN CHÚNG NỀN — tiếng ồn đám đông ngoài khung, các dáng người out nét chuyển động nhẹ\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nKẾT CLIP: Constance hạ chiếc túi xách xuống, đặt hẳn nó lên mép mặt đài trước mặt, rồi rút hai tay về buông xuôi dọc thân.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04",
+          "dur": 5,
+          "text": "NARRATOR: Forty people in that gym. Nobody laughed harder than the champion.",
+          "music": null,
+          "goc": "Wide Shot toàn cảnh · Deacon giữa đài RÕ MẶT ngửa cười · Constance nhỏ ở rìa trái ngoài dây đài",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 5 giây, không chuyển cảnh. Camera DOLLY IN chậm về phía đài.\n\nCả phòng đang hưởng ứng màn diễn, và người cười to nhất là người đứng trong đài.\n\nDEACON — delighted, roaring with laughter: \"Ohhh, she's serious!\"\n\nCONSTANCE — silent, still, looking up at him\n\nQUẦN CHÚNG NỀN — bốn mươi người quanh chân đài cười phá lên, huých nhau, giơ điện thoại lên quay, vài người vỗ tay; chuyển động nền tự nhiên và liên tục\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05",
+          "dur": 4,
+          "text": "CONSTANCE: \"I don't hit children,\"\nNARRATOR: she said. Soft. Level.",
+          "music": null,
+          "goc": "OTS qua vai Deacon → Constance · vai và gáy Deacon out nét rìa phải tiền cảnh · Constance RÕ MẶT",
+          "prompt": "Nhận diện:\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt Constance.\n\nConstance trả lời thẳng vào mặt người vừa thách mình, bằng âm lượng nhỏ hơn hẳn tiếng ồn xung quanh, buộc người ta phải im để nghe. Sau câu thoại, bà khép miệng và giữ một khoảng dừng ngắn để ghép lời kể bên ngoài.\n\nCONSTANCE — soft, level, unhurried: \"I don't hit children,\"\n\nDEACON — silent, only shoulder and back of head in frame, grin holding\n\nQUẦN CHÚNG NỀN — tiếng ồn đám đông lắng bớt một nhịp ở ngoài khung\n\nÂm thanh: CHỈ thoại Constance, tiếng Anh giọng Mỹ, rõ lời; lời kể ngắn được ghép sau trong khoảng dừng. Không nhạc.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-06",
+          "dur": 6,
+          "text": "CONSTANCE: \"But I'll tell you what, baby. Three minutes. You try to touch me first.\"",
+          "music": null,
+          "goc": "Tight Two-Shot nghiêng (profile) · Constance trái RÕ MẶT · Deacon phải trong đài RÕ MẶT · cả hai nét",
+          "prompt": "Nhận diện:\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm vào khoảng giữa hai người.\n\nConstance đưa ra điều kiện của mình như một lời mời lịch sự, không lớn tiếng, không chỉ tay. Deacon nghe và thấy buồn cười, nhưng lần đầu tiên anh ta thật sự đang nghe.\n\nCONSTANCE — warm, level, matter-of-fact: \"But I'll tell you what, baby. Three minutes. You try to touch me first.\"\n\nDEACON — silent, amused, eyebrows lifting\n\nQUẦN CHÚNG NỀN — vài tiếng ồ dài ngoài khung, các dáng người out nét nghiêng vào gần hơn\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời kể ngoài hình.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-07",
+          "sf": "SF-S1-07",
+          "dur": 7,
+          "text": "NARRATOR: She took out yellowed hand wraps, old as vinyl, initials stitched at the cuff. And began wrapping — slow, perfect, professional.",
+          "music": null,
+          "goc": "Close-Up bàn tay Constance trên mép mặt đài, thấy tới ngang cổ tay · không có main cast nào khác trong khung",
+          "prompt": "Nhận diện:\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN rất chậm xuống hai bàn tay.\n\nConstance đang chuẩn bị đôi tay của mình. Bà lấy cuộn băng trong túi ra, tìm đầu dải, rồi bắt đầu quấn quanh bàn tay trái — chậm, đều, đúng thứ tự, không một vòng thừa. Đây là thao tác của người nhà nghề, không phải của người mới học.\n\nCONSTANCE — silent, focused, hands moving with practised rhythm\n\nQUẦN CHÚNG NỀN — tiếng ồn đám đông và tiếng cười ở xa ngoài khung, không ai vào khung\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-08",
+          "sf": "SF-S1-M2-MASTER",
+          "dur": 5,
+          "text": "NARRATOR: In the corner, an old trainer very quietly stopped breathing.",
+          "music": null,
+          "goc": "Medium Single · Teddy đứng ở góc đài RÕ MẶT · dây đài và vòng người xem out nét lớp sau",
+          "prompt": "Nhận diện:\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm vào Teddy.\n\nTeddy đang làm nốt việc vặt ở góc đài thì thứ ông nhìn thấy trong đài khiến ông dừng hẳn lại. Cả người ông đứng im, chỉ còn ánh mắt là chuyển động.\n\nTEDDY — silent, transfixed, breath held\n\nQUẦN CHÚNG NỀN — vòng người out nét lớp sau nhúc nhích nhẹ, tiếng cười vọng tới từ xa\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-09",
+          "sf": "SF-S1-09",
+          "dur": 6,
+          "text": "NARRATOR: A hundred seconds later he would be screaming — screaming — for the round to stop.",
+          "music": null,
+          "goc": "Close-Up · Teddy RÕ MẶT chếch 3/4 · cọc góc đài và một dáng người xem out nét sau lưng",
+          "prompt": "Nhận diện:\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mắt Teddy.\n\nTeddy đang cố xác nhận điều mình vừa thấy. Ông không rời mắt khỏi đôi tay trong đài, và cái ông nhận ra làm mặt ông tái đi từng chút một.\n\nTEDDY — silent, disbelieving, eyes locked, one sharp intake of breath\n\nQUẦN CHÚNG NỀN — một dáng người out nét sau lưng ông đổi tư thế đứng, tiếng ồn xa\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-10",
+          "sf": "SF-S1-M3-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: Because the last man who knew this woman's name held a world title.",
+          "music": null,
+          "goc": "Medium Two-Shot · Constance RÕ MẶT cúi xuống hai bàn tay · Deacon trong đài RÕ MẶT, mềm nét hơn một bậc",
+          "prompt": "Nhận diện:\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nConstance tiếp tục quấn nốt bàn tay của mình, hoàn toàn không bận tâm tới tiếng ồn quanh đài. Deacon ở lớp sau vẫn đi đi lại lại trong đài, chưa hiểu mình vừa mở cửa cho ai.\n\nCONSTANCE — silent, calm, absorbed in her own hands\n\nDEACON — silent, softer focus, still strutting behind the ropes\n\nQUẦN CHÚNG NỀN — tiếng ồn đám đông ngoài khung, các mảng người out nét chuyển động nhẹ\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-11",
+          "sf": "SF-S1-11",
+          "dur": 8,
+          "text": "NARRATOR: Have you ever watched a loudmouth pick the one fight he could not win — and lose it without ever being touched?",
+          "music": null,
+          "goc": "Wide Shot toàn cảnh · Deacon đi vòng trong đài RÕ MẶT · Constance nhỏ ở rìa trái ngoài dây đài",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 8 giây, không chuyển cảnh. Camera DOLLY IN chậm về phía đài.\n\nHai người đang làm hai việc hoàn toàn khác nhau trong cùng một khung: một người bán màn diễn cho đám đông, một người lặng lẽ chuẩn bị đi làm.\n\nDEACON — cocky, working the crowd: \"Ten grand! Free money!\"\n\nCONSTANCE — silent, head down, still wrapping\n\nQUẦN CHÚNG NỀN — vòng người quanh chân đài hò reo, giơ điện thoại lên quay, vài người bước xích lại gần hơn; chuyển động nền liên tục và tự nhiên\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-12",
+          "sf": "SF-S1-12",
+          "dur": 5,
+          "text": "NARRATOR: You're about to. Drop a comment with your city, smash that like,",
+          "music": null,
+          "goc": "Medium Shot · Deacon RÕ MẶT, tay chỉ về phía máy quay của kênh · vai áo khoác Constance out nét rìa trái tiền cảnh",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nDeacon quay hẳn sang phía ống kính của kênh và gọi khán giả vào cuộc, coi chuyện sắp xảy ra là một tiết mục đã bán được vé.\n\nDEACON — smug, hyping the channel: \"Comment section, don't miss this.\"\n\nCONSTANCE — silent, only a shoulder in frame, unmoving\n\nQUẦN CHÚNG NỀN — tiếng hò reo ngoài khung, các dáng người out nét lớp sau nhúc nhích\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B1",
+          "sf": "SF-S1-B1",
+          "dur": 6,
+          "text": "[NHỊP] CẦU NỐI — khép sàn đấu, bắc sang buổi sáng của nhà vô địch\nNARRATOR: and let me take you back to the morning the champion woke up famous and hungry.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Cầu nối kéo khán giả rời sàn đấu để quay về buổi sáng của nhà vô địch. Nhạc phải tạo đà cho cú nhảy thời gian nhưng không được lấn tiếng lời dẫn.",
+            "a": "Gritty soul-gospel at 84 BPM, walking pace; brushed kick and tambourine entering on bar two, Hammond organ pad underneath, one dry electric guitar figure repeating; a male baritone close to the mic, half-spoken, gravel in the low notes; at the halfway point a small gospel choir hums underneath for four bars then everything pulls back to organ and voice for an open ending; lyrics about a man who wakes up already sure he has won, never triumphant, never mocking; warm analog mix, tape saturation, male vocal, soul, gospel, organ, driving, restrained",
+            "a_kind": "có lời",
+            "b": "Instrumental soul-gospel at 84 BPM; Hammond organ holding one warm chord while a dry electric guitar figure repeats and a brushed kick walks underneath, tambourine on the offbeat; a muted trumpet takes the melody at the halfway point and lifts one step, then the drums drop out and the organ is left alone breathing to an open ending; no vocals at all; warm analog mix, tape saturation, instrumental, soul, gospel, organ, guitar, driving, restrained",
+            "b_kind": "không lời"
+          },
+          "goc": "Medium Shot · Deacon RÕ MẶT giữa đài · hai bàn tay đang quấn băng của Constance out nét rìa dưới tiền cảnh",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Constance = nữ 63 tuổi, da đen, áo khoác dạ xanh navy cài kín, khuyên tai ngọc trai\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN rất chậm vào mặt Deacon.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói.\n\nTrạng thái: nhà vô địch vừa mở cửa cho một thứ anh ta chưa nhận ra, và trong nửa giây này thì nụ cười của anh ta chậm lại vì đôi tay dưới kia quấn băng quá đúng cách. Gợi ý diễn biến: ánh mắt Deacon đi từ đám đông xuống hai bàn tay ở tiền cảnh rồi dừng ở đó; để model tự chọn cử chỉ nhỏ cho hợp lý.\n\nDEACON — silent, smile slowing, a flicker of doubt\n\nCONSTANCE — silent, only the wrapping hands in frame, rhythm unbroken\n\nQUẦN CHÚNG NỀN — các mảng người out nét lớp sau chuyển động rất nhẹ\n\nÂm thanh: không nhạc, không lời thoại. Chỉ ambient phòng tập ở mức nhẹ — tiếng ồn đám đông xa, tiếng giày nghiến trên bạt đài, tiếng vải băng miết vào nhau.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — SÁNG SỚM · PENTHOUSE: HAI TRIỆU NGƯỜI THEO DÕI, ĐỨNG YÊN",
+      "sfs": [
+        {
+          "id": "SF-S2-M3-MASTER",
+          "label": "MASTER cụm 3 — Deacon ngồi mép giường, điện thoại đã trên tay",
+          "desc": "Chốt thế trận cụm penthouse: nhà vô địch vừa mở mắt, chân chưa chạm sàn, đã cầm điện thoại.",
+          "prompt": "MÁY QUAY: 35mm, trung cảnh, máy đặt phía chân giường ngang tầm ngực người ngồi, cách 2,5m, chếch 3/4 từ phía phải.\n\nAI VÀ ĐANG LÀM GÌ: Deacon ngồi ở mép giường lớn phía bên trái khung, lưng hơi còng về trước, hai bàn chân đi tất trắng còn treo lơ lửng chưa chạm xuống thảm. Chăn hất dồn về chân giường sau lưng anh ta, một chiếc gối rơi trên thảm. Vách kính suốt trần-sàn chiếm nửa phải khung, ngoài kính là các khối nhà cao tầng xa trong trời sáng mờ sương. Không có ai khác trong căn phòng.\n\nTAY: Deacon cầm chiếc điện thoại nhãn hư cấu bằng tay phải, đưa lên ngang ngực, ngón cái đặt hờ trên mặt kính chưa vuốt; tay trái chống xuống mép nệm đỡ người.\n\nHƯỚNG NHÌN: Deacon nhìn xuống chiếc điện thoại trên tay mình.\n\nBIỂU CẢM: Mắt còn nặng vì vừa ngủ dậy nhưng đã tỉnh hẳn phần chú ý; vẻ mặt của người kiểm tra một con số trước cả khi kịp uống nước.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi ngón cái anh ta vuốt xuống mặt kính.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_HOME_FULL"
+            ],
+            "bg": "REF_BG_PENTHOUSE_SANG"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "phòng ngủ penthouse",
+            "who": {
+              "DEACON": "ngồi mép giường"
+            },
+            "dist": "một mình trong phòng ngủ",
+            "hands": {
+              "DEACON": "tay phải cầm điện thoại ngang ngực, tay trái chống mép nệm"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-02",
+          "label": "Cận Deacon — con số hai triệu đứng yên trên mặt kính",
+          "desc": "",
+          "prompt": "MÁY QUAY: 65mm, cận cảnh dirty single, máy ngang tầm mắt người ngồi, cách 1,1m, chếch từ phía phải để lọt một góc mặt kính điện thoại vào tiền cảnh dưới.\n\nAI VÀ ĐANG LÀM GÌ: Deacon chiếm gần trọn khung, thấy từ ngang vai trở lên, vẫn ngồi mép giường. Ở rìa dưới tiền cảnh là mép trên chiếc điện thoại nhãn hư cấu ngửa lên, mặt kính hiển thị rõ nét dòng số '2,000,000' và bên dưới là chữ 'FOLLOWERS', đánh vần chính xác, chữ trắng trên nền tối, không nhòe. Lớp sau là mảng tường ốp gỗ óc chó tan mềm.\n\nTAY: Deacon tay phải giữ chiếc điện thoại chếch lên phía mặt, ngón cái dừng hẳn ở mép dưới màn hình; tay trái vẫn chống mép nệm.\n\nHƯỚNG NHÌN: Deacon nhìn thẳng xuống dòng số trên mặt kính.\n\nBIỂU CẢM: Lông mày nhíu lại giữa hai mắt, khoé miệng trễ xuống; vẻ mặt của người vừa thấy một con số đứng yên đúng ba tuần liền.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi anh ta thở hắt ra.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_HOME_FULL"
+            ],
+            "bg": "SF-S2-M3-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "phòng ngủ penthouse",
+            "who": {
+              "DEACON": "ngồi mép giường"
+            },
+            "dist": "một mình trong phòng ngủ",
+            "hands": {
+              "DEACON": "tay phải giữ điện thoại chếch lên mặt, tay trái chống mép nệm"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-B1",
+          "label": "🎬 NHỊP LẶNG — cầu nối: nhà vô địch nhỏ lại trong căn phòng của chính mình",
+          "desc": "Nhịp cầu nối khép buổi sáng riêng tư, bắc sang phòng tập lúc mười giờ.",
+          "prompt": "MÁY QUAY: 24mm, medium-wide, máy đặt sát tường phía sau ngang tầm ngực người đứng, cách 8m, lấy trọn chiều rộng căn phòng và cả vách kính.\n\nAI VÀ ĐANG LÀM GÌ: Deacon ngồi nhỏ ở mép giường lệch về nửa trái khung, thân trên đổ về trước, khuỷu tay chống lên đùi. Vách kính suốt trần-sàn chiếm cả nửa phải khung, ngoài kính là các khối nhà cao tầng xa. Ghế bành da nâu vắt áo khoác thể thao nằm ở rìa phải, tủ quần áo cửa gương ở lớp sau. Không có ai khác trong căn phòng.\n\nTAY: Deacon hai khuỷu tay chống trên đùi, chiếc điện thoại nhãn hư cấu cầm bằng cả hai bàn tay, thõng giữa hai đầu gối.\n\nHƯỚNG NHÌN: Deacon nhìn xuống sàn thảm trước mũi chân mình.\n\nBIỂU CẢM: Không giận, không buồn — chỉ là bồn chồn; vẻ mặt của người đang thiếu đúng thứ mình cần nhất mà không gọi tên ra được.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi anh ta ngẩng đầu lên nhìn ra vách kính.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_HOME_FULL"
+            ],
+            "bg": "SF-S2-M3-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "phòng ngủ penthouse",
+            "who": {
+              "DEACON": "ngồi mép giường"
+            },
+            "dist": "một mình trong phòng ngủ",
+            "hands": {
+              "DEACON": "hai bàn tay cầm điện thoại thõng giữa hai đầu gối"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S2-01",
+          "sf": "SF-S2-M3-MASTER",
+          "dur": 8,
+          "text": "NARRATOR: Deacon Boyle woke up that morning in a penthouse his fists had paid for, checked his phone before his feet touched the floor,",
+          "music": null,
+          "goc": "Medium Shot · Deacon ngồi mép giường RÕ MẶT · không có main cast nào khác trong khung",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo phông cotton xám nhạt, quần đùi thun đen, chân đi tất trắng\n\nMột shot liền 8 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía mép giường.\n\nDeacon vừa mở mắt và việc đầu tiên anh ta làm không phải là đứng dậy: anh ta kiểm tra một con số. Cả người còn nặng vì ngủ, chỉ có bàn tay cầm máy là tỉnh.\n\nDEACON — silent, half-awake, absorbed, one slow breath out through the nose\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền rất nhẹ của căn hộ trên cao và tiếng thở của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-02",
+          "sf": "SF-S2-02",
+          "dur": 6,
+          "text": "NARRATOR: and frowned at a number most fighters would frame: two million followers. Flat. Three weeks, no growth.",
+          "music": null,
+          "goc": "Close-Up dirty single · Deacon RÕ MẶT · mép điện thoại ở rìa dưới tiền cảnh · không có main cast nào khác",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo phông cotton xám nhạt, quần đùi thun đen, chân đi tất trắng\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt Deacon.\n\nDeacon đang tìm một con số lớn hơn con số hôm qua và không tìm thấy. Anh ta vuốt lên rồi vuốt lại, như thể lỗi nằm ở cái máy.\n\nDEACON — silent, frowning, quietly frustrated, a short huff through the nose\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có tiếng ngón tay miết trên mặt kính và tiếng thở.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-B1",
+          "sf": "SF-S2-B1",
+          "dur": 6,
+          "text": "[NHỊP] CẦU NỐI — khép buổi sáng riêng tư, bắc sang phòng tập lúc mười giờ\nNARRATOR: That was the crisis in Deacon Boyle's life. Not the title defense in November. The algorithm.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Nhà vô địch đang thiếu đúng thứ mình cần nhất mà không gọi tên ra được. Nhạc phải nhỏ hơn cảm xúc thật, tuyệt đối không thương cảm anh ta.",
+            "a": "Minimal neo-soul at 68 BPM; a single Rhodes chord repeating with heavy sustain, upright bass walking only four notes per bar, no drums until the very last bars where a soft rim-click enters and stays; a female alto singing very close to the mic, almost spoken, no vibrato, leaving long gaps between lines; lyrics about counting a number that will not move, restless rather than sad, never self-pitying; dry intimate mix, room tone left in, female vocal, neo-soul, Rhodes, sparse, restrained",
+            "b": "Ambient neo-soul at 68 BPM, no vocals; one Rhodes chord repeating with heavy sustain over a low synth pad that breathes very slowly, upright bass entering at the halfway point with four plain notes per bar, a faint tape hiss underneath, no percussion at all, no arc, simply thinning out to the Rhodes alone; dry intimate late-morning mix, instrumental, ambient, neo-soul, Rhodes, minimal, restrained",
+            "a_kind": "có lời",
+            "b_kind": "không lời"
+          },
+          "goc": "Medium-Wide · Deacon ngồi nhỏ ở mép giường RÕ MẶT · không có main cast nào khác trong khung",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo phông cotton xám nhạt, quần đùi thun đen, chân đi tất trắng\n\nMột shot liền 6 giây, không chuyển cảnh. Camera TĨNH hoàn toàn.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói.\n\nTrạng thái: một người vừa có tất cả những thứ mình từng muốn và vẫn thấy thiếu; nỗi bồn chồn này lớn hơn cả trận bảo vệ đai sắp tới. Gợi ý diễn biến: anh ta ngồi im một nhịp dài, rồi ngẩng đầu nhìn ra vách kính; để model tự chọn cử chỉ nhỏ cho hợp lý, không thở dài.\n\nDEACON — silent, restless, hollow\n\nÂm thanh: không nhạc, không lời thoại. Chỉ ambient rất nhẹ — tiếng ù trầm của thành phố lọt qua lớp kính dày, tiếng vải ga giường dịch nhẹ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "name": "S3 — 10 GIỜ SÁNG · IRONLINE: NHÀ VÔ ĐỊCH BẤT BẠI TRÊN ĐÍCH TẬP",
+      "sfs": [
+        {
+          "id": "SF-S3-M4-MASTER",
+          "label": "MASTER cụm 4 — Deacon đấm đích, Teddy cầm đích trong đài buổi sáng",
+          "desc": "Chốt thế trận cụm buổi sáng: nhà vô địch và ông thầy già trong đài, trước khi đám đông tới.",
+          "prompt": "MÁY QUAY: 40mm, trung cảnh, máy đặt ngoài đài ngang tầm ngực, cách 3m, chếch 3/4 để thấy cả hai người.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng trong đài ở nửa phải khung, thế thủ quyền Anh, hai găng đỏ giơ ngang má. Teddy đứng đối diện ở nửa trái khung, hai tay giơ hai chiếc đích tập da đen ngang tầm mặt Deacon, chân trước chân sau trụ vững, khăn mặt trắng vẫn vắt vai phải. Cột sáng buổi sáng từ giếng trời rơi xuống mặt bạt giữa hai người. Phía dưới ngoài đài có hai chân máy quay nhôm đã dựng sẵn và ba người trẻ mặc áo hoodie đứng xem, không ai nhìn vào ống kính.\n\nTAY: Deacon hai găng đỏ giơ ngang má, khuỷu tay khép sát sườn. Teddy hai bàn tay xỏ trong hai chiếc đích tập, giơ ngang tầm mặt, chưa chạm vào nhau.\n\nHƯỚNG NHÌN: Hai người nhìn thẳng vào mắt nhau qua khoảng cách một cánh tay.\n\nBIỂU CẢM: Deacon tập trung và thoải mái, khoé miệng còn vương một nét cười. Teddy nghiêm, chăm chú, kiểu người đã cầm đích cho anh ta suốt mười hai năm.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi cú đấm đầu tiên bật ra.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_TEDDY_PORTRAIT",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "REF_BG_IRONLINE_SANG"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ironline buổi sáng",
+            "who": {
+              "DEACON": "đứng trong đài",
+              "TEDDY": "đứng trong đài đối diện"
+            },
+            "dist": "cách nhau một cánh tay",
+            "hands": {
+              "DEACON": "hai găng đỏ giơ ngang má",
+              "TEDDY": "hai bàn tay xỏ trong hai chiếc đích tập, giơ ngang tầm mặt"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-02",
+          "label": "Cận Deacon giữa tổ hợp đòn, đích tập của Teddy ở tiền cảnh",
+          "desc": "",
+          "prompt": "MÁY QUAY: 85mm, cận cảnh, máy ngang tầm mắt Deacon, cách 1,2m, đặt ngay sau vai trái Teddy nên rìa một chiếc đích tập lọt vào tiền cảnh dưới.\n\nAI VÀ ĐANG LÀM GÌ: Deacon chiếm gần trọn khung, thấy từ ngang ngực trở lên, thân người xoay theo cú đấm tay sau, vai phải đẩy tới trước. Rìa chiếc đích tập da đen và một phần cẳng tay áo polo xanh rêu của Teddy nằm out nét ở tiền cảnh dưới bên trái. Lớp sau là dây đài và cột sáng buổi sáng tan mềm.\n\nTAY: Deacon găng trái đã thu về che má trái, găng phải vừa duỗi hết tầm và đang chạm vào mặt chiếc đích tập ở tiền cảnh. Teddy chỉ thấy cẳng tay và chiếc đích, giữ vững.\n\nHƯỚNG NHÌN: Deacon nhìn thẳng vào tâm chiếc đích tập trước mặt.\n\nBIỂU CẢM: Quai hàm cắn chặt, mắt sắc lại vì tập trung, mồ hôi mỏng trên trán; sự tự tin của người chưa từng thua một trận nào.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi găng phải bật ngược trở về.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "SF-S3-M4-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ironline buổi sáng",
+            "who": {
+              "DEACON": "đứng trong đài",
+              "TEDDY": "đứng trong đài đối diện"
+            },
+            "dist": "cách nhau một cánh tay",
+            "hands": {
+              "DEACON": "găng trái che má, găng phải duỗi hết tầm chạm mặt đích",
+              "TEDDY": "hai bàn tay xỏ trong hai chiếc đích tập, giơ ngang tầm mặt"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-03",
+          "label": "Deacon nghỉ giữa tổ hợp đòn, Teddy hạ đích tập trước mặt",
+          "desc": "",
+          "prompt": "MÁY QUAY: 50mm, trung cảnh two-shot, máy ngang tầm ngực đặt ngoài dây đài, cách hai người 2,4m.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng nửa phải khung sau khi kết thúc tổ hợp đòn, hai găng đã thu về trước ngực. Teddy đứng đối diện nửa trái, hai đích tập hạ thấp ngang bụng. Chỉ quay hai người đàn ông trưởng thành ở hiện tại; không tái hiện thời thơ ấu hoặc trẻ em trong môi trường boxing.\n\nTAY: Deacon giữ hai găng trước ngực, khuỷu tay khép. Teddy giữ hai đích tập thấp và song song.\n\nHƯỚNG NHÌN: Deacon nhìn Teddy; Teddy nhìn lại để kiểm tra nhịp thở và tư thế.\n\nBIỂU CẢM: Deacon tỉnh táo và tự tin; Teddy nghiêm, bình tĩnh, đã quen dẫn anh qua hàng nghìn hiệp tập.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Teddy nâng đích tập cho tổ hợp kế tiếp.",
+          "status": "proposed",
+          "notes": "Luật an toàn: hồi tưởng tuổi nhỏ chỉ kể bằng lời, không cho trẻ lên hình trong cảnh boxing.",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_TEDDY_PORTRAIT",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "SF-S3-M4-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ironline buổi sáng",
+            "who": {
+              "DEACON": "đứng trong đài đối diện Teddy, hai găng trước ngực",
+              "TEDDY": "đứng trong đài đối diện Deacon, hai đích tập hạ thấp"
+            },
+            "dist": "cách nhau một cánh tay",
+            "hands": {
+              "DEACON": "hai găng đỏ thu trước ngực",
+              "TEDDY": "hai bàn tay xỏ đích tập, hạ ngang bụng"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-04",
+          "label": "Cận Deacon giữa Teddy và chiếc máy quay nội dung",
+          "desc": "",
+          "prompt": "MÁY QUAY: 85mm, cận cảnh dirty single, máy ngang tầm mắt Deacon; vai phải và rìa đích tập của Teddy out nét ở tiền cảnh trái.\n\nAI VÀ ĐANG LÀM GÌ: Deacon đứng trong đài, hai găng giữ thấp trước ngực. Teddy vẫn đối diện ở sát tiền cảnh; phía sau Deacon chỉ có dây đài và một máy quay mang nhãn hư cấu IRONLINE out nét.\n\nTAY: Hai găng Deacon giữ trước ngực; Teddy giữ đích tập hạ thấp, chưa nâng lên.\n\nHƯỚNG NHÌN: Deacon nhìn Teddy rồi chuyển mắt rất nhẹ về chiếc máy quay phía sau ông.\n\nBIỂU CẢM: Sự tập trung của võ sĩ bắt đầu nhường chỗ cho thói quen tìm ống kính.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi ánh mắt Deacon rời Teddy để tìm máy quay.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEACON_PORTRAIT",
+              "REF_DEACON_GYM_FULL",
+              "REF_TEDDY_PORTRAIT",
+              "REF_TEDDY_FULL"
+            ],
+            "bg": "SF-S3-M4-MASTER"
+          },
+          "picked": "",
+          "pose": {
+            "zone": "sàn đấu ironline buổi sáng",
+            "who": {
+              "DEACON": "đứng trong đài đối diện Teddy, hai găng trước ngực",
+              "TEDDY": "đứng trong đài đối diện Deacon, hai đích tập hạ thấp; vai phải làm tiền cảnh"
+            },
+            "dist": "cách nhau một cánh tay",
+            "hands": {
+              "DEACON": "hai găng đỏ thu trước ngực",
+              "TEDDY": "hai bàn tay xỏ đích tập, hạ ngang bụng"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S3-01",
+          "sf": "SF-S3-M4-MASTER",
+          "dur": 4,
+          "text": "NARRATOR: Understand the champion before you judge the man.",
+          "music": null,
+          "goc": "Medium Shot · Deacon trong đài RÕ MẶT thế thủ · Teddy đối diện RÕ MẶT giơ đích tập",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 4 giây, không chuyển cảnh. Camera PUSH-IN chậm vào khoảng giữa hai người.\n\nBuổi tập buổi sáng đang chạy đúng nếp mười hai năm: một người đấm, một người đỡ, không ai cần nói gì.\n\nDEACON — silent, focused, loose, a short exhale on each punch\n\nTEDDY — silent, watchful, absorbing the impact\n\nQUẦN CHÚNG NỀN — ba người trẻ đứng xem phía dưới ngoài đài đổi trọng tâm chân, một người chỉnh lại chân máy quay; chuyển động nền nhẹ và tự nhiên\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S3-02",
+          "sf": "SF-S3-02",
+          "dur": 8,
+          "text": "NARRATOR: Twenty-six years old, twenty-four wins, no losses, hands genuinely touched by God — even people who hated him said so.",
+          "music": null,
+          "goc": "Close-Up · Deacon RÕ MẶT giữa tổ hợp đòn · rìa đích tập và cẳng tay Teddy out nét tiền cảnh dưới trái",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 8 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt Deacon.\n\nDeacon đang chạy hết một tổ hợp đòn: tốc độ, độ chuẩn và sự thoải mái của người chưa từng phải trả giá cho một sai lầm nào trên sàn đấu.\n\nDEACON — silent, locked in, sharp exhales on each punch, one small satisfied grin at the end\n\nTEDDY — silent, only forearms and pads in frame, absorbing every impact\n\nQUẦN CHÚNG NỀN — tiếng đích tập đập chan chát và tiếng giày nghiến trên bạt ở ngoài khung\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau, nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có âm nền phòng tập và phản ứng âm thanh ngắn không lời của nhân vật.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S3-03",
+          "sf": "SF-S3-03",
+          "dur": 8,
+          "text": "NARRATOR: He'd come up hard out of a car-less, father-quiet childhood, saved by a boxing gym the way some men are saved by religion,",
+          "music": null,
+          "goc": "Medium Two-Shot · Deacon phải RÕ MẶT với hai găng trước ngực · Teddy trái RÕ MẶT, hai đích tập hạ thấp",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 8 giây, không chuyển cảnh. Camera PUSH-IN chậm vào khoảng giữa hai người.\n\nChỉ quay Deacon trưởng thành ở hiện tại; không tái hiện tuổi thơ hoặc trẻ em trong môi trường boxing. Deacon nghỉ giữa tổ hợp đòn, ổn định nhịp thở và lắng nghe Teddy bằng sự quen thuộc của một mối quan hệ đã kéo dài nhiều năm.\n\nDEACON — silent, breathing steadily, confident, attentive for one beat\n\nTEDDY — silent, grounded, checking Deacon's stance\n\nQUẦN CHÚNG NỀN — ba người lớn phía dưới đài đổi trọng tâm chân và chỉnh tripod rất nhẹ\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau; nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có ambience phòng tập và tiếng thở ngắn không lời.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "Áp dụng luật an toàn trẻ em: chỉ kể quá khứ bằng lời."
+        },
+        {
+          "id": "V-S3-04",
+          "sf": "SF-S3-04",
+          "dur": 5,
+          "text": "NARRATOR: and then, between the belt and the blue checkmark, converted to a different faith entirely.",
+          "music": null,
+          "goc": "Close-Up dirty single · Deacon RÕ MẶT · vai và đích tập Teddy out nét tiền cảnh trái",
+          "prompt": "Nhận diện:\n- Deacon = nam 26 tuổi, da đen, áo tập ba lỗ xám than, quần đùi quyền Anh đen cạp vàng\n- Teddy = nam 66 tuổi, da trắng, tóc bạc cắt cua, áo polo xanh rêu bạc màu, khăn trắng vắt vai\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt Deacon.\n\nDeacon giữ nguyên tư thế sau hiệp tập; ánh mắt anh rời Teddy một nhịp để tìm chiếc máy quay nội dung đã có ở lớp sau, rồi một nụ cười biểu diễn rất nhỏ xuất hiện. Teddy vẫn giữ vị trí tiền cảnh.\n\nDEACON — silent, attention drifting toward the lens, a small practiced grin\n\nTEDDY — silent, only shoulder and lowered pad in frame\n\nÂm thanh: lời kể ngoài hình sẽ được ghép sau; nhân vật KHÔNG đọc nó và KHÔNG mấp máy môi theo. Chỉ có ambience phòng tập và một hơi thở ngắn.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "Dừng ở cuối câu trọn vẹn gần mốc 2 phút."
+        }
+      ]
+    }
+  ]
+}

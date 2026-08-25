@@ -1,0 +1,1064 @@
+{
+  "film": "HOOK — CHỈ LÀ TÀI XẾ · DARIUS INGRAM (2 PHÚT ĐẦU)",
+  "updated_at": "2026-08-24 00:00:00",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_VANESSA_PORTRAIT",
+          "label": "★ VANESSA KROLL — chân dung gốc",
+          "desc": "CEO Novaria Dynamics · 41 tuổi · phản diện, có mặt suốt 2 phút đầu (S1 · S2) · Mặt phải đọc ra: người quen được nghe theo, tự tin tới mức không buồn nhìn ai dưới mình.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Phụ nữ da trắng người Mỹ, 41 tuổi, gương mặt ưa nhìn sắc nét, gò má cao, quai hàm gọn, mắt xám xanh, lông mày nâu tro tỉa gọn, tóc vàng tro kéo thẳng rẽ ngôi lệch và buộc thấp sát gáy. Trang điểm công sở mỏng, môi hồng nâu. Ánh nhìn tỉnh, chắc, hơi kẻ cả. Da khoẻ, KHÔNG kính, KHÔNG sẹo, KHÔNG hình xăm, KHÔNG quầng thâm, KHÔNG nét hốc hác.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_VANESSA_FULL",
+          "label": "VANESSA KROLL — VEST XÁM THAN SỌC KIM",
+          "desc": "Bộ đồ ra trận của một CEO đang phải đi xin tiền: đắt tiền, phẳng phiu, không một nếp nhăn. Mặc liền một ngày, từ lúc lên xe buổi sáng tới hết buổi họp.\nDùng: S1 · S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu đều, không mảng tối gắt. Gương mặt giống ẢNH portrait tham chiếu. Bộ vest nữ hai mảnh màu xám than sọc kim mảnh, len mịn, cắt vừa vặn và phẳng phiu, áo khoác cài kín một cúc; bên trong là áo lụa cổ tròn màu ngà cài kín. Chân váy bút chì ngang gối, tất da chân, giày cao gót mũi nhọn màu đen. Trang sức đúng hai món: đồng hồ mặt tròn viền vàng dây da mảnh đeo ở cổ tay TRÁI và một đôi khuyên tai nụ vàng nhỏ. Tay phải cầm một chiếc điện thoại thanh mảnh màu đen — vỏ trơn, nhãn hư cấu, không logo hãng có thật. Đứng thẳng, hai tay buông tự nhiên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_DARIUS_PORTRAIT",
+          "label": "★ DARIUS INGRAM — chân dung gốc",
+          "desc": "Tài xế riêng của Vanessa · 37 tuổi · nhân vật chính, có mặt suốt 2 phút đầu (S1 · S2) · Mặt phải đọc ra: một người đang chọn im lặng, không phải một người không hiểu.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Đàn ông da đen người Mỹ, 37 tuổi, gương mặt ưa nhìn và khoẻ mạnh, xương hàm vuông, mũi thẳng, tóc cắt sát đầu gọn gàng, râu quai nón cạo tỉa rất ngắn và đều, mắt nâu sẫm nhìn thẳng, điềm tĩnh. Ánh nhìn tỉnh, ấm, chắc. Da khoẻ, KHÔNG kính, KHÔNG sẹo, KHÔNG hình xăm, KHÔNG quầng thâm, KHÔNG nét hốc hác.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_DARIUS_FULL",
+          "label": "DARIUS INGRAM — VEST TÀI XẾ XÁM THAN",
+          "desc": "Đồng phục tài xế riêng: chỉn chu tới mức không ai để ý, đúng kiểu người tự lo phần mình mà không cần ai khen. Mặc liền một ngày.\nDùng: S1 · S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu đều, không mảng tối gắt. Gương mặt giống ẢNH portrait tham chiếu. Bộ vest tài xế riêng màu xám than gần đen, vải len trơn không bóng, cắt vừa người, áo khoác cài kín một cúc; sơ mi trắng cài kín cổ, cà vạt lụa xanh navy trơn thắt gọn và kéo sát cổ. Quần âu cùng màu ly phẳng, giày da đen buộc dây đánh xi mờ. Không đeo trang sức, không đeo kính. Đứng thẳng, hai tay buông dọc thân.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_WEI_PORTRAIT",
+          "label": "★ WEI RENSHOU — chân dung gốc",
+          "desc": "Người sáng lập consortium Jinhe (Thâm Quyến) · 68 tuổi · khách mời quyết định cả buổi họp (S1) · Mặt phải đọc ra: người đã ngồi cả nghìn cái bàn như thế này, nghe bằng tai chứ không nghe bằng phiên dịch.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Đàn ông gốc Hoa, 68 tuổi, gương mặt gầy gọn ưa nhìn, da rám nhẹ, tóc bạc trắng chải ngược ra sau, chân mày thưa bạc, mắt sẫm màu một mí, tỉnh và bình thản. Ánh nhìn ấm, chắc, kín. Da khoẻ, KHÔNG kính, KHÔNG sẹo, KHÔNG hình xăm, KHÔNG quầng thâm.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_WEI_FULL",
+          "label": "WEI RENSHOU — VEST NAVY SẪM",
+          "desc": "Bộ đồ của người không cần bộ đồ nói hộ mình: đắt, kín đáo, không một chi tiết phô ra.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng chính diện trên nền xám trung tính trơn, ánh sáng studio dịu đều, không mảng tối gắt. Gương mặt giống ẢNH portrait tham chiếu. Bộ vest nam màu xanh navy sẫm gần đen, len mịn không bóng, cắt vừa vặn kín đáo, áo khoác cài kín một cúc; sơ mi trắng cài kín cổ, cà vạt lụa xám trơn thắt gọn. Quần âu cùng bộ, giày da đen. Trang sức đúng một món: đồng hồ thép mặt trắng ở cổ tay TRÁI. Đứng thẳng, hai tay buông tự nhiên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_WEI_PORTRAIT"
+            ],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_PROP_TACHTRA",
+          "label": "Tách trà & bình thủy inox — bộ trà của khách",
+          "desc": "Vật duy nhất trong phòng họp được một người làm cho đúng cách. Cả cú twist của phim treo trên chi tiết hai tay nâng và xoay quai tách về phía người nhận.\nDùng: S1",
+          "prompt": "Ảnh tĩnh photorealistic đạo cụ, tỷ lệ 1:1, góc 3/4 chụp từ ngang tầm mặt bàn, KHÔNG có người và KHÔNG có bàn tay trong khung. Trên một mặt bàn gỗ óc chó trơn: một tách sứ trắng nhỏ không quai, miệng hơi loe, cao chừng 6 phân, đặt trên đĩa lót sứ trắng; tách rỗng, sạch, chưa rót. Cạnh nó là một bình thủy inox nhỏ nắp bật, thân thép xước mờ, cao chừng 20 phân, đứng thẳng. Bề mặt bình trơn, không chữ, nhãn hư cấu, không thương hiệu có thật. Ánh sáng dịu đều, bóng đổ mềm, nét căng, thấy rõ chất sứ và chất thép.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_PROP_CHAINUOC",
+          "label": "Chai nước đã bóc nhãn — thứ Darius chuẩn bị mỗi sáng",
+          "desc": "Nước để đúng nhiệt độ phòng, nhãn bóc sạch. Không ai từng nhắc tới nó, sáng nào cũng có sẵn trong hốc bệ tì tay.\nDùng: S2",
+          "prompt": "Ảnh tĩnh photorealistic đạo cụ, tỷ lệ 1:1, góc 3/4 chụp từ ngang tầm mặt bàn, KHÔNG có người và KHÔNG có bàn tay trong khung. Trên một mặt bàn gỗ trơn màu trung tính: một chai nhựa trong suốt dung tích nửa lít đứng thẳng, nước đầy tới cổ chai, nắp vặn kín màu xanh đậm. NHÃN GIẤY ĐÃ BÓC SẠCH, chỉ còn một vệt keo mờ chạy vòng quanh thân chai. Không chữ, không logo, nhãn hư cấu, không thương hiệu có thật. Ánh sáng dịu đều, bóng đổ mềm, thấy rõ độ trong của nhựa và vệt keo.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BG_PHONGHOP_NGAY",
+          "label": "PHÒNG HỌP HỘI ĐỒNG NOVARIA — BAN NGÀY",
+          "desc": "Phòng họp tầng cao tòa tháp kính của Novaria Dynamics. Nơi diễn ra toàn bộ đoạn mở màn (S1): buổi thương thảo liên doanh với đoàn Jinhe.",
+          "prompt": "Bối cảnh ở Mỹ. Ảnh photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, camera ngang tầm mắt. Một phòng họp hội đồng trên tầng cao tòa tháp kính, đang được dựng sẵn cho một buổi thương thảo liên doanh kéo dài cả buổi sáng: bàn họp gỗ óc chó dài sáu mét chạy hút vào chiều sâu phòng, mười bốn ghế lưng cao bọc da đen kê đều hai bên, trước mỗi ghế là một cuốn sổ bìa da, một cây bút và một tách sứ trắng trên đĩa lót.\n\nQUY HOẠCH 360°: BÊN TRÁI là vách kính kịch trần nhìn ra đường chân trời thành phố. BÊN PHẢI là vách gỗ sồi ốp dọc, treo một màn hình lớn tối màu. ĐỐI DIỆN, ở cuối phòng phía đầu bàn, là một tủ thấp dài bằng gỗ sồi kê sát tường, trên mặt tủ có khay ly, bình thủy inox và một chồng hộp quà bọc giấy đỏ. SAU LƯNG, ở đầu gần, là cặp cửa đôi gỗ tay nắm đồng và một mảng vách kính mờ nhìn ra sảnh thang máy.\n\nVật liệu và màu: thảm xám than dệt sát, tường trắng ngà, gỗ óc chó ấm vừa phải, inox sạch, da ghế đen mịn. Đèn LED trắng trung tính dịu âm trần chiếu đều toàn phòng, cộng ánh sáng ban ngày trắng dịu tràn vào từ vách kính bên trái; độ tương phản trung bình, bóng đổ mềm, không u tối, không moody, không cháy trắng. Tổng thể sáng sủa, lạnh và đắt tiền — phải KHÁC HẲN ánh vàng ấm của khúc phố buổi sáng sớm.\n\nMọi chữ và logo trên màn hình, sổ tay và hộp quà đều là nhãn hư cấu, không thương hiệu có thật. Không có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BG_VIAHE_SANG",
+          "label": "VỈA HÈ TRƯỚC SẢNH CHUNG CƯ — BẢY GIỜ NĂM MƯƠI SÁNG",
+          "desc": "Khúc vỉa hè nơi Darius đón Vanessa mỗi sáng (S2). Chỗ đỗ quen, sát lề, ngay trước cửa kính sảnh.",
+          "prompt": "Bối cảnh ở Mỹ. Ảnh photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, camera ngang tầm mắt. Một khúc vỉa hè trước sảnh một chung cư cao cấp vào lúc gần tám giờ sáng, đang ở đúng nhịp giờ người ta đi làm.\n\nQUY HOẠCH 360°: BÊN TRÁI là mặt tiền kính của sảnh chung cư với mái hiên vải sẫm và một bục lễ tân gỗ kê ngay bên trong. BÊN PHẢI là lòng đường: sát lề là một hàng ô tô con đỗ nối đuôi nhau, ngoài làn trong có hai ba chiếc xe đang chạy chậm và một chiếc xe buýt lăn bánh ở làn ngoài. ĐỐI DIỆN, bên kia đường, là dãy mặt tiền cửa hiệu vừa mở cửa và một trạm chờ xe buýt mái kính. SAU LƯNG, vỉa hè chạy dài về phía ngã tư có đèn tín hiệu và vạch kẻ sang đường.\n\nVật liệu và màu: vỉa hè bê tông xám sáng, đá granite sẫm ốp chân tường sảnh, kính lớn phản chiếu, sơn kẻ đường vàng đã mòn. Nắng sớm vàng ấm chiếu xiên rất thấp dọc theo trục đường, đổ bóng dài và mềm trên mặt vỉa hè; trời xanh nhạt, không mây gắt; độ tương phản trung bình, không u tối, không cháy trắng. Tổng thể ẤM, sạch, tỉnh táo — phải KHÁC HẲN ánh trắng trung tính lạnh của phòng họp trên tháp kính.\n\nBiển số xe và logo hãng xe làm mờ, mọi biển hiệu cửa hiệu là nhãn hư cấu. Không có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          }
+        },
+        {
+          "id": "REF_BG_TRONGXE_SANG",
+          "label": "KHOANG TRONG XE SUV ĐEN — BUỔI SÁNG",
+          "desc": "Khoang xe nơi Vanessa ngồi băng sau và Darius ngồi sau vô lăng (S2). Không gian thứ hai của buổi sáng, nối thẳng từ vỉa hè.",
+          "prompt": "1. ĐỒNG BỘ PHONG CÁCH: dùng ảnh tham chiếu CHỈ ĐỂ LẤY chất ánh sáng buổi sáng sớm và tông màu của khúc phố bên ngoài. ĐÂY LÀ MỘT KHÔNG GIAN KHÁC (khoang trong một chiếc xe SUV đen). KHÔNG copy đồ đạc của ảnh gốc.\n\nBối cảnh ở Mỹ. Ảnh photorealistic, điện ảnh nhưng hiện thực, ống kính 35mm. Khoang trong một chiếc SUV đen cỡ lớn dùng đưa đón lãnh đạo, xe sạch tinh, đang nổ máy chờ.\n\nQUY HOẠCH 360°: PHÍA TRƯỚC là hai ghế trước bọc da đen, vô lăng bọc da và bảng táp-lô tối màu có đồng hồ sáng dịu. Ở GIỮA, chen giữa hai ghế trước, là bệ tì tay cao có hai hốc tròn để chai. PHÍA SAU là băng ghế sau bọc da đen liền một dải, thảm sàn đen dày. HAI BÊN là cửa kính dán phim sẫm và tay nắm cửa mạ mờ. SAU LƯNG băng ghế sau là vách ngăn khoang hành lý.\n\nVật liệu và màu: da đen mịn, nhựa nhám tối, chỉ khâu xám, kim loại mờ. Ánh sáng ban ngày vàng ấm lọt qua lớp phim cửa kính thành một lớp sáng dịu và đều trong khoang, thêm ánh hắt lạnh rất nhẹ từ kính chắn gió; độ tương phản trung bình, bóng đổ mềm, không u tối, không low-key. Tổng thể ẤM, kín, sạch sẽ.\n\nMọi chữ và logo trên vô lăng, bảng táp-lô và cửa xe là nhãn hư cấu, làm mờ, không thương hiệu có thật. Không có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_VIAHE_SANG"
+          }
+        }
+      ]
+    },
+    {
+      "id": "S1",
+      "name": "S1 — Phòng họp Novaria · câu đùa và cánh cửa",
+      "sfs": [
+        {
+          "id": "SF-S1-01-MASTER",
+          "label": "MASTER A — Vanessa đứng giữa bàn thả câu đùa, cả phòng nghe",
+          "desc": "Master của cụm 'thế trận chế nhạo'. Chốt vị trí ba người và mật độ đoàn khách cho toàn cụm.",
+          "prompt": "MÁY QUAY: ống kính 35mm, máy ngang tầm mắt người đứng (cao 1m6), đặt ở đầu gần bàn lệch phải, cách Vanessa 3m, khung medium-wide nhìn dọc suốt chiều dài bàn.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa đứng bên phải giữa bàn, người xoay chếch về phía cuối phòng, đang nói với cả phòng. Wei ngồi ghế đầu bàn phía xa. Darius đứng cạnh tủ thấp sát tường cuối phòng, sau lưng Wei chừng hai mét, đang xếp dở chồng hộp quà. Hai bên bàn là mười một khách mời gốc Hoa mặc vest sẫm ngồi yên, mặt hướng về Vanessa, hai người vừa hạ bút xuống sổ.\n\nTAY: Vanessa tay phải tì lưng ghế, tay trái hất nhẹ một cái về phía Darius. Wei hai tay chồng lên nhau trên mặt bàn. Darius hai tay buông dọc thân, các ngón khép.\n\nHƯỚNG NHÌN: Vanessa quét mắt dọc hàng ghế rồi hất mắt về phía Darius. Wei nhìn thẳng Vanessa. Darius nhìn xuống mặt tủ trước mặt.\n\nBIỂU CẢM: Vanessa cười rộng, tự mãn, đang đợi tiếng cười đáp lại. Wei bình thản, không để lộ gì. Darius mặt phẳng lặng, quai hàm hơi siết một nấc.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi câu nói của Vanessa rơi hết vào im lặng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "REF_BG_PHONGHOP_NGAY"
+          },
+          "goc": "Medium-wide 3 người dọc bàn họp: Vanessa đứng bên phải giữa bàn RÕ MẶT · Wei ngồi đầu bàn RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "pose": {
+            "zone": "bàn dài phòng họp",
+            "who": {
+              "VANESSA": "đứng bên phải giữa bàn",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei 4m dọc bàn · Darius đứng sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "tay phải tì lưng ghế",
+              "WEI": "hai tay chồng trên mặt bàn",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "OTS qua vai Vanessa → Darius đứng cạnh tủ thấp",
+          "desc": "Khung đối chất chính của cụm. Dùng lại cho cả câu hỏi xoáy của Vanessa và câu đáp của Darius (A-B-A).",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt, đặt sau vai phải Vanessa, cách Darius 4m, khung cận cảnh qua vai (OTS).\n\nAI VÀ ĐANG LÀM GÌ: Vai phải và gáy Vanessa chiếm rìa trái tiền cảnh, out nét. Darius đứng nét ở giữa khung, cạnh tủ thấp cuối phòng, người thẳng. Wei ngồi ở đầu bàn ngay phía trước Darius theo chiều sâu, lọt vào khung ở lớp giữa, thấy nghiêng mặt.\n\nTAY: Darius hai tay buông dọc thân, các ngón khép. Wei hai tay chồng trên mặt bàn.\n\nHƯỚNG NHÌN: Darius nhìn thẳng về phía Vanessa, cằm không hạ. Wei giữ mặt hướng Vanessa nhưng đuôi mắt đã liếc về phía Darius.\n\nBIỂU CẢM: Darius bình thản tuyệt đối, không phòng thủ, không cụp mắt, không khó chịu. Wei kín và chú ý.\n\nHẬU CẢNH: sau lưng Darius là mảng tường ốp gỗ sồi cuối phòng và mặt tủ thấp có chồng hộp quà bọc giấy đỏ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi tên anh được gọi ra thành tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "goc": "OTS qua vai Vanessa → Darius: Darius nét ở giữa khung, RÕ MẶT · vai và gáy Vanessa làm tiền cảnh out nét · Wei ngồi đầu bàn ở lớp giữa, thấy nghiêng mặt",
+          "pose": {
+            "zone": "bàn dài phòng họp",
+            "who": {
+              "VANESSA": "đứng bên phải giữa bàn",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei 4m dọc bàn · Darius đứng sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "tay phải tì lưng ghế",
+              "WEI": "hai tay chồng trên mặt bàn",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B1",
+          "label": "🎬 NHỊP LẶNG — toàn cảnh phòng họp, câu đùa rơi vào khoảng không",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 28mm, máy ngang tầm mắt, đặt sát cửa đôi ở đầu gần, toàn cảnh cả phòng họp theo chiều dài bàn.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa đứng bên phải giữa bàn, nụ cười vừa dứt còn treo trên mặt. Mười một khách mời gốc Hoa ngồi hai bên bàn giữ nguyên tư thế, không một ai nhúc nhích: ba người nhìn xuống sổ tay, một người khép nắp bút, những người còn lại nhìn thẳng Vanessa. Wei ngồi ghế đầu bàn. Darius đứng cạnh tủ thấp cuối phòng.\n\nTAY: Vanessa tay phải tì lưng ghế, tay trái vừa hạ xuống. Wei hai tay chồng trên mặt bàn. Darius hai tay buông dọc thân.\n\nHƯỚNG NHÌN: Vanessa nhìn quét hai hàng ghế, chờ. Wei nhìn thẳng Vanessa. Darius nhìn xuống mặt tủ.\n\nBIỂU CẢM: Vanessa còn đang chờ tiếng cười. Cả bàn giữ nét lịch sự trung tính. Darius không biểu lộ gì.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi khoảng lặng dài thêm một nhịp nữa.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "goc": "Medium-wide 3 người dọc bàn họp: Vanessa đứng bên phải giữa bàn RÕ MẶT · Wei ngồi đầu bàn RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "pose": {
+            "zone": "bàn dài phòng họp",
+            "who": {
+              "VANESSA": "đứng bên phải giữa bàn",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei 4m dọc bàn · Darius đứng sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "tay phải tì lưng ghế",
+              "WEI": "hai tay chồng trên mặt bàn",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B2",
+          "label": "🎬 NHỊP LẶNG — dãy mặt khách mời, không ai cười",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt người ngồi (cao 1m2), đặt phía vách kính bên trái, chếch 3/4 qua mặt bàn về phía cuối phòng, trung cảnh.\n\nAI VÀ ĐANG LÀM GÌ: Chiếm phần lớn khung là bốn khách mời gốc Hoa ngồi liền nhau ở hàng ghế đối diện, mặt tỉnh và lịch sự, không một ai cười; một người khẽ chỉnh lại cuốn sổ cho thẳng mép bàn. Wei ngồi ghế đầu bàn ở rìa phải khung, thấy rõ mặt. Darius đứng cạnh tủ thấp cuối phòng, phía sau Wei theo chiều sâu, hơi out nét. Ở rìa trái khung là dáng Vanessa đứng bên phải giữa bàn, thấy nghiêng người, out nét.\n\nTAY: Wei hai tay chồng trên mặt bàn. Darius hai tay buông dọc thân.\n\nHƯỚNG NHÌN: cả bốn khách mời nhìn về phía Vanessa, không ai nhìn vào máy quay. Wei nhìn thẳng Vanessa. Darius nhìn xuống mặt tủ.\n\nBIỂU CẢM: trung tính, kín, tuyệt đối không cười.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi người đầu tiên hạ mắt xuống sổ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-01-MASTER"
+          },
+          "goc": "Trung cảnh 3/4 qua bàn: bốn khách mời nền nét · Wei ngồi đầu bàn rìa phải RÕ MẶT · Darius đứng cạnh tủ thấp phía sau Wei, hơi out nét · Vanessa ở rìa trái khung, thấy nghiêng người out nét",
+          "pose": {
+            "zone": "bàn dài phòng họp",
+            "who": {
+              "VANESSA": "đứng bên phải giữa bàn",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei 4m dọc bàn · Darius đứng sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "tay phải tì lưng ghế",
+              "WEI": "hai tay chồng trên mặt bàn",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-04-MASTER",
+          "label": "MASTER B — Darius đứng cạnh ghế chủ tọa, hai tay nâng bình trà",
+          "desc": "Master của cụm 'rót trà'. Chốt khoảng cách nửa mét và thế đứng hơi cúi của Darius.",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt người ngồi (cao 1m2), đặt phía vách kính bên trái cách đầu bàn 2m, trung cảnh hai người.\n\nAI VÀ ĐANG LÀM GÌ: Wei ngồi ghế đầu bàn, người hơi nghiêng về phía mặt bàn. Darius đứng sát bên phải ghế Wei, lưng hơi cúi xuống một chút cho vừa tầm, hai tay nâng chiếc bình thủy inox nhỏ đã bật nắp, CHƯA rót. Trên mặt bàn trước Wei là chiếc tách sứ trắng nhỏ còn rỗng đặt trên đĩa lót, miệng tách đang quay chếch ra ngoài.\n\nTAY: Darius tay phải ôm thân bình, tay trái đỡ đáy bình, cổ tay giữ ngang. Wei tay phải đặt trên mặt bàn cạnh đĩa lót, tay trái đặt trên tập tài liệu.\n\nHƯỚNG NHÌN: Darius nhìn xuống miệng tách. Wei nhìn xuống trang tài liệu, chưa ngẩng lên.\n\nBIỂU CẢM: Darius tập trung và lặng lẽ, kiểu người đang làm một việc quen tay tới mức không cần nghĩ. Wei mệt, kiên nhẫn, lịch sự.\n\nHẬU CẢNH: sau lưng Darius là tủ thấp gỗ sồi cuối phòng với chồng hộp quà bọc giấy đỏ; phần bàn dài chạy hút về phía cửa đôi nằm ngoài nét.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi dòng trà đầu tiên chạm đáy tách.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL",
+              "REF_PROP_TACHTRA"
+            ],
+            "bg": "REF_BG_PHONGHOP_NGAY"
+          },
+          "goc": "Trung cảnh hai người ở đầu bàn: Darius đứng cạnh ghế RÕ MẶT · Wei ngồi ghế đầu bàn RÕ MẶT, thấy 3/4 mặt",
+          "pose": {
+            "zone": "đầu bàn cạnh ghế chủ tọa",
+            "who": {
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng sát bên phải ghế Wei"
+            },
+            "dist": "Darius cách Wei nửa mét",
+            "hands": {
+              "WEI": "tay phải đặt cạnh tách",
+              "DARIUS": "hai tay nâng bình thủy inox"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B3",
+          "label": "🎬 NHỊP LẶNG — cận mặt Wei, một thoáng nhận ra ở đuôi mắt",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 85mm, máy ngang tầm mắt người ngồi, đặt chếch trước mặt Wei 1m2, cận cảnh khuôn mặt.\n\nAI VÀ ĐANG LÀM GÌ: Mặt Wei chiếm phần lớn khung. Ở rìa trái tiền cảnh là vai và cánh tay áo vest của Darius đang đứng cạnh ghế, out nét, không thấy mặt. Chiếc tách sứ trắng nhỏ trên mặt bàn đã được rót đầy hai phần ba, miệng tách vừa được xoay về phía Wei, một sợi hơi nước mảnh bốc lên ở góc dưới khung.\n\nTAY: bàn tay phải Wei vẫn để yên trên mặt bàn, chưa chạm vào tách.\n\nHƯỚNG NHÌN: Wei ngước lên chừng vài độ, mắt đi theo bàn tay vừa xoay tách về phía mình.\n\nBIỂU CẢM: một thoáng nhận ra rất nhỏ, chỉ nằm ở đuôi mắt và một nấc cơ hàm; phần còn lại của khuôn mặt giữ nguyên vẻ lịch sự.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi ánh mắt ấy kịp trở lại bình thường.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL",
+              "REF_PROP_TACHTRA"
+            ],
+            "bg": "SF-S1-04-MASTER"
+          },
+          "goc": "Cận cảnh mặt Wei RÕ MẶT · vai và cánh tay Darius làm tiền cảnh rìa trái, out nét, không thấy mặt",
+          "pose": {
+            "zone": "đầu bàn cạnh ghế chủ tọa",
+            "who": {
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng sát bên phải ghế Wei"
+            },
+            "dist": "Darius cách Wei nửa mét",
+            "hands": {
+              "WEI": "tay phải đặt cạnh tách",
+              "DARIUS": "tay phải vừa xoay tách, tay trái đỡ đáy bình"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-05-MASTER",
+          "label": "MASTER C — ba tiếng sau, thương vụ đang chết trên bàn",
+          "desc": "Master của cụm 'ba giờ sau'. Chốt lại thế trận mới: Vanessa đã dời về đầu gần bàn, đoàn khách đã đóng sổ.",
+          "prompt": "MÁY QUAY: ống kính 28mm, máy ngang tầm mắt, đặt ở góc phòng phía cửa đôi bên phải, toàn cảnh chéo qua bàn họp.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa đứng ở đầu gần bàn cạnh tấm màn chiếu tối màu, hai tay chống lên mặt bàn, người đổ về trước. Ngay bên trái cô, một phiên dịch viên trẻ mặc sơ mi trắng nhàu ngồi ghé mép ghế, lật vội tập ghi chú. Mười một khách mời gốc Hoa ngồi hai bên bàn: phần lớn đã gấp sổ, hai người ngả lưng khoanh tay, một người xoay ghế chếch ra ngoài. Wei ngồi ghế đầu bàn phía xa. Darius đứng cạnh tủ thấp cuối phòng.\n\nTAY: Vanessa hai tay chống mặt bàn, các ngón xòe. Wei hai tay đặt trên tập tài liệu đã gấp. Darius hai tay buông dọc thân.\n\nHƯỚNG NHÌN: Vanessa nhìn dọc bàn về phía Wei. Wei nhìn xuống tập tài liệu gấp trước mặt. Darius nhìn dọc bàn về phía Vanessa.\n\nBIỂU CẢM: Vanessa căng, đang cố kéo lại một thứ vừa tuột khỏi tay. Wei đã quyết xong trong đầu, mặt vẫn lịch sự. Darius đọc được cả căn phòng và không lộ ra một chút nào.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bàn tay đầu tiên bám vào tay vịn ghế.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "REF_BG_PHONGHOP_NGAY"
+          },
+          "goc": "Toàn cảnh chéo phòng họp: Vanessa đứng ở đầu gần bàn RÕ MẶT · Wei ngồi đầu bàn phía xa RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "pose": {
+            "zone": "bàn dài phòng họp ba giờ sau",
+            "who": {
+              "VANESSA": "đứng ở đầu gần bàn cạnh màn chiếu",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei suốt chiều dài bàn · Darius sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "hai tay chống lên mặt bàn",
+              "WEI": "hai tay đặt trên tập tài liệu đã gấp",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B4",
+          "label": "🎬 NHỊP LẶNG — mười hai bàn tay bám tay vịn, ghế sắp đẩy lùi",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 35mm, máy ngang tầm mắt người ngồi, đặt phía vách kính bên trái, trung cảnh chạy dọc dãy ghế phía đối diện.\n\nAI VÀ ĐANG LÀM GÌ: Năm khách mời gốc Hoa ngồi liền nhau chiếm chiều ngang khung, cả năm đã đặt tay lên tay vịn ghế, thân người vừa rời khỏi lưng tựa, ghế vẫn còn nguyên tại chỗ. Wei ngồi ghế đầu bàn ở rìa phải khung, cũng vừa đặt tay lên tay vịn. Darius đứng cạnh tủ thấp cuối phòng, phía sau Wei theo chiều sâu. Ở rìa trái khung là Vanessa đứng ở đầu gần bàn, thấy nghiêng người, out nét.\n\nTAY: các bàn tay đặt lên tay vịn, chưa dồn lực. Darius hai tay buông dọc thân.\n\nHƯỚNG NHÌN: khách mời nhìn về phía Wei chờ ông đứng lên trước. Darius nhìn dọc bàn.\n\nBIỂU CẢM: lịch sự, đã xong việc, không ai còn nhìn về phía màn chiếu.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi chiếc ghế đầu tiên trượt lùi khỏi bàn.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-05-MASTER"
+          },
+          "goc": "Trung cảnh dọc dãy ghế: năm khách mời nền nét · Wei ngồi đầu bàn rìa phải RÕ MẶT · Darius đứng cạnh tủ thấp phía sau Wei, rõ người · Vanessa ở rìa trái khung, thấy nghiêng người out nét",
+          "pose": {
+            "zone": "bàn dài phòng họp ba giờ sau",
+            "who": {
+              "VANESSA": "đứng ở đầu gần bàn cạnh màn chiếu",
+              "WEI": "ngồi ghế đầu bàn",
+              "DARIUS": "đứng cạnh tủ thấp cuối phòng"
+            },
+            "dist": "Vanessa cách Wei suốt chiều dài bàn · Darius sau lưng Wei 2m",
+            "hands": {
+              "VANESSA": "hai tay chống lên mặt bàn",
+              "WEI": "hai tay đặt trên tập tài liệu đã gấp",
+              "DARIUS": "hai tay buông dọc thân"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-06-MASTER",
+          "label": "MASTER D — Darius giữ cửa, Wei dừng lại ở ngưỡng",
+          "desc": "Master của cụm 'cánh cửa'. Chốt vị trí ba người ở ngưỡng cửa đôi và dòng khách đi ra.",
+          "prompt": "MÁY QUAY: ống kính 35mm, máy ngang tầm mắt, đặt ngoài ngưỡng cửa đôi phía sảnh thang máy, nhìn ngược vào trong phòng họp, khung trung-rộng.\n\nAI VÀ ĐANG LÀM GÌ: Cánh cửa bên phải đã mở hết. Darius đứng giữ cánh cửa, người nép sang một bên nhường lối. Wei bước tới ngưỡng cửa, còn cách Darius một bước, người hơi xoay về phía anh. Sau lưng Wei là dòng khách mời gốc Hoa nối nhau đi ra, người ôm cặp, người vắt áo khoác trên tay. Vanessa đi cách sau Wei hai bước, bám theo.\n\nTAY: Darius tay trái giữ mép cửa, tay phải buông dọc thân. Wei tay phải cầm chiếc cặp da mỏng. Vanessa tay phải với theo về phía Wei, chưa chạm tới.\n\nHƯỚNG NHÌN: Wei nhìn chếch lên về phía mặt Darius. Darius nhìn thẳng ra lối đi, chưa quay sang. Vanessa nhìn vào gáy Wei.\n\nBIỂU CẢM: Wei điềm tĩnh, vừa quyết xong một việc lớn. Darius giữ đúng phận sự, mặt phẳng. Vanessa gắng giữ nụ cười nhưng mắt đã hoảng.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Wei mấp máy môi.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "REF_BG_PHONGHOP_NGAY"
+          },
+          "goc": "Trung-rộng ở ngưỡng cửa đôi: Darius đứng giữ cửa RÕ MẶT · Wei đứng ở ngưỡng RÕ MẶT · Vanessa đứng sau Wei hai bước, RÕ MẶT",
+          "pose": {
+            "zone": "cửa đôi phòng họp",
+            "who": {
+              "DARIUS": "đứng giữ cánh cửa bên phải",
+              "WEI": "đứng ở ngưỡng cửa",
+              "VANESSA": "đứng sau Wei hai bước"
+            },
+            "dist": "Wei cách Darius một bước · Vanessa cách Wei hai bước",
+            "hands": {
+              "DARIUS": "tay trái giữ mép cửa",
+              "WEI": "tay phải cầm cặp da mỏng",
+              "VANESSA": "tay phải với theo về phía Wei"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B5",
+          "label": "🎬 NHỊP LẶNG — hai người ở ngưỡng cửa, câu vừa buông ra còn treo",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 65mm, máy ngang tầm mắt, đặt phía bản lề cửa, khung trung cảnh hai người nhìn nghiêng.\n\nAI VÀ ĐANG LÀM GÌ: Wei đứng ở ngưỡng cửa bên trái khung, Darius đứng giữ cánh cửa bên phải khung, hai người quay mặt vào nhau, cách nhau một bước chân. Trong khe hở giữa hai người, sâu về phía trong phòng, thấy dáng Vanessa đứng sau Wei hai bước, out nét.\n\nTAY: Darius tay trái vẫn giữ mép cửa, tay phải buông dọc thân. Wei tay phải cầm cặp da mỏng, tay trái buông.\n\nHƯỚNG NHÌN: Wei nhìn thẳng vào mắt Darius. Darius vừa quay mặt lại, nhìn thẳng vào mắt Wei, không né.\n\nBIỂU CẢM: Wei vừa nói xong một câu ngắn, mặt còn giữ nét dò hỏi rất kín. Darius bình tĩnh, không bối rối, cũng không tỏ vẻ; chỉ có tròng mắt vừa mở ra một chút.\n\nHẬU CẢNH: sau lưng Darius là mảng vách kính mờ nhìn ra sảnh thang máy.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Darius mở miệng đáp lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-06-MASTER"
+          },
+          "goc": "Trung cảnh hai người nhìn nghiêng ở ngưỡng cửa: Wei RÕ MẶT bên trái · Darius RÕ MẶT bên phải · Vanessa đứng sau Wei hai bước, lọt vào khe giữa hai người, out nét",
+          "pose": {
+            "zone": "cửa đôi phòng họp",
+            "who": {
+              "DARIUS": "đứng giữ cánh cửa bên phải",
+              "WEI": "đứng ở ngưỡng cửa",
+              "VANESSA": "đứng sau Wei hai bước"
+            },
+            "dist": "Wei cách Darius một bước · Vanessa cách Wei hai bước",
+            "hands": {
+              "DARIUS": "tay trái giữ mép cửa",
+              "WEI": "tay phải cầm cặp da mỏng",
+              "VANESSA": "tay phải với theo về phía Wei"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B6",
+          "label": "🎬 NHỊP LẶNG — Vanessa nhìn thẳng vào Darius mà không thấy anh",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt, đặt bên trong phòng lệch trái, trung cảnh.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa đứng sau Wei hai bước, chiếm nửa trái khung, nét. Phía trước cô theo chiều sâu, ở nửa phải khung, Wei đang bước qua ngưỡng cửa, thấy nửa lưng và một phần mặt nghiêng. Darius đứng giữ cánh cửa ở lớp sau, hơi out nét, thấy rõ người và một phần mặt.\n\nTAY: Vanessa tay phải với theo về phía Wei rồi khựng lại giữa chừng, tay trái ôm cặp da. Darius tay trái giữ mép cửa.\n\nHƯỚNG NHÌN: Vanessa nhìn theo Wei, ánh mắt quét ngang qua chỗ Darius đứng rồi đi tiếp, như quét qua một món đồ nội thất.\n\nBIỂU CẢM: Vanessa hoang mang và bắt đầu tính đường chữa cháy. Darius trung tính.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Vanessa bước theo Wei ra cửa.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-06-MASTER"
+          },
+          "goc": "Trung cảnh trong phòng nhìn ra cửa: Vanessa RÕ MẶT nửa trái khung · Wei bước qua ngưỡng cửa, thấy nửa lưng và mặt nghiêng · Darius đứng giữ cửa ở lớp sau, hơi out nét, thấy một phần mặt",
+          "pose": {
+            "zone": "cửa đôi phòng họp",
+            "who": {
+              "DARIUS": "đứng giữ cánh cửa bên phải",
+              "WEI": "đứng ở ngưỡng cửa",
+              "VANESSA": "đứng sau Wei hai bước"
+            },
+            "dist": "Wei cách Darius một bước · Vanessa cách Wei hai bước",
+            "hands": {
+              "DARIUS": "tay trái giữ mép cửa",
+              "WEI": "tay phải cầm cặp da mỏng",
+              "VANESSA": "tay phải với theo về phía Wei"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B7",
+          "label": "🎬 NHỊP LẶNG — cả đoàn khách bắt đầu quay đầu về phía Darius",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 35mm, máy ngang tầm mắt, đặt trong sảnh thang máy chếch phải, khung trung-rộng nhìn về ngưỡng cửa đôi.\n\nAI VÀ ĐANG LÀM GÌ: Sáu khách mời gốc Hoa vừa qua ngưỡng cửa đang đi thành hàng thưa trong sảnh; ba người trong số đó vừa bắt đầu xoay đầu ngược lại về phía cánh cửa, mắt chưa kịp tới đích. Darius đứng giữ cánh cửa, người thẳng. Wei đứng ở ngưỡng cửa, đã xoay hẳn người lại. Vanessa đứng sau Wei hai bước, trong khung cửa.\n\nTAY: Darius tay trái giữ mép cửa. Wei tay phải cầm cặp da mỏng. Vanessa hai tay ôm cặp trước bụng.\n\nHƯỚNG NHÌN: Wei nhìn thẳng Darius. Ba người khách đang xoay đầu về phía Darius. Vanessa nhìn từ Wei sang Darius, lần đầu nhìn thẳng vào anh.\n\nBIỂU CẢM: khách mời tò mò và dè dặt. Wei chăm chú. Vanessa sững lại.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi tất cả những cái đầu ấy quay hết về một phía.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_WEI_PORTRAIT",
+              "REF_WEI_FULL"
+            ],
+            "bg": "SF-S1-06-MASTER"
+          },
+          "goc": "Trung-rộng nhìn từ sảnh vào cửa đôi: Darius đứng giữ cửa RÕ MẶT · Wei đứng ở ngưỡng RÕ MẶT · Vanessa đứng sau Wei hai bước trong khung cửa, RÕ MẶT",
+          "pose": {
+            "zone": "cửa đôi phòng họp",
+            "who": {
+              "DARIUS": "đứng giữ cánh cửa bên phải",
+              "WEI": "đứng ở ngưỡng cửa",
+              "VANESSA": "đứng sau Wei hai bước"
+            },
+            "dist": "Wei cách Darius một bước · Vanessa cách Wei hai bước",
+            "hands": {
+              "DARIUS": "tay trái giữ mép cửa",
+              "WEI": "tay phải cầm cặp da mỏng",
+              "VANESSA": "tay phải với theo về phía Wei"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-07-MASTER",
+          "label": "MASTER E — phòng họp trống, mười hai chiếc ghế đẩy lùi",
+          "desc": "Master của cụm khép màn. Chốt hiện trạng căn phòng sau khi đoàn khách đã đi hết.",
+          "prompt": "MÁY QUAY: ống kính 28mm, máy ngang tầm mắt, đặt ở đầu gần bàn lệch trái, toàn cảnh cả phòng họp.\n\nAI VÀ ĐANG LÀM GÌ: Phòng đã trống, chỉ còn hai người. Mười hai chiếc ghế lưng cao bị đẩy lùi khỏi mép bàn, mỗi chiếc xoay lệch một hướng khác nhau. Trên mặt bàn còn nguyên sổ tay bỏ lại, tách sứ, chai nước thủy tinh chưa ai uống hết. Vanessa đứng ở đầu gần bàn, một tay tì lưng ghế. Darius đứng ở ngưỡng cửa đôi phía cuối khung, tay phải đặt trên tay nắm cửa.\n\nTAY: Vanessa tay trái tì lưng ghế, tay phải buông. Darius tay phải đặt trên tay nắm cửa, tay trái buông dọc thân.\n\nHƯỚNG NHÌN: Vanessa nhìn về phía cửa đôi. Darius nhìn ra hành lang.\n\nBIỂU CẢM: Vanessa trống rỗng, vừa hiểu ra mình đã mất cái gì. Darius bình thản, đang làm nốt phần việc cuối của mình.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cánh cửa khép lại.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL"
+            ],
+            "bg": "REF_BG_PHONGHOP_NGAY"
+          },
+          "goc": "Toàn cảnh phòng họp trống: Vanessa đứng ở đầu gần bàn RÕ MẶT · Darius đứng ở ngưỡng cửa đôi cuối khung, rõ người",
+          "pose": {
+            "zone": "phòng họp sau khi khách về",
+            "who": {
+              "DARIUS": "đứng ở ngưỡng cửa đôi",
+              "VANESSA": "đứng ở đầu gần bàn"
+            },
+            "dist": "Vanessa cách Darius suốt chiều dài phòng",
+            "hands": {
+              "DARIUS": "tay phải đặt trên tay nắm cửa",
+              "VANESSA": "tay trái tì lưng ghế"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B8",
+          "label": "🎬 NHỊP LẶNG — cận mặt Darius ở ngưỡng cửa",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 85mm, máy ngang tầm mắt, đặt trong phòng cách Darius 1m5, cận cảnh khuôn mặt.\n\nAI VÀ ĐANG LÀM GÌ: Darius đứng ở ngưỡng cửa đôi, mặt chiếm phần lớn khung, người thẳng. Sâu hút phía sau anh, ở cuối phòng, dáng Vanessa đứng ở đầu gần bàn nhòe hẳn trong lớp nền.\n\nTAY: tay phải Darius đặt trên tay nắm cửa, các ngón buông lỏng.\n\nHƯỚNG NHÌN: Darius nhìn thẳng ra hành lang, mắt không đảo.\n\nBIỂU CẢM: điềm tĩnh, tỉnh, không đắc thắng và cũng không cay đắng — gương mặt của một người vừa biết chắc điều mà cả căn phòng chưa biết.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi anh hít vào một hơi.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL"
+            ],
+            "bg": "SF-S1-07-MASTER"
+          },
+          "goc": "Cận cảnh Darius RÕ MẶT ở ngưỡng cửa · Vanessa đứng ở đầu gần bàn, nhòe hẳn ở lớp nền sâu phía sau",
+          "pose": {
+            "zone": "phòng họp sau khi khách về",
+            "who": {
+              "DARIUS": "đứng ở ngưỡng cửa đôi",
+              "VANESSA": "đứng ở đầu gần bàn"
+            },
+            "dist": "Vanessa cách Darius suốt chiều dài phòng",
+            "hands": {
+              "DARIUS": "tay phải đặt trên tay nắm cửa",
+              "VANESSA": "tay trái tì lưng ghế"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B9",
+          "label": "🎬 NHỊP LẶNG — Vanessa còn lại một mình bên chiếc bàn",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt, đặt phía vách kính bên trái cách Vanessa 3m, trung cảnh.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa đứng một mình ở đầu gần bàn, một tay tì lưng chiếc ghế đã bị xoay lệch, người hơi đổ về một bên. Quanh cô là những chiếc ghế đẩy lùi và mặt bàn còn ngổn ngang sổ tay bỏ lại.\n\nTAY: tay trái tì lưng ghế, các ngón siết vào mép da; tay phải cầm chiếc điện thoại buông thõng dọc thân, màn hình tối — điện thoại nhãn hư cấu, không logo hãng có thật.\n\nHƯỚNG NHÌN: nhìn về phía cửa đôi đã khép, mắt không chớp.\n\nBIỂU CẢM: sững, chưa kịp giận, mới chỉ vừa hiểu ra.\n\nHẬU CẢNH: sau lưng cô là vách kính kịch trần và đường chân trời thành phố.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cô rời tay khỏi lưng ghế.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL"
+            ],
+            "bg": "SF-S1-07-MASTER"
+          },
+          "goc": "Trung cảnh Vanessa đứng một mình ở đầu gần bàn, RÕ MẶT",
+          "pose": {
+            "zone": "phòng họp sau khi khách về",
+            "who": {
+              "VANESSA": "đứng ở đầu gần bàn"
+            },
+            "dist": "Vanessa cách Darius suốt chiều dài phòng",
+            "hands": {
+              "VANESSA": "tay trái tì lưng ghế"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-01-MASTER",
+          "dur": 5,
+          "music": null,
+          "goc": "Medium-wide 3 người dọc bàn họp: Vanessa đứng bên phải giữa bàn RÕ MẶT · Wei ngồi đầu bàn RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "text": "VANESSA: Relax, everyone — he's just the driver. Strong Black back, empty head.",
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nVanessa đang trình bày trước cả bàn họp và vừa rẽ sang trò đùa của mình; cô muốn cả phòng cười theo và đang chờ điều đó. Darius đứng yên ở cuối phòng, tiếp tục phần việc của mình. Wei ngồi nghe.\n\nVANESSA — smug, unhurried: \"Relax, everyone — he's just the driver. Strong Black back, empty head.\"\n\nDARIUS — silent, unreadable, chỉ một nấc siết quai hàm rất nhỏ, không ngẩng lên\n\nWEI — silent, politely blank, mắt không rời Vanessa\n\nQUẦN CHÚNG NỀN — mười một khách mời ngồi im, một hai người khẽ dịch người trên ghế hoặc hạ bút xuống sổ, không ai cười.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn, không tiếng kể chuyện.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 5,
+          "music": null,
+          "goc": "OTS qua vai Vanessa → Darius: Darius nét ở giữa khung, RÕ MẶT · vai và gáy Vanessa làm tiền cảnh out nét · Wei ngồi đầu bàn ở lớp giữa, thấy nghiêng mặt",
+          "text": "VANESSA: He barely follows English. Isn't that right, Darius?",
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía Darius.\n\nVanessa gọi thẳng tên người đang đứng cuối phòng để chốt trò đùa. Darius đứng nguyên tại chỗ, không đổi tư thế.\n\nVANESSA — light, teasing (chỉ thấy vai và gáy ở tiền cảnh): \"He barely follows English. Isn't that right, Darius?\"\n\nDARIUS — silent, calm, ngẩng mắt lên nhìn thẳng về phía cô, cằm không hạ\n\nWEI — silent, attentive, đuôi mắt liếc về phía Darius rồi trả về\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn, không tiếng kể chuyện.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B1",
+          "sf": "SF-S1-B1",
+          "dur": 7,
+          "goc": "Medium-wide 3 người dọc bàn họp: Vanessa đứng bên phải giữa bàn RÕ MẶT · Wei ngồi đầu bàn RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "text": "[NHỊP] Câu đùa rơi hết vào im lặng, cả phòng không ai đáp.\nNARRATOR: Vanessa Kroll smiled at her own joke — twelve Chinese investors, a boardroom her company needed more than air.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Câu đùa rơi vào khoảng không; nhạc phải nén lại chứ không được bình luận thay khán giả.",
+            "a": "Slow soul-noir at 62 BPM with a low female alto sung very close to the mic, almost spoken, one line at a time with long gaps; a single muted cello holds the root under her, upright bass enters only at the halfway point, no drums at all; lyrics about hearing your own voice come back empty from a room full of people, never bitter, never triumphant; warm analog mix, tape saturation, dry and close; soul, cello, female vocal, restrained, intimate",
+            "a_kind": "có lời",
+            "b": "Instrumental at 62 BPM; one muted cello sustaining a single low note with slow bow pressure changes, a faint room tone underneath, one soft piano cluster landing at the four-second mark and decaying, no percussion, no build, ending unresolved; dry intimate mix, close-miked strings; cello, ambient, minimal, tense, restrained",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 7 giây, không chuyển cảnh. Camera TĨNH.\n\nCả phòng vừa nghe một câu đùa mà không một ai thấy buồn cười. Không ai đáp lại, không ai nhìn sang nhau. Vanessa vẫn đang chờ tiếng cười và nụ cười của cô tắt rất chậm. Gợi ý diễn biến: một hai khách mời khẽ hạ mắt xuống sổ tay, một người khép nắp bút, một người chỉnh lại cuốn sổ cho thẳng mép bàn.\n\nVANESSA — silent, nụ cười cứng dần, mắt vẫn quét hai hàng ghế\n\nDARIUS — silent, không ngẩng lên, tay vẫn để yên\n\nWEI — silent, hoàn toàn không phản ứng\n\nQUẦN CHÚNG NỀN — mười một khách mời giữ nguyên tư thế ngồi, chỉ có những cử động rất nhỏ và tự nhiên; tuyệt đối không ai cười, không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng điều hòa, tiếng giấy, tiếng ghế da khẽ cọt kẹt) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B2",
+          "sf": "SF-S1-B2",
+          "dur": 5,
+          "goc": "Trung cảnh 3/4 qua bàn: bốn khách mời nền nét · Wei ngồi đầu bàn rìa phải RÕ MẶT · Darius đứng cạnh tủ thấp phía sau Wei, hơi out nét · Vanessa ở rìa trái khung, thấy nghiêng người out nét",
+          "text": "[NHỊP] Bốn gương mặt khách mời giữ nguyên nét lịch sự, không ai nhếch mép.\nNARRATOR: Twelve investors. Nobody laughed.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Cho khán giả một nhịp thở để đếm từng gương mặt không cười; nhạc phải lùi hẳn ra sau.",
+            "a": "Ambient folk at 54 BPM; a single felt-piano figure repeating with heavy sustain, a male tenor humming wordlessly for the first half then singing one short line near the end, very quiet, close to the mic; no percussion, no arc, simply thinning out; lyrics only a single thought about a room deciding something without saying it; very soft late-night mix, almost subliminal; felt piano, ambient, male vocal, sparse, cold-warm",
+            "a_kind": "có lời",
+            "b": "Instrumental at 54 BPM; one felt piano playing the same three notes with the sustain pedal held down, each repetition quieter, a low room hum underneath, no percussion, no chord change, fading out mid-phrase; extremely soft mix; felt piano, ambient, minimal, still",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera DOLLY IN chậm dọc theo hàng ghế.\n\nBốn người khách ngồi liền nhau nghe xong câu vừa rồi và không phản ứng gì cả. Đây không phải sự tức giận, đây là phép lịch sự đã đóng lại. Gợi ý diễn biến: một người chỉnh lại cuốn sổ cho thẳng mép bàn, một người khẽ liếc sang người bên cạnh rồi thôi.\n\nWEI — silent, unreadable, mắt vẫn hướng về phía Vanessa\n\nDARIUS — silent, đứng yên ở lớp sau\n\nQUẦN CHÚNG NỀN — bốn khách mời giữ tư thế ngồi, cử động rất nhỏ và tự nhiên, mặt trung tính, tuyệt đối không ai cười và không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng điều hòa, tiếng giấy khẽ) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-03",
+          "sf": "SF-S1-02",
+          "dur": 6,
+          "music": null,
+          "goc": "OTS qua vai Vanessa → Darius: Darius nét ở giữa khung, RÕ MẶT · vai và gáy Vanessa làm tiền cảnh out nét · Wei ngồi đầu bàn ở lớp giữa, thấy nghiêng mặt",
+          "chuyen": true,
+          "text": "NARRATOR: Darius Ingram said,\nDARIUS: Yes, ma'am. Just the driver.",
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nDarius đáp lại đúng một câu, bằng giọng của người trả lời cho xong chứ không phải người đang chịu đựng. Anh không cãi, không mỉa, cũng không cúi mặt.\n\nDARIUS — quiet, level: \"Yes, ma'am. Just the driver.\"\n\nVANESSA — silent, satisfied (chỉ thấy vai và gáy ở tiền cảnh)\n\nWEI — silent, attentive, mắt liếc về phía Darius và giữ lại ở đó lâu hơn một nhịp\n\nÂm thanh: CHỈ câu thoại của Darius, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\nKẾT CLIP: Darius đưa hai tay nhấc chiếc bình thủy inox trên mặt tủ thấp ngay trước mặt anh lên và giữ ngang trước ngực.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04-MASTER",
+          "dur": 7,
+          "goc": "Trung cảnh hai người ở đầu bàn: Darius đứng cạnh ghế RÕ MẶT · Wei ngồi ghế đầu bàn RÕ MẶT, thấy 3/4 mặt",
+          "text": "[NHỊP] Darius rót trà bằng hai tay rồi xoay miệng tách về phía ông khách.\nNARRATOR: Soft. Level. He refilled the chairman's tea — two hands, cup turned toward the old man, the way it's done properly.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Cử chỉ nhỏ này là bản lề của cả phim; nhạc đi cùng bàn tay anh nhưng không được lấn lên nó.",
+            "a": "Warm cinematic folk at 76 BPM; a guzheng harmonic figure opening alone, a warm pad sliding in underneath, brushed snare entering only in the last third and lifting one step; a female mezzo enters halfway singing low and unhurried, close to the mic; lyrics about doing a small thing correctly when nobody is watching, plain and unsentimental; warm analog mix; guzheng, pad, female vocal, gentle, rising",
+            "a_kind": "có lời",
+            "b": "Instrumental at 76 BPM; guzheng harmonics over a slow warm pad, a single upright bass note per bar, brushed snare arriving in the last third and lifting the whole thing one step before settling, no big finish; warm analog mix, tape saturation; guzheng, cinematic, warm, patient",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 7 giây, không chuyển cảnh. Camera DOLLY IN chậm.\n\nDarius rót trà cho ông khách lớn tuổi theo đúng cách anh đã học ở một nơi khác: nâng bằng hai tay, rót ngắn, rồi xoay miệng tách quay về phía người nhận và lùi lại nửa bước. Đây là việc anh làm cho xong, không phải một màn trình diễn — anh không đảo mắt nhìn quanh xem có ai thấy không.\n\nDARIUS — quiet, focused, động tác chậm và chắc, không hấp tấp\n\nWEI — silent, mắt còn ở trang tài liệu rồi ngước lên vài độ theo bàn tay ấy\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng nước rót rất nhẹ, tiếng sứ chạm đĩa lót, tiếng điều hòa) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B3",
+          "sf": "SF-S1-B3",
+          "dur": 5,
+          "goc": "Cận cảnh mặt Wei RÕ MẶT · vai và cánh tay Darius làm tiền cảnh rìa trái, out nét, không thấy mặt",
+          "text": "[NHỊP] Một thoáng nhận ra chạy qua đuôi mắt ông rồi tắt ngay.\nNARRATOR: The chairman's eyes flickered. Nobody else caught it.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Khán giả phải tự bắt lấy cái chớp mắt ấy; nhạc mà to lên là chỉ tay hộ, mất sạch giá trị.",
+            "a": "Chamber soul at 58 BPM; a solo viola holding one long note with a slow vibrato, a male baritone half-speaking two short lines very close to the mic in the second half, nothing else underneath, no drums; lyrics about noticing something you are not supposed to notice and saying nothing; dry intimate mix, very little reverb; viola, male vocal, spoken-sung, restrained, quiet",
+            "a_kind": "có lời",
+            "b": "Instrumental at 58 BPM; a solo viola holding one long note, the bow pressure easing twice so the note nearly disappears and comes back, a single low piano note underneath at the end, no percussion, no resolution; dry close-miked mix; viola, minimal, tense, held",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN rất chậm vào mặt Wei.\n\nÔng vừa nhận ra một điều mà không ai trong phòng nhận ra, và ông lập tức cất nó đi. Toàn bộ diễn biến chỉ nằm ở đuôi mắt, một nấc cơ hàm và một nhịp thở vào — phần còn lại của khuôn mặt giữ nguyên vẻ lịch sự.\n\nWEI — silent, một thoáng nhận ra rất nhỏ rồi trả mặt về bình thường; tuyệt đối không nhíu mày, không ngạc nhiên lộ liễu, không quay đầu\n\nDARIUS — silent, chỉ thấy vai và cánh tay áo out nét ở tiền cảnh, không cử động mạnh\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng sứ chạm đĩa lót, tiếng điều hòa, một nhịp thở vào rất khẽ của Wei) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05-MASTER",
+          "dur": 6,
+          "chuyen": true,
+          "goc": "Toàn cảnh chéo phòng họp: Vanessa đứng ở đầu gần bàn RÕ MẶT · Wei ngồi đầu bàn phía xa RÕ MẶT · Darius đứng cạnh tủ thấp cuối phòng, rõ người",
+          "text": "[NHỊP] Ba tiếng sau, buổi họp đã cạn, phiên dịch viên trẻ đuối hẳn.\nNARRATOR: Three hours later, her two-hundred-million-dollar deal lay dying of bad translation.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Mốc nhảy ba tiếng: nhạc phải kéo khán giả qua khoảng thời gian ấy rồi thả xuống một căn phòng đã khác.",
+            "a": "Cinematic alt-folk at 84 BPM; low strings rising in one long crescendo from almost nothing, a floor tom entering on the second half in slow half-notes, a female alto singing two lines over the top with a slight rasp; lyrics about three hours turning into a different room without anyone announcing it; warm analog mix with tape saturation; low strings, floor tom, female vocal, building, uneasy",
+            "a_kind": "có lời",
+            "b": "Instrumental at 84 BPM; low strings crescendoing from silence, a floor tom in slow half-notes from the midpoint, a single cymbal swell near the end pulled back before it peaks, ending on an unresolved chord; wide but dry mix; strings, floor tom, cinematic, building, uneasy",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera DOLLY IN chậm dọc bàn họp.\n\nBuổi họp đã cạn từ bên trong. Vanessa cố cứu vãn bằng cách nói thêm; phiên dịch viên trẻ đuối, lật giấy tìm chữ và chậm hơn cô một nhịp; đoàn khách đã gấp sổ và chỉ còn ngồi cho hết phép lịch sự.\n\nVANESSA — brittle, pressing: nói tiếp một câu ngắn về con số, giọng gấp, tiếng nói bị chìm dưới tiếng phòng, KHÔNG cần nghe rõ lời\n\nWEI — silent, unreadable, mắt để trên tập tài liệu đã gấp\n\nDARIUS — silent, đứng yên cuối phòng, đọc cả căn phòng bằng mắt\n\nQUẦN CHÚNG NỀN — mười một khách mời ngồi ở trạng thái đã xong việc: gấp sổ, ngả lưng, khoanh tay, một người xoay ghế chếch ra ngoài; phiên dịch viên trẻ lật giấy vội.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. CHO PHÉP nghe loáng thoáng tiếng nói của Vanessa ở mức rất nhỏ, không rõ lời, đúng bằng khoảng cách của máy quay. Ngoài ra không ai nói thêm câu nào. Âm nền nhẹ (tiếng giấy lật, tiếng điều hòa, tiếng ghế).\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B4",
+          "sf": "SF-S1-B4",
+          "dur": 5,
+          "goc": "Trung cảnh dọc dãy ghế: năm khách mời nền nét · Wei ngồi đầu bàn rìa phải RÕ MẶT · Darius đứng cạnh tủ thấp phía sau Wei, rõ người · Vanessa ở rìa trái khung, thấy nghiêng người out nét",
+          "text": "[NHỊP] Cả dãy ghế đẩy lùi khỏi bàn gần như cùng một lúc.\nNARRATOR: Twelve chairs pushed back.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Cú dứt điểm phải nghe như một tiếng thở ra, không phải một cú đấm; nhạc nén lại để tiếng ghế tự nói.",
+            "a": "Minimal soul at 60 BPM; pizzicato double bass walking four notes and stopping, a male baritone speaking rather than singing one short line halfway, no drums, one brushed cymbal at the end; lyrics about a decision that was made long before anyone stood up; dry close mix, almost no reverb; pizzicato bass, male vocal, spoken, sparse, final",
+            "a_kind": "có lời",
+            "b": "Instrumental at 60 BPM; pizzicato double bass walking four notes then stopping dead, a long silence, one brushed cymbal decaying to nothing, no melody, no chord; very dry close-miked mix; double bass, minimal, sparse, final",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nĐoàn khách kết thúc buổi họp theo đúng nghi thức: đợi người lớn tuổi nhất động trước rồi cả dãy cùng đẩy ghế lùi ra và đứng lên. Không ai to tiếng, không ai vội.\n\nWEI — silent, unreadable, đẩy ghế lùi và đứng lên trước, chậm rãi\n\nDARIUS — silent, đứng yên cuối phòng, mắt theo cả dãy ghế\n\nQUẦN CHÚNG NỀN — năm khách mời trong khung đẩy ghế lùi khỏi bàn rồi đứng dậy gần như cùng lúc, gấp sổ, cầm cặp; động tác dứt khoát nhưng lịch sự, không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng chân ghế trượt trên thảm, tiếng vải vest, tiếng khoá cặp) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-06-MASTER",
+          "dur": 6,
+          "chuyen": true,
+          "goc": "Trung-rộng ở ngưỡng cửa đôi: Darius đứng giữ cửa RÕ MẶT · Wei đứng ở ngưỡng RÕ MẶT · Vanessa đứng sau Wei hai bước, RÕ MẶT",
+          "text": "[NHỊP] Ra tới ngưỡng cửa, ông khách lớn tuổi dừng lại và nói khẽ một câu.\nNARRATOR: On the way out, the old chairman murmured something in Mandarin no interpreter dared to repeat.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Câu nói ấy phải rơi vào một khoảng gần như trống, để khán giả nghe thấy chính sự im lặng của căn phòng phía sau.",
+            "a": "Ambient chamber piece at 56 BPM; one sustained erhu-like bowed line held very long, a female voice humming a single note underneath without words for most of the take and singing one plain line at the very end; no percussion, no arc; lyric only one thought about a sentence nobody wants to translate; soft distant mix; bowed strings, wordless vocal, ambient, still",
+            "a_kind": "có lời",
+            "b": "Instrumental at 56 BPM; one bowed string line held very long with a slow fade in and out, a low drone underneath, a single struck bell far back in the mix near the end, no percussion, no resolution; soft distant mix with long room tail; bowed strings, drone, ambient, still",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía ngưỡng cửa.\n\nĐoàn khách nối nhau đi ra. Ra tới ngưỡng cửa thì ông khách lớn tuổi khựng lại nửa nhịp, xoay người về phía người đang giữ cửa và nói khẽ một câu ngắn. Vanessa bám theo sau, cố chen vào để giữ ông lại thêm một phút.\n\nWEI — quiet, unreadable: nói khẽ một câu ngắn bằng tiếng Quan Thoại, giọng thấp và chìm dưới tiếng chân người đi ra, chỉ dài chừng năm sáu âm tiết, KHÔNG cần nghe rõ lời\n\nDARIUS — silent, giữ cửa, mắt vẫn hướng ra lối đi, chưa quay sang\n\nVANESSA — silent, tight, với tay theo Wei nhưng không chạm tới, miệng khép\n\nQUẦN CHÚNG NỀN — dòng khách mời nối nhau bước qua ngưỡng cửa ra sảnh, người ôm cặp, người vắt áo khoác trên tay, đi đều và không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. CHO PHÉP nghe câu nói khẽ của Wei ở mức rất nhỏ, không cần rõ lời. Ngoài ra không ai nói thêm câu nào. Âm nền nhẹ (tiếng chân trên thảm, tiếng cửa gỗ, tiếng sảnh thang máy).\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B5",
+          "sf": "SF-S1-B5",
+          "dur": 5,
+          "goc": "Trung cảnh hai người nhìn nghiêng ở ngưỡng cửa: Wei RÕ MẶT bên trái · Darius RÕ MẶT bên phải · Vanessa đứng sau Wei hai bước, lọt vào khe giữa hai người, out nét",
+          "text": "[NHỊP] Người giữ cửa quay mặt lại và đáp.\nNARRATOR: And the man holding the door answered him.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Đây là cú lật của đoạn mở màn: nhạc phải nhấc lên một bậc ngay dưới chân câu trả lời, rồi dừng lại chứ không bung ra.",
+            "a": "Cinematic soul at 80 BPM; a low upright piano octave repeating like a heartbeat, warm strings sliding in underneath and lifting one step, a female alto entering in the last third with two short lines sung close and steady; lyrics about the moment someone finally speaks and the whole room has to move; warm analog mix; upright piano, strings, female vocal, lifting, held back",
+            "a_kind": "có lời",
+            "b": "Instrumental at 80 BPM; a low upright piano octave repeating steadily, warm strings rising underneath one step at a time, a single timpani hit near the end and then silence, no cymbals, no release; warm analog mix, tape saturation; piano, strings, cinematic, lifting, suspended",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nDarius quay mặt lại và đáp lời ông cụ. Anh không hạ giọng xin lỗi cũng không lên giọng khoe; đây là cách anh vẫn nói với người lớn tuổi ở một nơi khác, từ rất lâu rồi. Sau khi đáp xong anh khẽ gật đầu một cái rất nhỏ.\n\nDARIUS — quiet, level: đáp lại một câu ngắn bằng tiếng Quan Thoại, giọng thấp và bình thản, chỉ dài chừng bốn năm âm tiết, KHÔNG cần nghe rõ lời\n\nWEI — silent, mắt mở ra một chút, giữ nguyên chỗ đứng, không thốt thêm câu nào\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. CHO PHÉP nghe câu đáp khẽ của Darius ở mức nhỏ, không cần rõ lời. Ngoài ra không ai nói thêm câu nào. Âm nền nhẹ (tiếng sảnh thang máy vọng vào, tiếng chân đi xa dần).\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B6",
+          "sf": "SF-S1-B6",
+          "dur": 6,
+          "goc": "Trung cảnh trong phòng nhìn ra cửa: Vanessa RÕ MẶT nửa trái khung · Wei bước qua ngưỡng cửa, thấy nửa lưng và mặt nghiêng · Darius đứng giữ cửa ở lớp sau, hơi out nét, thấy một phần mặt",
+          "text": "[NHỊP] Ánh mắt Vanessa quét ngang qua chỗ Darius đứng rồi đi tiếp.\nNARRATOR: She'd looked at Darius every day for fourteen months and seen furniture.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Chỗ này là lời buộc tội, nhưng buộc tội bằng nhạc to thì rẻ tiền; phải nén xuống dưới ngưỡng của chính câu dẫn.",
+            "a": "Slow soul at 64 BPM; a muted trumpet playing one short falling phrase alone, upright bass under it in whole notes, a female alto half-speaking one line very close to the mic, no drums; lyrics about looking straight at a person for a year and never once seeing them, never accusing, just tired; warm analog mix, tape saturation; muted trumpet, female vocal, soul, restrained, weary",
+            "a_kind": "có lời",
+            "b": "Instrumental at 64 BPM; a muted trumpet playing one short falling phrase and repeating it once quieter, upright bass in whole notes underneath, a brushed snare barely audible in the last bar, no build; warm dry mix; muted trumpet, upright bass, noir, weary, restrained",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 6 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía Vanessa.\n\nVanessa nhìn theo ông khách vừa đi ra và tính đường chữa cháy. Ánh mắt cô quét ngang qua chỗ Darius đang đứng rồi đi tiếp, đúng như quét qua một món đồ nội thất — không phải cô khinh anh ở khoảnh khắc này, mà là cô hoàn toàn không đăng ký anh vào đầu.\n\nVANESSA — silent, flustered, mắt đảo theo Wei, tay với theo rồi khựng lại\n\nWEI — silent, bước qua ngưỡng cửa, không quay lại\n\nDARIUS — silent, đứng giữ cửa, mắt hạ xuống một nhịp\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng chân trên thảm, tiếng cửa gỗ khẽ cọt kẹt, tiếng sảnh vọng vào) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B7",
+          "sf": "SF-S1-B7",
+          "dur": 7,
+          "goc": "Trung-rộng nhìn từ sảnh vào cửa đôi: Darius đứng giữ cửa RÕ MẶT · Wei đứng ở ngưỡng RÕ MẶT · Vanessa đứng sau Wei hai bước trong khung cửa, RÕ MẶT",
+          "text": "[NHỊP] Những cái đầu ngoài sảnh bắt đầu quay ngược lại về phía cánh cửa.\nNARRATOR: Twelve strangers were about to look once — and see the only man in the building worth talking to.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Đỉnh cảm xúc của đoạn mở màn và là chỗ DUY NHẤT trong hai phút đầu nhạc được chiếm sân khấu; sau câu này khán giả phải muốn xem tiếp.",
+            "a": "Cinematic soul at 82 BPM; full strings entering together on the first beat, a choir sustaining underneath, kick and floor tom in slow half-notes, a female alto belting two lines with real weight in the last third; lyrics about a whole room turning to look at the one person it never looked at, proud but not gloating; wide warm analog mix; strings, choir, female vocal, soaring, open ending",
+            "a_kind": "có lời",
+            "b": "Instrumental at 82 BPM; full strings entering together, a wordless choir sustaining underneath, kick and floor tom in slow half-notes, one long crescendo to a peak that cuts off unresolved instead of landing; wide cinematic mix; strings, choir, percussion, soaring, open ending",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n- Wei = đàn ông gốc Hoa 68 tuổi, tóc bạc chải ngược, vest navy sẫm\n\nMột shot liền 7 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía cánh cửa.\n\nCâu vừa rồi chạy dọc đoàn khách nhanh hơn bất cứ bản dịch nào. Ba người đang đi trong sảnh xoay đầu lại trước, rồi thêm mấy người nữa; tất cả đều nhìn về một chỗ. Wei đứng nguyên tại ngưỡng cửa, nhìn thẳng Darius. Vanessa sững lại trong khung cửa.\n\nDARIUS — silent, đứng thẳng, giữ cửa, không né mắt và cũng không lên gân\n\nWEI — silent, attentive, nhìn thẳng Darius\n\nVANESSA — silent, bewildered, nhìn từ Wei sang Darius, lần đầu nhìn thẳng vào anh\n\nQUẦN CHÚNG NỀN — sáu khách mời trong sảnh, ba người xoay đầu lại về phía cánh cửa trước, mấy người còn lại chậm hơn nửa nhịp; chuyển động tự nhiên, không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng chân dừng lại trên sàn đá, tiếng sảnh thang máy) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-07",
+          "sf": "SF-S1-07-MASTER",
+          "dur": 9,
+          "chuyen": true,
+          "goc": "Toàn cảnh phòng họp trống: Vanessa đứng ở đầu gần bàn RÕ MẶT · Darius đứng ở ngưỡng cửa đôi cuối khung, rõ người",
+          "text": "[NHỊP] Căn phòng trống lại, chỉ còn hai người và mười hai chiếc ghế xoay lệch.\nNARRATOR: Have you ever watched somebody get written off as furniture — then turn out to be the one holding up the whole room? You're about to.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Câu hỏi ném thẳng vào khán giả: nhạc phải mở ra chứ không kết lại, giữ người xem ngồi yên qua mốc mười lăm giây.",
+            "a": "Cinematic soul at 78 BPM; a Rhodes chord opening wide with heavy tremolo, a low tom pulse in slow half-notes, warm strings sliding in under the second half; a male baritone sings two open lines, unhurried, close to the mic; lyrics asking the listener whether they have ever been the thing nobody counted, no answer given; warm analog mix; Rhodes, tom, male vocal, open, lifting",
+            "a_kind": "có lời",
+            "b": "Instrumental at 78 BPM; a wide Rhodes chord with heavy tremolo, low tom pulse in slow half-notes, warm strings entering under the second half and lifting one step, ending on a suspended chord that never resolves; warm wide mix; Rhodes, tom, strings, open, lifting",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n\nMột shot liền 9 giây, không chuyển cảnh. Camera PULL-OUT chậm.\n\nCăn phòng vừa mất một thương vụ hai trăm triệu đô và trông y như một căn phòng bình thường sau giờ họp. Hai người còn lại đứng ở hai đầu, không ai bước về phía ai. Gợi ý diễn biến: một chiếc ghế bị đẩy hụt còn xoay nốt nửa vòng rồi dừng; Vanessa chậm rãi buông tay khỏi lưng ghế.\n\nVANESSA — silent, hollow, nhìn về phía cửa đôi\n\nDARIUS — silent, đứng ở ngưỡng cửa, tay còn trên tay nắm, nhìn ra hành lang\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng ghế xoay nốt, tiếng điều hòa, tiếng sảnh vọng vào rất xa) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B8",
+          "sf": "SF-S1-B8",
+          "dur": 5,
+          "goc": "Cận cảnh Darius RÕ MẶT ở ngưỡng cửa · Vanessa đứng ở đầu gần bàn, nhòe hẳn ở lớp nền sâu phía sau",
+          "text": "[NHỊP] Cận mặt người vừa giữ cánh cửa cho cả một đoàn khách.\nNARRATOR: Drop a comment with the city you're watching from,",
+          "music": {
+            "role": "KÌM",
+            "emo": "Chen ngay sau câu hỏi lớn: nhạc phải tụt xuống một bậc để gương mặt anh nói thay, tránh biến lời kêu gọi thành quảng cáo ồn ào.",
+            "a": "Minimal soul at 68 BPM; a low clarinet holding one warm note, upright bass on the downbeats only, a female alto humming wordlessly then singing one short line at the end; lyric only a single thought about a man nobody asked a question to; dry intimate mix, close to the mic; clarinet, upright bass, female vocal, restrained, warm",
+            "a_kind": "có lời",
+            "b": "Instrumental at 68 BPM; a low clarinet holding one warm note with a slow swell, upright bass on the downbeats only, a soft brushed cymbal once, no melody line, fading before it finishes; dry intimate mix; clarinet, upright bass, minimal, warm, still",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm vào mặt Darius.\n\nAnh đứng lại một nhịp ở ngưỡng cửa trước khi khép nó. Không đắc thắng, không cay đắng — gương mặt của một người vừa biết chắc điều mà cả căn phòng phía sau chưa biết.\n\nDARIUS — silent, calm, mắt nhìn thẳng ra hành lang, một nhịp hít vào rất khẽ\n\nVANESSA — silent, chỉ là một dáng nhòe hẳn ở lớp nền sâu phía sau, không cử động mạnh\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng hành lang, tiếng điều hòa, một nhịp hít vào của Darius) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S1-B9",
+          "sf": "SF-S1-B9",
+          "dur": 6,
+          "goc": "Trung cảnh Vanessa đứng một mình ở đầu gần bàn, RÕ MẶT",
+          "text": "[NHỊP] Vanessa còn lại một mình giữa những chiếc ghế bị đẩy lùi.\nNARRATOR: smash that like button, and let me take you back to the morning it started.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Cú bẻ lái về buổi sáng hôm ấy: nhạc chiếm sân khấu đúng một lần nữa để cắt hẳn mạch phòng họp và mở ra dòng thời gian mới.",
+            "a": "Cinematic soul at 86 BPM; brass stabs entering on the first beat with kick and snare underneath, strings answering in the second half, a female alto belting one long line over the top and then cutting out abruptly; lyrics about going back to the beginning of a day that decided everything; wide warm analog mix; brass, drums, female vocal, driving, hard cut ending",
+            "a_kind": "có lời",
+            "b": "Instrumental at 86 BPM; brass stabs on the first beat with kick and snare underneath, strings answering in the second half, one rising figure that stops dead on the last beat with no tail; wide cinematic mix; brass, drums, strings, driving, hard cut ending",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n\nMột shot liền 6 giây, không chuyển cảnh. Camera TĨNH.\n\nCô đứng lại một mình trong căn phòng vừa mất tất cả và chưa kịp giận, mới chỉ vừa hiểu ra. Gợi ý diễn biến: các ngón tay siết vào mép lưng ghế rồi buông ra; một hơi thở ra rất chậm.\n\nVANESSA — silent, hollow, nhìn về phía cửa đôi đã khép, mắt không chớp\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng điều hòa, tiếng thành phố rất xa sau lớp kính) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — Bảy giờ năm mươi sáng · vỉa hè và khoang xe",
+      "sfs": [
+        {
+          "id": "SF-S2-01-MASTER",
+          "label": "MASTER F — xe đã nổ máy chờ sẵn, Vanessa sải chân ra khỏi sảnh",
+          "desc": "Master của cụm vỉa hè. Chốt vị trí xe sát lề, chỗ đứng của Darius và hướng Vanessa đi ra.",
+          "prompt": "MÁY QUAY: ống kính 28mm, máy ngang tầm mắt, đặt bên kia vỉa hè cách xe 6m, toàn cảnh ngang thân xe.\n\nAI VÀ ĐANG LÀM GÌ: Một chiếc SUV đen cỡ lớn đỗ sát lề ngay trước sảnh, máy đã nổ, khói ấm bốc mỏng ở ống xả. Darius đứng cạnh cửa sau bên phải xe, người hướng về phía sảnh, cửa vẫn còn đóng. Vanessa vừa bước qua lớp cửa kính sảnh ra vỉa hè, sải chân dài.\n\nTAY: Darius tay phải đặt sẵn trên tay nắm cửa sau, tay trái buông dọc thân. Vanessa tay trái ôm cặp da, tay phải cầm điện thoại đưa ngang tầm mắt — điện thoại nhãn hư cấu, không logo hãng có thật.\n\nHƯỚNG NHÌN: Darius nhìn về phía Vanessa đang tới. Vanessa nhìn xuống điện thoại, không ngẩng lên.\n\nBIỂU CẢM: Darius điềm tĩnh, đã đứng đây một lúc rồi. Vanessa gấp gáp, đầu đang ở một cuộc họp khác.\n\nHẬU CẢNH: dọc lề đường phía sau xe là một hàng ô tô con đỗ nối đuôi nhau; ngoài lòng đường có hai ba chiếc ô tô đang chạy chậm về phía ngã tư và một chiếc xe buýt lăn bánh ở làn ngoài; vài người đi làm bước dọc vỉa hè phía xa, không ai nhìn vào máy quay. Biển số và logo hãng xe làm mờ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Darius kéo cửa xe mở ra.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL"
+            ],
+            "bg": "REF_BG_VIAHE_SANG"
+          },
+          "goc": "Toàn cảnh ngang thân xe trên vỉa hè: Darius đứng cạnh cửa sau bên phải RÕ MẶT · Vanessa vừa ra khỏi sảnh, RÕ MẶT",
+          "pose": {
+            "zone": "vỉa hè trước sảnh chung cư",
+            "who": {
+              "DARIUS": "đứng cạnh cửa sau bên phải xe",
+              "VANESSA": "bước từ sảnh ra vỉa hè"
+            },
+            "dist": "Vanessa cách Darius bốn bước chân trên vỉa hè",
+            "hands": {
+              "DARIUS": "tay phải đặt trên tay nắm cửa sau",
+              "VANESSA": "tay trái ôm cặp da, tay phải cầm điện thoại"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-B1",
+          "label": "🎬 NHỊP LẶNG — cửa xe đã mở, Vanessa cúi người vào băng sau",
+          "desc": "",
+          "prompt": "MÁY QUAY: ống kính 50mm, máy ngang tầm mắt, đặt chếch phía sau đuôi xe bên phải cách cửa 2m5, trung cảnh.\n\nAI VÀ ĐANG LÀM GÌ: Cửa sau bên phải đã mở hết. Vanessa đứng ngay sát khung cửa, một chân đã bước tới sát bậc lên xe, người bắt đầu cúi xuống cho lọt khung cửa, miệng đang mở ra nói một câu. Darius đứng giữ mép cửa, người nép sang nhường lối.\n\nTAY: Vanessa tay trái ôm cặp da ép vào hông, tay phải cầm điện thoại còn giơ ngang ngực — điện thoại nhãn hư cấu, không logo hãng có thật. Darius tay phải giữ mép trên khung cửa, tay trái buông dọc thân.\n\nHƯỚNG NHÌN: Vanessa nhìn vào lòng xe, không nhìn Darius một lần nào. Darius nhìn xuống bậc lên xe, canh chỗ cho cô bước.\n\nBIỂU CẢM: Vanessa cau mày và mất kiên nhẫn sẵn. Darius trung tính, làm phận sự.\n\nHẬU CẢNH: ngoài lòng đường phía sau có hai chiếc ô tô đang chạy chậm và một hàng xe đỗ sát lề; biển số và logo hãng xe làm mờ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi cô ngồi hẳn xuống băng ghế.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL"
+            ],
+            "bg": "SF-S2-01-MASTER"
+          },
+          "goc": "Trung cảnh ở cửa sau bên phải xe: Vanessa đứng sát khung cửa RÕ MẶT · Darius đứng giữ mép cửa RÕ MẶT",
+          "pose": {
+            "zone": "vỉa hè trước sảnh chung cư",
+            "who": {
+              "DARIUS": "đứng cạnh cửa sau bên phải xe",
+              "VANESSA": "đứng sát khung cửa sau bên phải xe"
+            },
+            "dist": "Vanessa cách Darius bốn bước chân trên vỉa hè",
+            "hands": {
+              "DARIUS": "tay phải đặt trên tay nắm cửa sau",
+              "VANESSA": "tay trái ôm cặp da, tay phải cầm điện thoại"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-02-MASTER",
+          "label": "MASTER G — trong khoang xe, hai người hai thế giới",
+          "desc": "Master của cụm trong xe. Chốt vị trí băng sau, ghế lái và chai nước trong hốc bệ tì tay.",
+          "prompt": "MÁY QUAY: ống kính 35mm, máy đặt ở khoang trước bên phải chếch về sau, ngang tầm vai, trung cảnh thấy cả ghế lái lẫn băng ghế sau.\n\nAI VÀ ĐANG LÀM GÌ: Vanessa ngồi băng ghế sau bên phải, dây an toàn đã cài, chiếc cặp da đặt bên cạnh. Darius ngồi ghế lái, lưng thẳng, xe vẫn đang đỗ và nổ máy. Trong một hốc tròn trên bệ tì tay giữa hai ghế trước có một chai nước trong đã bóc sạch nhãn, đứng thẳng, nắp còn vặn kín.\n\nTAY: Vanessa tay phải cầm điện thoại đưa ngang tầm mắt, tay trái đặt trên đùi — điện thoại nhãn hư cấu, không logo hãng có thật. Darius hai tay đặt ở vị trí chín giờ và ba giờ trên vô lăng.\n\nHƯỚNG NHÌN: Vanessa nhìn xuống điện thoại. Darius nhìn thẳng qua kính chắn gió ra lòng đường phía trước, không nhìn vào gương chiếu hậu.\n\nBIỂU CẢM: Vanessa đã ở trong đầu mình, mặt căng. Darius điềm tĩnh, chờ, không sốt ruột.\n\nHẬU CẢNH: qua kính chắn gió thấy lòng đường với vài chiếc ô tô đang chạy chậm và hàng xe đỗ sát lề, hình nhòe; biển số và logo hãng xe làm mờ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Vanessa cất tiếng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DARIUS_PORTRAIT",
+              "REF_DARIUS_FULL",
+              "REF_VANESSA_PORTRAIT",
+              "REF_VANESSA_FULL",
+              "REF_PROP_CHAINUOC"
+            ],
+            "bg": "REF_BG_TRONGXE_SANG"
+          },
+          "goc": "Trung cảnh trong khoang xe: Vanessa ngồi băng sau bên phải RÕ MẶT · Darius ngồi ghế lái, thấy 3/4 mặt qua vai",
+          "pose": {
+            "zone": "khoang trong xe SUV",
+            "who": {
+              "VANESSA": "ngồi băng ghế sau bên phải",
+              "DARIUS": "ngồi ghế lái"
+            },
+            "dist": "Vanessa ngồi chếch sau lưng Darius một hàng ghế",
+            "hands": {
+              "VANESSA": "tay phải cầm điện thoại ngang tầm mắt",
+              "DARIUS": "hai tay đặt chín giờ và ba giờ trên vô lăng"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S2-01",
+          "sf": "SF-S2-01-MASTER",
+          "dur": 9,
+          "chuyen": true,
+          "goc": "Toàn cảnh ngang thân xe trên vỉa hè: Darius đứng cạnh cửa sau bên phải RÕ MẶT · Vanessa vừa ra khỏi sảnh, RÕ MẶT",
+          "text": "[NHỊP] Bảy giờ năm mươi sáng, chiếc xe đã đỗ sẵn ở đúng chỗ quen.\nNARRATOR: The morning of the biggest meeting of Vanessa Kroll's life began, as most of her mornings did, with her punishing somebody for her own schedule.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Mở một buổi sáng bình thường: nhạc phải nhẹ tới mức khán giả tin đây chỉ là một ngày thứ Ba như mọi ngày.",
+            "a": "Ambient folk at 58 BPM; fingerpicked acoustic guitar harmonics repeating a small figure, a warm pad breathing underneath, no percussion; a male tenor sings two plain lines very quietly in the second half, close to the mic; lyrics about an ordinary morning that nobody knows is the important one; warm analog mix, soft and early; acoustic guitar, pad, male vocal, gentle, ordinary",
+            "a_kind": "có lời",
+            "b": "Instrumental at 58 BPM; fingerpicked acoustic guitar harmonics repeating a small figure, a warm pad breathing underneath, one low bass note per bar, no percussion, no arc, fading gently; warm soft mix; acoustic guitar, pad, ambient, gentle, early morning",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n\nMột shot liền 9 giây, không chuyển cảnh. Camera PUSH-IN chậm về phía chiếc xe.\n\nMột buổi sáng như mọi buổi sáng: xe đã nổ máy chờ sẵn từ lâu, người tài xế đã đứng đúng chỗ, còn người sắp lên xe thì đang ở trong đầu mình chứ không ở trên vỉa hè này. Gợi ý diễn biến: Vanessa sải chân đi tới, mắt không rời điện thoại; Darius đưa tay mở cửa sau cho cô.\n\nVANESSA — silent, preoccupied, đi nhanh, mắt dán vào điện thoại\n\nDARIUS — silent, steady, mắt theo cô, mở cửa đúng lúc cô tới\n\nQUẦN CHÚNG NỀN — vài người đi làm bước dọc vỉa hè phía xa, xe cộ chạy chậm ngoài lòng đường và một chiếc xe buýt lăn bánh ở làn ngoài; không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng phố buổi sáng, tiếng động cơ chạy không tải, tiếng gót giày trên vỉa hè) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-B1",
+          "sf": "SF-S2-B1",
+          "dur": 8,
+          "chuyen": true,
+          "goc": "Trung cảnh ở cửa sau bên phải xe: Vanessa đứng sát khung cửa RÕ MẶT · Darius đứng giữ mép cửa RÕ MẶT",
+          "text": "[NHỊP] Cô cúi người vào băng sau và buông một câu ngay khi vừa ngồi xuống.\nNARRATOR: Seven-fifty a.m., outside her building, she slid into the back of the black SUV and announced that they were late.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Câu trách móc đầu ngày phải nghe như thói quen chứ không như cao trào; nhạc kìm lại để khán giả thấy đây là chuyện xảy ra mỗi sáng.",
+            "a": "Minimal soul at 66 BPM; upright bass playing two notes per bar, a Rhodes chord landing once and decaying, no drums; a female alto half-speaks one line very close to the mic in the second half; lyrics about being blamed for somebody else's clock, flat and used to it; dry intimate mix, tape saturation; upright bass, Rhodes, female vocal, spoken, restrained",
+            "a_kind": "có lời",
+            "b": "Instrumental at 66 BPM; upright bass playing two notes per bar, one Rhodes chord landing and decaying slowly, a faint traffic-like hum underneath, no percussion, no build, stopping mid-phrase; dry intimate mix; upright bass, Rhodes, minimal, flat, everyday",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n\nMột shot liền 8 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nVanessa cúi người lọt vào khung cửa và ngồi xuống băng sau, vừa ngồi vừa buông ra một câu trách. Cô không nhìn Darius lấy một lần. Darius giữ mép cửa, canh chỗ cho cô bước vào, rồi đứng thẳng lên chờ đóng cửa.\n\nVANESSA — brittle, impatient: mấp máy nói một câu ngắn ngay khi vừa ngồi xuống, tiếng nói chìm dưới tiếng phố, KHÔNG cần nghe rõ lời\n\nDARIUS — silent, steady, mắt canh bậc lên xe, không phản ứng gì trên mặt\n\nQUẦN CHÚNG NỀN — xe cộ chạy chậm ngoài lòng đường, vài người đi bộ ở phía xa, không ai nhìn vào máy quay.\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau. CHO PHÉP nghe loáng thoáng tiếng nói của Vanessa ở mức rất nhỏ, không rõ lời. Ngoài ra không ai nói thêm câu nào. Âm nền nhẹ (tiếng phố buổi sáng, tiếng cửa xe, tiếng động cơ chạy không tải).\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        },
+        {
+          "id": "V-S2-02",
+          "sf": "SF-S2-02-MASTER",
+          "dur": 5,
+          "chuyen": true,
+          "goc": "Trung cảnh trong khoang xe: Vanessa ngồi băng sau bên phải RÕ MẶT · Darius ngồi ghế lái, thấy 3/4 mặt qua vai",
+          "text": "[NHỊP] Đồng hồ trên bảng táp-lô nói ngược lại điều cô vừa nói.\nNARRATOR: They were not late.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Câu chốt của đoạn hook: để nó rơi vào gần như trống, khán giả tự nghe ra sự thật mà không cần nhạc gằn thêm.",
+            "a": "Ambient soul at 60 BPM; a Rhodes playing one chord and letting it decay all the way down, a faint engine-like hum underneath, no percussion; a female alto sings one short line at the very end, close to the mic, almost spoken; lyric a single flat statement that the clock did not agree; dry warm mix; Rhodes, female vocal, minimal, quiet, matter-of-fact",
+            "a_kind": "có lời",
+            "b": "Instrumental at 60 BPM; a Rhodes playing one chord and letting it decay all the way down, a faint low engine-like hum underneath, one soft bass note near the end, no percussion, no resolution, cutting to silence; dry warm mix; Rhodes, drone, minimal, quiet, matter-of-fact",
+            "b_kind": "không lời"
+          },
+          "prompt": "Nhận diện:\n- Vanessa = phụ nữ da trắng 41 tuổi, tóc vàng tro buộc thấp, vest xám than sọc kim\n- Darius = đàn ông da đen 37 tuổi, tóc cắt sát, râu tỉa rất ngắn, vest tài xế xám than gần đen, cà vạt navy\n\nMột shot liền 5 giây, không chuyển cảnh. Camera PUSH-IN chậm.\n\nTrong khoang xe, hai người ở hai thế giới: một người đã bực sẵn và đang cắm mặt vào điện thoại, một người ngồi thẳng sau vô lăng chờ lệnh đi. Gợi ý diễn biến: Darius liếc đồng hồ trên bảng táp-lô một nhịp rồi trả mắt về phía trước; Vanessa vuốt màn hình một cái.\n\nVANESSA — silent, preoccupied, mắt không rời điện thoại\n\nDARIUS — silent, level, ngồi thẳng, hai tay giữ nguyên trên vô lăng, không quay đầu lại\n\nÂm thanh: Lời dẫn (Voiceover) sẽ được ghép sau nên KHÔNG ai đọc lời dẫn và KHÔNG ai nói thành câu trong clip này. Chỉ có âm nền nhẹ (tiếng động cơ chạy không tải, tiếng phố ngoài lớp kính, tiếng xi nhan rất khẽ) và phản ứng âm thanh ngắn không lời (thở ra, hít vào, hừ khẽ) để nhân vật không đơ cứng như tượng gỗ.\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật."
+        }
+      ]
+    }
+  ]
+}
