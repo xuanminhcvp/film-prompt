@@ -104,6 +104,23 @@ def nguoi_noi(t):
 RE_DONG_THOAI = re.compile(r"^[ \t]*[A-Z][A-Z0-9 .'\u2019-]{0,40}(?:\s*\([^\n)]*\))?\s*:.*$", re.M)
 
 
+def mo_theo_goc(ten, goc):
+    """Nhân vật này bị `goc` xếp ra tiền cảnh/out nét/mờ không? Dùng khi
+    `pose.who` để trống — `goc` là nơi duy nhất còn khai vai trò khung hình."""
+    # 'sau lưng' KHÔNG phải dấu hiệu out nét — 'Damon đứng sau lưng Nia, rõ mặt'
+    # là người NÉT đứng ở lớp sau. Chỉ ba dấu hiệu dưới mới là vai trò tiền cảnh
+    # out nét, và vế nào đã nói 'rõ mặt' thì tự nó phủ định (SF-S3-B1 · SF-S32-B3
+    # từng bị báo oan đúng vì hai lỗi này, 2026-08-25).
+    for ve in re.split(r'[·;+]', goc or ''):
+        if not re.search(r'\b' + re.escape(ten) + r'\b', ve, re.I):
+            continue
+        if re.search(r'rõ\s*mặt', ve, re.I):
+            continue
+        if re.search(r'out\s*nét|mờ|vai\s*và\s*gáy', ve, re.I):
+            return True
+    return False
+
+
 def co_trong_goc(ten, goc):
     """Tên phải nằm trong một vế `goc` không bị đánh dấu ngoài khung."""
     for ve in re.split(r'[·;]', goc or ''):
@@ -248,7 +265,7 @@ def nhan_cam_xuc(p):
     """Nhãn cảm xúc bị cấm, CHỈ quét ô nhãn — đoạn giữa '—' và ':' ngay trước
     dòng thoại. Quét cả prompt là bắt oan chữ 'cold' nằm trong lời thoại."""
     ra = []
-    for nhan in re.findall(r'—\s*([^:\n]{1,60}):\s*\n', p):
+    for nhan in re.findall(r'—\s*([^:\n]{1,60}):\s*(?:\n|")', p):
         for w in NHAN_CAM:
             if re.search(r'\b' + w, nhan, re.I):
                 ra.append((nhan.strip(), w))
@@ -654,7 +671,14 @@ for sc in scs:
                     else:
                         for k_upper, (orig_name, pose_desc) in who_map_upper.items():
                             b_desc = bullet_map.get(k_upper, '')
-                            is_pose_mo = bool(re.search(r'out\s*nét|mờ|rìa|ngoài\s*khung|sau\s*lưng', str(pose_desc), re.I))
+                            # `pose.who` TOÀN BỘ board có thể để trống chuỗi (chỉ dùng
+                            # làm danh sách tên) — khi đó vai trò khung hình nằm ở `goc`,
+                            # và đọc mỗi pose.who thì phép so LUÔN ra 'nét', báo oan mọi
+                            # bullet khai đúng cờ mờ. Trống thì tra `goc` của chính SF ấy.
+                            if str(pose_desc).strip():
+                                is_pose_mo = bool(re.search(r'out\s*nét|mờ|rìa|ngoài\s*khung|sau\s*lưng', str(pose_desc), re.I))
+                            else:
+                                is_pose_mo = mo_theo_goc(orig_name, ALL[x['sf']].get('goc') or '')
                             is_bullet_mo = bool(re.search(r'mờ', b_desc, re.I))
                             if is_pose_mo and not is_bullet_mo:
                                 bad.append(('nhận-diện-lệch-SF', f"{x['id']}: '{orig_name}' out nét/mờ ở pose.who nhưng bullet Nhận diện thiếu cờ 'mờ ở khung hình'"))

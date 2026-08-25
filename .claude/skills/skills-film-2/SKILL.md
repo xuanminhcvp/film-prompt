@@ -1,9 +1,9 @@
 ---
-name: skills-hook
-description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF), prompt video Grok và prompt nhạc Suno trong sf-board.json cho các video Hook ngắn (khoảng 2 phút). Dùng skill này mỗi khi tạo REF nhân vật mới, tạo SF, chia shot, viết prompt video có chứa câu dẫn chuyện (narration) và thoại, hoặc sửa ngoại hình nhân vật trong board.
+name: skills-film
+description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF), prompt video Grok và prompt nhạc Suno trong sf-board.json của các dự án PIPELINE-*.project. Dùng skill này mỗi khi tạo REF nhân vật mới, tạo SF cho một scene, chia shot, viết hoặc sửa prompt video, viết nhạc cho nhịp không thoại, hoặc sửa ngoại hình/trang phục nhân vật trong board — kể cả khi user chỉ nói "tạo SF cho scene X", "viết prompt video S8", "prompt S8 chuẩn chưa" mà không nhắc rõ kỹ thuật.
 ---
 
-# Làm video Hook từ kịch bản
+# Làm phim từ kịch bản
 
 > **LUẬT TUYỆT ĐỐI**: File này chứa quy trình và chỉ mục. Chi tiết luật nằm ở các file `references/`. Giữ file dưới 5.000 token. Đừng thêm luật dài vào đây.
 
@@ -18,14 +18,16 @@ description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF), prompt vid
 
 ---
 
-## Quy trình 5 bước
+## Quy trình cốt lõi
 **MỖI BƯỚC MỘT FILE, và là nguồn sự thật duy nhất cho bước đó**. Bắt buộc mở file của bước trước khi viết prompt.
 
 | Bước | Việc | Đọc file |
 |---|---|---|
+| **00** | **Khởi tạo Dự án**: Cấu trúc thư mục, khởi tạo `sf-board.json` chuẩn Schema. | [00-khoi-tao-du-an.md](references/00-khoi-tao-du-an.md) |
+| **0A** | **Tư duy đạo diễn**: Nền tảng triết lý chuyển góc máy, nhịp điệu kể chuyện và kiểm soát cảm xúc khán giả. | [6-tu-duy-dien-anh.md](references/6-tu-duy-dien-anh.md) |
 | **0B** | **Tiêu chuẩn D.O.P**: Hệ thống quy tắc về Chất ảnh (Image Quality), Màu sắc (Color Palette) và Ánh sáng (Lighting). | [7-nghe-thuat-anh-sang.md](references/7-nghe-thuat-anh-sang.md) |
-| **1** | **Chia shot**: Bảng shot (1 shot = 1 SF), chèn nhịp lặng, nối shot, khai báo `goc`. | [1-chia-shot.md](references/1-chia-shot.md) |
-| **2** | **Tạo hình & Địa điểm (REF)**: Mẫu hoá khối lặp (85% nội dung bối cảnh, trang phục...), SF chỉ khai tham số. | [2-tao-hinh-va-dia-diem.md](references/2-tao-hinh-va-dia-diem.md) |
+| **1** | **Phân rã Blocking & Chia shot**: Bảng shot & tái sử dụng SF, chèn nhịp lặng, nối shot, khai báo `goc`. | [1-chia-shot.md](references/1-chia-shot.md) |
+| **2** | **Tạo hình & Địa điểm (REF)**: Ảnh portrait, full-body từng trang phục, Thẻ địa điểm (mọi biến thể Sáng/Tối của địa điểm đó xuất hiện trong kịch bản). | [2-tao-hinh-va-dia-diem.md](references/2-tao-hinh-va-dia-diem.md) |
 | **3** | **Prompt SF (Khung hình)** | [3-prompt-sf.md](references/3-prompt-sf.md) |
 | **4** | **Prompt video** | [4-prompt-video.md](references/4-prompt-video.md) |
 | **5** | **Prompt nhạc Suno** | [5-nhac-suno.md](references/5-nhac-suno.md) |
@@ -37,19 +39,19 @@ python3 sfboard/kiem-luat.py <PROJECT> [--scene S6]        # 21 luật cứng
 python3 sfboard/kiem-noi-shot.py <PROJECT> [S6] --day-du   # Nối shot: zone, tư thế, tay
 ```
 - **Lưu ý 2 tầm kiểm**: Phép kiểm chạy ở tầm hẹp (1 scene) không bao phủ tầm rộng (cấp phim). Các luật liên-scene (chuỗi tối liền, trang phục) **TỰ TẮT** khi chạy `--scene`. Hãy đọc phần dữ liệu chưa phủ trước khi tin là "SẠCH".
-- **Checklist mắt**: Góc máy thực tế (nhìn cột GÓC, đừng chỉ nhìn "hướng thứ N"), trang sức/mức sống/độ tuổi, sự hợp lý của nhân vật ở địa điểm/thời điểm, tay kể chuyện, nhạc Suno cho nhịp lặng.
+- **Checklist mắt**: Góc máy thực tế (nhìn cột GÓC, đừng chỉ nhìn "hướng thứ N"), trang sức/mức sống/độ tuổi, sự hợp lý của nhân vật VÀ CỦA CHÍNH ĐỊA ĐIỂM ở thời điểm đó (xe cộ di chuyển trên đường, hàng quán mở/đóng, đèn bật/tắt, rác thải bối cảnh...), tay kể chuyện, nhạc Suno cho nhịp lặng.
 
 ---
 
 ## Luật viết nhanh
-1. **Chuẩn chỉ 2 phút đầu (Không bỏ text, Không nhảy text)**: Dù user gửi kịch bản dài để lấy ngữ cảnh, BẠN CHỈ LÀM ĐÚNG 2 PHÚT ĐẦU NỘI DUNG tính từ câu đầu tiên (tương đương ~120 giây / 10-15 shot) — 120 giây là ngân sách cho thoại + lời dẫn cộng lại. Trong 2 phút đầu này, BẮT BUỘC giữ nguyên 100% NGUYÊN VĂN TOÀN BỘ TEXT (cả thoại nhân vật VÀ lời dẫn narrator) theo đúng thứ tự thời gian từ trên xuống dưới. TUYỆT ĐỐI KHÔNG bỏ bớt bất kỳ câu text nào, KHÔNG nhảy text linh tinh, và KHÔNG tráo thứ tự. Đến mốc ~120s (hết 2 phút đầu) thì dừng lại, không chia tiếp kịch bản phía sau. Thứ tự text từ kịch bản phải đồng bộ 1-1 chính xác tuyệt đối giữa mảng `sfs` (SF) và mảng `shots` (Video).
-2. **Làm bảng shot trước, sinh prompt sau**: Bảng shot quyết định danh sách SF. Kiểm máy trên bảng cho sạch RỒI mới sinh prompt.
-3. **Mẫu hoá khối lặp ĐÚNG CHỖ**: 85% nội dung (bối cảnh, trang phục...) để ở prompt của thẻ địa điểm. Bố cục có 6 khung xương, SF chỉ khai tham số.
-4. **TẠO VÀ TÁI SỬ DỤNG SF**: Mỗi shot mới mặc định có mã SF tương ứng, nhưng **BẮT BUỘC tái sử dụng SF cũ** khi đối thoại đảo góc máy A-B-A-B (cùng nhân vật, góc máy, tư thế và nón quan sát).
-5. **Gộp scene**: Gộp 5-6 scene làm một lượt để tiết kiệm token nạp luật.
-6. **Chạy song song**: Có thể dùng subagent chạy song song nhiều scene, nhưng **phải chung thư viện dựng prompt**.
-7. **Hai chế độ**: Làm theo lệnh user từng bước, hoặc "tạo hết" (chạy 5 bước, tự duyệt). Việc viết prompt có thể gộp.
+1. **Làm bảng shot trước, sinh prompt sau**: Bảng shot quyết định danh sách SF. Kiểm máy trên bảng cho sạch RỒI mới sinh prompt.
+2. **Mẫu hoá khối lặp ĐÚNG CHỖ**: 85% nội dung (bối cảnh, trang phục...) để ở phần Prompt của Thẻ Địa Điểm. Prompt SF viết thành các đoạn văn điện ảnh (Cinematic) mạch lạc thay vì điền form cứng nhắc.
+3. **TẠO VÀ TÁI SỬ DỤNG SF**: Mỗi shot mới mặc định có mã SF tương ứng, nhưng **BẮT BUỘC tái sử dụng SF cũ** khi đối thoại đảo góc máy A-B-A-B (cùng nhân vật, góc máy, tư thế và nón quan sát).
+4. **Gộp scene**: Gộp 5-6 scene làm một lượt để tiết kiệm token nạp luật.
+5. **Chạy song song**: Có thể dùng subagent chạy song song nhiều scene, nhưng **phải chung thư viện dựng prompt**.
+6. **Hai chế độ**: Làm theo lệnh user từng bước, hoặc "tạo hết" (chạy 5 bước, tự duyệt). Việc viết prompt có thể gộp.
 8. Sửa gì trong file sf-board.json thì nhớ phải sửa cả những thứ liên quan bị ảnh hưởng theo nữa.
+
 ---
 
 ## Kịch bản & Ghi luật
