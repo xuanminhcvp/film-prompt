@@ -46,7 +46,7 @@ Sau khi đã chốt danh sách các Cụm Không Gian, số lượng Master SF v
     - (a) Cặp OTS / cận đơn khi đảo góc A-B-A-B;
     - (b) Khung TWO-SHOT — mỗi lần mạch thoại quay lại thế trận chung của hai người;
     - (c) Khung MASTER / rộng — mỗi lần cần tái lập không gian (ít hơn 2 nhóm trên).
-  - **Mục tiêu tỷ lệ & Cân bằng THÀNH PHẦN**: Tái sử dụng SF đạt ~20-25% tổng số shot trong scene/dự án. Trong tổng số shot dùng lại, nhóm OTS + cận đơn **không quá 60%**, nhóm two-shot + master **ít nhất 40%**.
+  - **Mục tiêu tỷ lệ & Cân bằng THÀNH PHẦN**: Tái sử dụng SF đạt ~15-20% tổng số shot trong scene/dự án. Trong tổng số shot dùng lại, nhóm OTS + cận đơn **không quá 60%**, nhóm two-shot + master **ít nhất 40%**.
 - **Đánh dấu Khung Gối Đầu Hai Cụm (Ngay từ Giai đoạn 1–2)**: Khi phân rã thế trận, BẮT BUỘC phải phát hiện và đánh dấu các khung hình nhìn từ cụm này sang cụm kia trong không gian thông nhau. Mỗi khung này sẽ cần 2 tham chiếu bối cảnh (`refs.bg` trỏ Master SF chính của cụm chủ thể, `refs.chars` đính Master SF/Thẻ bối cảnh cụm xa làm neo thứ hai), do đó phải chừa sẵn slot REF bối cảnh phụ khi phân bổ thẻ tham chiếu nhân vật.
 - **Trỏ REF**: Các shot cận (CU, OTS) của cụm nào BẮT BUỘC phải trỏ `refs.bg` về đúng **Master SF** của cụm đó.
 - Lập bảng shot trước (Mã shot | Thoại | Lời dẫn | Số từ | Giây | Góc | Có kết clip). Số từ và Giây tính trên tổng thoại + lời dẫn, vì voiceover chiếm giây thật y như thoại. Kiểm tra sạch bằng script RỒI mới sinh prompt ảnh.

@@ -1,0 +1,1047 @@
+{
+  "film": "HOOK THORNE — BỐN MƯƠI MỐT CÁI TÊN",
+  "updated_at": "2026-08-26 14:57:55",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_FELIX_PORTRAIT",
+          "label": "★ FELIX THORNE — tổng giám đốc sắp nhậm chức",
+          "desc": "Vai chính · 59 tuổi · người được hội đồng thuê về cứu chuỗi cửa hàng, đi khảo sát ngầm chính cửa hàng của mình. Mặt phải đọc ra: một người điềm tĩnh, đang quan sát chứ không đang chịu đựng.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da đen 59 tuổi, người Mỹ. Tóc cắt cua rất ngắn, muối tiêu bạc đều hai bên thái dương. Râu cằm ngắn tỉa gọn cũng đã bạc. Gương mặt vuông vức, xương gò má cao, sống mũi thẳng, quai hàm chắc, cổ dày. Mắt nâu sẫm, ánh nhìn tỉnh táo, ấm và chắc — kiểu người quen đọc cả căn phòng trước khi mở lời. Da khoẻ, đều màu. Không đeo kính, không sẹo, không hình xăm, không khuyên.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_FELIX_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_FELIX_FULL",
+          "label": "FELIX THORNE — áo khoác vải bạt của cha (1968)",
+          "desc": "Bộ duy nhất trong hai phút đầu: bộ đồ ông mặc mỗi lần đi khảo sát ngầm, chiếc áo khoác cha ông tự cắt tự may năm 1968.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, toàn thân đứng thẳng, chính diện, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu, không tả lại ngũ quan.\n\nĐàn ông 59 tuổi mặc áo khoác vải bạt dày màu be-nâu đã bạc, cổ bẻ dựng, dáng áo thợ, hai cổ tay bạc trắng hơn phần thân, một miếng vá cùng chất liệu ở khuỷu tay trái với đường chỉ khâu tay cực mảnh và đều tăm tắp. Áo được giặt cẩn thận, phẳng phiu, cài kín toàn bộ cúc thân trước, không rách, không bẩn. Bên trong là áo màu xám tro trơn cổ bẻ, cài kín cổ tay. Bên dưới là vải màu xám than trơn, ống thẳng, không nếp gãy. Giày da nâu trơn thấp cổ, đã đánh sạch. Không đeo bất cứ phụ kiện kim loại nào.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_FELIX_FULL_v1.png"
+        },
+        {
+          "id": "REF_VANCE_PORTRAIT",
+          "label": "★ STERLING VANCE — quản lý sàn, 11 năm",
+          "desc": "Phản diện chính · 45 tuổi · quản lý tầng trệt, quen định giá khách ngay ở cửa. Mặt phải đọc ra: sắc sảo, tự tin tuyệt đối vào phép tính của mình.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng 45 tuổi, người Mỹ. Tóc nâu sẫm cắt ngắn, chải rẽ ngôi lệch rất gọn, hai bên thái dương cạo cao. Cạo râu nhẵn. Gương mặt dài, xương hàm rõ, cằm hơi nhọn, mũi thẳng và mảnh. Mắt xanh xám, mí trên mỏng, ánh nhìn sắc và nhanh. Da sáng, đều màu, khoẻ. Không đeo kính, không sẹo, không hình xăm.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_VANCE_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_VANCE_FULL",
+          "label": "STERLING VANCE — bộ vest quản lý màu xanh navy",
+          "desc": "Bộ đồ đi làm duy nhất của anh ta trong hai phút đầu — chuẩn nghi thức của sàn hàng hiệu.\nDùng: S1 · S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, toàn thân đứng thẳng, chính diện, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu, không tả lại ngũ quan.\n\nĐàn ông 45 tuổi mặc bộ vest hai mảnh màu XANH NAVY ĐẬM, vải mịn, may vừa vặn, phẳng phiu, hai vạt trước cài đúng cúc trên. Bên trong là áo màu trắng ngà cài kín cổ, thắt một dải lụa hẹp màu xanh navy sẫm hơn thân vest. Khăn cài ngực bằng lụa trắng gấp thẳng. Bên dưới là vải cùng bộ, ống thẳng, có ly. Giày da đen bóng buộc dây. Trên ve áo có một bảng tên kim loại nhỏ khắc chữ HARGROVE, chữ in hoa sắc nét.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_VANCE_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_VANCE_FULL_v1.png"
+        },
+        {
+          "id": "REF_JOSH_PORTRAIT",
+          "label": "★ JOSH PEMBERTON — nhân viên bán hàng cấp cao, 6 năm",
+          "desc": "Phản diện phụ · 32 tuổi · người bán chạy nhất sàn, quen 'lái' khách mà anh ta cho là không tiềm năng. Mặt phải đọc ra: nụ cười nghề nghiệp bật tắt được như công tắc.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nĐàn ông da trắng 32 tuổi, người Mỹ. Tóc vàng sẫm dày, vuốt ngược nhẹ ra sau, hai bên cắt gọn. Cạo râu nhẵn, riêng quai hàm còn chân râu mờ. Gương mặt trái xoan, má đầy, cằm chẻ nhẹ, mũi ngắn. Mắt nâu nhạt, hàng lông mày thấp, ánh nhìn hoạt và tự tin. Da sáng khoẻ. Không đeo kính, không sẹo, không hình xăm.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_JOSH_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_JOSH_FULL",
+          "label": "JOSH PEMBERTON — bộ vest màu xám khói",
+          "desc": "Bộ đồ đi làm duy nhất trong hai phút đầu, cùng chuẩn nghi thức với Vance nhưng khác hẳn màu để không lẫn trong khung.\nDùng: S1 · S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, toàn thân đứng thẳng, chính diện, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu, không tả lại ngũ quan.\n\nĐàn ông 32 tuổi mặc bộ vest hai mảnh màu XÁM KHÓI, vải mịn, may ôm, phẳng phiu, cài cúc trên. Bên trong là áo màu xanh phấn rất nhạt cài kín cổ, thắt một dải lụa hẹp màu xám bạc. Bên dưới là vải cùng bộ, ống thẳng. Giày da nâu sẫm bóng buộc dây. Trên ve áo có một bảng tên kim loại nhỏ khắc chữ HARGROVE, chữ in hoa sắc nét.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_JOSH_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_JOSH_FULL_v1.png"
+        },
+        {
+          "id": "REF_PAIGE_PORTRAIT",
+          "label": "★ PAIGE DUNMORE — nhân viên quầy nước hoa, 2 năm",
+          "desc": "Phản diện phụ · 26 tuổi · người đang quay clip khách hàng đăng lên mạng xã hội. Mặt phải đọc ra: tò mò kiểu vui vẻ, chưa hề thấy mình đang làm gì sai.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nPhụ nữ da trắng 26 tuổi, người Mỹ. Tóc nâu hạt dẻ dài ngang vai, rẽ giữa, uốn sóng nhẹ ở đuôi. Gương mặt trái xoan nhỏ, gò má cao, cằm thon, mũi nhỏ thẳng. Mắt xanh lá xám, mắt to, hàng mi rõ. Trang điểm nhẹ, môi màu hồng đất. Da sáng khoẻ. Đeo một đôi khuyên tai vàng dáng vòng nhỏ ở cả hai tai. Không đeo kính, không sẹo, không hình xăm.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PAIGE_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_PAIGE_FULL",
+          "label": "PAIGE DUNMORE — đồ quầy nước hoa màu đỏ mận",
+          "desc": "Bộ đồ đi làm duy nhất trong hai phút đầu.\nDùng: S1 · S2",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, toàn thân đứng thẳng, chính diện, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu, không tả lại ngũ quan.\n\nPhụ nữ 26 tuổi mặc bộ đồ liền thân màu ĐỎ MẬN, vải mịn, dài quá gối, tay lỡ, cổ tròn kín, thắt một dải vải cùng màu ở eo, phẳng phiu và vừa vặn. Bên ngoài khoác một lớp mỏng cùng tông đỏ mận sẫm hơn, để mở, không cài. Giày da đen bít mũi gót thấp. Trang sức: một vòng tay kim loại vàng bản mảnh ở CỔ TAY PHẢI, cộng đôi khuyên tai vàng dáng vòng nhỏ giống ảnh portrait. Trên ngực áo có một bảng tên kim loại nhỏ khắc chữ HARGROVE, chữ in hoa sắc nét.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_PAIGE_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_PAIGE_FULL_v1.png"
+        },
+        {
+          "id": "REF_DIRECTOR_PORTRAIT",
+          "label": "★ DIRECTOR — giám đốc cửa hàng tổng",
+          "desc": "Vai then chốt · 50 tuổi · người duy nhất trong toà nhà biết mặt Felix Thorne. Mặt phải đọc ra: một người điều hành mệt mỏi, đang gánh những con số mình không cứu được.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3 (cao hơn rộng), da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền xám trung tính trơn, không đồ đạc. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/quần áo. Miệng khép tự nhiên, KHÔNG cười.\n\nPhụ nữ da trắng 50 tuổi, người Mỹ. Tóc nâu sẫm điểm vài sợi bạc ở mai, cắt ngắn ngang cằm, rẽ ngôi lệch, sấy gọn. Gương mặt vuông mềm, gò má rộng, cằm vuông nhẹ, mũi thẳng. Mắt nâu sẫm, có nếp nhăn mảnh ở đuôi mắt do tuổi. Trang điểm rất nhẹ. Da khoẻ, đều màu. Đeo khuyên tai ngọc trai nhỏ ở cả hai tai. Không đeo kính, không sẹo, không hình xăm.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_DIRECTOR_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_DIRECTOR_FULL",
+          "label": "DIRECTOR — bộ đồ điều hành màu xanh rêu",
+          "desc": "Bộ đồ đi làm duy nhất trong hai phút đầu, khác hẳn màu với ba người trên sàn.\nDùng: S1 · S3",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, KHUNG DỌC 9:16, toàn thân đứng thẳng, chính diện, nền xám trơn, ánh sáng studio dịu và đều. Gương mặt giống ẢNH portrait tham chiếu, không tả lại ngũ quan.\n\nPhụ nữ 50 tuổi mặc bộ đồ điều hành hai mảnh màu XANH RÊU, vải dày mịn, may vừa vặn và phẳng phiu, vạt trước để mở. Bên trong là áo màu kem trơn cài kín cổ. Bên dưới là vải cùng bộ, ống thẳng dài quá mắt cá. Giày da đen bít mũi gót thấp. Trang sức: một sợi dây chuyền kim loại vàng bản mảnh nằm ngoài cổ áo, cộng đôi khuyên tai ngọc trai giống ảnh portrait. Trên ve áo có một bảng tên kim loại nhỏ khắc chữ HARGROVE.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_DIRECTOR_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_DANH_THIEP",
+          "label": "Tấm danh thiếp trơn của Felix — vật bị xé ở shot mở màn",
+          "desc": "Vật trao tay mở màn cả hook: Vance xé đôi nó mà không đọc. Trạng thái ảnh gốc là trạng thái NGUYÊN VẸN ở cảnh đầu tiên kịch bản dùng nó.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, tỷ lệ 1:1, góc 3/4 từ ngang tầm mắt, CHỈ có đạo cụ, không có người, không có bàn tay.\n\nMột tấm danh thiếp giấy bồi dày màu kem trắng, bốn góc vuông, đặt ngửa trên mặt bàn gỗ trơn màu nâu trung tính để lấy mốc tỉ lệ và bóng đổ. Mặt in để trống gần hết, chính giữa chỉ có đúng hai chữ in chìm màu đen: FELIX THORNE — kiểu chữ serif nhỏ, giãn cách chữ rộng, sắc nét, đọc rõ từng chữ cái. Ngoài hai chữ đó không in thêm gì: không hình hiệu, không dãy số, không chức danh, không đường viền. Giấy còn NGUYÊN VẸN, chưa rách, chưa gấp, chưa có nếp. Ánh sáng studio dịu và đều, bóng đổ mềm và ngắn về bên phải.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_DANH_THIEP_v1.png"
+        },
+        {
+          "id": "REF_BG_HARGROVE_SANH_SANG",
+          "label": "SẢNH CẨM THẠCH HARGROVE — BAN NGÀY",
+          "desc": "Sảnh tầng trệt cửa hàng bách hoá cao cấp Hargrove and Sons. Bản neo kiến trúc và ánh sáng cho toàn bộ S1 và S2.",
+          "prompt": "Bối cảnh ở Mỹ. Sảnh chính tầng trệt của một cửa hàng bách hoá cao cấp lâu đời đang mở cửa buổi sáng: khu bán vest nam đã bày sẵn hàng, sàn vừa lau xong, chưa có khách trong khung.\n\nQUY HOẠCH 360°: CHÍNH GIỮA là lối đi rộng lát cẩm thạch trắng vân xám chạy thẳng suốt lòng sảnh. SAU LƯNG, ở đầu lối đi, là dãy cửa kính khung đồng vàng và ô kính lớn nhìn ra hè phố. BÊN TRÁI là ba bàn gỗ óc chó bày vest gấp, phía sau bàn là giá treo móc gỗ tuyết tùng và một tấm gương đứng. BÊN PHẢI là quầy nước hoa mặt kính và một quầy phụ kiện thấp. ĐỐI DIỆN, cuối sảnh, là thang cuốn đôi ốp đồng dẫn lên tầng lửng có lan can kính chạy vòng nhìn xuống sảnh; cạnh chân thang là một cây đàn piano cánh nhỏ đang đóng nắp.\n\nCHẤT ẢNH & MÀU: photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, camera ngang tầm mắt. Cẩm thạch trắng ngả kem, gỗ óc chó nâu ấm, đồng vàng đã lên nước, thảm chạy màu rêu trầm. Tổng thể SÁNG SỦA, sạch, sang trọng, hơi lạnh và trống trải.\n\nÁNH SÁNG: đèn spot trần trắng trung tính rọi thành những vũng sáng đều trên mặt cẩm thạch, cộng ánh ngày trắng dịu tràn vào từ ô kính mặt tiền phía sau, mở nền và tạo lớp sâu. Độ tương phản trung bình, bóng đổ mềm, giữ skin tone tự nhiên. Không u tối, không moody, không low-key, không cháy trắng.\n\nMọi biển hiệu, bảng tên, bao bì và mặt hàng trong khung đều mang nhãn hư cấu. Không có người trong khung hình.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_HARGROVE_SANH_SANG_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "S1",
+      "name": "S1 — Sảnh cẩm thạch Hargrove · vòng vây và bốn mươi mốt cái tên",
+      "sfs": [
+        {
+          "id": "SF-S1-M1-MASTER",
+          "label": "MASTER Cụm 1 — vòng vây giữa sảnh cẩm thạch",
+          "desc": "",
+          "prompt": "MÁY QUAY: Cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, đặt ở đầu lối đi phía cửa kính mặt tiền, chĩa thẳng vào lòng sảnh về hướng thang cuốn, cách nhóm người khoảng bảy mét.\n\nAI VÀ ĐANG LÀM GÌ: Giữa lối đi cẩm thạch, FELIX đứng một mình, hai chân trụ vững, không nhúc nhích. VANCE đứng chắn ngay trước mặt ông, thân xoay 3/4 về phía camera, một cánh tay vừa đưa ngang chỉ ra hướng cửa kính sau lưng camera. JOSH đứng chếch phải sau vai Vance. PAIGE đứng chếch trái, sát quầy phụ kiện. Rải rác ở lớp sau, ba nhân viên bán hàng khác đứng khựng giữa việc đang làm, hai vị khách đứng tuổi bên bàn vest bên trái quay đầu về phía nhóm.\n\nTAY: Felix hai tay buông xuôi hai bên thân, không cầm gì. Vance tay phải chỉ ngang ra hướng cửa, tay trái giữ một tấm thiếp giấy nhỏ màu kem sát hông — ở cỡ cảnh này nó chỉ là một hình chữ nhật sáng, chưa đọc được chữ. Josh khoanh nhẹ hai tay trước bụng. Paige một tay nâng chiếc điện thoại ngang ngực, vỏ máy trơn, nhãn hư cấu.\n\nHƯỚNG NHÌN: Felix nhìn thẳng vào mặt Vance, Vance nhìn thẳng vào mặt Felix. Josh và Paige cùng nhìn về phía Felix. Người ở lớp sau nhìn về phía nhóm, tuyệt đối không ai nhìn camera.\n\nBIỂU CẢM: Felix bình thản và tỉnh táo, quai hàm thả lỏng. Vance chắc chắn mình đúng, khoé miệng nhếch. Josh và Paige cùng một nét cười khẩy kín đáo.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Felix mở lời đáp lại.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-M1-MASTER_v1.png",
+          "goc": "Cinematic Wide Shot toàn sảnh — FELIX giữa lối đi RÕ MẶT · VANCE chắn phía trước RÕ MẶT · JOSH chếch phải RÕ MẶT · PAIGE chếch trái RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "REF_BG_HARGROVE_SANH_SANG"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch",
+              "VANCE": "đứng chắn trước mặt Felix",
+              "JOSH": "đứng chếch phải sau vai Vance",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện"
+            },
+            "dist": "bảy mét, toàn cảnh",
+            "hands": {
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "tay trái giữ tấm thiếp, tay phải chỉ ra cửa",
+              "JOSH": "khoanh tay trước bụng",
+              "PAIGE": "một tay nâng điện thoại ngang ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "Vance nâng tấm danh thiếp, chưa hề đọc",
+          "desc": "",
+          "prompt": "MÁY QUAY: Trung cận, ống kính 50mm, camera ngang tầm ngực, đặt sau vai phải Felix, chĩa vào mặt Vance, cách khoảng một mét hai.\n\nAI VÀ ĐANG LÀM GÌ: VANCE chiếm giữa khung, hai tay nâng tấm danh thiếp lên ngang ngực, mặt in của tấm thiếp xoay hẳn về phía camera, đọc rõ hai chữ FELIX THORNE in chìm màu đen, chữ serif nhỏ, sắc nét. FELIX chỉ còn vai và gáy chiếm rìa phải tiền cảnh, out nét. JOSH lùi một bước ở lớp sau bên phải, thân người mờ.\n\nTAY: Vance kẹp hai mép trên của tấm thiếp bằng ngón cái và ngón trỏ hai bàn tay, các ngón còn lại duỗi. Tấm thiếp còn NGUYÊN VẸN, chưa rách, chưa gấp, chưa có nếp.\n\nHƯỚNG NHÌN: Vance nhìn chếch qua mép trên tấm thiếp về phía mặt Felix, tuyệt đối không nhìn xuống mặt chữ.\n\nBIỂU CẢM: Vance kiên nhẫn giả tạo, khoé miệng nhếch, đã quyết xong từ trước.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi hai ngón tay bắt đầu miết vào nhau để xé.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-02_v1.png",
+          "goc": "OTS qua vai FELIX → VANCE chính diện RÕ MẶT · FELIX vai và gáy tiền cảnh phải, out nét · JOSH mờ ở lớp sau bên phải",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PROP_DANH_THIEP"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)",
+              "VANCE": "đứng chắn trước mặt Felix",
+              "JOSH": "đứng chếch phải sau vai Vance (mờ)"
+            },
+            "dist": "một mét hai, trung cận",
+            "hands": {
+              "VANCE": "hai tay nâng tấm danh thiếp ngang ngực",
+              "FELIX": "hai tay buông xuôi",
+              "JOSH": "khoanh tay trước bụng"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B1",
+          "label": "🎬 NHỊP LẶNG — [NHỊP] người đàn ông không nhúc nhích",
+          "desc": "",
+          "prompt": "MÁY QUAY: Medium shot, ống kính 40mm, camera ngang tầm mắt, đặt trên lối đi chĩa thẳng vào Felix, cách khoảng ba mét.\n\nAI VÀ ĐANG LÀM GÌ: FELIX đứng chính giữa khung, từ hông trở lên, hai chân trụ vững, trọng tâm không dịch. VANCE đứng lệch trái khung ở cùng mặt phẳng chiều sâu, thân người mờ. JOSH đứng lệch phải, mờ. PAIGE đứng rìa phải ngoài Josh, mờ. Hai mảnh giấy kem nằm trên mặt cẩm thạch dưới chân Felix nằm ngoài khung, không nhìn thấy.\n\nTAY: Felix hai tay buông xuôi hai bên thân, các ngón duỗi thả lỏng, không nắm.\n\nHƯỚNG NHÌN: Felix nhìn thẳng về phía Vance ở rìa trái khung.\n\nBIỂU CẢM: Felix tuyệt đối bình thản, không giận, không tổn thương — ánh mắt của người đang ghi nhận chứ không đang chịu đựng. Ba người quanh ông giữ nét cười khẩy đã có.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bất kỳ ai trong khung nhúc nhích.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-B1_v1.png",
+          "goc": "Medium Shot — FELIX chính giữa RÕ MẶT · VANCE lệch trái, mờ · JOSH lệch phải, mờ · PAIGE rìa phải lớp sau, mờ",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch",
+              "VANCE": "đứng chắn trước mặt Felix (mờ)",
+              "JOSH": "đứng chếch phải sau vai Vance (mờ)",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện (mờ)"
+            },
+            "dist": "ba mét, trung cảnh",
+            "hands": {
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "hai tay buông",
+              "JOSH": "khoanh tay",
+              "PAIGE": "một tay nâng điện thoại"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-04",
+          "label": "Vòng vây cười khẩy — đội hình của cả sàn",
+          "desc": "",
+          "prompt": "MÁY QUAY: Medium-wide shot, ống kính 35mm, camera ngang tầm mắt, đặt chếch sau lưng phải Felix, chĩa vào ba nhân viên đang đứng thành hình vòng cung, cách khoảng bốn mét.\n\nAI VÀ ĐANG LÀM GÌ: VANCE đứng bên trái khung, JOSH đứng giữa, PAIGE đứng bên phải, cả ba cùng hướng vào một điểm ở tiền cảnh dưới. FELIX chỉ còn một mảng vai và gáy chiếm góc dưới khung, out nét. Ở lớp sau là dãy bàn vest và giá móc gỗ; hai nhân viên bán hàng khác đứng lùi xa hơn, quay mặt về phía nhóm.\n\nTAY: Vance hai tay chắp hờ trước bụng. Josh khoanh tay. Paige một tay nâng điện thoại ngang ngực, mặt kính hướng về phía tiền cảnh dưới — vỏ máy trơn, nhãn hư cấu.\n\nHƯỚNG NHÌN: cả ba cùng nhìn xuống chếch về phía mảng vai ở tiền cảnh. Hai người ở lớp sau nhìn về phía nhóm, không ai nhìn camera.\n\nBIỂU CẢM: cùng một sắc thái trên ba gương mặt — khoé miệng nhếch, cằm hơi hất, thứ khinh thường lịch sự cả sàn học từ một người.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi nụ cười ấy kịp giãn ra thành tiếng.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-04_v1.png",
+          "goc": "Medium-Wide Shot vòng vây — VANCE trái RÕ MẶT · JOSH giữa RÕ MẶT · PAIGE phải RÕ MẶT · FELIX vai và gáy tiền cảnh dưới, out nét",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)",
+              "VANCE": "đứng chắn trước mặt Felix",
+              "JOSH": "đứng chếch phải sau vai Vance",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện"
+            },
+            "dist": "bốn mét, trung-rộng",
+            "hands": {
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "chắp hờ trước bụng",
+              "JOSH": "khoanh tay",
+              "PAIGE": "một tay nâng điện thoại ngang ngực"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-05",
+          "label": "OTS qua vai Vance — Felix xin một phút",
+          "desc": "",
+          "prompt": "MÁY QUAY: Trung cận, ống kính 50mm, camera ngang tầm mắt, đặt sau vai trái Vance, chĩa vào mặt Felix, cách khoảng một mét rưỡi.\n\nAI VÀ ĐANG LÀM GÌ: FELIX chiếm giữa khung từ ngực trở lên, đứng thẳng, vai buông. VANCE chiếm rìa trái tiền cảnh bằng một mảng vai và gáy, out nét. JOSH và PAIGE đứng tách nhau ở lớp sau bên phải, cả hai đều mờ, giữa hai người thấy một khoảng cẩm thạch trống và chân giá móc gỗ.\n\nTAY: Felix hai tay vẫn buông xuôi hai bên thân, không giơ lên, không chỉ trỏ, không giơ ngón tay đếm.\n\nHƯỚNG NHÌN: Felix nhìn thẳng vào mảng vai ở tiền cảnh trái, tức nhìn thẳng mắt Vance.\n\nBIỂU CẢM: Felix điềm đạm, giọng chưa cất mà mặt đã có sức nặng của người sắp nói ra một thứ cả phòng chưa biết.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi môi Felix hé ra chữ đầu tiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-05_v1.png",
+          "goc": "OTS qua vai VANCE → FELIX chính diện RÕ MẶT · VANCE vai và gáy tiền cảnh trái, out nét · JOSH mờ ở lớp sau phải · PAIGE mờ ở lớp sau phải",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch",
+              "VANCE": "đứng chắn trước mặt Felix (mờ)",
+              "JOSH": "đứng chếch phải sau vai Vance (mờ)",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện (mờ)"
+            },
+            "dist": "một mét rưỡi, trung cận",
+            "hands": {
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "hai tay buông",
+              "JOSH": "khoanh tay",
+              "PAIGE": "một tay nâng điện thoại"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-06",
+          "label": "Hai mặt đối nhau — Felix đọc hồ sơ Vance",
+          "desc": "",
+          "prompt": "MÁY QUAY: Trung cận, Profile Two-Shot, ống kính 50mm, camera ngang tầm mắt, đặt vuông góc với trục nhìn của hai người, cách khoảng hai mét.\n\nAI VÀ ĐANG LÀM GÌ: VANCE đứng bên trái khung nhìn ngang sang phải, FELIX đứng bên phải khung nhìn ngang sang trái, hai người cách nhau chừng một cánh tay, cùng một mặt phẳng chiều sâu. JOSH và PAIGE đứng lùi ở lớp sau khoảng giữa hai người, cả hai đều mờ.\n\nTAY: Felix hai tay buông xuôi. Vance một tay đang thả xuống dở chừng, các ngón còn hơi mở như vừa buông vật gì.\n\nHƯỚNG NHÌN: hai người nhìn thẳng vào mắt nhau, không ai quay đi.\n\nBIỂU CẢM: Felix bình thản, đang nêu một dữ kiện chứ không đang buộc tội. Vance vẫn còn nguyên vẻ tự tin của khoảnh khắc trước, chưa kịp hiểu mình vừa nghe thấy gì.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Felix nói ra chữ đầu tiên của cái tên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-06_v1.png",
+          "goc": "Trung cận Profile Two-Shot — FELIX bên phải RÕ MẶT · VANCE bên trái RÕ MẶT · JOSH mờ ở lớp sau · PAIGE mờ ở lớp sau",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "FELIX": "đứng yên giữa lối đi cẩm thạch",
+              "VANCE": "đứng chắn trước mặt Felix",
+              "JOSH": "đứng chếch phải sau vai Vance (mờ)",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện (mờ)"
+            },
+            "dist": "hai mét, trung cận",
+            "hands": {
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "một tay thả xuống dở chừng",
+              "JOSH": "khoanh tay",
+              "PAIGE": "một tay nâng điện thoại"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B2",
+          "label": "🎬 NHỊP LẶNG — [NHỊP] nụ cười khẩy chớp tắt",
+          "desc": "",
+          "prompt": "MÁY QUAY: Close-up, ống kính 85mm, camera ngang tầm mắt, đặt sau vai trái Felix, chĩa vào mặt Vance, cách khoảng tám mươi phân.\n\nAI VÀ ĐANG LÀM GÌ: VANCE chiếm gần trọn khung từ vai trở lên, chính diện. FELIX chỉ còn một mảng vai và gáy sát rìa trái tiền cảnh, out nét, đủ để ép chiều sâu lại. Sau lưng Vance chỉ là mảng cẩm thạch và một cạnh bàn gỗ, xoá nét mạnh, không có đám đông nào lọt vào khung.\n\nTAY: không có bàn tay nào lọt vào khung.\n\nHƯỚNG NHÌN: Vance nhìn thẳng vào mảng vai tiền cảnh trái, tức nhìn thẳng mắt Felix.\n\nBIỂU CẢM: đúng nửa giây nụ cười khẩy còn nằm trên mặt nhưng đã rỗng — khoé miệng vẫn nhếch mà mắt thì đã đứng lại, một nếp cơ nhỏ ở gò má vừa giật. Người vừa nghe tên mình và số năm làm việc của mình từ miệng một người lạ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi khoé miệng ấy tụt xuống.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-B2_v1.png",
+          "goc": "Close-Up — VANCE chính diện RÕ MẶT · FELIX vai và gáy tiền cảnh trái, out nét",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "VANCE": "đứng chắn trước mặt Felix",
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)"
+            },
+            "dist": "tám mươi phân, cận",
+            "hands": {
+              "VANCE": "không lọt khung",
+              "FELIX": "không lọt khung"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-08",
+          "label": "Josh và Paige nghe tên mình",
+          "desc": "",
+          "prompt": "MÁY QUAY: Trung, Medium Two-Shot, ống kính 40mm, camera ngang tầm mắt, đặt bên vai trái Felix, chĩa chếch sang phải vào Josh và Paige, cách khoảng hai mét rưỡi.\n\nAI VÀ ĐANG LÀM GÌ: JOSH đứng bên trái khung, PAIGE đứng bên phải khung, hai người cách nhau một khoảng cẩm thạch rõ ràng, cùng một mặt phẳng chiều sâu. FELIX chiếm rìa trái tiền cảnh bằng một mảng vai, out nét. VANCE lọt sát rìa trái ngoài cùng, mờ. Sau lưng hai người là quầy nước hoa mặt kính.\n\nTAY: Josh vừa buông hai tay khoanh xuống, một tay còn đặt hờ trên khuỷu tay kia. Paige hai tay nâng chiếc điện thoại lên ngang ngực, mặt kính hướng ra phía Felix, ngón cái phải đặt hờ trên rìa máy — vỏ máy trơn, nhãn hư cấu.\n\nHƯỚNG NHÌN: cả Josh và Paige cùng bật mắt sang trái về phía mảng vai ở tiền cảnh.\n\nBIỂU CẢM: Josh sững, nụ cười nghề nghiệp còn dở dang. Paige mở lớn mắt, môi hé, kiểu người vừa bị gọi tên trong lúc tưởng mình đứng ngoài chuyện.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Paige kịp hạ chiếc điện thoại xuống.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-08_v1.png",
+          "goc": "Trung Medium Two-Shot — JOSH bên trái RÕ MẶT · PAIGE bên phải RÕ MẶT · FELIX vai tiền cảnh trái, out nét · VANCE mờ sát rìa trái",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "JOSH": "đứng chếch phải sau vai Vance",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện",
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)",
+              "VANCE": "đứng chắn trước mặt Felix (mờ)"
+            },
+            "dist": "hai mét rưỡi, trung cảnh",
+            "hands": {
+              "JOSH": "một tay đặt hờ trên khuỷu tay kia",
+              "PAIGE": "hai tay nâng điện thoại ngang ngực",
+              "FELIX": "hai tay buông xuôi",
+              "VANCE": "hai tay buông"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-B3",
+          "label": "🎬 NHỊP LẶNG — [NHỊP] từng chiếc điện thoại hạ xuống",
+          "desc": "",
+          "prompt": "MÁY QUAY: Medium shot, ống kính 40mm, camera ngang tầm ngực, đặt bên vai phải Felix, chĩa vào hàng ba người đang đứng, cách khoảng ba mét.\n\nAI VÀ ĐANG LÀM GÌ: JOSH đứng bên trái khung, PAIGE đứng giữa, VANCE đứng bên phải, cả ba trên cùng một mặt phẳng chiều sâu. FELIX chiếm rìa phải tiền cảnh bằng một mảng vai và gáy, out nét. Ở lớp sau, hai nhân viên bán hàng khác cũng đứng yên, tay còn cầm máy sát hông. Trên ve áo mỗi người là bảng tên kim loại khắc chữ HARGROVE, không có tên riêng nào.\n\nTAY: Paige hai tay đã hạ chiếc điện thoại xuống ngang bụng, mặt kính úp vào người. Josh một tay cầm máy thả dọc theo đùi. Vance hai tay chắp trước bụng. Mọi vỏ máy đều trơn, nhãn hư cấu.\n\nHƯỚNG NHÌN: cả ba cùng nhìn về phía mảng vai ở tiền cảnh phải, không ai nhìn camera.\n\nBIỂU CẢM: sắc mặt cả hàng đã đổi — không còn nét cười nào, chỉ còn sự cảnh giác của người vừa hiểu ra người lạ trước mặt biết thứ không in trên áo họ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi ai đó trong hàng kịp lên tiếng.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-B3_v1.png",
+          "goc": "Medium Shot — JOSH bên trái RÕ MẶT · PAIGE giữa RÕ MẶT · VANCE bên phải RÕ MẶT · FELIX vai và gáy tiền cảnh phải, out nét",
+          "refs": {
+            "chars": [
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh",
+            "who": {
+              "JOSH": "đứng chếch phải sau vai Vance",
+              "PAIGE": "đứng chếch trái cạnh quầy phụ kiện",
+              "VANCE": "đứng chắn trước mặt Felix",
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)"
+            },
+            "dist": "ba mét, trung cảnh",
+            "hands": {
+              "JOSH": "một tay cầm máy thả dọc đùi",
+              "PAIGE": "hai tay hạ điện thoại xuống ngang bụng",
+              "VANCE": "chắp tay trước bụng",
+              "FELIX": "hai tay buông xuôi"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-M2-MASTER",
+          "label": "MASTER Cụm 2 — chân thang cuốn, giám đốc vòng ra",
+          "desc": "",
+          "prompt": "MÁY QUAY: Cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, đặt cạnh cây đàn piano ở cuối sảnh, chĩa ngược trục về phía cửa kính mặt tiền, bao trọn chân thang cuốn ở tiền cảnh phải và lòng sảnh chạy hút về phía sau.\n\nAI VÀ ĐANG LÀM GÌ: DIRECTOR vừa vòng qua thành ốp đồng ở chân thang cuốn, đứng chiếm khoảng một phần ba bên phải khung, bàn chân trước còn đang bước dở, cả người khựng lại. Ở rất xa phía cuối lối đi, FELIX đứng quay mặt về hướng camera, nhỏ trong khung nhưng nhận ra được, chính là dáng người và vị trí đúng như ảnh Master tham chiếu SF-S1-M1-MASTER — lấy đúng 100% không gian, khoảng cách và tư thế theo ảnh đó, không tự ý dựng mới. Vây quanh ông ở lớp xa chỉ còn là mấy dáng người sẫm màu, rất nhỏ, ngoài nét, không đọc được mặt.\n\nTAY: Director một tay còn đặt hờ trên thành ốp đồng của thang cuốn, tay kia buông xuôi.\n\nHƯỚNG NHÌN: Director nhìn hút theo lối đi về phía dáng người ở cuối sảnh. Không ai nhìn camera.\n\nBIỂU CẢM: Director sững hoàn toàn, mắt mở, hàm hơi trễ — người vừa nhận ra một gương mặt lẽ ra không thể có mặt ở đây.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bàn chân đang bước dở của Director chạm xuống mặt cẩm thạch.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-M2-MASTER_v1.png",
+          "goc": "Cinematic Wide Shot chân thang cuốn — DIRECTOR tiền cảnh phải RÕ MẶT · FELIX ở cuối sảnh rất xa, nhỏ, RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT",
+              "REF_DIRECTOR_FULL",
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_HARGROVE_SANH_SANG"
+          },
+          "pose": {
+            "zone": "loi di giua sanh, chan thang cuon",
+            "who": {
+              "DIRECTOR": "đứng khựng ở chân thang cuốn",
+              "FELIX": "đứng yên giữa lối đi cẩm thạch"
+            },
+            "dist": "chân thang cuốn ở tiền cảnh, lối đi hút xa",
+            "hands": {
+              "DIRECTOR": "một tay đặt hờ trên thành ốp đồng",
+              "FELIX": "hai tay buông xuôi"
+            }
+          }
+        },
+        {
+          "id": "SF-S1-12",
+          "label": "Giám đốc nín thở — gọi đúng cái tên",
+          "desc": "",
+          "prompt": "MÁY QUAY: Close-up, ống kính 85mm, camera ngang tầm mắt, đặt ngay cạnh chân thang cuốn, chĩa vào mặt Director, cách khoảng chín mươi phân, trục nhìn giữ nguyên hướng về phía lòng sảnh.\n\nAI VÀ ĐANG LÀM GÌ: DIRECTOR chiếm gần trọn khung từ vai trở lên, chính diện hơi chếch. Ở rất xa phía sau bà, hút cuối lối đi, FELIX chỉ còn là một dáng người nhỏ và out nét hoàn toàn, giữ đúng vị trí trong ảnh Master tham chiếu SF-S1-M1-MASTER. Ngoài dáng người đó, hậu cảnh chỉ còn mảng cẩm thạch và ánh sáng cửa kính bị xoá nét mạnh.\n\nTAY: không có bàn tay nào lọt vào khung.\n\nHƯỚNG NHÌN: Director nhìn hút về phía dáng người ở lớp sau xa, đồng tử đứng yên.\n\nBIỂU CẢM: nín thở đúng nghĩa đen — lồng ngực dừng giữa nhịp, môi hé một khe rất nhỏ, mắt mở to, máu rút khỏi mặt. Đây là gương mặt của người duy nhất trong toà nhà hiểu chuyện gì vừa xảy ra.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi tiếng gọi bật ra khỏi miệng bà.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S1-12_v1.png",
+          "goc": "Close-Up — DIRECTOR chính diện RÕ MẶT · FELIX ở lớp sau rất xa, nhỏ, out nét",
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT",
+              "REF_DIRECTOR_FULL",
+              "REF_FELIX_PORTRAIT",
+              "REF_FELIX_FULL",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "SF-S1-M2-MASTER"
+          },
+          "pose": {
+            "zone": "loi di giua sanh, chan thang cuon",
+            "who": {
+              "DIRECTOR": "đứng khựng ở chân thang cuốn",
+              "FELIX": "đứng yên giữa lối đi cẩm thạch (mờ)"
+            },
+            "dist": "chín mươi phân, cận",
+            "hands": {
+              "DIRECTOR": "không lọt khung",
+              "FELIX": "hai tay buông xuôi"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-M1-MASTER",
+          "dur": 6,
+          "text": "VANCE: \"Whoever you are, you're nobody here. Security — walk this outlet shopper out.\"",
+          "music": null,
+          "goc": "Cinematic Wide Shot toàn sảnh — FELIX giữa lối đi RÕ MẶT · VANCE chắn phía trước RÕ MẶT · JOSH chếch phải RÕ MẶT · PAIGE chếch trái RÕ MẶT",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nVance đang làm đúng cái việc anh ta làm giỏi nhất: dọn một người mà anh ta cho là không đáng ra khỏi sàn của mình, và làm sao cho cả sảnh cùng nhìn thấy. Felix đứng nguyên chỗ cũ, không lùi nửa bước. Josh và Paige hưởng ứng bằng thái độ chứ không bằng lời.\n\nVANCE — firm, dismissive: \"Whoever you are, you're nobody here. Security — walk this outlet shopper out.\"\n\nFELIX — silent, calm and unhurried\nJOSH — silent, faintly amused\nPAIGE — silent, watching\n\nQUẦN CHÚNG NỀN — nhân viên và khách ở lớp sau khựng lại giữa việc, khẽ dịch trọng tâm, quay đầu về phía nhóm, murmuring softly.\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 6,
+          "text": "NARRATOR: The floor manager tore the plain business card in half without reading it. Dropped both pieces on the marble.",
+          "music": null,
+          "goc": "OTS qua vai FELIX → VANCE chính diện RÕ MẶT · FELIX vai và gáy tiền cảnh phải, out nét · JOSH mờ ở lớp sau bên phải",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n- JOSH = 32 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nVance dứt khoát loại bỏ thứ vừa được đưa cho mình mà không buồn đọc, rồi bỏ nó xuống đất như bỏ một mẩu rác. Trong tay anh ta là tấm danh thiếp còn nguyên vẹn ở khung đầu; suốt clip anh ta xé đôi nó và thả cả hai mảnh rơi xuống mặt cẩm thạch.\n\nVANCE — unbothered, faintly pleased with himself\nFELIX — silent, unmoving\nJOSH — silent, watching\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-B1",
+          "sf": "SF-S1-B1",
+          "dur": 6,
+          "text": "[NHỊP] Vòng vây khựng lại, người đàn ông giữa sảnh không nhúc nhích.\nNARRATOR: The Black man in the worn canvas jacket didn't move.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Giây thứ mười lăm của hook — chỗ duy nhất ở đầu phim nhạc được phép chiếm sân khấu, để ghim người xem lại đúng lúc hình chỉ có một người đứng yên.",
+            "a_kind": "có lời",
+            "a": "Cinematic soul-noir at 74 BPM, half-time drums entering on the second bar over a deep felt-mallet pulse; a male baritone singing low and very close to the mic, almost spoken, never raised; upright bass and one tremolo electric guitar line under wide brass swells that build for twenty seconds then cut away to bass and voice alone; lyrics about standing perfectly still in a room that has already decided who you are, never triumphant, never bitter; warm analog mix, tape saturation, male vocal, cinematic soul, brass, tense",
+            "b_kind": "không lời",
+            "b": "Cinematic score at 74 BPM, no vocals; a single low piano note repeating like a clock, cellos entering underneath and climbing in slow half-steps, a deep floor drum arriving at eight seconds, one brass cluster opening at the peak then dropping straight back to the lone piano note; dry and close, almost no reverb tail; orchestral, brass, cello, tense, instrumental"
+          },
+          "goc": "Medium Shot — FELIX chính giữa RÕ MẶT · VANCE lệch trái, mờ · JOSH lệch phải, mờ · PAIGE rìa phải lớp sau, mờ",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, mờ ở khung hình, im như tượng\n- JOSH = 32 tuổi, da trắng, mờ ở khung hình, im như tượng\n- PAIGE = 26 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không ai mấp máy môi. Chỉ được phép có phản ứng âm thanh ngắn không lời.\n\nTrạng thái: Felix vừa bị chặn ở giữa sảnh, bị định giá bằng bộ đồ trên người và bị đuổi trước mặt cả một tầng. Nội tâm ông không hoảng và cũng không giận — ông đang ghi nhận. Gợi ý diễn biến: giữ ông tuyệt đối bất động, trọng tâm không dịch, chỉ có nhịp thở rất chậm và một cái chớp mắt duy nhất; ba người quanh ông chỉ khẽ đổi trọng tâm.\n\nÂm thanh: không nhạc, không thoại. Chỉ ambient của sảnh — tiếng bước chân xa trên cẩm thạch, tiếng vải sột soạt rất khẽ, tiếng thở.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04",
+          "dur": 6,
+          "text": "NARRATOR: Around him, the staff of the city's most expensive store smirked in formation.",
+          "music": null,
+          "goc": "Medium-Wide Shot vòng vây — VANCE trái RÕ MẶT · JOSH giữa RÕ MẶT · PAIGE phải RÕ MẶT · FELIX vai và gáy tiền cảnh dưới, out nét",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nBa nhân viên đang cùng hưởng một trò vui miễn phí mà không ai thấy cần phải giấu. Nét khinh thường lan từ người này sang người kia như một thói quen chung của cả sàn.\n\nVANCE — silent, quietly satisfied\nJOSH — silent, smirking\nPAIGE — silent, amused\nFELIX — silent, still\n\nQUẦN CHÚNG NỀN — hai nhân viên bán hàng ở lớp sau dừng tay, hơi nghiêng người về phía nhóm, subtle natural movements.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05",
+          "dur": 6,
+          "text": "FELIX: \"One minute,\"\nNARRATOR: Felix Thorne said quietly.\nFELIX: \"First — introductions.\"",
+          "music": null,
+          "goc": "OTS qua vai VANCE → FELIX chính diện RÕ MẶT · VANCE vai và gáy tiền cảnh trái, out nét · JOSH mờ ở lớp sau phải · PAIGE mờ ở lớp sau phải",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, mờ ở khung hình, im như tượng\n- JOSH = 32 tuổi, da trắng, mờ ở khung hình, im như tượng\n- PAIGE = 26 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nFelix xin lại quyền dẫn dắt cuộc trò chuyện bằng đúng một câu, không cao giọng, không giơ tay, không bước tới. Ông chỉ đứng yên và nói.\n\nFELIX — quiet, unhurried: \"One minute,\" rồi ngừng đúng một nhịp thở, \"First — introductions.\"\n\nVANCE — silent, still expecting to win\nJOSH — silent, listening\nPAIGE — silent, listening\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-06",
+          "dur": 6,
+          "text": "NARRATOR: He looked at the floor manager.\nFELIX: \"Sterling Vance. Floor manager. Eleven years. Three buried customer complaints.\"",
+          "music": null,
+          "goc": "Trung cận Profile Two-Shot — FELIX bên phải RÕ MẶT · VANCE bên trái RÕ MẶT · JOSH mờ ở lớp sau · PAIGE mờ ở lớp sau",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, mờ ở khung hình, im như tượng\n- PAIGE = 26 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nFelix đọc lại hồ sơ của người đang đứng trước mặt như đọc một dòng dữ kiện, đều đặn, không nhấn, không kết tội. Vance nghe tên mình và số năm làm việc của mình phát ra từ miệng một người lạ.\n\nFELIX — quiet, matter-of-fact: \"Sterling Vance. Floor manager. Eleven years. Three buried customer complaints.\"\n\nVANCE — silent, confidence beginning to slip\nJOSH — silent, listening\nPAIGE — silent, listening\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-B2",
+          "sf": "SF-S1-B2",
+          "dur": 6,
+          "text": "[NHỊP] Nụ cười khẩy trên mặt Vance chớp tắt.\nNARRATOR: The smirk flickered.",
+          "music": {
+            "role": "KÌM",
+            "emo": "Vance vừa nghe hồ sơ của chính mình bị đọc lên. Nhạc phải nhỏ hơn cú sốc thật, để khán giả tự nhìn thấy vết nứt trên mặt anh ta.",
+            "a_kind": "có lời",
+            "a": "Slow-burn soul at 62 BPM with a female alto sung very close to the mic, smoky and slightly worn, half-spoken in places; only Rhodes, brushed snare and upright bass, no swell at all, one held organ note appearing in the last four seconds and fading out unresolved; lyrics about a stranger reading your own name back to you and already knowing the rest, quiet, never accusing; dry intimate mix, female vocal, soul, restrained, sparse",
+            "b_kind": "không lời",
+            "b": "Minimal underscore at 60 BPM, no vocals; muted double-bass pizzicato on every second beat, one detuned Rhodes chord decaying very slowly, faint room tone underneath, no percussion, no arc, ending unresolved; extremely dry close mix, minimal, rhodes, upright bass, uneasy, instrumental"
+          },
+          "goc": "Close-Up — VANCE chính diện RÕ MẶT · FELIX vai và gáy tiền cảnh trái, out nét",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera TĨNH hoàn toàn.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không ai mấp máy môi. Chỉ được phép có phản ứng âm thanh ngắn không lời.\n\nTrạng thái: Vance vừa nghe đúng ba dữ kiện mà lẽ ra chỉ hồ sơ nhân sự mới có. Nội tâm anh ta đang cố giữ lại cái thế thượng phong vừa mất, và không giữ nổi. Gợi ý diễn biến: cho khoé miệng còn nhếch thêm nửa giây rồi trượt xuống, một cái nuốt khan, mắt chớp một lần rồi đứng lại; tuyệt đối không quay đầu, không lùi.\n\nÂm thanh: không nhạc, không thoại. Chỉ ambient của sảnh — tiếng bước chân xa trên cẩm thạch, tiếng vải sột soạt rất khẽ, tiếng thở.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-08",
+          "sf": "SF-S1-08",
+          "dur": 6,
+          "text": "FELIX: \"Josh Pemberton. Senior associate, six years. Paige Dunmore, two years — currently posting me on her story.\"",
+          "music": null,
+          "goc": "Trung Medium Two-Shot — JOSH bên trái RÕ MẶT · PAIGE bên phải RÕ MẶT · FELIX vai tiền cảnh trái, out nét · VANCE mờ sát rìa trái",
+          "prompt": "Nhận diện:\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n- VANCE = 45 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nFelix chuyển mục tiêu sang hai người đứng ngoài rìa, những người vẫn tưởng mình chỉ là khán giả. Câu cuối chạm thẳng vào việc Paige đang làm ngay lúc đó.\n\nFELIX — quiet, precise: \"Josh Pemberton. Senior associate, six years. Paige Dunmore, two years — currently posting me on her story.\"\n\nJOSH — silent, caught off guard\nPAIGE — silent, eyes widening\nVANCE — silent, motionless\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-B3",
+          "sf": "SF-S1-B3",
+          "dur": 6,
+          "text": "[NHỊP] Từng chiếc điện thoại hạ xuống, cả hàng đứng im.\nNARRATOR: Phones lowered, one by one. Nobody had a name tag with any of that on it.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Cả sàn vừa đổi chiều trong im lặng. Nhạc đi cùng cú lật quyền lực nhưng phải chừa chỗ cho lời dẫn nằm lên trên.",
+            "a_kind": "có lời",
+            "a": "Gospel-tinged soul at 84 BPM at a walking pace; a male tenor entering at four seconds, warm and grainy, sung close to the mic; Hammond organ pad, brushed kit and a bass line stepping upward every two bars, hand claps arriving late and quiet; lyrics about a room learning one name at a time and every face turning, hopeful but held back; warm analog mix, male vocal, gospel soul, organ, rising",
+            "b_kind": "không lời",
+            "b": "Instrumental build at 86 BPM; a muted trumpet playing a four-note figure over a shuffling brush pattern, double bass walking upward, a shaker entering halfway and a low string pad opening at the end without resolving; warm tape mix, no vocals, jazz noir, trumpet, upright bass, rising, instrumental"
+          },
+          "goc": "Medium Shot — JOSH bên trái RÕ MẶT · PAIGE giữa RÕ MẶT · VANCE bên phải RÕ MẶT · FELIX vai và gáy tiền cảnh phải, out nét",
+          "prompt": "Nhận diện:\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nKHÔNG CÓ LỜI THOẠI TRONG CLIP NÀY. Tuyệt đối không ai mở miệng nói, không ai mấp máy môi. Chỉ được phép có phản ứng âm thanh ngắn không lời.\n\nTrạng thái: cả hàng vừa hiểu ra rằng người lạ trước mặt biết những thứ không hề in trên bảng tên của họ. Nội tâm: cảnh giác, và bắt đầu sợ theo kiểu rất người lớn — sợ cho công việc của mình. Gợi ý diễn biến: cho Paige hạ hẳn máy xuống ngang bụng và úp mặt kính vào người, Josh thả tay cầm máy dọc theo đùi, Vance chỉ siết nhẹ hai bàn tay đang chắp; ai cũng giữ nguyên chỗ đứng.\n\nÂm thanh: không nhạc, không thoại. Chỉ ambient của sảnh — tiếng bước chân xa trên cẩm thạch, tiếng vải sột soạt rất khẽ, tiếng thở.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-10",
+          "sf": "SF-S1-B2",
+          "dur": 6,
+          "text": "VANCE: \"How—\"\nNARRATOR: Vance's mouth went dry.\nVANCE: \"How do you know our—\"",
+          "music": null,
+          "goc": "Close-Up — VANCE chính diện RÕ MẶT · FELIX vai và gáy tiền cảnh trái, out nét",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nVance cố hỏi cho ra lẽ nhưng câu hỏi gãy làm đôi ngay trong miệng anh ta. Anh ta vẫn đứng nguyên chỗ cũ, không lùi, không quay đi.\n\nVANCE — unsteady, losing voice: \"How—\" rồi nuốt khan một cái, \"How do you know our—\"\n\nFELIX — silent, waiting\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-11",
+          "sf": "SF-S1-M2-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: At the bottom of the escalator, the store director rounded the corner, saw the man in the cheap jacket,",
+          "music": null,
+          "goc": "Cinematic Wide Shot chân thang cuốn — DIRECTOR tiền cảnh phải RÕ MẶT · FELIX ở cuối sảnh rất xa, nhỏ, RÕ MẶT",
+          "prompt": "Nhận diện:\n- DIRECTOR = 50 tuổi, da trắng, áo màu xanh rêu\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm về phía Director.\n\nDirector đang đi công việc bình thường của mình thì vòng qua chân thang cuốn và bắt gặp một thứ khiến cả người bà dừng lại giữa bước. Suốt clip bà chỉ khựng lại và nhìn hút theo lối đi, tuyệt đối không bước tới.\n\nDIRECTOR — silent, stopped mid-step, recognition landing\nFELIX — silent, standing very far away at the end of the aisle\n\nQUẦN CHÚNG NỀN — mấy dáng người ở lớp xa quanh Felix chỉ nhúc nhích rất khẽ, ngoài nét, không tiến lại gần.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-12",
+          "sf": "SF-S1-12",
+          "dur": 6,
+          "text": "NARRATOR: and stopped breathing.\nDIRECTOR: \"Mr. Thorne?!\"",
+          "music": null,
+          "goc": "Close-Up — DIRECTOR chính diện RÕ MẶT · FELIX ở lớp sau rất xa, nhỏ, out nét",
+          "prompt": "Nhận diện:\n- DIRECTOR = 50 tuổi, da trắng, áo màu xanh rêu\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nDirector nín thở đúng nghĩa đen trong hơn một giây rồi bật ra cái tên mà cả tầng này chưa ai từng nghe. Bà không bước, không giơ tay, chỉ đứng và gọi.\n\nDIRECTOR — breathless, disbelieving: \"Mr. Thorne?!\"\n\nFELIX — silent, very small and out of focus at the far end of the hall\n\nÂm thanh: CHỈ thoại nhân vật, tiếng Anh giọng Mỹ, rõ lời. Không nhạc, không lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-13",
+          "sf": "SF-S1-M1-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: Have you ever watched an entire room realize — at the same second — that they just humiliated the man",
+          "music": null,
+          "goc": "Cinematic Wide Shot toàn sảnh — FELIX giữa lối đi RÕ MẶT · VANCE chắn phía trước RÕ MẶT · JOSH chếch phải RÕ MẶT · PAIGE chếch trái RÕ MẶT",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nCả sảnh đông cứng cùng một lúc. Không ai còn giữ được cái thế mình có ở đầu clip trước: cánh tay đang chỉ hạ xuống, hai người hai bên thu người lại, và người đàn ông giữa lối đi vẫn đứng nguyên chỗ cũ.\n\nVANCE — silent, arm lowering, face emptying\nJOSH — silent, smile gone\nPAIGE — silent, frozen\nFELIX — silent, unchanged\n\nQUẦN CHÚNG NỀN — nhân viên và khách ở lớp sau đứng khựng, vài người khẽ quay đầu về phía nhóm, subtle natural movements.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-14",
+          "sf": "SF-S1-08",
+          "dur": 6,
+          "text": "NARRATOR: holding all their careers in his memory, because you are about to, so drop a comment below,",
+          "music": null,
+          "goc": "Trung Medium Two-Shot — JOSH bên trái RÕ MẶT · PAIGE bên phải RÕ MẶT · FELIX vai tiền cảnh trái, out nét · VANCE mờ sát rìa trái",
+          "prompt": "Nhận diện:\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n- FELIX = 59 tuổi, da đen, mờ ở khung hình, im như tượng\n- VANCE = 45 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nHai người vừa bị gọi đúng tên đang tính nhẩm xem người đàn ông kia còn biết những gì nữa về mình. Nỗi sợ ở đây là nỗi sợ nghề nghiệp, rất im lặng.\n\nJOSH — silent, doing the math and not liking it\nPAIGE — silent, phone forgotten in her hands\nVANCE — silent, motionless\nFELIX — silent, still\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S1-15",
+          "sf": "SF-S1-05",
+          "dur": 6,
+          "text": "NARRATOR: smash that like, and let me take you back to where it started.",
+          "music": null,
+          "goc": "OTS qua vai VANCE → FELIX chính diện RÕ MẶT · VANCE vai và gáy tiền cảnh trái, out nét · JOSH mờ ở lớp sau phải · PAIGE mờ ở lớp sau phải",
+          "prompt": "Nhận diện:\n- FELIX = 59 tuổi, da đen, áo màu be-nâu bạc\n- VANCE = 45 tuổi, da trắng, mờ ở khung hình, im như tượng\n- JOSH = 32 tuổi, da trắng, mờ ở khung hình, im như tượng\n- PAIGE = 26 tuổi, da trắng, mờ ở khung hình, im như tượng\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN rất chậm vào mặt Felix.\n\nKhung khép lại quanh gương mặt Felix, người duy nhất trong sảnh biết trước mọi thứ sắp xảy ra. Ông không thắng, không hả hê — ông chỉ đang chờ xem người trước mặt sẽ chọn nói gì tiếp.\n\nFELIX — silent, unreadable and completely awake\nVANCE — silent, still\nJOSH — silent, still\nPAIGE — silent, still\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — Hargrove chết chậm · sàn hàng đẹp mà không ai bước vào",
+      "sfs": [
+        {
+          "id": "SF-S2-M1-MASTER",
+          "label": "MASTER Cụm 1 — sảnh giữa tuần, hàng đẹp mà không có khách",
+          "desc": "",
+          "prompt": "MÁY QUAY: Cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, đặt chếch từ lối đi giữa nhìn sang khu bán vest bên trái, bao trọn ba bàn gỗ, giá móc và mảng sàn cẩm thạch trống trước mặt chúng.\n\nAI VÀ ĐANG LÀM GÌ: VANCE đứng giữa khung bên bàn vest thứ hai, đang chỉnh lại ve một bộ vest đã gấp sẵn ngay ngắn từ trước. JOSH đứng lệch trái phía đầu giá móc, một chân trụ, đang giết thời gian. PAIGE đứng lệch phải ở đầu quầy phụ kiện. Cả mảng sàn rộng trước ba bàn vest trống không, chỉ có đúng một vị khách đứng tuổi đang đi ngang phía sau xa và một nhân viên bán hàng khác đứng bất động ở cuối dãy giá.\n\nTAY: Vance hai ngón tay vuốt dọc mép ve áo bộ vest trên bàn. Josh hai tay chắp sau lưng. Paige một tay tì lên mặt kính quầy.\n\nHƯỚNG NHÌN: Vance nhìn xuống bộ vest trong tay. Josh nhìn hút về phía cửa kính mặt tiền. Paige nhìn dọc theo quầy. Không ai nhìn nhau, không ai nhìn camera.\n\nBIỂU CẢM: cả ba đều trống rỗng theo kiểu nghề nghiệp — không buồn, không bực, chỉ là ba người đang có quá nhiều thời gian trong một buổi làm việc lẽ ra phải bận.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Vance buông ve áo ra.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S2-M1-MASTER_v1.png",
+          "goc": "Cinematic Wide Shot khu bán vest — VANCE giữa khung RÕ MẶT · JOSH lệch trái RÕ MẶT · PAIGE lệch phải RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "REF_BG_HARGROVE_SANH_SANG"
+          },
+          "pose": {
+            "zone": "khu ban vest ben trai",
+            "who": {
+              "VANCE": "đứng bên bàn vest thứ hai",
+              "JOSH": "đứng ở đầu giá móc",
+              "PAIGE": "đứng ở đầu quầy phụ kiện"
+            },
+            "dist": "toàn cảnh khu bán vest",
+            "hands": {
+              "VANCE": "hai ngón vuốt mép ve áo bộ vest",
+              "JOSH": "chắp tay sau lưng",
+              "PAIGE": "một tay tì lên mặt kính quầy"
+            }
+          }
+        },
+        {
+          "id": "SF-S2-17",
+          "label": "Ba người và một sàn hàng không ai bước vào",
+          "desc": "",
+          "prompt": "MÁY QUAY: Medium shot, ống kính 40mm, camera ngang tầm ngực, đặt trên lối đi giữa, chĩa ngang vào ba người ở khu bán vest, cách khoảng ba mét.\n\nAI VÀ ĐANG LÀM GÌ: VANCE đứng bên trái khung sau bàn vest, JOSH đứng giữa khung, PAIGE đứng bên phải khung, ba người cùng một mặt phẳng chiều sâu, cách nhau những khoảng trống rõ rệt. Vị khách đứng tuổi đã đi khuất, mảng sàn phía sau họ hoàn toàn trống người.\n\nTAY: Vance vừa buông ve áo, các ngón còn hơi mở. Josh một tay xoay nhẹ chiếc móc gỗ trên giá bên cạnh. Paige hai tay đặt song song trên mặt kính quầy.\n\nHƯỚNG NHÌN: cả ba đều nhìn về phía cửa kính mặt tiền ở ngoài rìa phải khung, chờ một người bước vào.\n\nBIỂU CẢM: Vance vẫn giữ dáng bộ của người làm chủ sàn, cằm hất, nhưng mắt đã trống. Josh chán. Paige lơ đãng. Ba trạng thái mệt mỏi khác nhau của cùng một buổi chiều không có khách.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi một trong ba người thở hắt ra.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S2-17_v1.png",
+          "goc": "Medium Shot — VANCE bên trái RÕ MẶT · JOSH giữa RÕ MẶT · PAIGE bên phải RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_VANCE_PORTRAIT",
+              "REF_VANCE_FULL",
+              "REF_JOSH_PORTRAIT",
+              "REF_JOSH_FULL",
+              "REF_PAIGE_PORTRAIT",
+              "REF_PAIGE_FULL"
+            ],
+            "bg": "SF-S2-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khu ban vest ben trai",
+            "who": {
+              "VANCE": "đứng bên bàn vest thứ hai",
+              "JOSH": "đứng ở đầu giá móc",
+              "PAIGE": "đứng ở đầu quầy phụ kiện"
+            },
+            "dist": "ba mét, trung cảnh",
+            "hands": {
+              "VANCE": "vừa buông ve áo, ngón còn mở",
+              "JOSH": "một tay xoay chiếc móc gỗ",
+              "PAIGE": "hai tay đặt song song trên mặt kính quầy"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S2-16",
+          "sf": "SF-S2-M1-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: Hargrove and Sons had been dressing this city's money for ninety years, and for the last six of them,",
+          "music": null,
+          "goc": "Cinematic Wide Shot khu bán vest — VANCE giữa khung RÕ MẶT · JOSH lệch trái RÕ MẶT · PAIGE lệch phải RÕ MẶT",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm vào khu bán vest.\n\nBa người đang giữ cho một sàn hàng đẹp đẽ trông như vẫn còn sống, trong khi không có ai bước vào. Mỗi người tự tìm một việc nhỏ để làm cho hết buổi.\n\nVANCE — silent, tending the display with proprietary pride\nJOSH — silent, killing time\nPAIGE — silent, waiting\n\nQUẦN CHÚNG NỀN — một vị khách đứng tuổi đi ngang rất chậm ở lớp xa rồi khuất, một nhân viên bán hàng khác đứng yên ở cuối dãy giá, subtle natural movements.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S2-17",
+          "sf": "SF-S2-17",
+          "dur": 6,
+          "text": "NARRATOR: it had been dying in slow motion. Flagship sales down. Younger customers gone.",
+          "music": null,
+          "goc": "Medium Shot — VANCE bên trái RÕ MẶT · JOSH giữa RÕ MẶT · PAIGE bên phải RÕ MẶT",
+          "prompt": "Nhận diện:\n- VANCE = 45 tuổi, da trắng, áo màu xanh navy\n- JOSH = 32 tuổi, da trắng, áo màu xám khói\n- PAIGE = 26 tuổi, da trắng, áo màu đỏ mận\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm.\n\nBa người cùng nhìn ra phía cửa và không có gì bước vào. Vance vẫn giữ dáng bộ của người làm chủ sàn — cằm hất lên, chỉnh lại cổ tay áo của chính mình, hài lòng với cái đẹp mà anh ta canh giữ — trong khi cả khoảng sàn sau lưng anh ta trống trơn.\n\nVANCE — silent, self-satisfied, tugs his own cuff straight, exhales sharply through the nose\nJOSH — silent, bored\nPAIGE — silent, distracted\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "name": "S3 — Tầng lửng · con số dưới đáy cả ngành hàng hiệu",
+      "sfs": [
+        {
+          "id": "SF-S3-M1-MASTER",
+          "label": "MASTER Cụm 2 — giám đốc trên tầng lửng nhìn xuống sảnh",
+          "desc": "",
+          "prompt": "MÁY QUAY: Cinematic wide shot, ống kính 28mm, camera ngang tầm mắt, đặt trên tầng lửng phía sau lưng phải Director, bao trọn lan can kính và cả lòng sảnh cẩm thạch mở ra hút xuống phía dưới.\n\nAI VÀ ĐANG LÀM GÌ: DIRECTOR đứng ở một phần ba bên phải khung, sát lan can kính, thân hơi nghiêng về phía trước, nhìn xuống sảnh. Dưới kia, mảng cẩm thạch rộng gần như trống, chỉ có hai nhân viên bán hàng đứng cách xa nhau ở hai đầu dãy bàn và một vị khách đang đi chậm về phía cửa kính. Bên phải khung, đầu trên của thang cuốn đôi ốp đồng vẫn chạy đều mà không có ai đứng trên bậc.\n\nTAY: Director hai tay cầm một tờ giấy in khổ dọc, hạ xuống ngang bụng, mặt in xoay vào người nên chưa đọc được chữ.\n\nHƯỚNG NHÌN: Director nhìn thẳng xuống mảng sàn trống phía dưới, không nhìn tờ giấy, không nhìn camera. Người dưới sảnh không ai ngước lên.\n\nBIỂU CẢM: kiệt sức và tỉnh táo cùng lúc — người đã biết con số của mình xấu đến đâu và đang nhìn xuống đúng nguyên nhân của nó.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Director nâng tờ giấy lên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S3-M1-MASTER_v1.png",
+          "goc": "Cinematic Wide Shot từ tầng lửng — DIRECTOR tiền cảnh phải sát lan can RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT",
+              "REF_DIRECTOR_FULL"
+            ],
+            "bg": "REF_BG_HARGROVE_SANH_SANG"
+          },
+          "pose": {
+            "zone": "tang lung nhin xuong sanh",
+            "who": {
+              "DIRECTOR": "đứng sát lan can kính tầng lửng"
+            },
+            "dist": "toàn cảnh tầng lửng nhìn xuống sảnh",
+            "hands": {
+              "DIRECTOR": "hai tay cầm tờ giấy in hạ ngang bụng, mặt in úp vào người"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-19",
+          "label": "Dòng khảo sát ở đáy bảng",
+          "desc": "",
+          "prompt": "MÁY QUAY: Trung cận, ống kính 85mm, camera ngang tầm ngực, đặt chếch bên trái Director trên tầng lửng, chĩa vào cả gương mặt bà và tờ giấy vừa nâng lên, cách khoảng một mét.\n\nAI VÀ ĐANG LÀM GÌ: DIRECTOR chiếm hai phần ba bên phải khung từ ngực trở lên. Tờ giấy in đã nâng lên ngang ngực, mặt in xoay hẳn về phía camera, đọc rõ dòng tiêu đề in đậm CUSTOMER DIGNITY SCORE và bên dưới là một biểu đồ cột màu xám, các cột cao dần từ trái sang phải rồi cột ngoài cùng bên phải tụt hẳn xuống sát đáy trục. Hậu cảnh chỉ còn lan can kính và khoảng không của sảnh bên dưới, xoá nét mạnh, không người.\n\nTAY: Director hai tay giữ hai mép dưới của tờ giấy, các ngón siết hơi chặt làm mép giấy hơi cong lại.\n\nHƯỚNG NHÌN: Director nhìn xuống thẳng vào cột thấp nhất ở cuối biểu đồ.\n\nBIỂU CẢM: không sốc, vì bà đã đọc con số này nhiều lần rồi — chỉ là sự cam chịu của người đọc lại một chẩn đoán mình không chữa nổi, quai hàm siết nhẹ.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi Director hạ tờ giấy xuống lần nữa.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S3-19_v1.png",
+          "goc": "Trung cận — DIRECTOR bên phải RÕ MẶT, tờ giấy in xoay về camera",
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT",
+              "REF_DIRECTOR_FULL"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "tang lung nhin xuong sanh",
+            "who": {
+              "DIRECTOR": "đứng sát lan can kính tầng lửng"
+            },
+            "dist": "một mét, trung cận",
+            "hands": {
+              "DIRECTOR": "hai tay giữ hai mép dưới tờ giấy in"
+            }
+          }
+        },
+        {
+          "id": "SF-S3-20",
+          "label": "Đáy của cả ngành, nhìn từ trên xuống",
+          "desc": "",
+          "prompt": "MÁY QUAY: Medium-wide shot, ống kính 35mm, camera ngang tầm mắt, đặt lùi lại phía sau bên phải Director trên tầng lửng, giữ nguyên hướng nhìn xuống lòng sảnh, thấy cả dáng người bà và khoảng sàn cẩm thạch phía dưới.\n\nAI VÀ ĐANG LÀM GÌ: DIRECTOR đứng bên phải khung từ đùi trở lên, đã hạ tờ giấy xuống dọc theo thân, vai xuôi hẳn. Chiếm nửa trái khung là lan can kính và mảng sàn cẩm thạch rộng bên dưới, nơi hai nhân viên bán hàng vẫn đứng cách nhau rất xa ở hai đầu dãy bàn vest, giữa họ là một khoảng trống mênh mông không một bóng khách.\n\nTAY: Director một tay cầm tờ giấy in thả dọc theo đùi, mặt in xoay vào chân nên không còn đọc được chữ; tay kia đặt lên thanh tay vịn của lan can.\n\nHƯỚNG NHÌN: Director nhìn hút xuống khoảng sàn trống ở giữa hai người bán hàng.\n\nBIỂU CẢM: lặng, không biểu diễn nỗi buồn — chỉ là một người đứng cao hơn tất cả và nhìn thấy rõ nhất chỗ trống.\n\nĐÓNG BĂNG: đúng khoảnh khắc ngay TRƯỚC khi bà quay lưng khỏi lan can.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "picked": "SF-S3-20_v1.png",
+          "goc": "Medium-Wide Shot từ tầng lửng — DIRECTOR bên phải khung RÕ MẶT",
+          "refs": {
+            "chars": [
+              "REF_DIRECTOR_PORTRAIT",
+              "REF_DIRECTOR_FULL"
+            ],
+            "bg": "SF-S3-M1-MASTER"
+          },
+          "pose": {
+            "zone": "tang lung nhin xuong sanh",
+            "who": {
+              "DIRECTOR": "đứng sát lan can kính tầng lửng"
+            },
+            "dist": "trung-rộng, tầng lửng nhìn xuống sảnh",
+            "hands": {
+              "DIRECTOR": "một tay thả tờ giấy dọc đùi, tay kia đặt lên tay vịn"
+            }
+          }
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S3-18",
+          "sf": "SF-S3-M1-MASTER",
+          "dur": 6,
+          "text": "NARRATOR: And a number on the internal dashboards that the board couldn't stop staring at: customer dignity scores",
+          "music": null,
+          "goc": "Cinematic Wide Shot từ tầng lửng — DIRECTOR tiền cảnh phải sát lan can RÕ MẶT",
+          "prompt": "Nhận diện:\n- DIRECTOR = 50 tuổi, da trắng, áo màu xanh rêu\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN chậm về phía lan can.\n\nDirector đứng cao hơn tất cả và nhìn xuống đúng chỗ trống mà con số trong tay bà đang nói tới. Suốt clip bà chỉ nâng tờ giấy in lên ngang ngực, không quay đi, không bước.\n\nDIRECTOR — silent, worn down but clear-eyed\n\nQUẦN CHÚNG NỀN — hai nhân viên bán hàng dưới sảnh vẫn đứng cách xa nhau, một vị khách đi chậm về phía cửa kính, subtle natural movements, không ai ngước lên.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S3-19",
+          "sf": "SF-S3-19",
+          "dur": 6,
+          "text": "NARRATOR: — the survey line that asks did we treat you well —",
+          "music": null,
+          "goc": "Trung cận — DIRECTOR bên phải RÕ MẶT, tờ giấy in xoay về camera",
+          "prompt": "Nhận diện:\n- DIRECTOR = 50 tuổi, da trắng, áo màu xanh rêu\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera TĨNH hoàn toàn.\n\nDirector đọc lại một dòng bà đã thuộc lòng, và nó vẫn nói đúng cái điều bà không muốn nghe. Suốt clip tờ giấy giữ nguyên trước ngực, chữ trên đó luôn đọc được.\n\nDIRECTOR — silent, resigned, jaw tightening slightly\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-S3-20",
+          "sf": "SF-S3-20",
+          "dur": 6,
+          "text": "NARRATOR: sitting at the bottom of the entire luxury sector.",
+          "music": null,
+          "goc": "Medium-Wide Shot từ tầng lửng — DIRECTOR bên phải khung RÕ MẶT",
+          "prompt": "Nhận diện:\n- DIRECTOR = 50 tuổi, da trắng, áo màu xanh rêu\n\nMột shot liền duy nhất 6 giây, tuyệt đối không chuyển cảnh. Camera PUSH-IN rất chậm qua vai Director xuống lòng sảnh.\n\nDirector buông tờ giấy xuống dọc theo thân và nhìn hút vào khoảng sàn trống bên dưới. Không có gì để làm tiếp, và bà biết điều đó.\n\nDIRECTOR — silent, quiet and defeated, shoulders dropping\n\nQUẦN CHÚNG NỀN — hai nhân viên bán hàng dưới sảnh vẫn đứng cách xa nhau ở hai đầu dãy bàn, subtle natural movements.\n\nÂm thanh: lời dẫn sẽ được ghép sau, nhân vật diễn kịch câm. Chỉ có âm nền nhẹ của sảnh và phản ứng âm thanh ngắn không lời (thở ra bằng mũi, hít vào khẽ). Tuyệt đối không ai mấp máy môi đọc lời dẫn.\n\nMỘT SHOT LIỀN DUY NHẤT suốt cả video — tuyệt đối KHÔNG chuyển cảnh, KHÔNG cắt. Không thêm, xóa, thay thế hoặc nhân bản nhân vật.",
+          "notes": "",
+          "vstatus": "draft",
+          "vpicked": ""
+        }
+      ]
+    }
+  ]
+}

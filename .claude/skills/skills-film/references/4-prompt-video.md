@@ -26,6 +26,8 @@ Nhận diện:
 
 Một shot liền duy nhất <N> giây, tuyệt đối không chuyển cảnh. Camera <TĨNH / PUSH-IN chậm / PAN nhẹ...>. 
 
+Thứ tự thoại: <TÊN 1> -> <TÊN 2> -> <TÊN 1> -> <TÊN 2> (BẮT BUỘC khi shot có từ 2 lượt thoại qua lại trở lên)
+
 <Mô tả NHIỆM VỤ / MỤC ĐÍCH của nhân vật (Tránh tả hành động cơ học cụ thể. Hãy tả mục đích để AI tự tận dụng vật thể có sẵn trong ảnh)>:
 
 <TÊN NÓI> — <nhãn CẢM XÚC tiếng Anh, CHỈ cảm xúc — vd: quiet, firm>: "<thoại tiếng Anh nguyên văn>"
@@ -45,6 +47,9 @@ KẾT CLIP: <CHỈ viết khi shot sau đổi trạng thái>
   - **CẤM TẢ TRANG PHỤC VÙNG DƯỚI & PHỤ KIỆN**: Cắt sạch quần, váy, tất/vớ, giày/dép, thắt lưng, cà vạt, túi xách, đồng hồ, nhẫn, khuyên... Mô tả các chi tiết này sẽ khiến AI video ép nhân vật bẻ chân lên khoe tất hoặc xoay người khoe cà vạt/quần áo.
   - **CẤM TẢ DÁNG ÁO, LOẠI ÁO, CHẤT LIỆU, KIỂU TÓC CẦU KỲ**: Không tả sơ mi/thun, cotton, nỉ, búi cao, vuốt ngược... 
 
+- **Thứ tự thoại / Thứ tự nói (BẮT BUỘC cho shot ≥2 lượt thoại)**:
+  - Khi shot gom từ 2–4 lượt thoại qua lại (vd: `REGIONAL` nói, `GRANT` đáp, `REGIONAL` hỏi lại, `GRANT` trả lời), BẮT BUỘC ghi dòng `Thứ tự thoại: <TÊN 1> -> <TÊN 2> -> ...` (hoặc `Thứ tự nói: ...`) ngay sau câu Camera.
+  
 - **Tag Vai Trò Khung Hình**:
   - KHÔNG ghi `rõ mặt` cho chủ thể chính.
   - Nhân vật tiền cảnh / quay lưng / out focus / nằm rìa: Gắn tag `mờ ở khung hình, im như tượng` (hoặc `mờ sát trái/phải khung hình, im như tượng`) và cắt sạch mô tả trang phục để khóa chuyển động của chủ thể tiền cảnh.

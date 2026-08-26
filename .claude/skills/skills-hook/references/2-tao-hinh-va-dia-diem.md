@@ -61,6 +61,7 @@
 - Nghèo chỉ ảnh hưởng CHẤT LIỆU (bạc màu, sờn), KHÔNG ảnh hưởng tới việc cài cúc/độ phẳng phiu — trừ khi kịch bản đã xảy ra xung đột vật lý ngay TRƯỚC khoảnh khắc đó (bị giằng co, bị đổ nước, vừa chạy...).
 - **Bộ ra ngoài (Bộ tử tế khi đi văn phòng/ việc quan trọng):** Phẳng phiu, vừa vặn.
 - **Gương mặt:** TUYỆT ĐỐI KHÔNG làm xấu khuôn mặt/thần thái nhân vật chính (không quầng thâm, hốc hác) dù hoàn cảnh tệ.
+- **BẮT BUỘC Phân Biệt Màu Áo Trong Cùng Scene / Sảnh**: Khi thiết kế trang phục cho các nhân vật xuất hiện cùng nhau trong một bối cảnh (sảnh khách sạn, công ty, nhà hàng...), BẮT BUỘC mỗi nhân vật (quản lý, nhân viên, lễ tân, bảo vệ, trợ lý...) phải mang một **MÀU ÁO KHÁC NHAU RÕ RỆT**. TUYỆT ĐỐI CẤM để 2 hoặc nhiều nhân vật cùng xuất hiện trong 1 scene mặc trùng màu áo. Việc phân biệt màu áo từ Bước 2 giúp Bước 3 (Prompt SF) và Bước 4 (Prompt Video) nhận diện nhân vật chính xác 100% mà AI không bị nhầm lẫn hay vẽ giống nhau.
 
 ## Luật: Trang phục theo CHỨC VỤ (Y phục thiết chế)
 Có những nhân vật mà trang phục do **THIẾT CHẾ / BỐI CẢNH NGHỆ NGHIỆP** quy định, không do mức sống hay tính cách cá nhân quyết định. Với các vai này, quy tắc mức sống KHÔNG ĐƯỢC ÁP DỤNG — không có bộ vest hay trang phục đời thường nào thay thế được y phục nghi thức/chuyên môn.
