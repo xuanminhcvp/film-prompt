@@ -123,7 +123,9 @@ SF là KHUNG ĐẦU clip, nên phải lấy TRẠNG THÁI KẾT THÚC của clip
 ## Nhịp Không Thoại (Nhịp Lặng & Chuyển Cảnh)
 Nhịp không thoại CŨNG LÀ MỘT SHOT (SF). BẮT BUỘC phải sinh ra một dòng SF độc lập trong Bảng Shot cho mỗi nhịp lặng.
 - **Tên Nhãn (Label)**: Phải gắn tag `[NHỊP]` hoặc `🎬 NHỊP LẶNG` vào tên nhãn.
-- **Mã Shot (ID)**: BẮT BUỘC phải kết thúc bằng hậu tố `-B<số>` cho CẢ mã Shot Video và mã SF (Ví dụ: `V-S1-B1` và `SF-S1-B1`). Tuyệt đối không dùng số thứ tự thường (như `05`, `06`) cho nhịp lặng.
+- **Mã Shot (ID)**: BẮT BUỘC phải đặt tên theo đúng thứ tự thời gian xuất hiện (từ trên xuống dưới trong scene) để khi sắp xếp theo tên file trong thư mục, các video sẽ được xếp đúng thứ tự:
+  - **Shot thoại thông thường**: `V-S<scene>-<stt>` và `SF-S<scene>-<stt>` (Ví dụ: `V-S1-01`, `V-S1-02`, `V-S1-03`, `V-S1-05`...).
+  - **Nhịp không thoại / Nhịp lặng / B-roll**: BẮT BUỘC phải có **số thứ tự trước rồi mới đến B** (kèm số thứ tự nhịp trong scene), cú pháp `V-S<scene>-<stt>-B<thứ_tự_nhịp>` và `SF-S<scene>-<stt>-B<thứ_tự_nhịp>` (Ví dụ: `V-S1-04-B1`, `SF-S1-04-B1`, `V-S2-05-B1`, `SF-S2-05-B1`, `V-S1-08-B2`...). Tuyệt đối không đặt dạng `V-S1-B1` thiếu số thứ tự shot vì sẽ làm file video bị dồn xuống đáy khi sắp xếp file theo tên.
 Rà mối nối giữa 2 scene VÀ các điểm rơi cảm xúc ở giữa cảnh.
 1. **GIỮA CẢNH (Nhịp thở & Cao trào cảm xúc)**: Bắt buộc chèn vào giữa các chuỗi thoại dài để kéo dãn nhịp độ HOẶC làm nổi bật các điểm cảm xúc cao trào.
 2. **MỞ CẢNH / TOÀN CẢNH**: Đầu scene sau (giới thiệu chỗ mới) hoặc Cuối scene trước. KHÁC địa điểm -> bắt buộc có nhịp lặng.

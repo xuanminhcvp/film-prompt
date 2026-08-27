@@ -123,5 +123,6 @@ Sử dụng cho các shot phim thực tế (S1, S2...). Mọi tham chiếu nhân
 - **Cấm tự ý xóa key:** Các phần mềm đọc giao diện JSON Board sẽ bị sập (crash) nếu thiếu các key như `status`, `refs`, `chars`, `bg`. Dù giá trị rỗng hoặc null, phải giữ đúng khung mẫu bên trên.
 - **Tuân thủ đúng ID format:** 
   - `REF_<Tên>_<Loại>` cho tham chiếu (VD: `REF_KEISHA_PORTRAIT`, `REF_BG_AISLE_SEVEN`).
-  - `SF-<Cảnh>-<Số>` cho shot thực tế (VD: `SF-S1-01`).
+  - `SF-<Cảnh>-<Số>` cho shot thực tế (VD: `SF-S1-01`; nhịp không thoại: `SF-S1-04-B1`).
+  - `V-<Cảnh>-<Số>` cho shot video (VD: `V-S1-01`; nhịp không thoại: `V-S1-04-B1`).
 - Khi User yêu cầu "Tạo một dự án mới", hãy in ra khung JSON chuẩn với Scene `REF` trống để User xác nhận hoặc lưu tự động vào file `sf-board.json`.

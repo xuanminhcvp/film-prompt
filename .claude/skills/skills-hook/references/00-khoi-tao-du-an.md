@@ -161,7 +161,8 @@ Trường `dur` là số (float/int). Trường `goc` bắt buộc có để đ�
 - **Cấm tự ý xóa key**: Các phần mềm đọc giao diện JSON Board sẽ bị sập (crash) nếu thiếu các key như `status`, `refs`, `chars`, `bg`. Dù giá trị rỗng hoặc null, phải giữ đúng khung mẫu bên trên.
 - **Tuân thủ đúng ID format**:
   - `REF_<Tên>_<Loại>` cho tham chiếu (VD: `REF_MAYA_PORTRAIT`, `REF_HOSPITAL_DEM`).
-  - `SF_<Số>_<Số>` cho shot thực tế (VD: `SF_1_1`).
+  - `SF-S<Cảnh>-<Số>` cho shot thực tế (VD: `SF-S1-01`; nhịp không thoại: `SF-S1-04-B1`).
+  - `V-S<Cảnh>-<Số>` cho shot video (VD: `V-S1-01`; nhịp không thoại: `V-S1-04-B1`).
 - **Luật 1:1**: 1 Shot (trong mảng `shots`) chỉ trỏ tới đúng 1 SF. Không dùng chung 1 SF cho 2 shot.
 - **Tính toán `dur`**: Độ dài = (số từ / 3) + 2 (nếu là KẾT CLIP). Với shot mang lời dẫn (`NARRATOR:`), tính số từ của lời dẫn để đảm bảo đủ giây đọc (`dur >= số từ / 3 - 0.5`). Phải là kiểu số thực (`float`) hoặc nguyên (`int`).
 - **Liên kết pose và goc**: Tên người nói phải có mặt trong `goc` của shot. Tên khai báo trong `pose.who` của SF cũng bắt buộc phải xuất hiện trong `goc`.
