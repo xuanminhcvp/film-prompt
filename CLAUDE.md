@@ -1,39 +1,5 @@
 # film-prompts — kho viết prompt
 
-Kho này CHỈ còn phần viết prompt cho `sf-board.json`: skill làm phim, luật kiểm
-duyệt, công cụ kiểm luật và dữ liệu phim.
-
-## Bố cục
-
-```text
-.claude/skills/skills-film/   luật viết prompt — SKILL.md + references/
-.claude/memory-backup/        bản sao auto memory của user (chép TAY, xem dưới)
-sfboard/kiem-luat.py          21 luật cứng trên sf-board.json
-sfboard/kiem-noi-shot.py      kiểm nối shot giữa hai clip liền nhau
-sfboard/liet-ke-dao-cu.py     gợi ý đạo cụ cần REF_PROP_
-sfboard/sua-board.py          ghi/sửa sf-board.json theo schema
-build_*/                      mã sinh prompt riêng của từng phim
-*.project/                    dữ liệu phim: sf-board.json, KICH-BAN.md, assets
-luu-ban.sh · quay-lai.sh      snapshot và khôi phục dữ liệu phim
-```
-
-## Quy trình
-
-Khi task chạm tới prompt SF, prompt video, REF nhân vật/địa điểm, chia shot hoặc
-nhạc Suno: đọc `.claude/skills/skills-film/SKILL.md` TRƯỚC, rồi mở đúng file
-`references/` của bước đang làm. Khung nào có trẻ em thì bắt buộc mở
-`references/LUAT-an-toan.md` trước khi viết.
-
-Kiểm bằng máy, đừng kiểm tay:
-
-```bash
-python3 sfboard/kiem-luat.py PIPELINE-ALTAR.project [--scene S6]
-python3 sfboard/kiem-noi-shot.py PIPELINE-ALTAR.project [S6] --day-du
-```
-
-Luật liên-scene TỰ TẮT khi chạy `--scene`; đọc phần dữ liệu chưa phủ trước khi
-tin là "SẠCH".
-
 ## Luật cứng
 
 - Luôn trả lời người dùng bằng tiếng Việt.
@@ -43,8 +9,6 @@ tin là "SẠCH".
   rõ. Không tự sửa skill khi user chê output.
 - Không tự ý sửa `KICH-BAN.md` gốc. Chỉ sửa khi user yêu cầu đích danh, và phải
   ghi lịch sử ở đầu file (ngày, scene, sửa gì, vì sao).
-- Luật đếm được thì ghi vào `kiem-luat.py`, không ghi thành văn bản. Tìm luật cũ
-  và sửa cho sắc hơn trước khi thêm mục mới.
 - Trước khi thử hướng mới trên một phim, chạy `./luu-ban.sh "ghi chú"`. Snapshot
   là nơi DUY NHẤT có `sf-board.json` cũ — `*.project/` không nằm trong git.
 
