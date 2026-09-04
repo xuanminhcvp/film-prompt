@@ -20,7 +20,11 @@
 # Bản lưu thật của phim là .snapshots cục bộ, không phải git.
 set -euo pipefail
 
-ROOT="/Users/may1/Desktop/film-prompts"
+# 2026-09-02: repo đã chuyển Desktop/film-prompts -> Documents/SF Board. ROOT cũ
+# trỏ vào thư mục không còn tồn tại nên script chết ngay ở `cd`, và snapshot tự
+# động ngừng chạy im lặng từ 2026-09-01 — phát hiện khi cả phiên dựng S2->S39
+# (hơn 500 shot) không có lấy một bản lưu nào.
+ROOT="/Users/may1/Documents/SF Board"
 GIU_NGAY=30
 NGAY=$(date +%Y-%m-%d)
 GIO=$(date +%H%M)

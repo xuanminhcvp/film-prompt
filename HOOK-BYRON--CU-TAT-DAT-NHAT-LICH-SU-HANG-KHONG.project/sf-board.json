@@ -1,0 +1,567 @@
+{
+  "film": "HOOK — CÚ TÁT ĐẮT NHẤT LỊCH SỬ HÀNG KHÔNG",
+  "updated_at": "2026-08-28 15:54:12",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh · thumbnail",
+      "sfs": [
+        {
+          "id": "REF_BG_KHOANG_HANG_NHAT_NGAY",
+          "label": "KHOANG HẠNG NHẤT — BAN NGÀY (BỐI CẢNH GỐC)",
+          "desc": "Khoang hạng nhất của chuyến bay số 1, giờ lên khách buổi sáng. Bối cảnh gốc của toàn bộ cú đối đầu ở ghế 2A.",
+          "prompt": "Bối cảnh ở Mỹ. Khoang hạng nhất một máy bay thân rộng trong giờ lên khách buổi sáng, cửa khoang còn mở. Không có người trong khung hình.\n\nQUY HOẠCH 360°: Phía trước là vách ngăn galley ốp laminate trắng ngà với tấm rèm xám xanh vén sang một bên và một bình lan trắng. Bên trái và bên phải là hai dãy ghế 2-2 bọc da kem, ba hàng đánh số 1, 2, 3, mỗi ghế có mặt bàn gấp đang gập và màn hình giải trí lưng ghế đang tắt. Ở giữa là lối đi trải thảm len xám xanh. Dọc hai vách thân là dãy cửa sổ bầu dục kéo rèm nửa chừng. Sau lưng khoang là rèm ngăn sang khoang phổ thông. Trên đầu là dãy hộc hành lý nắp xám.\n\nCHẤT ẢNH: photorealistic, điện ảnh nhưng hiện thực, bright neutral white balance, razor-sharp realistic textures (da kem, laminate, thép chải mờ, thảm len), no blur, no grain, no CGI, no text overlay. Không u tối, không moody, không low-key, không cháy trắng. Độ tương phản trung bình, bóng đổ mềm.\n\nMÀU: da ghế kem ấm, thảm xám xanh, vách trắng ngà, thép chải mờ. Tổng thể SÁNG SỦA, SẠCH, hơi ngả ấm.\n\nÁNH SÁNG: BAN NGÀY. Nắng sáng dịu rót qua dãy cửa sổ bên trái, in vệt sáng bầu dục lên thảm và lưng ghế; đèn LED trắng trung tính từ máng trần chiếu đều toàn khoang, không ám xanh, không tối góc. Ánh sáng chính mềm và rõ, giữ skin tone tự nhiên.\n\nMọi logo, tên hãng và nhãn hiệu trên khoang, trên màn hình lưng ghế và trên bao bì đều là thương hiệu hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_KHOANG_HANG_NHAT_NGAY_v1.png"
+        },
+        {
+          "id": "REF_BG_KHOANG_HANG_NHAT_DEM",
+          "label": "KHOANG HẠNG NHẤT — BAN ĐÊM (BIẾN THỂ GIỜ)",
+          "desc": "Cùng khoang hạng nhất đó, ba mươi năm trước, lúc rỗng người trong ca đêm. Biến thể thời gian sinh từ bối cảnh gốc.",
+          "prompt": "Giữ nguyên 100% kiến trúc, bố cục ba hàng ghế, thảm, hộc hành lý và vật liệu của ảnh tham chiếu. Không có người trong khung hình. Máy bay đang đỗ qua đêm ở sân đỗ: khoang rỗng hoàn toàn, mọi mặt bàn gấp đã gập, tựa đầu đã tháo vải, rèm cửa sổ kéo hết lên để lộ đêm đen bên ngoài.\n\nÁNH SÁNG: BAN ĐÊM. Chỉ còn dãy đèn dịch vụ vàng yếu dọc máng trần và vệt đèn dẫn lối xanh lơ chạy sát chân thảm; ánh đèn pha sân đỗ trắng lạnh hắt xiên qua vài ô cửa sổ, in những mảng sáng bầu dục lên lưng ghế. Tổng thể TRẦM, GIẢM BÃO HÒA, ngả vàng-xám, phải KHÁC HẲN nắng sáng sủa của chính khoang này ban ngày. Ánh sáng chính vẫn đủ mềm và rõ để giữ skin tone tự nhiên.\n\nCHẤT ẢNH: photorealistic, điện ảnh nhưng hiện thực, no blur, no grain, no CGI, no text overlay, no watermark. Không tối đen, không moody quá tay, vẫn đọc được chi tiết vật liệu.\n\nMọi logo và nhãn hiệu trong khoang đều là thương hiệu hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_NGAY"
+          },
+          "picked": "REF_BG_KHOANG_HANG_NHAT_DEM_v1.png"
+        },
+        {
+          "id": "REF_BG_KHU_PHO_DUONG_BANG_NGAY",
+          "label": "KHU PHỐ SÁT ĐƯỜNG BĂNG — BAN NGÀY",
+          "desc": "Khu dân cư lao động cách đầu đường băng chừng trăm mét, nơi Byron sinh ra.",
+          "prompt": "Bối cảnh ở Mỹ. Khu dân cư lao động sát chân hàng rào sân bay, giữa buổi sáng thường ngày. Không có người trong khung hình.\n\nQUY HOẠCH 360°: Bên trái là dãy nhà một tầng mái nhựa asphalt, tường ván gỗ sơn kem và xanh đã bạc màu, mỗi nhà một hiên hẹp ba bậc thềm bê tông. Bên phải là dãy nhà tương tự, thấp hơn. Cuối phố là hàng rào lưới thép cao có dây thép gai; sau đó là cỏ khô, cột đèn dẫn đường và mặt đường băng bê tông xám trải tới chân trời. Sau lưng là ngã tư nhỏ có biển báo dừng.\n\nMẶT ĐƯỜNG: lòng đường nhựa nứt vá; hai chiếc sedan cũ và một xe bán tải đỗ sát lề đường trước các căn nhà, thêm một chiếc sedan nữa đang lăn bánh chậm về phía ngã tư.\n\nCHẤT ẢNH: photorealistic, điện ảnh nhưng hiện thực, bright neutral white balance, realistic textures (ván gỗ bạc màu, bê tông, lưới thép, cỏ khô), no blur, no grain, no CGI. Không u tối, không moody. Retro, well-maintained, lived-in, sáng sủa và đang hoạt động bình thường.\n\nMÀU: ván gỗ kem và xanh bạc màu, mái xám than, bê tông xám sáng, cỏ vàng úa, trời xanh nhạt. Tổng thể SÁNG, hơi bạc màu, KHÁC HẲN tông da kem sang trọng của khoang hạng nhất.\n\nÁNH SÁNG: BAN NGÀY. Nắng giữa buổi trong trẻo chiếu xiên từ bên trái, đổ bóng dài của cột điện và hàng rào lên lòng đường và bậc thềm; trời xanh nhạt, không mây gắt, giữ skin tone tự nhiên.\n\nMọi biển hiệu, biển số xe và logo trong khung đều là thương hiệu hư cấu, chữ trên biển số làm mờ.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_KHU_PHO_DUONG_BANG_NGAY_v1.png"
+        },
+        {
+          "id": "REF_BYRON_FULL",
+          "label": "BYRON IVES — ÁO POLO XÁM TRO (THẺ NEO NHÂN DẠNG)",
+          "desc": "Chủ sở hữu thật của hãng bay, 54 tuổi, đi chuyến bay chủ lực của chính mình dưới danh nghĩa một hành khách thường. Mặt phải đọc ra: một người đã quen bị đánh giá thấp và đã thôi tranh cãi về chuyện đó.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu nhân vật toàn thân, tỷ lệ 9:16, photorealistic, ống kính 85mm, nhân vật đứng thẳng giữa khung trên nền xám trung tính trơn, ánh sáng studio dịu và đều, không đổ bóng gắt. Chụp đủ xa để thấy toàn thân nhưng gương mặt vẫn phải NÉT CĂNG và đọc được rõ từng chi tiết ngũ quan, da có kết cấu thật với lỗ chân lông nhìn rõ. NHÌN THẲNG VÀO ỐNG KÍNH, miệng khép tự nhiên, KHÔNG cười.\n\nKHUÔN MẶT: Người đàn ông Mỹ gốc Phi 54 tuổi, tông da nâu sẫm ấm, cao chừng 1m85, vai rộng, dáng đứng thẳng và tĩnh. Cấu trúc xương mặt vuông vức, gò má cao, quai hàm rõ, trán cao. Tóc cắt ngắn sát, đen điểm bạc rõ ở hai bên thái dương. Râu quai nón tỉa sát và gọn, muối tiêu. Lông mày dày ngang. Mắt nâu sẫm, ánh nhìn điềm tĩnh. Gương mặt ưa nhìn, khoẻ mạnh.\n\nTRANG PHỤC: Áo polo cotton dệt kim màu XÁM TRO trơn, không hoa văn, cổ bẻ cài kín cả hai khuy, tay ngắn ôm vừa bắp tay, có một túi ngực bên trái, vải phẳng phiu và vừa vặn. Quần âu vải màu xanh navy sẫm ống thẳng. Giày da nâu trầm mũi trơn.\n\nTRANG SỨC: Không đeo món trang sức nào.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BYRON_FULL_v1.png"
+        },
+        {
+          "id": "REF_KRISTA_FULL",
+          "label": "KRISTA VAUGHN — ĐỒNG PHỤC TIẾP VIÊN TRƯỞNG (THẺ NEO NHÂN DẠNG)",
+          "desc": "Tiếp viên trưởng khoang hạng nhất, 43 tuổi, mười lăm năm thâm niên. Mặt phải đọc ra: sự tự tin của một người tin chắc mình có quyền phân loại người khác.\nDùng: S1",
+          "prompt": "Ảnh tham chiếu nhân vật toàn thân, tỷ lệ 9:16, photorealistic, ống kính 85mm, nhân vật đứng thẳng giữa khung trên nền xám trung tính trơn, ánh sáng studio dịu và đều, không đổ bóng gắt. Chụp đủ xa để thấy toàn thân nhưng gương mặt vẫn phải NÉT CĂNG và đọc được rõ từng chi tiết ngũ quan, da có kết cấu thật với lỗ chân lông nhìn rõ. NHÌN THẲNG VÀO ỐNG KÍNH, miệng khép tự nhiên, KHÔNG cười.\n\nKHUÔN MẶT: Phụ nữ da trắng 43 tuổi, tông da sáng hồng, cao chừng 1m70, dáng thon, đứng rất thẳng. Gò má cao, cằm nhọn vừa, mũi thẳng. Tóc vàng tro búi thấp sau gáy, chải bóng mượt không một sợi lòa xòa, rẽ ngôi lệch. Mắt xanh xám, lông mày mảnh kẻ gọn. Trang điểm công sở sắc nét, son đỏ trầm. Gương mặt ưa nhìn, sắc sảo, khoẻ mạnh.\n\nTRANG PHỤC (đồng phục tiếp viên trưởng hàng không): Áo khoác đồng phục vải gabardine màu XANH NAVY ĐẬM, một hàng khuy cài kín toàn bộ, ve áo bẻ nhỏ, hai vạch chỉ vàng đồng ở cổ tay áo, phù hiệu cánh bay kim loại nhỏ trên ngực trái. Bên trong là áo cổ bẻ màu trắng ngà cài kín. Khăn lụa nhỏ màu đỏ rượu vang thắt gọn ở cổ. Chân váy bút chì cùng chất liệu navy dài quá gối. Giày da đen gót thấp.\n\nTRANG SỨC: Đôi khuyên tai ngọc trai tròn nhỏ. Đồng hồ mặt tròn dây da đen ở cổ tay TRÁI.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_KRISTA_FULL_v1.png"
+        },
+        {
+          "id": "REF_RUTH_FULL",
+          "label": "RUTH IVES — ĐỒNG PHỤC VỆ SINH CA ĐÊM (THẺ NEO NHÂN DẠNG)",
+          "desc": "Mẹ của Byron, 38 tuổi ở thời điểm cảnh diễn ra, ba mươi năm dọn khoang máy bay ca đêm. Mặt phải đọc ra: mệt nhưng không hề cúi xuống.\nDùng: S3",
+          "prompt": "Ảnh tham chiếu nhân vật toàn thân, tỷ lệ 9:16, photorealistic, ống kính 85mm, nhân vật đứng thẳng giữa khung trên nền xám trung tính trơn, ánh sáng studio dịu và đều, không đổ bóng gắt. Chụp đủ xa để thấy toàn thân nhưng gương mặt vẫn phải NÉT CĂNG và đọc được rõ từng chi tiết ngũ quan, da có kết cấu thật với lỗ chân lông nhìn rõ. NHÌN THẲNG VÀO ỐNG KÍNH, miệng khép tự nhiên, KHÔNG cười.\n\nKHUÔN MẶT: Phụ nữ Mỹ gốc Phi 38 tuổi, tông da nâu sẫm ấm, cao chừng 1m65, dáng chắc, lưng thẳng. Cấu trúc xương mặt vuông vức, gò má cao, quai hàm rõ. Tóc đen xoăn tự nhiên búi thấp gọn sau gáy, quấn một dải khăn vải màu tối. Lông mày dày ngang. Mắt nâu sẫm, ánh nhìn bình thản. Gương mặt ưa nhìn, khoẻ mạnh.\n\nTRANG PHỤC (đồng phục vệ sinh ca đêm sân bay): Áo lao động vải bông màu XANH LÁ XÁM đã bạc màu nhưng được giặt cẩn thận và là phẳng, cổ bẻ, tay ngắn, cài kín toàn bộ khuy, một túi ngực bên trái. Quần vải bảo hộ màu xám than ống thẳng. Giày vải đế mềm màu đen. Găng tay cao su màu vàng nhạt đeo ở cả hai tay.\n\nTRANG SỨC: Đôi khuyên tai tròn nhỏ bằng vàng mỏng.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_RUTH_FULL_v1.png"
+        },
+        {
+          "id": "REF_BOY_BYRON_FULL",
+          "label": "BYRON IVES LÚC CHÍN TUỔI — ÁO THUN XANH BẠC HÀ",
+          "desc": "Chính Byron thời còn ở khu nhà sát đường băng, 9 tuổi. Mặt phải đọc ra: sự chăm chú thuần khiết của một đứa trẻ ngày nào cũng nhìn máy bay bay qua nóc nhà mình.\nDùng: S2",
+          "prompt": "Ảnh tham chiếu nhân vật toàn thân, tỷ lệ 9:16, photorealistic, ống kính 85mm, nhân vật đứng thẳng giữa khung trên nền xám trung tính trơn, ánh sáng studio dịu và đều, không đổ bóng gắt. Chụp đủ xa để thấy toàn thân nhưng gương mặt vẫn phải NÉT CĂNG và đọc được rõ từng chi tiết ngũ quan. NHÌN THẲNG VÀO ỐNG KÍNH, miệng khép tự nhiên, KHÔNG cười.\n\nKHUÔN MẶT: Cậu bé Mỹ gốc Phi 9 tuổi, tông da nâu sẫm ấm, người gầy, cao chừng 1m30. Đây CHÍNH LÀ nhân vật ở Thẻ neo nhân dạng đính kèm nhưng lúc còn nhỏ: giữ đúng khuôn xương mặt vuông, gò má cao và đôi mắt nâu sẫm của ảnh tham chiếu, chỉ khác là nét trẻ con và má còn đầy. Tóc đen cắt ngắn sát. Lông mày dày ngang. Gương mặt ưa nhìn, khoẻ mạnh, biểu cảm bình thản.\n\nTRANG PHỤC: Áo thun cotton cổ tròn màu XANH BẠC HÀ nhạt đã bạc màu nhưng được giặt cẩn thận và là phẳng, tay ngắn. Quần short vải kaki màu be. Giày vải bạt màu trắng ngà đã cũ. Đừng dùng áo polo xám tro của bản người lớn cho ảnh này.\n\nTRANG SỨC: Không đeo món trang sức nào.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL"
+            ],
+            "bg": null
+          },
+          "picked": "REF_BOY_BYRON_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_BADGE",
+          "label": "Tấm thẻ nhân viên vệ sinh của Ruth Ives — đã mòn, ép plastic",
+          "desc": "Vật Byron mang trong túi ngực suốt hai mươi năm. Là thứ Krista nhặt lên và cười nhạo, và cũng là thứ sẽ kết tội cô ta.\nDùng: S1",
+          "prompt": "Ảnh tĩnh đạo cụ, tỷ lệ 1:1, photorealistic, ống kính macro 100mm, góc 3/4, KHÔNG có người và KHÔNG có bàn tay trong khung. Vật nằm ngửa mặt trước lên trên một mặt bàn gỗ óc chó trơn, ánh sáng studio dịu và đều, bóng đổ mềm.\n\nVẬT: Một tấm thẻ nhân viên bằng nhựa ép plastic khổ dọc cỡ bàn tay, bốn góc bo tròn, lớp ép đã ố vàng và xước mờ, một góc sờn bong nhẹ, dây đeo đã tháo nên chỉ còn lỗ đục ở đầu thẻ. Mặt trước chia ba phần. Trên cùng là một dải màu xanh lá xám. Giữa bên trái là ảnh chân dung một phụ nữ Mỹ gốc Phi mặc đồng phục lao động xanh lá xám, đúng khuôn mặt của ảnh tham chiếu nhân vật đính kèm, ảnh chụp cũ hơn hiện tại nên hơi ngả màu và độ nét thấp hơn. Bên phải bức ảnh là hai dòng chữ in đậm màu đen, ĐỌC RÕ RÀNG, KHÔNG NHÒE, đánh vần chính xác: dòng trên \"RUTH IVES\", dòng dưới \"JANITORIAL SERVICES\". Dưới cùng là một dãy số nhân viên nhỏ và một mã vạch đã mờ.\n\nTên hãng và logo sân bay in trên thẻ đều là thương hiệu hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RUTH_FULL"
+            ],
+            "bg": null
+          },
+          "picked": "REF_PROP_BADGE_v1.png"
+        },
+        {
+          "id": "REF_PROP_BOARDING_PASS",
+          "label": "Thẻ lên máy bay ghế 2A — mua nguyên giá, in nhiệt",
+          "desc": "Bằng chứng vật lý cho câu 'Ma\\'am, I paid for this seat'. Vật bị giật khỏi mặt bàn gấp ở video thứ hai.\nDùng: S1",
+          "prompt": "Ảnh tĩnh đạo cụ, tỷ lệ 1:1, photorealistic, ống kính macro 100mm, góc 3/4, KHÔNG có người và KHÔNG có bàn tay trong khung. Vật nằm ngửa mặt in lên trên một mặt bàn gỗ óc chó trơn, ánh sáng studio dịu và đều, bóng đổ mềm.\n\nVẬT: Một thẻ lên máy bay in nhiệt khổ dài hẹp, giấy trắng ngà hơi cong ở hai mép, còn nguyên phần cuống xé bên phải, giấy còn mới và chưa nhàu. Bố cục in: góc trên bên trái là một logo hình cánh chim đơn giản của hãng hàng không; bên dưới là các dòng chữ đen ĐỌC RÕ RÀNG, KHÔNG NHÒE, đánh vần chính xác: \"IVES / BYRON\", \"FLIGHT 1\", \"SEAT 2A\", \"FIRST\", \"BOARDING GROUP 1\". Bên phải là một mã vạch đen mảnh và một dãy số vé nhỏ.\n\nTên hãng, logo cánh chim và mọi nhãn hiệu in trên thẻ đều là thương hiệu hư cấu.",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_BOARDING_PASS_v1.png"
+        },
+        {
+          "id": "SF-THUMB-01",
+          "label": "★ THUMBNAIL #1 (Template A — Máy bay #1: ép rời ghế hạng nhất)",
+          "desc": "Ảnh bìa bám bố cục Mẫu Template Máy bay #1: đối đầu ba lớp ở lối đi khoang hạng nhất, mọi ghế đều kín người.",
+          "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9, ultra sharp, bright luxury lighting, realistic faces, natural intense emotion.]\n\nÁnh sáng & vibe màu: High key, sáng rõ, sạch, tông kem — be — trắng — navy. Nắng sáng qua dãy cửa sổ bầu dục đổ vệt bầu dục lên lưng ghế, đèn trần cabin trắng dịu phủ đều, giữ skin tone tự nhiên và rõ từng chi tiết khuôn mặt.\n\nBối cảnh: Bên trong khoang hạng nhất của một máy bay thương mại cao cấp, kiểu boutique gọn gàng, chỉ thấy khoảng 4–6 ghế da màu kem bố trí 2-2 ngăn bởi lối đi hẹp, tay vịn lớn, vách ngăn thấp, đèn đọc sách nhỏ, cửa sổ bầu dục chạy dọc một bên. QUAN TRỌNG: mọi ghế nhìn thấy trong khung đều đã kín người, không có một ghế trống nào — để việc nhắm vào riêng người đàn ông ở ghế 2A trở nên hết sức vô lý.\n\nBố cục: Medium-close shot, ngang tầm mắt, lệch 3/4 từ lối đi. Byron chiếm khoảng 40% khung, ngồi ở ghế hạng nhất bên phải khung. Krista đứng ở lối đi bên trái, cúi sát xuống đối đầu trực diện với anh, chiếm phần lớn tiền cảnh (khoảng 35% khung). Phần khung còn lại là các hành khách ngồi kín ghế quay đầu nhìn, một người giơ điện thoại lên quay lại cảnh này.\n\nMô tả Byron: đúng người đàn ông Mỹ gốc Phi 54 tuổi ở ảnh tham chiếu nhân dạng — giữ nguyên khuôn xương mặt vuông, gò má cao, râu quai nón tỉa sát muối tiêu, tóc cắt ngắn điểm bạc ở thái dương, và đúng áo polo XÁM TRO cài kín hai khuy. Anh ngồi thẳng lưng trên ghế da kem, một tay giữ tấm thẻ lên máy bay chìa ra trước mặt cô, tay kia đặt xoè trên tay vịn. Anh nhìn thẳng vào ống kính, ánh mắt bình thản, uy lực thầm lặng, không hề nao núng.\n\nMô tả Krista: đúng người phụ nữ da trắng 43 tuổi ở ảnh tham chiếu nhân dạng — tóc vàng tro búi thấp chải bóng mượt, son đỏ trầm, và đúng bộ đồng phục tiếp viên trưởng XANH NAVY ĐẬM cài kín khuy, hai vạch chỉ vàng đồng ở cổ tay, khăn lụa đỏ rượu vang ở cổ. Cô cúi người rất gần về phía anh, một tay chống lên đỉnh tựa ghế của anh với vẻ chiếm hữu, tay kia chỉ thẳng xuống mặt anh, miệng mở như đang ra lệnh. Tư thế áp đảo, biểu cảm khinh miệt.\n\nNhân vật nền: 5–6 hành khách hạng nhất ngồi kín các ghế còn lại, quay đầu nhìn về phía hàng ghế số 2, tò mò và khó xử, một người giơ điện thoại lên quay. Nhân vật nền không lấn át hai nhân vật chính.\n\nMọi nhãn hiệu, logo hãng bay và vỏ điện thoại trong khung đều là thương hiệu hư cấu. KHÔNG chữ, KHÔNG watermark, KHÔNG logo, KHÔNG vòng tròn đỏ, KHÔNG mũi tên.",
+          "status": "proposed",
+          "notes": "Nguồn: Template Máy bay #1 (Sheet 'Máy bay', Hàng 1 — keywords: máy bay, nhường chỗ)\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (tối ưu ánh sáng & chi tiết khoang hạng nhất)\n2. Đẩy căng tương tác tay & đạo cụ (thẻ lên máy bay, tấm thẻ nhân viên vệ sinh, điện thoại)\n3. Biểu cảm khoảnh khắc khinh miệt / kinh ngạc / điềm tĩnh tột độ\n4. Tăng tương phản màu sắc & ánh sáng (nắng cửa sổ hắt xiên, rim light lên vai)\n5. Đẩy cao áp lực đe dọa của phản diện",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL"
+            ],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_NGAY"
+          },
+          "picked": "SF-THUMB-01_v1.png"
+        },
+        {
+          "id": "SF-THUMB-02",
+          "label": "★ THUMBNAIL #2 (Template B — Máy bay #2: OTS qua vai, đạo cụ gắt)",
+          "desc": "Ảnh bìa bám bố cục Mẫu Template Máy bay #2: góc over-the-shoulder hẹp hơn, tấm thẻ nhân viên vệ sinh làm đạo cụ trung tâm.",
+          "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9]\n\nLight setup: Bright premium airplane cabin lighting, clean balanced high key, soft overhead cabin lights, gentle front fill lên người đàn ông ngồi ghế, clear facial visibility, realistic skin tones, crisp details trên đồng phục, ghế da và tấm thẻ nhựa; no dark shadows hiding expressions.\n\nBối cảnh: khoang hạng nhất của một máy bay thương mại cao cấp tại Mỹ — ghế da lớn màu kem, tay ghế rộng, vách ngăn thấp, lối đi giữa khoang, cửa sổ bầu dục hai bên, trần cong với đèn cabin sáng dịu. Hậu cảnh có vài hành khách ở các hàng ghế phía sau quay đầu nhìn về phía khoảnh khắc này, hai người đã giơ điện thoại lên quay.\n\nGóc máy: Camera đặt ngay sau vai phải của Krista, hơi lệch sang trái lối đi, cao ngang tầm mắt người đang đứng — góc over-the-shoulder chuẩn. Krista ở tiền cảnh bên trái, quay lưng 3/4 về camera, hơi out-focus nhẹ nhưng vẫn nhận ra là tiếp viên trưởng. Byron ngồi đối diện camera ở ghế trung tâm, mặt rõ nhất ảnh.\n\nBố cục: Close medium-wide shot. Lấy Krista từ sau gáy, vai và cánh tay đang giơ tấm thẻ trở lên, không lấy toàn thân. Bàn tay cô cầm một tấm thẻ nhân viên bằng nhựa ép plastic đã ố vàng, giơ cao ngang tầm mắt ở vùng trên-trái khung, mặt trước tấm thẻ xoay về phía camera cho thấy rõ ảnh chân dung một phụ nữ Mỹ gốc Phi lớn tuổi trong đồng phục lao động xanh lá xám — đúng khuôn mặt ở ảnh tham chiếu nhân vật đính kèm. Byron ở trung tâm khung, lấy từ hông trở lên.\n\nMô tả Krista: đúng người phụ nữ da trắng 43 tuổi ở ảnh tham chiếu — tóc vàng tro búi thấp chải bóng mượt, đúng bộ đồng phục tiếp viên trưởng XANH NAVY ĐẬM cài kín khuy với hai vạch chỉ vàng đồng ở cổ tay. Chỉ thấy góc sau 3/4 của đầu, gáy, vai và cánh tay giơ tấm thẻ; một phần má và khoé miệng đang cười nhạo lọt vào khung.\n\nMô tả Byron: đúng người đàn ông Mỹ gốc Phi 54 tuổi ở ảnh tham chiếu nhân dạng — giữ nguyên khuôn xương mặt vuông, gò má cao, râu quai nón tỉa sát muối tiêu, tóc ngắn điểm bạc, và đúng áo polo XÁM TRO cài kín hai khuy. Anh ngồi thẳng trên ghế da kem, hai vai ngang, hai bàn tay đặt xoè tự nhiên trên tay ghế, má trái còn một vệt ửng đỏ mờ. Anh ngước nhìn thẳng lên tấm thẻ trong tay cô, biểu cảm điềm tĩnh và nghiêm nghị, uy lực thầm lặng, không ngạc nhiên, không cười.\n\nNhân vật nền: 5–7 hành khách trong khoang, đa dạng nam nữ, mặc đồ công sở hoặc du lịch cao cấp; hai người giơ điện thoại quay, một người lớn tuổi đeo kính ở hậu cảnh trái quay đầu nhìn với vẻ sửng sốt. Nhân vật nền không lấn át hai nhân vật chính.\n\nMọi nhãn hiệu, logo hãng bay và vỏ điện thoại trong khung đều là thương hiệu hư cấu. KHÔNG chữ, KHÔNG watermark, KHÔNG logo, KHÔNG vòng tròn đỏ, KHÔNG mũi tên.",
+          "status": "proposed",
+          "notes": "Nguồn: Template Máy bay #2 (Sheet 'Máy bay', Hàng 2 — keywords: máy bay, sau lưng, veteran)\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (tối ưu ánh sáng & chi tiết khoang hạng nhất)\n2. Đẩy căng tương tác tay & đạo cụ (thẻ lên máy bay, tấm thẻ nhân viên vệ sinh, điện thoại)\n3. Biểu cảm khoảnh khắc khinh miệt / kinh ngạc / điềm tĩnh tột độ\n4. Tăng tương phản màu sắc & ánh sáng (nắng cửa sổ hắt xiên, rim light lên vai)\n5. Đẩy cao áp lực đe dọa của phản diện",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BADGE"
+            ],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_NGAY"
+          },
+          "picked": "SF-THUMB-02_v1.png"
+        },
+        {
+          "id": "SF-THUMB-03",
+          "label": "★ THUMBNAIL #3 (Tự sáng tạo — Peak Tension: bàn tay còn treo, cả khoang đã quay)",
+          "desc": "Ảnh bìa tự thiết kế, lấy khoảnh khắc TĨNH TRƯỚC BÙNG NỔ: cú tát vừa xong, tấm thẻ vừa chạm thảm, và không ai trong khoang biết cán cân quyền lực đã lật.",
+          "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9, ultra sharp, realistic faces, natural intense emotion.]\n\nÁnh sáng & vibe màu: High key sang trọng, tông kem — navy — trắng, nắng sáng qua cửa sổ bầu dục hắt xiên tạo một vệt rim light trên vai và một bên gò má của người đàn ông ngồi ghế, tương phản mạnh hơn mức thường một nấc để đẩy căng khoảnh khắc, nhưng vẫn giữ skin tone tự nhiên và đọc rõ cả hai gương mặt.\n\nBối cảnh: khoang hạng nhất máy bay thương mại cao cấp, ghế da kem 2-2, lối đi trải thảm xám xanh, cửa sổ bầu dục chạy dọc, mọi ghế trong khung đều đã kín người.\n\nBố cục: Medium shot ngang tầm mắt người ngồi, hơi thấp hơn Krista một chút để cô cao vượt lên trong khung. Byron chiếm khoảng 45% khung bên phải, ngồi ở ghế 2A. Krista đứng ở lối đi bên trái, chiếm khoảng 30% khung. Ở tiền cảnh dưới, trên thảm lối đi ngay dưới chân cô, một tấm thẻ nhân viên bằng nhựa ép plastic đã ố vàng vừa rơi xuống, nằm ngửa mặt lên và còn hơi nghiêng, đủ nét để thấy đó là thẻ có ảnh chân dung một phụ nữ Mỹ gốc Phi trong đồng phục lao động xanh lá xám. Hậu cảnh là một hàng điện thoại giơ lên ngang mặt.\n\nMô tả Byron: đúng người đàn ông Mỹ gốc Phi 54 tuổi ở ảnh tham chiếu nhân dạng — giữ nguyên khuôn xương mặt vuông, gò má cao, râu quai nón tỉa sát muối tiêu, tóc cắt ngắn điểm bạc ở thái dương, và đúng áo polo XÁM TRO cài kín hai khuy, túi ngực trái bung miệng và trống. Đầu anh vừa bị đánh lệch nhẹ sang trái, má trái hằn một vệt ửng đỏ rõ, nhưng anh đã đưa mặt trở lại và NHÌN THẲNG VÀO ỐNG KÍNH — ánh mắt phẳng lặng, quai hàm siết, tuyệt đối bình thản, thần thái của một người vừa quyết định điều gì đó mà đối phương chưa biết.\n\nMô tả Krista: đúng người phụ nữ da trắng 43 tuổi ở ảnh tham chiếu — tóc vàng tro búi thấp chải bóng mượt, son đỏ trầm, và đúng bộ đồng phục tiếp viên trưởng XANH NAVY ĐẬM cài kín khuy với hai vạch chỉ vàng đồng ở cổ tay và khăn lụa đỏ rượu vang. Bàn tay phải của cô còn treo lơ lửng giữa không trung ở cuối đường vung, các ngón còn xoè; cô đứng thẳng người áp đảo, cằm hất lên, biểu cảm đắc thắng và khinh khỉnh vừa kịp thoáng một nét chững lại.\n\nNhân vật nền: 5–6 hành khách hạng nhất ngồi kín ghế, ba người đã giơ điện thoại lên ngang mặt quay lại toàn bộ, hai người còn lại quay đầu nhìn với vẻ sững sờ. Nhân vật nền out nét nhẹ, không lấn át hai nhân vật chính.\n\nMọi nhãn hiệu, logo hãng bay và vỏ điện thoại trong khung đều là thương hiệu hư cấu. KHÔNG chữ, KHÔNG watermark, KHÔNG logo, KHÔNG vòng tròn đỏ, KHÔNG mũi tên.",
+          "status": "proposed",
+          "notes": "Nguồn: Tự sáng tạo — Peak Tension của 120 giây đầu (cú tát vừa xong, tấm thẻ vừa chạm thảm).\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (tối ưu ánh sáng & chi tiết khoang hạng nhất)\n2. Đẩy căng tương tác tay & đạo cụ (thẻ lên máy bay, tấm thẻ nhân viên vệ sinh, điện thoại)\n3. Biểu cảm khoảnh khắc khinh miệt / kinh ngạc / điềm tĩnh tột độ\n4. Tăng tương phản màu sắc & ánh sáng (nắng cửa sổ hắt xiên, rim light lên vai)\n5. Đẩy cao áp lực đe dọa của phản diện",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BADGE"
+            ],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_NGAY"
+          },
+          "picked": "SF-THUMB-03_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "S1",
+      "name": "S1 — Khoang hạng nhất, ghế 2A (ban ngày)",
+      "sfs": [
+        {
+          "id": "SF-S1-M1-MASTER",
+          "label": "MASTER CỤM 1 — Toàn khoang hạng nhất, Krista đã đứng vào lối đi hàng 2",
+          "desc": "Master SF chốt vị trí, ánh sáng và mật độ hành khách của toàn bộ cuộc đối đầu ở ghế 2A. Không nuôi video nào.",
+          "prompt": "MÁY QUAY: Cinematic Wide Shot, 28mm, đặt trong lối đi ngay trước vách galley, ngang tầm ngực người đứng, cách hàng ghế đầu 3 mét, bao trọn ba hàng ghế của khoang và toàn bộ lối đi.\n\nAI VÀ ĐANG LÀM GÌ: Byron ngồi ghế 2A sát cửa sổ bên trái khung, lưng tựa ghế, hai vai buông, chiếc túi da mềm đã cất trên hộc. Krista đứng giữa lối đi ngang hàng ghế 2, thân trên hơi nghiêng về phía Byron, một tay giữ mép tựa ghế 2C. Quanh họ, mười một hành khách hạng nhất đã yên vị ở các ghế còn lại của hàng 1, 2 và 3: vài người gấp áo khoác đặt lên đùi, một người nghiêng đầu đọc tờ tạp chí, hai người quay sang trò chuyện với nhau, chưa ai để ý tới hàng ghế số 2.\n\nTAY: Byron đặt hai bàn tay lên đùi. Krista một tay giữ mép tựa ghế, tay kia ép tập giấy tờ khoang vào hông.\n\nHƯỚNG NHÌN: Byron ngẩng nhìn thẳng lên Krista. Krista nhìn thẳng xuống Byron. Các hành khách nền hướng mắt vào việc riêng, không nhìn camera.\n\nBIỂU CẢM: Byron điềm tĩnh và tỉnh táo. Krista giữ nét mặt nghề nghiệp nhưng ánh nhìn đã dò xét.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Krista mở lời.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL"
+            ],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_NGAY"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng lối đi, nét"
+            },
+            "dist": "3m",
+            "hands": "Byron tay đặt lên đùi · Krista tay giữ tựa ghế 2C"
+          },
+          "goc": "Wide Two-Shot toàn khoang hạng nhất — Byron ngồi ghế 2A bên trái RÕ MẶT · Krista đứng lối đi hàng 2 RÕ MẶT",
+          "picked": "SF-S1-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S1-01",
+          "label": "Krista chỉ tay xuống ghế 2A, Byron ngồi ngẩng lên",
+          "desc": "Start Frame video 1.",
+          "prompt": "MÁY QUAY: Medium Two-Shot, 40mm, đặt trong lối đi cách hàng ghế 2 khoảng 1,8 mét, ngang tầm ngực người đứng, hơi chếch để thấy trọn cả người đứng lẫn người ngồi.\n\nAI VÀ ĐANG LÀM GÌ: Krista đứng chắn lối đi bên phải khung, thân trên đổ nhẹ về phía ghế 2A, cánh tay phải duỗi thẳng, ngón trỏ chỉ về phía Byron. Byron ngồi ghế 2A bên trái khung, lưng còn tựa ghế, hai vai giữ nguyên chiều cao; mặt bàn gấp trước mặt anh đã hạ, trên đó có một thẻ lên máy bay nằm ngửa. Ở lớp sau, hai hành khách hạng nhất hàng 3 vừa ngẩng lên nhìn về phía hàng 2.\n\nTAY: Krista tay phải chỉ thẳng về Byron, tay trái ép tập giấy tờ vào hông. Byron hai bàn tay đặt lên đùi, chưa chạm tới tấm thẻ.\n\nHƯỚNG NHÌN: Krista nhìn thẳng xuống mặt Byron. Byron ngẩng nhìn thẳng vào mắt Krista.\n\nBIỂU CẢM: Krista tự tin và bề trên, khoé môi hơi nhếch. Byron điềm tĩnh, quai hàm giữ chặt.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Krista bật ra câu đầu tiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BOARDING_PASS"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng lối đi, nét"
+            },
+            "dist": "1,8m",
+            "hands": "Krista tay phải chỉ · Byron tay đặt lên đùi"
+          },
+          "picked": "SF-S1-01_v1.png"
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "Krista chớm chạm tấm thẻ trên bàn gấp của Byron",
+          "desc": "Start Frame video 2. Trạng thái chờ: tấm thẻ CHƯA bị giật khỏi bàn.",
+          "prompt": "MÁY QUAY: Tight Two-Shot, 50mm, đặt trong lối đi cách hàng ghế 2 khoảng 1,2 mét, ngang tầm mắt người ngồi, hơi ngước lên.\n\nAI VÀ ĐANG LÀM GÌ: Krista đứng bên phải khung, đã cúi thấp xuống, bàn tay phải vừa chớm tới mép tấm thẻ lên máy bay đang nằm trên mặt bàn gấp của Byron. Byron ngồi ghế 2A bên trái khung, người dịch nhẹ về phía tựa; chiếc điện thoại vỏ trơn nằm úp trong lòng bàn tay trái đặt trên đùi. Ở lớp sau, một hành khách hàng 3 đã quay hẳn đầu sang nhìn.\n\nTAY: Krista bàn tay phải chớm chạm mép tấm thẻ, chưa cầm lên. Byron tay trái giữ điện thoại úp trên đùi, tay phải bám mép bàn gấp.\n\nHƯỚNG NHÌN: Krista nhìn xuống tấm thẻ. Byron ngẩng nhìn thẳng lên mặt Krista.\n\nBIỂU CẢM: Krista quả quyết, môi mím. Byron tỉnh táo, đang lặng lẽ tính toán.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Krista giật tấm thẻ khỏi bàn.\n\nMọi nhãn hiệu và logo trong khung, kể cả vỏ điện thoại, đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BOARDING_PASS"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng cúi bên ghế, nét"
+            },
+            "dist": "1,2m",
+            "hands": "Krista tay phải chớm mép thẻ · Byron tay trái giữ điện thoại úp"
+          },
+          "picked": "SF-S1-02_v1.png"
+        },
+        {
+          "id": "SF-S1-03",
+          "label": "🎬 NHỊP LẶNG — Krista chồm tay tới chiếc điện thoại Byron đang giơ",
+          "desc": "Start Frame video 3. Trạng thái chờ: chưa chộp được máy, chưa có cú tát.",
+          "prompt": "MÁY QUAY: Tight Two-Shot, 50mm, đặt trong lối đi cách hàng ghế 2 khoảng 1,2 mét, ngang tầm mắt người ngồi.\n\nAI VÀ ĐANG LÀM GÌ: Byron ngồi ghế 2A bên trái khung, đã giơ chiếc điện thoại vỏ trơn lên ngang ngực, mặt máy hướng về phía Krista. Krista đứng bên phải khung, thân trên chồm tới, bàn tay phải xoè ra vươn vào giữa khung về phía chiếc điện thoại nhưng còn cách chừng một gang tay; tấm thẻ lên máy bay cô vừa giật vẫn kẹp giữa các ngón tay trái, mặt in ngửa ra ngoài. Ở lớp sau, ba hành khách hàng 1 và hàng 3 đã dừng việc và quay đầu về phía hàng 2.\n\nTAY: Byron hai tay giữ điện thoại ngang ngực. Krista bàn tay phải xoè ra vươn tới, tay trái kẹp tấm thẻ lên máy bay.\n\nHƯỚNG NHÌN: Cả hai nhìn thẳng vào mắt nhau.\n\nBIỂU CẢM: Krista đã mất bình tĩnh, hàm bạnh ra. Byron không lùi, ánh mắt phẳng lặng.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Krista chộp lấy chiếc điện thoại.\n\nMọi nhãn hiệu và logo trong khung, kể cả vỏ điện thoại, đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BOARDING_PASS"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng chồm tới, nét"
+            },
+            "dist": "1,2m",
+            "hands": "Byron hai tay giữ điện thoại · Krista tay phải vươn tới, tay trái kẹp tấm thẻ lên máy bay"
+          },
+          "picked": "SF-S1-03_v1.png"
+        },
+        {
+          "id": "SF-S1-04",
+          "label": "Tấm thẻ nhựa đã trượt quá nửa khỏi túi ngực Byron",
+          "desc": "Start Frame video 4. Trạng thái chờ: tấm thẻ CHƯA rơi xuống thảm.",
+          "prompt": "MÁY QUAY: Medium Shot, 45mm, đặt trong lối đi cách hàng ghế 2 khoảng 1,5 mét, ngang tầm mắt người ngồi.\n\nAI VÀ ĐANG LÀM GÌ: Byron ngồi ghế 2A, đầu vừa bị đánh lệch sang trái, má trái ửng đỏ, một bàn tay đưa lên chạm má. Túi ngực trái áo polo bung miệng, tấm thẻ nhựa ép plastic đã trượt ra quá nửa, mép dưới chìa hẳn ra ngoài nhưng CHƯA rơi. Krista đứng bên phải khung, tay phải còn buông lửng sau cú vung. Ở lớp sau, năm hành khách hàng 1 và hàng 3 đã quay về phía hàng 2, hai người vừa nhấc điện thoại.\n\nTAY: Byron tay phải áp lên má trái, tay trái vẫn giữ chiếc điện thoại. Krista tay phải buông lửng ngang hông, tay trái vẫn kẹp tấm thẻ lên máy bay, mặt in ngửa ra ngoài.\n\nHƯỚNG NHÌN: Byron nhìn chéo xuống thảm lối đi. Krista nhìn xuống Byron.\n\nBIỂU CẢM: Byron chịu đựng, hàm siết. Krista chững một nhịp rồi lấy lại vẻ bề trên.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi tấm thẻ tuột hẳn khỏi túi ngực.\n\nMọi nhãn hiệu và logo trong khung, kể cả vỏ điện thoại, đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BADGE",
+              "REF_PROP_BOARDING_PASS"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng lối đi, nét"
+            },
+            "dist": "1,5m",
+            "hands": "Byron tay phải áp má · Krista tay phải buông lửng, tay trái kẹp tấm thẻ lên máy bay"
+          },
+          "picked": "SF-S1-04_v1.png"
+        },
+        {
+          "id": "SF-S1-05",
+          "label": "🎬 NHỊP LẶNG — Krista nâng tấm thẻ lên đọc, Byron ngồi bất động",
+          "desc": "Start Frame video 5.",
+          "prompt": "MÁY QUAY: Medium Two-Shot, 40mm, đặt trong lối đi cách hàng ghế 2 khoảng 1,8 mét, ngang tầm ngực người đứng.\n\nAI VÀ ĐANG LÀM GÌ: Krista đứng bên phải khung, đã đứng thẳng lên, hai tay cầm hai mép tấm thẻ nhựa ép plastic nâng ngang ngực, đầu hơi ngửa. Byron ngồi ghế 2A bên trái khung, lưng thẳng, tay đã rời khỏi má, má trái vẫn còn vệt ửng. Ở lớp sau, sáu hành khách hàng 1 và hàng 3 đang giơ điện thoại lên quay.\n\nTAY: Krista hai tay cầm hai mép tấm thẻ nhựa, tấm thẻ lên máy bay đã được nhét vào túi ngực áo đồng phục chỉ còn ló một mép giấy. Byron hai bàn tay đặt ngửa trên đùi.\n\nHƯỚNG NHÌN: Krista nhìn xuống mặt tấm thẻ. Byron ngẩng nhìn thẳng lên mặt Krista.\n\nBIỂU CẢM: Krista đắc thắng và khinh khỉnh. Byron tuyệt đối bình thản, không hề nao núng.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Krista buông tiếng cười.\n\nMọi nhãn hiệu và logo trong khung, kể cả vỏ điện thoại, đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BADGE"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng lối đi, nét"
+            },
+            "dist": "1,8m",
+            "hands": "Krista hai tay cầm tấm thẻ · Byron hai tay ngửa trên đùi"
+          },
+          "picked": "SF-S1-05_v1.png"
+        },
+        {
+          "id": "SF-S1-06",
+          "label": "🎬 NHỊP LẶNG — Cả khoang đã giơ điện thoại lên quay",
+          "desc": "Start Frame video 6.",
+          "prompt": "MÁY QUAY: Cinematic Wide Shot, 30mm, đặt trong lối đi ngay trước hàng ghế 1, ngang tầm ngực người đứng, bao trọn cả ba hàng ghế của khoang.\n\nAI VÀ ĐANG LÀM GÌ: Byron ngồi ghế 2A ở giữa chiều sâu khung, lưng thẳng, mặt hướng ra lối đi. Krista đứng cạnh hàng ghế 2 bên phải lối đi, tấm thẻ nhựa còn trong tay. Mười một hành khách hạng nhất ở ba hàng ghế đều đã quay về phía hàng 2, phần lớn giơ điện thoại vỏ trơn lên ngang mặt để quay, số còn lại nghiêng người thì thầm.\n\nTAY: Byron hai bàn tay đặt lên đùi. Krista một tay cầm tấm thẻ ép sát hông.\n\nHƯỚNG NHÌN: Byron nhìn thẳng dọc lối đi. Krista nhìn xuống Byron. Các hành khách nền hướng mắt về hàng ghế 2, không nhìn camera.\n\nBIỂU CẢM: Byron trầm tĩnh tuyệt đối, như đang chờ một điều mình đã biết trước. Krista vẫn còn vẻ tự mãn nhưng bắt đầu nhận ra cả khoang đang quay chính mình.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Byron quay mặt về phía ô cửa sổ.\n\nMọi nhãn hiệu và logo trong khung, kể cả vỏ điện thoại, đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BYRON_FULL",
+              "REF_KRISTA_FULL",
+              "REF_PROP_BADGE"
+            ],
+            "bg": "SF-S1-M1-MASTER"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất hàng ghế 2",
+            "who": {
+              "Byron": "ngồi ghế 2A, nét",
+              "Krista": "đứng lối đi, nét"
+            },
+            "dist": "4m",
+            "hands": "Byron hai tay trên đùi · Krista một tay cầm tấm thẻ"
+          },
+          "picked": "SF-S1-06_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-01",
+          "dur": 15,
+          "text": "KRISTA: \"You people never learn where you belong.\"\nNARRATOR: The chief flight attendant stood over seat 2A, finger pointed at a Black man in a gray polo.\nBYRON: \"Ma'am, I paid for this seat,\"\nNARRATOR: Byron Ives said. Calm. Level.",
+          "music": null,
+          "goc": "SHOT 1 (5s) — Medium Two-Shot: Krista đứng lối đi bên phải khung + Byron ngồi ghế 2A bên trái khung, CẢ HAI RÕ MẶT · SHOT 2 (5s) — Low-Angle Medium Close-Up Krista nhìn xuống, RÕ MẶT, Byron chỉ còn vai và gáy tiền cảnh dưới khung · SHOT 3 (5s) — OTS qua vai Krista → Byron ngồi ghế, Byron RÕ MẶT",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\n[SHOT 1 — 0:00–0:05]\nCamera PUSH-IN chậm từ lối đi vào Medium Two-Shot. Krista chắn ngang lối đi bằng một bước dứt khoát, ngón trỏ chỉ thẳng xuống Byron ở ghế 2A, và buông câu đầu tiên. Byron xoay hẳn thân người đối diện cô, hai bàn tay xoè tự nhiên trên đùi cho cô thấy tay mình trống, mắt bám lấy mắt cô.\nThoại & Khẩu Hình:\n- Only Krista's mouth moves during dialogue.\n- KRISTA — controlled contempt: \"You people never learn where you belong.\"\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:05–0:10]\nCamera DOLLY IN chậm vào Low-Angle Medium Close-Up Krista; vai và gáy Byron choán góc dưới khung. Lời dẫn là voiceover ghép sau, không thu tại hiện trường. Krista giữ nguyên chiều cao, hất cằm về phía ghế 2A rồi quay đầu sang hàng ghế 1 tìm một ánh mắt tán thưởng; một hành khách né mắt đi.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào khung Over-the-Shoulder qua vai Krista nhìn Byron ngồi ghế. Byron đặt bàn tay xuống cạnh tấm thẻ đang nằm ngửa trên bàn gấp, giữ giọng thấp và đều.\nThoại & Khẩu Hình:\n- Only Byron's mouth moves during dialogue.\n- BYRON — calm and level: \"Ma'am, I paid for this seat,\"\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: vài người ngừng việc đang làm và liếc sang hàng ghế 2, một người hạ tờ tạp chí xuống ngang đùi, những người còn lại giữ nguyên chỗ ngồi và dõi theo.\n\nÂm thanh (Audio Layering): thoại nhân vật tiếng Anh rõ lời, Krista nói trước, Byron nói sau. SFX môi trường: low cabin ventilation hum, faint overhead bin latch click, soft rustle of fabric, distant murmurs without words. No overlapping speech. No narration. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Visually suggest tension and restrained power without breaking reality.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 15,
+          "text": "KRISTA: \"With whose card?\"\nNARRATOR: She snatched the boarding pass off his tray.\nKRISTA: \"This cabin has standards.\"\nNARRATOR: He lifted his phone and pressed record.\nNARRATOR: Her face changed.\nKRISTA: \"Give me that.\"",
+          "music": null,
+          "goc": "SHOT 1 (5s) — Tight Two-Shot: Krista đứng cúi về ghế 2A + Byron ngồi ngẩng lên, CẢ HAI RÕ MẶT · SHOT 2 (5s) — OTS qua vai Byron → Krista đứng cầm tấm thẻ ngang ngực, Krista RÕ MẶT · SHOT 3 (5s) — Medium Close-Up Byron nâng điện thoại, RÕ MẶT, Krista mờ sát rìa phải khung",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\n[SHOT 1 — 0:00–0:05]\nCamera PUSH-IN chậm vào Tight Two-Shot. Krista cúi xuống giật phăng tấm thẻ khỏi mặt bàn gấp của Byron rồi đứng thẳng dậy, vừa làm vừa nói. Byron để yên cho cô lấy, mắt vẫn bám theo bàn tay cô.\nThoại & Khẩu Hình:\n- Only Krista's mouth moves during dialogue.\n- KRISTA — clipped and dismissive: \"With whose card?\"\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:05–0:10]\nCamera DOLLY IN chậm vào Over-the-Shoulder qua vai Byron nhìn Krista. Krista giơ tấm thẻ lên ngang ngực, xoay mặt thẻ về phía hàng ghế 1 như khoe một chiến lợi phẩm rồi mới nói.\nThoại & Khẩu Hình:\n- Only Krista's mouth moves during dialogue.\n- KRISTA — self-satisfied: \"This cabin has standards.\"\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Medium Close-Up Byron; Krista chỉ còn là một mảng mờ sát rìa phải khung. Byron nâng chiếc điện thoại lên ngang ngực bằng cả hai tay và bấm ghi hình, giữ ống kính hướng thẳng về phía cô. Krista lập tức chìa bàn tay ra đòi lại.\nThoại & Khẩu Hình:\n- Only Krista's mouth moves during dialogue.\n- KRISTA — rattled, urgent: \"Give me that.\"\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: hai người quay hẳn đầu sang nhìn, một cặp ngồi bên kia lối đi hạ ly xuống bàn gấp, cả khoang dõi theo và giữ im lặng.\n\nÂm thanh (Audio Layering): thoại nhân vật tiếng Anh rõ lời, chỉ một mình Krista nói. SFX môi trường: low cabin ventilation hum, crisp paper snatch, single soft phone tap, faint crowd murmur without words. No overlapping speech. No narration. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Visually suggest tension and restrained power without breaking reality.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi.",
+          "chuyen": true
+        },
+        {
+          "id": "V-S1-03",
+          "sf": "SF-S1-03",
+          "dur": 15,
+          "text": "[NHỊP]\nNARRATOR: She grabbed for it. He leaned back.\nNARRATOR: And in front of eleven first-class passengers, Krista Vaughn swung her open hand across his face.\nNARRATOR: The crack silenced the whole cabin.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Cú tát — đỉnh cảm xúc mở màn của hook. Đây là một trong hai chỗ duy nhất nhạc được phép chiếm sân khấu, vì toàn bộ giá trị giữ chân người xem nằm ở ba giây này.",
+            "a_kind": "có lời",
+            "a": "Cinematic soul-noir at 80 BPM; opens with a single upright bass note and a dry snare rimshot on the offbeat, low brass swelling underneath for eight bars; at the moment of impact everything cuts to one hard downbeat and a female alto enters raw and close to the mic, almost spoken, no vibrato; lyrics about a room going silent and everyone in it choosing not to move, never triumphant, never gloating; strings arrive only in the last four bars and stop dead rather than resolve; warm analog mix with tape saturation, female vocal, soul, cinematic, tense, restrained",
+            "b_kind": "không lời",
+            "b": "Orchestral tension cue at 80 BPM; low cello ostinato repeating four notes, a single struck piano string ringing out with heavy sustain, no drums for the first half; one sharp orchestral hit at the impact point followed by total silence for a full beat, then a low brass drone rising slowly and cutting off unresolved; dry close mix, no reverb tail, cinematic, strings, brass, tense, minimal"
+          },
+          "goc": "SHOT 1 (4s) — Tight Two-Shot: Krista chồm tay tới + Byron ngả sâu vào lưng ghế, CẢ HAI RÕ MẶT · SHOT 2 (5s) — Profile Two-Shot ngang: Krista đứng bên phải + Byron ngồi bên trái, CẢ HAI RÕ MẶT · SHOT 3 (6s) — Cinematic Wide đối xứng cả khoang: Byron ngồi hàng 2 RÕ MẶT, Krista đứng lối đi RÕ MẶT",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\nLời dẫn là voiceover ghép sau, không thu tại hiện trường.\n\n[SHOT 1 — 0:00–0:04]\nCamera PUSH-IN chậm vào Tight Two-Shot. Krista chộp tay về phía chiếc điện thoại; Byron ngả sâu vào lưng ghế đưa máy ra khỏi tầm với của cô, mắt vẫn khoá vào mắt cô.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:04–0:09]\nCamera TĨNH, Profile Two-Shot ngang chụp từ lối đi: Krista bên phải, Byron bên trái. Krista vung bàn tay mở tát ngang mặt Byron. Đầu Byron bật lệch sang trái rồi anh đưa mặt trở lại đúng vị trí cũ, giữ nguyên tư thế ngồi và hai bàn tay vẫn ở trên đùi.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:09–0:15]\nCamera DOLLY IN chậm dọc lối đi vào Cinematic Wide cả khoang. Byron dựng thẳng lưng lên và đưa tay chạm má. Krista hạ tay xuống ngang hông, dồn trọng tâm sang chân kia thật chậm, mắt quét một vòng khoang rồi dừng lại khi thấy những chiếc điện thoại đang giơ lên.\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: dừng phắt việc đang làm, quay đầu về hàng ghế 2, hai người nhấc điện thoại lên ngang mặt, một người đưa tay lên che miệng.\n\nÂm thanh (Audio Layering): Lời dẫn là voiceover ghép sau, không thu tại hiện trường. SFX vật lý: low cabin ventilation hum, một tiếng crack khô và gọn, leather seat creak, tiếng hít vào đồng loạt của cả khoang, rồi im lặng dày đặc. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. No blood, no injury detail, no repeated blow.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi.",
+          "chuyen": true
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04",
+          "dur": 15,
+          "text": "NARRATOR: A worn plastic badge slid from his breast pocket onto the aisle floor.\nNARRATOR: She picked it up, read it, and laughed out loud.\nKRISTA: \"Janitorial. Of course.\"\nNARRATOR: Eleven phones were already up, recording everything.",
+          "music": null,
+          "goc": "SHOT 1 (5s) — Medium Shot từ lối đi: Byron ngồi ghế 2A tay chạm má RÕ MẶT + Krista đứng cạnh RÕ MẶT · SHOT 2 (5s) — Medium Close-Up Krista đứng thẳng đọc tấm thẻ, RÕ MẶT, Byron mờ ở lớp sau ghế 2A · SHOT 3 (5s) — OTS qua vai Krista → Byron ngồi ngẩng lên, Byron RÕ MẶT",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\n[SHOT 1 — 0:00–0:05]\nCamera PUSH-IN chậm vào Medium Shot Byron ở ghế 2A, tay còn áp trên má. Lời dẫn là voiceover ghép sau, không thu tại hiện trường. Tấm thẻ nhựa tuột nốt khỏi túi ngực trái, rơi xuống thảm lối đi và nằm ngửa mặt lên. Krista đưa mắt xuống theo nó.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:05–0:10]\nCamera DOLLY IN chậm vào Medium Close-Up Krista: cô cúi nhặt tấm thẻ, đứng thẳng lên, đưa lên ngang mặt đọc, bật cười thành tiếng rồi xoay mặt thẻ về phía hàng ghế 1 cho cả khoang cùng thấy trước khi buông một câu.\nThoại & Khẩu Hình:\n- Only Krista's mouth moves during dialogue.\n- KRISTA — delighted mockery: \"Janitorial. Of course.\"\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Over-the-Shoulder qua vai Krista nhìn Byron. Sau lưng cô, cả một hàng điện thoại đã giơ lên. Byron ngẩng lên, xoay hẳn thân người đối diện cô và giữ ánh mắt bám vào mắt cô, quai hàm siết một nhịp rồi thả lỏng.\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: lần lượt nhấc điện thoại lên ngang mặt và quay, hai người nghiêng sang thì thầm với nhau, cả khoang giữ nguyên chỗ ngồi.\n\nÂm thanh (Audio Layering): thoại nhân vật tiếng Anh rõ lời, chỉ một mình Krista nói. SFX môi trường: low cabin ventilation hum, tiếng nhựa cứng chạm thảm rất khẽ, một tràng cười ngắn, loạt tiếng chạm màn hình lách tách. No overlapping speech. No narration. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Visually suggest tension and restrained power without breaking reality.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05",
+          "dur": 15,
+          "text": "NARRATOR: She thought she knew exactly what he was.\nNARRATOR: In nine minutes, she'd find out — from her own boss's mouth, in front of everyone.\nNARRATOR: Have you ever watched someone powerful slap the wrong person and realize — too late — that they just ended their own career,",
+          "music": {
+            "role": "KÌM",
+            "emo": "Krista đang đắc thắng còn Byron thì giữ im. Nhạc phải nhỏ hơn cảm xúc thật của Byron, vì chính anh cũng đang nén nó lại.",
+            "a_kind": "có lời",
+            "a": "Slow soul ballad at 64 BPM; a smoky female alto sung very close to the mic, worn and almost spoken in places; sparse Rhodes chords and upright bass only, brushed drums entering just for the last eight bars then dropping away; lyrics about letting someone believe they have you figured out while you say nothing at all, quiet and never bitter; one restrained string swell at the peak then straight back to voice and Rhodes; warm analog mix, intimate, female vocal, soul, restrained",
+            "b_kind": "không lời",
+            "b": "Muted jazz cue at 64 BPM; a single muted trumpet phrase repeating with long rests between, upright bass walking very slowly beneath, brushed snare barely audible, one Rhodes chord held under everything; nothing builds, the trumpet simply gets quieter each pass and stops; dry intimate late-night mix, jazz, trumpet, upright bass, sparse, subdued"
+          },
+          "goc": "SHOT 1 (5s) — Medium Two-Shot: Krista đứng lối đi nâng tấm thẻ + Byron ngồi ghế 2A ngẩng lên, CẢ HAI RÕ MẶT · SHOT 2 (5s) — Medium Close-Up Krista xoay nửa người về phía galley, RÕ MẶT, Byron mờ ở lớp sau ghế 2A · SHOT 3 (5s) — Low-Angle Medium Close-Up Byron ngồi nhìn dọc lối đi, RÕ MẶT, Krista mờ sát rìa phải khung",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\nLời dẫn là voiceover ghép sau, không thu tại hiện trường.\n\n[SHOT 1 — 0:00–0:05]\nCamera PUSH-IN chậm vào Medium Two-Shot. Krista giữ tấm thẻ ngang ngực, gõ hai đốt ngón tay lên mép tựa ghế 2A của Byron như đang gõ lên đồ của chính mình, rồi hất cằm về phía anh. Byron dựng thẳng lưng, xoay thân người đối diện cô, hai bàn tay xoè tự nhiên trên đùi.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:05–0:10]\nCamera DOLLY IN chậm vào Medium Close-Up Krista khi cô xoay nửa người về phía galley, kẹp tấm thẻ dưới nách và vuốt phẳng vạt áo đồng phục. Byron chỉ còn là một mảng mờ ở lớp sau ghế 2A.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Low-Angle Medium Close-Up Byron ngồi nhìn dọc lối đi, Krista mờ sát rìa phải khung. Nhiệm vụ của Byron ở shot này là cân nhắc xem có nên nói ra điều mình biết hay không rồi quyết định để dành: các ngón tay khép lại thành nắm trên đùi và từ từ mở ra, mắt vẫn dõi theo cô.\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: giữ điện thoại giơ lên quay, hai người liếc nhau khó xử, một người hạ máy xuống rồi lại nâng lên.\n\nÂm thanh (Audio Layering): Lời dẫn là voiceover ghép sau, không thu tại hiện trường. SFX vật lý: low cabin ventilation hum, tiếng đốt ngón tay gõ lên nhựa tựa ghế, tiếng giày gót thấp chạm thảm, faint murmur without words. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Visually suggest tension and restrained power without breaking reality.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-06",
+          "dur": 15,
+          "text": "NARRATOR: because you are about to see every second of it,\nNARRATOR: so drop a comment, smash that like, and let me take you back to where this began.\nNARRATOR: To understand what that slap actually cost, you need to know who was sitting in seat 2A.",
+          "music": {
+            "role": "ĐẨY",
+            "emo": "Cú CTA và cú lật sang quá khứ — chỗ thứ hai và cuối cùng nhạc được phép chiếm sân khấu, để đẩy người xem qua ranh giới hai phần của hook.",
+            "a_kind": "có lời",
+            "a": "Cinematic gospel-soul at 76 BPM; opens with a lone hand-clap pattern and a low organ pad, a female alto entering half-sung half-spoken, then a small choir stacking in behind her from the second half; lyrics about a story that started long before the room you are looking at, promising to take the listener back rather than forward; the arrangement builds to a full choir and organ swell at the last four bars then leaves the ending open on a held chord instead of resolving; warm analog mix with tape saturation, gospel, soul, choir, organ, cinematic, uplifting but heavy",
+            "b_kind": "không lời",
+            "b": "Orchestral transition cue at 76 BPM; low strings entering in unison and rising stepwise, a felt piano marking the beat sparsely, timpani rolling in from the halfway point; everything crescendos into one sustained brass and string chord that is left ringing and unresolved as the cue ends; wide cinematic mix, strings, brass, timpani, building, open-ended"
+          },
+          "goc": "SHOT 1 (5s) — Cinematic Wide cả khoang hạng nhất: Byron ngồi ghế 2A RÕ MẶT, Krista đứng lối đi hàng 2 RÕ MẶT · SHOT 2 (5s) — Medium Two-Shot: Krista đứng bên phải + Byron ngồi bên trái, CẢ HAI RÕ MẶT · SHOT 3 (5s) — Medium Close-Up Byron xoay mặt về ô cửa sổ, RÕ MẶT, Krista mờ ở lớp sau lối đi",
+          "prompt": "Nhận diện:\n- Byron = 54, da đen, áo màu xám tro\n- Krista = 43, da trắng, áo màu xanh navy\n@Witnesses = EXACTLY 11 first-class passengers (same identities, clothing, body types)\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\nLời dẫn là voiceover ghép sau, không thu tại hiện trường.\n\n[SHOT 1 — 0:00–0:05]\nCamera PUSH-IN chậm dọc lối đi vào Cinematic Wide cả khoang hạng nhất: mười một chiếc điện thoại giơ lên, Byron ngồi giữa chiều sâu khung, Krista đứng cạnh hàng ghế 2 và bắt đầu quét mắt qua từng ống kính đang chĩa về mình.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:05–0:10]\nCamera DOLLY IN chậm vào Medium Two-Shot. Krista xoay lại đối diện Byron một nhịp cuối, đầu nghiêng đi vài độ để dò xem vì sao người đàn ông này vẫn ngồi vững như vậy. Byron đón lấy cái nhìn đó và giữ nguyên chiều cao, vai không co.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Medium Close-Up Byron khi anh xoay mặt về phía ô cửa sổ, ánh sáng ngoài trời phủ lên một bên mặt. Krista chỉ còn là một mảng mờ ở lớp sau lối đi. Nhiệm vụ của Byron là để ký ức kéo mình rời khỏi khoang máy bay này: ánh mắt đi ra ngoài ô kính và ở lại đó, bàn tay trên đùi duỗi ra rất chậm.\n\nQUẦN CHÚNG NỀN — EXACTLY 11 witnesses: giữ nguyên tư thế quay phim, hai người hạ máy xuống nhìn nhau, cả khoang giữ nguyên chỗ ngồi.\n\nÂm thanh (Audio Layering): Lời dẫn là voiceover ghép sau, không thu tại hiện trường. SFX vật lý: low cabin ventilation hum, loạt tiếng chạm màn hình lách tách nhỏ dần, tiếng vải ghế cọ nhẹ khi Byron xoay người, distant boarding chime. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Visually suggest tension and restrained power without breaking reality.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        }
+      ]
+    },
+    {
+      "id": "S2",
+      "name": "S2 — Khu phố sát đường băng (ban ngày)",
+      "sfs": [
+        {
+          "id": "SF-S2-01",
+          "label": "🎬 NHỊP LẶNG — Byron chín tuổi đứng ở hiên nhà, máy bay lấy độ cao ngay trên nóc",
+          "desc": "Start Frame video 7. Master của cụm khu phố.",
+          "prompt": "MÁY QUAY: Cinematic Wide Shot, 28mm, đặt giữa lòng đường nhìn dọc con phố về phía hàng rào sân bay, ngang tầm ngực người lớn.\n\nAI VÀ ĐANG LÀM GÌ: Byron đứng một mình trên bậc thềm bê tông của căn nhà thứ hai bên trái khung, người nhỏ trong khung hình, đầu ngửa lên trời. Chiếm gần trọn nửa trên khung là bụng một chiếc máy bay chở khách đang lấy độ cao, càng đáp còn chưa thu, thấp tới mức che khuất cả dãy mái nhà phía sau. Trên lòng đường phía trước có hai chiếc sedan cũ và một xe bán tải đỗ sát lề, thêm một chiếc sedan nữa đang lăn bánh chậm về phía ngã tư cuối phố. Không có người lớn nào khác trong khung.\n\nTAY: Byron hai tay buông dọc thân, một bàn tay nắm hờ thanh vịn hiên.\n\nHƯỚNG NHÌN: Byron ngửa mặt dõi theo chiếc máy bay.\n\nBIỂU CẢM: Byron chăm chú, hoàn toàn cuốn theo, hoàn toàn không sợ hãi.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi chiếc máy bay khuất khỏi tầm nhìn.\n\nMọi biển hiệu, biển số xe và logo trong khung đều là thương hiệu hư cấu, chữ trên biển số làm mờ.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BOY_BYRON_FULL"
+            ],
+            "bg": "REF_BG_KHU_PHO_DUONG_BANG_NGAY"
+          },
+          "pose": {
+            "zone": "hiên nhà sát đường băng",
+            "who": {
+              "Byron": "đứng bậc thềm, nét"
+            },
+            "dist": "12m",
+            "hands": "Byron một tay nắm hờ thanh vịn hiên"
+          },
+          "picked": "SF-S2-01_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S2-01",
+          "sf": "SF-S2-01",
+          "dur": 15,
+          "text": "[NHỊP]\nNARRATOR: Byron Ives was fifty-four years old, and he was born about four hundred feet from an airport runway —\nNARRATOR: in a neighborhood where the planes rattled the windows every ninety seconds\nNARRATOR: and nobody inside those houses had ever been on one.",
+          "music": {
+            "role": "NGHỈ",
+            "emo": "Sau cú CTA dồn dập, đây là khoảng thở đầu tiên của hook. Một khu phố, một đứa trẻ, và tiếng máy bay. Nhạc gần như biến mất để nhường chỗ cho tiếng động cơ.",
+            "a_kind": "có lời",
+            "a": "Folk lullaby at 58 BPM; one nylon-string guitar fingerpicked very softly, a male tenor humming the melody before any words arrive, singing quietly and slightly off-mic as if to himself; lyrics about growing up underneath something you are never allowed to board, plain and childlike, no metaphor stacking, no self-pity; no percussion at all, one low string pad entering only in the final bars; warm intimate mix with room tone left in, folk, acoustic guitar, male vocal, gentle, nostalgic",
+            "b_kind": "không lời",
+            "b": "Ambient guitar piece at 58 BPM; a single nylon-string guitar phrase repeating with heavy sustain and getting quieter each time, a warm pad breathing very slowly underneath, a faint low rumble like distant engines sitting beneath everything, no percussion, no arc, simply fading out; extremely soft mix, almost subliminal, ambient, acoustic guitar, warm, spacious"
+          },
+          "goc": "SHOT 1 (6s) — Cinematic Wide dãy nhà cuối phố và hàng rào sân bay: Byron đứng nhỏ ở hiên nhà bên trái khung, RÕ MẶT · SHOT 2 (4s) — Medium Shot Byron đứng sau ô cửa sổ đang rung, RÕ MẶT · SHOT 3 (5s) — Medium Close-Up Byron ngửa mặt dõi theo máy bay, RÕ MẶT",
+          "prompt": "Nhận diện:\n- Byron = 9 tuổi, da đen, áo màu xanh bạc hà\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\nLời dẫn là voiceover ghép sau, không thu tại hiện trường.\n\n[SHOT 1 — 0:00–0:06]\nCamera PUSH-IN rất chậm dọc con phố vào Cinematic Wide. Một chiếc máy bay chở khách lấy độ cao ngay trên nóc dãy nhà, càng đáp chưa thu, choán gần trọn nửa trên khung. Byron đứng nhỏ xíu trên bậc thềm, ngửa mặt lên và xoay người theo hướng bay của nó.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:06–0:10]\nCamera DOLLY IN chậm vào Medium Shot Byron đứng bên trong khung cửa sổ nhà mình; ô kính rung bần bật theo tiếng động cơ, viền cửa gỗ rung theo. Cậu bé áp một bàn tay lên mặt kính để thấy nó rung, việc cậu vẫn làm mỗi chín mươi giây.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Medium Close-Up Byron ngoài hiên, đầu ngửa, mắt dõi theo vệt máy bay đã xa dần. Cậu giữ nguyên hướng nhìn cho tới khi chấm sáng khuất hẳn, một bàn tay nắm hờ thanh vịn hiên.\n\nÂm thanh (Audio Layering): Lời dẫn là voiceover ghép sau, không thu tại hiện trường. SFX vật lý: tiếng động cơ phản lực dâng lên rồi hạ dần, ô kính cửa sổ rung lạch cạch, chó sủa xa, một chiếc xe lăn bánh chậm qua khung. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery beyond this street. No identity reveal. No future-success montage. Khung hình sáng và rõ mặt, an toàn tuyệt đối cho trẻ: cậu bé ở yên trên hiên nhà mình, hai chân trên bậc thềm bê tông.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        }
+      ]
+    },
+    {
+      "id": "S3",
+      "name": "S3 — Khoang hạng nhất rỗng (ban đêm)",
+      "sfs": [
+        {
+          "id": "SF-S3-01",
+          "label": "🎬 NHỊP LẶNG — Ruth đẩy xe dọn qua khoang hạng nhất rỗng lúc nửa đêm",
+          "desc": "Start Frame video 8. Master của cụm khoang đêm.",
+          "prompt": "MÁY QUAY: Cinematic Wide Shot, 28mm, đặt trong lối đi ngay trước vách galley nhìn dọc về cuối khoang, ngang tầm ngực người đứng.\n\nAI VÀ ĐANG LÀM GÌ: Ruth đứng một mình giữa lối đi ngang hàng ghế 2, hai tay đẩy một xe dọn vệ sinh khung thép có túi rác vải và giá xô, mấy chiếc khăn lau vắt trên thành xe. Cả ba hàng ghế hai bên đều trống, mọi mặt bàn gấp đã gập lại, không một hành khách nào trong khoang.\n\nTAY: Ruth hai bàn tay đeo găng cao su nắm thanh đẩy của xe.\n\nHƯỚNG NHÌN: Ruth nhìn dọc lối đi về phía cuối khoang.\n\nBIỂU CẢM: Ruth mệt nhưng vững, lưng vẫn thẳng, không một nét than vãn.\n\nĐÓNG BĂNG: Đúng khoảnh khắc ngay TRƯỚC khi Ruth dừng xe lại bên hàng ghế số 2.\n\nMọi nhãn hiệu và logo trong khoang đều là thương hiệu hư cấu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_RUTH_FULL"
+            ],
+            "bg": "REF_BG_KHOANG_HANG_NHAT_DEM"
+          },
+          "pose": {
+            "zone": "khoang hạng nhất rỗng ban đêm",
+            "who": {
+              "Ruth": "đứng lối đi, nét"
+            },
+            "dist": "5m",
+            "hands": "Ruth hai tay nắm thanh đẩy xe"
+          },
+          "picked": "SF-S3-01_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S3-01",
+          "sf": "SF-S3-01",
+          "dur": 15,
+          "text": "[NHỊP]\nNARRATOR: His mother, Ruth Ives, cleaned those planes.\nNARRATOR: Thirty years on the overnight janitorial crew at the airport. Eleven at night to seven in the morning,\nNARRATOR: pushing a cart through empty cabins, wiping down tray tables that would never once fold down for her.",
+          "music": {
+            "role": "NÂNG",
+            "emo": "Chuyển sang chương của người mẹ. Nhạc tạo đà và trao phẩm giá cho công việc ca đêm, nhưng tuyệt đối không bi luỵ hoá bà.",
+            "a_kind": "có lời",
+            "a": "Slow gospel-soul at 70 BPM; opens with a lone Hammond organ chord and a female mezzo singing low in her range, unhurried, close to the mic with breath left in; upright bass and brushed drums enter at the halfway point and lift the whole thing one notch without ever getting loud; lyrics about doing night work nobody sees and refusing to be made small by it, dignified and matter-of-fact, never pitying, never triumphant; one warm horn line answering the voice near the end; warm analog mix, gospel, soul, organ, female vocal, dignified, lifting",
+            "b_kind": "không lời",
+            "b": "Instrumental soul cue at 70 BPM; Hammond organ holding warm sustained chords, upright bass walking slowly, brushed drums entering only in the second half, a single muted horn carrying the melody with long rests; the arrangement lifts one step at the halfway point and then holds steady rather than climaxing, ending on a warm open chord; warm analog mix with tape saturation, soul, organ, muted horn, dignified, steady"
+          },
+          "goc": "SHOT 1 (6s) — Cinematic Wide khoang hạng nhất rỗng về đêm: Ruth đứng giữa lối đi cạnh xe đẩy, RÕ MẶT · SHOT 2 (4s) — Medium Shot Ruth cúi lau mặt bàn gấp ghế hàng 2, RÕ MẶT · SHOT 3 (5s) — Medium Close-Up Ruth dựng thẳng lưng nhìn dãy ghế trống, RÕ MẶT",
+          "prompt": "Nhận diện:\n- Ruth = 38, da đen, áo màu xanh lá xám\n\nMột video liền 15 giây gồm ĐÚNG 3 shot, nối bằng 2 cú HARD CUT dứt khoát. Không dissolve, không fade, không chuyển cảnh mềm.\n\nNHỊP THỞ & CHỐNG ĐƠ: Suốt 15 giây, mỗi người trong khung LUÔN đang làm một việc cụ thể — vai và lồng ngực giữ NHỊP THỞ tự nhiên đều đặn, mắt chớp theo nhịp người thật, trọng tâm dồn chậm và có chủ ý sang chân kia, các ngón tay khép lại rồi từ từ mở ra.\n\nLời dẫn là voiceover ghép sau, không thu tại hiện trường.\n\n[SHOT 1 — 0:00–0:06]\nCamera PUSH-IN rất chậm dọc lối đi vào Cinematic Wide khoang hạng nhất rỗng về đêm. Ruth đẩy xe dọn đi từ phía galley về cuối khoang, bước đều và chắc, mỗi bước một nhịp.\n\n--- HARD CUT ---\n\n[SHOT 2 — 0:06–0:10]\nCamera DOLLY IN chậm vào Medium Shot Ruth dừng lại bên hàng ghế 2, hạ một mặt bàn gấp xuống và lau kỹ mặt bàn bằng khăn ẩm, miết thêm một lượt vào góc bàn cho sạch hẳn.\n\n--- HARD CUT ---\n\n[SHOT 3 — 0:10–0:15]\nCamera PUSH-IN chậm vào Medium Close-Up Ruth khi bà gập mặt bàn lại, dựng thẳng lưng lên và đưa mắt chạy dọc dãy ghế trống, đếm nhẩm phần việc còn lại, rồi đặt tay trở lại thanh đẩy của chiếc xe.\n\nÂm thanh (Audio Layering): Lời dẫn là voiceover ghép sau, không thu tại hiện trường. SFX vật lý: tiếng bánh xe đẩy lăn trên thảm, khoá bàn gấp lách cách, khăn ẩm miết trên nhựa, tiếng thông gió mặt đất trầm và đều, một tiếng động cơ máy bay rất xa ngoài sân đỗ. No music.\n\nChặn Ảo Giác Kịch Bản (Negative Storyline): No flashback imagery. No identity reveal. No future-success montage. Khoang rỗng người suốt cả 15 giây.\nTrong MỖI shot con, camera đi liền một mạch — chỉ được cắt tại đúng 2 mốc HARD CUT đã ghi."
+        }
+      ]
+    }
+  ]
+}

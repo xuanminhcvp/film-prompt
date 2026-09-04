@@ -5,60 +5,88 @@ description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF), prompt vid
 
 # Làm phim từ kịch bản
 
-> **LUẬT TUYỆT ĐỐI**: File này chứa quy trình và chỉ mục. Chi tiết luật nằm ở các file `references/`. Giữ file dưới 5.000 token. Đừng thêm luật dài vào đây.
+> **Luật tuyệt đối: File này chỉ chứa quy trình + bảng chủ quyền**. Mọi luật chi tiết nằm ở `references/`.
+> Giữ file dưới 5.000 token. Không tóm tắt luật của file khác vào đây — bản tóm tắt luôn là bản thứ hai đang chờ trôi khỏi bản gốc.
 
-**LƯU Ý BẮT BUỘC:**  ưu tiên tuân thủ các quy tắc tại [phong-cach-rieng.md] nếu có (references/phong-cach-rieng.md) trong mọi bước.
+## Quy trình
 
-## Mục lục
-- [Quy trình 5 bước](#quy-trình-5-bước)
-- [Phạm vi & Bản đã duyệt](#phạm-vi--bản-đã-duyệt)
-- [Kiểm tra bằng Script](#kiểm-tra-bằng-script)
-- [Luật viết nhanh](#luật-viết-nhanh)
-- [Kịch bản & Ghi luật](#kịch-bản--ghi-luật)
+**Mỗi bước mở đúng file mình cần.** Một bước có thể mở nhiều file — đó là bình thường.
 
----
+| Bước | Việc | Mở file | Xong khi |
+|---|---|---|---|
+| 0 | Đọc kịch bản, nắm beat tâm lý và nhịp kể | [0-tu-duy-dien-anh.md](references/0-tu-duy-dien-anh.md) · [1-kich-ban.md](references/1-kich-ban.md) | Mỗi scene có danh sách beat |
+| 1 | Dựng dự án + khung `sf-board.json` | [2-du-lieu-sf-board.md](references/2-du-lieu-sf-board.md) | JSON đủ scene theo mọi heading `##` của kịch bản |
+| 2 | Tạo thẻ REF: người · vật · nơi chốn | [3-ref-nhan-vat.md](references/3-ref-nhan-vat.md) · [4-ref-dao-cu.md](references/4-ref-dao-cu.md) · [5-the-dia-diem.md](references/5-the-dia-diem.md) | User duyệt 100% thẻ địa điểm |
+| 3 | Phân rã thế trận → chốt cụm không gian | [6-cum-va-master-sf.md](references/6-cum-va-master-sf.md) | Mỗi cụm có đúng 1 Master SF |
+| 4 | Lập bảng shot chi tiết | [7-bang-shot.md](references/7-bang-shot.md) | Bảng shot qua hết §7 Kiểm tra cuối bước |
+| 5 | Chèn nhịp không thoại | [10-nhip-lang.md](references/10-nhip-lang.md) | Đủ nhịp bắt buộc ở mọi mối chuyển địa điểm |
+| 6 | Sinh Master SF | [6-cum-va-master-sf.md](references/6-cum-va-master-sf.md) | Mọi Master trỏ `refs.bg` về Thẻ Địa Điểm |
+| 7 | Sinh SF thường | [8-prompt-sf.md](references/8-prompt-sf.md) · [9-quan-chung-nen.md](references/9-quan-chung-nen.md) | Mọi SF trỏ đúng Master của cụm mình |
+| 8 | Viết prompt video | [11-prompt-video.md](references/11-prompt-video.md) | Prompt video qua hết §6 Kiểm tra cuối bước |
+| 9 | Viết nhạc cho nhịp lặng | [12-nhac-suno.md](references/12-nhac-suno.md) | Mỗi nhịp đủ 2 phương án A/B |
+| ⚠️ | Bất cứ lúc nào khung có trẻ em | [KHI-CO-TRE-EM.md](references/KHI-CO-TRE-EM.md) | — |
 
-## Quy trình cốt lõi
-**MỖI BƯỚC MỘT FILE, và là nguồn sự thật duy nhất cho bước đó**. Bắt buộc mở file của bước trước khi viết prompt.
+## Bảng chủ quyền — luật nào nằm ở file nào
 
-| Bước | Việc | Đọc file |
-|---|---|---|
-| **00** | **Khởi tạo Dự án**: Cấu trúc thư mục, khởi tạo `sf-board.json` chuẩn Schema. | [00-khoi-tao-du-an.md](references/00-khoi-tao-du-an.md) |
-| **0A** | **Tư duy đạo diễn**: Nền tảng triết lý chuyển góc máy, nhịp điệu kể chuyện và kiểm soát cảm xúc khán giả. | [6-tu-duy-dien-anh.md](references/6-tu-duy-dien-anh.md) |
-| **0B** | **Tiêu chuẩn D.O.P**: Hệ thống quy tắc về Chất ảnh (Image Quality), Màu sắc (Color Palette) và Ánh sáng (Lighting). | [7-nghe-thuat-anh-sang.md](references/7-nghe-thuat-anh-sang.md) |
-| **1** | **Phân rã Blocking & Chia shot**: Bảng shot & tái sử dụng SF, chèn nhịp lặng, nối shot, khai báo `goc`. | [1-chia-shot.md](references/1-chia-shot.md) |
-| **2** | **Tạo hình & Địa điểm (REF)**: Ảnh portrait, full-body từng trang phục, Thẻ địa điểm (mọi biến thể Sáng/Tối của địa điểm đó xuất hiện trong kịch bản). | [2-tao-hinh-va-dia-diem.md](references/2-tao-hinh-va-dia-diem.md) |
-| **3** | **Prompt SF (Khung hình)** | [3-prompt-sf.md](references/3-prompt-sf.md) |
-| **4** | **Prompt video** | [4-prompt-video.md](references/4-prompt-video.md) |
-| **5** | **Prompt nhạc Suno** | [5-nhac-suno.md](references/5-nhac-suno.md) |
+**Mỗi khái niệm có đúng một file làm chủ. Mọi chỗ khác chỉ được trỏ tên, không được chép lại.**
 
-## Kiểm tra bằng Script
-**MÁY KIỂM, ĐỪNG KIỂM TAY.** Mọi ngưỡng đếm được đã nằm trong script.
-```bash
-python3 sfboard/kiem-luat.py <PROJECT> [--scene S6]        # 21 luật cứng
-python3 sfboard/kiem-noi-shot.py <PROJECT> [S6] --day-du   # Nối shot: zone, tư thế, tay
-```
-- **Lưu ý 2 tầm kiểm**: Phép kiểm chạy ở tầm hẹp (1 scene) không bao phủ tầm rộng (cấp phim). Các luật liên-scene (chuỗi tối liền, trang phục) **TỰ TẮT** khi chạy `--scene`. Hãy đọc phần dữ liệu chưa phủ trước khi tin là "SẠCH".
-- **Checklist mắt**: Góc máy thực tế (nhìn cột GÓC, đừng chỉ nhìn "hướng thứ N"), trang sức/mức sống/độ tuổi, sự hợp lý của nhân vật VÀ CỦA CHÍNH ĐỊA ĐIỂM ở thời điểm đó (xe cộ di chuyển trên đường, hàng quán mở/đóng, đèn bật/tắt, rác thải bối cảnh...), tay kể chuyện, nhạc Suno cho nhịp lặng.
+| Khái niệm | File làm chủ |
+|---|---|
+| Triết lý chuyển góc · Drama Flow · vì sao camera AI khác camera thật | `0-tu-duy-dien-anh.md` |
+| Kịch bản gốc · thẻ metadata `[BEAT]` · cấm sửa thoại | `1-kich-ban.md` |
+| Schema JSON · mã ID · chuỗi neo `refs` · trần 4 nhân vật · trần ký tự · dòng `KHUNG NGANG 16:9` | `2-du-lieu-sf-board.md` |
+| Portrait · full-body · trang phục · mức sống · y phục chức vụ · trang sức | `3-ref-nhan-vat.md` |
+| `REF_PROP_*` — khi nào tạo, chụp thế nào | `4-ref-dao-cu.md` |
+| Thẻ địa điểm · quy hoạch 360° · biến thể giờ · chất ảnh · màu · ánh sáng | `5-the-dia-diem.md` |
+| Cụm không gian · Master SF · khung gối đầu hai cụm | `6-cum-va-master-sf.md` |
+| Danh sách shot · cỡ cảnh · định mức tỉ lệ · dòng `goc` · thời lượng & mật độ thoại · continuity | `7-bang-shot.md` |
+| Prompt SF thường · bố cục · chữ trong khung · hậu cảnh · trạng thái chờ | `8-prompt-sf.md` |
+| Quần chúng nền · xe cộ đang chạy · mật độ sinh tồn | `9-quan-chung-nen.md` |
+| Nhịp không thoại — trọn đời (vị trí · định mức · mã · prompt · yêu cầu nhạc) | `10-nhip-lang.md` |
+| Form prompt video · thang an toàn camera · lip sync · kết clip | `11-prompt-video.md` |
+| Cách viết prompt Suno · 4 vai trò nhạc | `12-nhac-suno.md` |
+| An toàn trẻ em · cấm hở hang | `KHI-CO-TRE-EM.md` |
+| Mọi con số đếm được (trần từ, tỉ lệ, định mức) | file luật sở hữu khái niệm đó — **và phải có mặt trong checklist cuối file ấy** |
 
----
+## Ghi luật mới
 
-## Luật viết nhanh
-1. **Làm bảng shot trước, sinh prompt sau**: Bảng shot quyết định danh sách SF. Kiểm máy trên bảng cho sạch RỒI mới sinh prompt.
-2. **Mẫu hoá khối lặp ĐÚNG CHỖ**: 85% nội dung (bối cảnh, trang phục...) để ở phần Prompt của Thẻ Địa Điểm. Prompt SF viết thành các đoạn văn điện ảnh (Cinematic) mạch lạc thay vì điền form cứng nhắc.
-3. **TẠO VÀ TÁI SỬ DỤNG SF**: Mỗi shot mới mặc định có mã SF tương ứng, nhưng **BẮT BUỘC tái sử dụng SF cũ** khi đối thoại đảo góc máy A-B-A-B (cùng nhân vật, góc máy, tư thế và nón quan sát).
-4. **Gộp scene**: Gộp 5-6 scene làm một lượt để tiết kiệm token nạp luật.
-5. **Chạy song song**: Có thể dùng subagent chạy song song nhiều scene, nhưng **phải chung thư viện dựng prompt**.
-6. **Hai chế độ**: Làm theo lệnh user từng bước, hoặc "tạo hết" (chạy 5 bước, tự duyệt). Việc viết prompt có thể gộp.
-8. Sửa gì trong file sf-board.json thì nhớ phải sửa cả những thứ liên quan bị ảnh hưởng theo nữa.
+Luật mới đến thì hỏi: *"khái niệm nào của tôi sở hữu nó?"* Không file nào nhận → thiếu file. Hai file cùng nhận → ranh giới sai, sửa ranh giới, đừng nhét bừa một chỗ.
 
----
+- **Luật đếm được** → ghi ngưỡng vào file luật sở hữu nó, **và thêm một dòng vào checklist cuối file đó**. Ngưỡng không nằm trong checklist thì không ai kiểm.
+- **Ghi rõ luật áp cho loại việc nào** (khối phạm VI áp dụng ở đầu mỗi file, gồm cả dòng *không chứa*).
+- **Tìm luật cũ trước khi viết mới.** Ưu tiên sửa luật cũ cho sắc hơn, tránh thêm mục mới gây loãng, nếu chưa có luật nào liên quan thì mới viết mới.
+- **Không tự sửa skill khi user chê output.** → User bảo sửa thì mới sửa nhé.
+- **Không chép lại luật của file khác** — chỉ trỏ tên file + tên mục. Chép một câu cũng đủ để hai bản trôi khỏi nhau.
 
-## Kịch bản & Ghi luật
-- **File kịch bản**: Mỗi dự án có 1 `KICH-BAN.md` (bản người đọc). TUYỆT ĐỐI KHÔNG tự ý sửa kịch bản gốc. Chỉ cập nhật kịch bản khi user yêu cầu đích danh, và phải ghi lịch sử ở đầu file (ngày, scene, sửa gì, vì sao).
-- **Thẻ Siêu dữ liệu Kịch bản (Metadata Tags)**: Kịch bản có thể chứa các thẻ ngữ cảnh (vd: `[SCENE CONTEXT]`, `[SCENE PURPOSE]`, `[INTENTION]`, `[BEAT]`, `[KNOWLEDGE]`, `[END STATE]`). BẮT BUỘC coi đây là lời diễn giải tâm lý/đạo diễn để sinh biểu cảm và nhịp phim chính xác. **TUYỆT ĐỐI KHÔNG** coi các thẻ này là lời thoại, không cho nhân vật đọc lên, và không render chúng ra như chữ viết trên màn hình.
-- **Ghi luật mới**: 
-  - Luật đếm được -> ghi vào `kiem-luat.py`, không ghi văn bản.
-  - Ghi rõ luật áp cho loại việc nào.
-  - ⛔ **Tìm luật cũ trước khi viết mới**. Ưu tiên sửa luật cũ cho sắc hơn, tránh thêm mục mới gây loãng.
-  - ⛔ **Không tự sửa skill khi user chê output**.
+## Tự kiểm
+
+**checklist cuối mỗi file luật** — làm xong bước nào thì mở lại file của bước đó và kiểm tra đã qua hết checklist chưa.
+
+| Bước vừa xong | Checklist ở |
+|---|---|
+| Kịch bản | `1-kich-ban.md` §5 |
+| Dữ liệu / mã ID | `2-du-lieu-sf-board.md` §10 |
+| Thẻ nhân vật | `3-ref-nhan-vat.md` §8 |
+| Thẻ đạo cụ | `4-ref-dao-cu.md` §4 |
+| Thẻ địa điểm | `5-the-dia-diem.md` §5 |
+| Cụm & Master SF | `6-cum-va-master-sf.md` §4 |
+| Bảng shot | `7-bang-shot.md` §7 |
+| Prompt SF | `8-prompt-sf.md` §7 |
+| Quần chúng nền | `9-quan-chung-nen.md` §6 |
+| Nhịp lặng | `10-nhip-lang.md` §8 |
+| Prompt video | `11-prompt-video.md` §6 |
+| Nhạc | `12-nhac-suno.md` §5 |
+| Khung có trẻ em | `KHI-CO-TRE-EM.md` §3 |
+
+**Hai tầm kiểm — đừng nhầm:**
+- **Tầm scene**: đếm trong phạm vi một scene/cụm (tỉ lệ khung, đủ cast, continuity giữa shot liền nhau).
+- **Tầm phim**: chỉ lộ ra khi nhìn cả kịch bản (tỉ lệ tái sử dụng SF · mật độ thoại · tỉ lệ nhịp lặng · tỉ lệ cỡ cảnh · chuỗi scene tối liền · trang phục qua nhiều scene).
+
+Làm xong 5–6 scene mà chỉ kiểm tầm scene thì **chưa kiểm gì cả** ở tầm phim. Các mục tầm phim đã ghi rõ "toàn phim" trong từng checklist.
+
+## Vận hành
+
+- **Gộp scene**: gộp 5–6 scene làm một lượt để tiết kiệm token nạp luật.
+- **Chạy song song**: có thể dùng subagent chạy song song nhiều scene, nhưng phải chung thư viện dựng prompt.
+- **Hai chế độ**: làm theo lệnh user từng bước, hoặc "tạo hết" (chạy trọn quy trình, tự duyệt). Việc viết prompt có thể gộp.
+- **Sửa dây chuyền**: sửa gì trong `sf-board.json` thì rà cả những thứ liên quan bị ảnh hưởng theo (`2-du-lieu-sf-board.md` §6).

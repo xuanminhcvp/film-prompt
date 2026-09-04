@@ -16,11 +16,13 @@ Không tự đồng bộ toàn bộ. Không sửa `skills-film` trong workflow n
 - File đầu vào bắt buộc: `SKILL.md` của cả hai skill và toàn bộ file trong `references/` của cả hai skill.
 - Đơn vị duyệt trong một file reference là **một rule nguyên tử**: một bullet, dòng đánh số, điều kiện, hàng bảng có tính ràng buộc, hoặc tiểu mục quy định. Không dùng cả file hay cả mục lớn làm một đơn vị duyệt.
 
-Trước khi sửa prompt phim, luôn tuân thủ các hướng dẫn workspace và đọc skill nền cùng reference đúng bước. Với khung hình có trẻ em, đọc `references/LUAT-an-toan.md` trước khi viết hoặc sửa.
+Trước khi sửa prompt phim, luôn tuân thủ các hướng dẫn workspace và đọc skill nền cùng reference đúng bước. Với khung hình có trẻ em, đọc file an toàn trẻ em của ĐÚNG BÊN đang đọc — hai bên đặt tên khác nhau: Film là `references/KHI-CO-TRE-EM.md`, Hook là `references/LUAT-an-toan.md`.
 
 ## Nguyên tắc bất biến
 
-- Đối chiếu theo ý nghĩa và chức năng, không chỉ theo text diff hoặc tên file.
+- Đối chiếu theo ý nghĩa và chức năng, không chỉ theo text diff hoặc tên file. Hai bên đang chia file theo hai trục khác hẳn nhau — Film chia theo **khái niệm làm chủ** (mỗi khái niệm đúng một file, tra bảng chủ quyền trong `SKILL.md` của Film), Hook chia theo **bước quy trình** — nên không còn ánh xạ 1-1 giữa tên file hai bên, và số file hai bên cũng không cần bằng nhau.
+- Mỗi luật Film đem sang phải hạ xuống đúng MỘT file Hook đang làm chủ khái niệm đó. Chưa file nào làm chủ thì nêu ra để người dùng chọn, không rải cùng một luật vào nhiều file Hook.
+- Luật Film hay trỏ chéo sang tên file khác của Film. Bê sang Hook thì mọi dòng trỏ đó phải đổi sang tên file Hook tương ứng hoặc bỏ hẳn — để nguyên là tạo dòng trỏ tới file không tồn tại ở Hook.
 - Không mặc định mọi khác biệt ở Hook là lỗi; có thể là quy tắc đặc thù cần giữ.
 - Khi người dùng yêu cầu đồng bộ tự động, tự sửa trực tiếp từng rule đủ căn cứ ở `skills-hook`, bằng granular diff nhỏ nhất. Không tiện tay đồng bộ rule tương tự không nằm trong đợt đã chọn.
 - Không tự sửa checker dùng chung, schema, `KICH-BAN.md`, media, assets, snapshot, hay skill Film. Nếu chúng có liên quan, nêu chúng là tác động hoặc một quyết định riêng cần người dùng xác nhận.
