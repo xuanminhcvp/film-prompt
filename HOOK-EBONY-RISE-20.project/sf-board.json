@@ -1,0 +1,452 @@
+{
+ "film": "EBONY RISE 20 — ADRIAN VÀ CÂY CHỔI Ở ĐỒN 34 (SERGEANT THREW A BROOM AT THE NEW BLACK OFFICER)",
+ "kind": "phim",
+ "updated_at": "2026-09-12 11:36:15",
+ "scenes": [
+  {
+   "id": "REF",
+   "name": "REF — nhân vật · đạo cụ · bối cảnh",
+   "sfs": [
+    {
+     "id": "REF_ADRIAN_PATROL_FULL",
+     "label": "★ ADRIAN OWENS — ĐỒNG PHỤC TUẦN TRA, BẢNG TÊN WELLS (thẻ neo nhân dạng)",
+     "desc": "Nhân vật chính. 46 tuổi, đàn ông da đen, 22 năm trong ngành, vừa được bổ nhiệm Đại uý chỉ huy Đồn 34 nhưng chưa công bố; đang cải trang thành lính tuần tra mới chuyển tới với tên Officer A. Wells. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, râu, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: điềm tĩnh có kỷ luật hai mươi hai năm nghề, ánh mắt tỉnh và chắc, đang bị dồn nhưng không cam chịu và cũng không hằn học.\nDùng: HOOK",
+     "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da đen Mỹ 46 tuổi, nước da nâu sẫm ấm, da có kết cấu thật với lỗ chân lông nhìn rõ, gò má cao và gọn, sống mũi thẳng bản vừa, quai hàm vuông chắc, mắt nâu sẫm nhìn tỉnh và chắc, miệng khép tự nhiên KHÔNG cười. Tóc đen xoăn sát đầu cắt rất ngắn gọn kiểu nhà binh, đường chân tóc tỉa sắc, râu quai nón và ria mép đen tỉa sát đều, điểm vài sợi bạc ở thái dương. Vóc người cao, vai rộng, thân chắc gọn, lưng thẳng. Áo sơ mi đồng phục cảnh sát tay ngắn màu XANH NAVY ĐẬM còn mới, cài kín toàn bộ cúc, mặt vải trước ngực phẳng phiu, hai cầu vai trơn KHÔNG có quân hàm. Trên ngực trái đeo huy hiệu cảnh sát kim loại bạc hình khiên, mặt khiên trơn không chữ; trên ngực phải là bảng tên kim loại đen chữ trắng chân phương, đánh vần chính xác: \"WELLS\". Phù hiệu vai hình khiên vải thêu chỉ trắng trên nền navy, hoa văn trơn, nhãn hư cấu. Quần âu đồng phục navy ống đứng có sọc viền dọc, đai công vụ da đen đầy đủ bao súng, còng và bộ đàm, giày bốt da đen đánh xi bóng. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_HOLLISTER_SERGEANT_FULL",
+     "label": "★ BRYCE HOLLISTER — ÁO GIÁM SÁT TRẮNG, QUÂN HÀM TRUNG SĨ (thẻ neo nhân dạng)",
+     "desc": "Phản diện. Trung sĩ trực ban Đồn 34, 52 tuổi, mười tám năm ở đúng toà nhà này, người dựng và duy trì cả hệ thống bao che. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt lịch sự, chưa từng bị ai hỏi lại. Cùng ngành với Adrian nhưng KHÁC bộ đồng phục — áo giám sát trắng đối lập áo tuần tra navy, nên không dùng REF chéo đồng phục.\nDùng: HOOK",
+     "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 52 tuổi, da hồng sạm có kết cấu thật, mặt vuông bè, cằm nặng, cổ dày, sống mũi thẳng hơi to, mắt xanh xám nhỏ và sắc dưới cặp lông mày rậm, môi mỏng khép tự nhiên KHÔNG cười, hai nếp hằn sâu chạy từ cánh mũi xuống khoé miệng. Tóc nâu sẫm ngả muối tiêu cắt ngắn chải ngược, hai bên thái dương bạc rõ, cạo râu nhẵn. Vóc người tầm thước, vai dày, bụng đã nặng, dáng đứng bè và vững. Áo sơ mi đồng phục giám sát tay ngắn màu TRẮNG, cài kín toàn bộ cúc, hồ phẳng có nếp ly dọc, hai cầu vai gắn quân hàm trung sĩ ba vạch chữ V kim loại bạc. Ngực trái đeo huy hiệu cảnh sát kim loại vàng đồng hình khiên, mặt khiên trơn không chữ; ngực phải là bảng tên kim loại đen chữ trắng chân phương, đánh vần chính xác: \"HOLLISTER\". Phù hiệu vai hình khiên vải thêu chỉ xanh trên nền trắng, hoa văn trơn, nhãn hư cấu. Quần âu đồng phục NAVY ống đứng, đai công vụ da đen, giày da đen đế thấp. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_PROP_PUSH_BROOM",
+     "label": "Cây chổi đẩy sàn cán gỗ — thứ Hollister ném xuống chân Adrian",
+     "desc": "Đạo cụ trung tâm của cả đoạn Hook: cây chổi Hollister ném xuống chân Adrian và bắt anh đi quét phòng nghỉ. Nó có mặt trong gần hết các khung của Hook và là vật trao tay của đoạn. Trạng thái ảnh gốc là trạng thái ở khung đầu tiên kịch bản dùng nó: chổi còn NGUYÊN, dựng nghiêng vào tường, chưa ai chạm tới.\nDùng: HOOK",
+     "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm hông, không có người và không có bàn tay trong khung. Một cây chổi đẩy sàn công nghiệp đứng trên nền sàn vinyl xám của một toà nhà công sở, dựng nghiêng vào một mảng tường sơn kem trơn. Cán chổi bằng gỗ tròn màu nâu mật đã lên nước bóng ở đoạn giữa vì tay cầm nhiều, đầu cán bịt nhựa đen, thân cán có vài vết xước nông. Bàn chổi bằng gỗ ép dài khoảng bốn mươi lăm phân, lông chổi tổng hợp màu xám tro pha đen, cắt bằng, hơi bè và mòn nhẹ về một phía do quét lâu ngày, còn bám ít bụi xám mịn ở mép. Cây chổi cao ngang vai người lớn, khoảng một mét bốn; ngay bên cạnh đặt một thùng rác văn phòng bằng nhựa xám cao ngang đầu gối làm mốc tỉ lệ. Toàn bộ bề mặt cán và bàn chổi trơn, không tem nhãn, không chữ, không logo, nhãn hư cấu. Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm ngắn dưới chân chổi và chân tường, làm nổi rõ vân gỗ của cán và từng sợi lông chổi.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_BG_PRECINCT_34_BULLPEN_DAY",
+     "label": "BỐI CẢNH — Phòng làm việc chung và bàn trực Đồn 34 (buổi sáng)",
+     "desc": "Bối cảnh gốc của cả đoạn Hook — sảnh trong và phòng làm việc chung của Đồn 34, nơi Adrian bước vào trình diện và bị Hollister ném chổi xuống chân trước mặt cả ca trực.",
+     "prompt": "Bối cảnh ở Mỹ. Phòng làm việc chung của một đồn cảnh sát khu đô thị vào đầu ca sáng, vừa đổi ca xong và đang chạy việc bình thường — máy đã bật, cà phê đã pha, nhưng KHÔNG có người trong khung hình. TRƯỚC MẶT là bàn trực cao mặt gỗ sồi sáng, trên bàn có sổ trực bìa cứng, hai máy điện thoại bàn và một khay hồ sơ; sau bàn là mảng tường kem treo phù hiệu tròn của sở khắc chân phương \"RIDGEMONT POLICE — PRECINCT 34\" và lá cờ Mỹ trên chân đế. BÊN TRÁI là hai dãy bàn thép xám kê đấu lưng, mỗi bàn một màn hình, một điện thoại, chồng hồ sơ và ghế xoay lưới đen; trên tường là bảng tin nút bần dán kín giấy thông báo. BÊN PHẢI là vách kính mờ của phòng điểm danh, cửa gắn chữ đen chân phương \"ROLL CALL\", kế đó là dãy tủ locker thép xám cao và máy pha cà phê. SAU LƯNG là hai cánh cửa kính lớn ra phố in số \"34\" trên mặt kính và một băng ghế chờ bằng gỗ. Sàn vinyl xám, trần thạch cao ô vuông. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Đèn huỳnh quang trần trắng trung tính chiếu đều khắp phòng, thêm nắng sáng trắng sạch hắt thành một vệt rộng qua cửa kính; không u tối, không moody, không low-key, không cháy trắng, tương phản trung bình, bóng đổ mềm. Tường kem, thép xám nguội, gỗ sồi sáng, sàn vinyl xám. Tổng thể sáng, sạch, quy củ và lạnh — phải KHÁC HẲN ánh vàng ấm chật chội của căn bếp nhà Adrian dưới một ngọn đèn đơn ở cảnh sau.\nKHUNG NGANG 16:9",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "SF-THUMB-01",
+     "label": "★ THUMBNAIL #1 (Template A — Giao đấu hàng 2)",
+     "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9]\n\nLight setup: Front Light, hard lighting, high key.\n\nBối cảnh là phòng làm việc chung và bàn trực của Đồn cảnh sát 34 ở Ridgemont, Mỹ, vào đầu ca sáng. Không gian quy củ, trần thạch cao ô vuông, đèn huỳnh quang trần chiếu mạnh và đều xuống trung tâm, tường sơn kem, bàn trực cao mặt gỗ sồi sáng với mảng tường sau treo phù hiệu tròn của sở và lá cờ Mỹ trên chân đế. Sàn vinyl xám, xung quanh là hai dãy bàn thép kê đấu lưng, ghế xoay lưới đen, màn hình và dãy tủ locker thép, không khí đông kiểu ca trực buổi sáng.\n\nGóc máy / bố cục: Medium-wide shot, camera ngang tầm mắt. Hai nhân vật đứng đối mặt nhau ở trung tâm khung hình, trên khoảng sàn trống trước bàn trực. Mặt hai nhân vật phải rõ.\n\nNhân vật chính bên trái: người đàn ông da đen 46 tuổi, cao, vai rộng, thân chắc gọn, lưng thẳng. Da nâu sẫm ấm, tóc đen xoăn sát đầu cắt rất ngắn, quai hàm vuông, râu quai nón tỉa sát. Biểu cảm nghiêm túc, căng thẳng, không cười, nhìn thẳng vào đối thủ. Mặc áo sơ mi đồng phục cảnh sát tay ngắn màu XANH NAVY ĐẬM cài kín cúc, cầu vai trơn KHÔNG quân hàm, bảng tên đen chữ trắng \"WELLS\" trên ngực phải. Hai tay nắm cán một cây chổi đẩy sàn cán gỗ dựng đứng sát trước người.\n\nPhản diện bên phải: người đàn ông da trắng 52 tuổi, tầm thước, vai dày, bụng đã nặng, dáng đứng bè và vững. Tóc nâu sẫm ngả muối tiêu cắt ngắn chải ngược, mặt vuông bè, cằm nặng, cạo râu nhẵn. Biểu cảm phải là đang cười lớn ngặt nghẽo theo kiểu khinh bỉ, coi thường hoàn toàn đối thủ — miệng mở lớn cười phá lên, đầu hơi ngửa hoặc nghiêng nhẹ vì cười, mắt nheo lại, khóe mắt co lại, khuôn mặt đầy vẻ chế nhạo và khinh miệt, như thể hắn thấy nhân vật chính là trò cười. Nụ cười không vui vẻ thân thiện mà phải mang rõ cảm giác mocking, contemptuous laughter, humiliating laughter. Một tay của hắn chỉ thẳng vào nhân vật chính bên trái, cử chỉ công khai sỉ nhục và chế giễu. Tay còn lại gần thắt lưng hoặc thả tự nhiên. Mặc áo sơ mi đồng phục giám sát tay ngắn màu TRẮNG hồ phẳng cài kín cúc, quân hàm trung sĩ ba vạch chữ V trên hai cầu vai, bảng tên đen chữ trắng \"HOLLISTER\".\n\nPhía sau là ca trực buổi sáng của đồn ngồi và đứng chen quanh hai dãy bàn: đồng phục xanh navy, vài áo giám sát trắng, đai công vụ, cốc cà phê giấy. Họ cười, chế giễu, vài người cũng đang chỉ tay về phía nhân vật chính, vài người ngửa người ra ghế xoay nhìn theo. Không ai nhìn vào ống kính.\n\nKHÔNG chữ, KHÔNG watermark, KHÔNG logo, KHÔNG vòng tròn đỏ, KHÔNG mũi tên.\nKHUNG NGANG 16:9",
+     "status": "draft",
+     "notes": "Nguồn: Template Giao đấu hàng 2 — tra theo tư thế \"chỉ tay\" + \"khinh bỉ\" (lượt 2; lượt 1 tra bối cảnh đồn cảnh sát ra nhóm Cảnh sát nhưng thế trận là còng tay ngoài đường, không khớp).\nGiữ nguyên văn mẫu: dòng mở đầu, khối Light setup, góc máy/bố cục, tư thế chỉ tay + cười khinh bỉ của phản diện, biểu cảm nghiêm túc của nhân vật chính, khối đám đông phía sau. Chỉ đổi: hai nhân vật (theo thẻ FULL), bối cảnh (theo REF_BG), đạo cụ trong tay nhân vật chính (xấp tiền → cây chổi đẩy sàn).\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (ánh sáng, chi tiết bối cảnh)\n2. Đẩy căng tương tác tay & đạo cụ (cây chổi, cốc cà phê, huy hiệu)\n3. Biểu cảm khoảnh khắc ghen tị / bất ngờ / lạnh lùng tột độ\n4. Tăng tương phản màu & ánh sáng\n5. Đẩy cao áp lực đe doạ của phản diện",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "REF_BG_PRECINCT_34_BULLPEN_DAY"
+     },
+     "picked": ""
+    },
+    {
+     "id": "SF-THUMB-02",
+     "label": "★ THUMBNAIL #2 (Template B — Giao đấu hàng 8)",
+     "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9]\n\nLight setup: Bright clean indoor precinct lighting là nguồn sáng chính, kết hợp ánh sáng ban ngày trắng dịu từ hai cánh cửa kính lớn ra phố. Bổ sung strong soft front light từ phía trước để làm rõ khuôn mặt, ánh mắt, râu tóc, nếp nhăn, bàn tay, cán chổi, huy hiệu và chất liệu đồng phục của hai nhân vật. Ánh sáng phủ đều sàn vinyl và ca trực phía sau, balanced exposure, realistic skin tones, crisp facial details, medium-high contrast. Ảnh phải sáng rõ, sắc nét, màu sắc tự nhiên và có chiều sâu, không tối mặt, không cháy sáng trên áo giám sát trắng hoặc phần vai và cánh tay của người đàn ông bên phải.\n\nBối cảnh là bên trong phòng làm việc chung của Đồn cảnh sát 34 tại Mỹ vào ban ngày. Sàn vinyl xám hơi bóng, phía sau là hai dãy bàn thép xám kê đấu lưng chật kín người với ghế xoay lưới đen, màn hình, chồng hồ sơ, các mảng tường sơn kem, bảng tin nút bần và hai cánh cửa kính lớn ra phố. Nhiều sĩ quan mặc đồng phục đứng và ngồi chen chúc quanh khu vực này, có người cười, có người há miệng kinh ngạc, giơ tay hoặc chăm chú nhìn hai người. Đám đông có chuyển động rõ nhưng được làm mờ nhẹ để hai nhân vật tiền cảnh nổi bật.\n\nGóc máy tight medium shot ngang tầm mắt, crop chặt. Khung hình lấy từ đỉnh đầu của người đàn ông bên phải xuống đến ngang bụng của ông ta. Người đàn ông bên trái cũng được lấy từ đỉnh đầu xuống khoảng ngang bụng, đủ thấy rõ hai bàn tay nắm cán chổi. Phản diện chiếm phần lớn nửa phải khung hình và đứng gần máy ảnh hơn một chút, tạo cảm giác cơ thể lớn và áp đảo. Người đàn ông bên trái đứng ở nửa trái. Giữ khoảng cách giữa hai người khoảng 70 cm.\n\nBên trái là một người đàn ông da đen 46 tuổi, cao, vai rộng, thân chắc gọn, da nâu sẫm ấm, tóc đen xoăn sát đầu cắt rất ngắn, râu quai nón và ria mép đen tỉa sát điểm vài sợi bạc ở thái dương, gò má cao, quai hàm vuông. Ông mặc áo sơ mi đồng phục cảnh sát tay ngắn màu XANH NAVY ĐẬM cài kín toàn bộ cúc, hai cầu vai trơn KHÔNG quân hàm, huy hiệu khiên bạc trên ngực trái, bảng tên kim loại đen chữ trắng chân phương \"WELLS\" trên ngực phải. Thân người gần như chính diện với máy ảnh nhưng hơi xoay sang phải. Lưng thẳng, vai mở, hai khuỷu tay giữ sát thân. Hai bàn tay nắm chặt cán một cây chổi đẩy sàn bằng gỗ nâu mật dựng thẳng trước ngực và bụng. Gương mặt căng cứng, môi khép chặt, ánh mắt hướng chếch sang phải nhìn người đàn ông kia. Biểu cảm nghiêm nghị, dè chừng, bị xúc phạm nhưng vẫn giữ bình tĩnh và phẩm giá.\n\nBên phải là một người đàn ông da trắng 52 tuổi, tầm thước nhưng vai dày, ngực dày, cổ lớn, bụng đã nặng, dáng đứng bè và vững. Ông ta có tóc nâu sẫm ngả muối tiêu cắt ngắn chải ngược, hai bên thái dương bạc rõ, mặt vuông bè, cằm nặng, cạo râu nhẵn, mặc áo sơ mi đồng phục giám sát tay ngắn màu TRẮNG hồ phẳng cài kín cúc với quân hàm trung sĩ ba vạch chữ V kim loại bạc trên hai cầu vai và bảng tên kim loại đen chữ trắng \"HOLLISTER\". Thân người xoay chéo sang trái về phía người đàn ông bên trái, ngực ưỡn mạnh, vai kéo ra sau, hai bàn tay đặt thấp trước bụng gần thắt lưng, các ngón tay nắm lỏng vào nhau.\n\nTư thế đầu của phản diện phải được nhấn mạnh tuyệt đối: ông ta ngả đầu mạnh ra phía sau, cổ uốn cong rõ rệt, cằm nâng cao, phần gáy gần như ép về sau, tạo cảm giác đang cười bật ngửa. Đồng thời, toàn bộ đầu vẫn nghiêng và xoay sang trái về phía người kia, không quay ra ngoài khung hình và không ngửa thẳng lên trần. Đường hàm hướng chéo lên trên, mặt nghiêng khoảng 45 độ về phía người đàn ông bên trái. Miệng mở cực lớn trong tiếng cười ngặt nghẽo, răng lộ rõ, mắt nhắm gần kín, má nâng cao, mũi nhăn, trán co lại. Cảm giác phải là ông ta đang bật cười dữ dội đến mức đầu và cổ ngả hẳn ra sau, nhưng vẫn chủ ý cười nhạo trực tiếp người đàn ông ở bên trái.\n\nKhông để phản diện chỉ nghiêng đầu nhẹ hoặc giữ cổ thẳng. Phần đầu phải lùi ra sau rõ ràng so với vai và ngực, cằm cao hơn bình thường, cổ căng, góc ngửa đầu dễ nhận thấy ngay khi nhìn ảnh. Tư thế này tạo sự tương phản với phần thân vẫn hướng về người đàn ông bên trái và hai tay vẫn giữ thấp trước bụng.\n\nKhoảnh khắc phải thể hiện một trung sĩ trực ban đang cười bật ngửa, công khai chế giễu một sĩ quan tuần tra đang phải nắm cây chổi quét sàn, trước cả ca trực. Giữ tỷ lệ cơ thể chân thực, bàn tay đủ ngón, cán chổi thẳng. Không chữ, không mũi tên, không vòng tròn đỏ, không biểu tượng đồ họa, không vật thể che khuất hai nhân vật.\nKHUNG NGANG 16:9",
+     "status": "draft",
+     "notes": "Nguồn: Template Giao đấu hàng 8 — tra theo tư thế \"cười nhạo\" + \"sỉ nhục\" (lượt 2).\nGiữ nguyên văn mẫu: dòng mở đầu, khối Light setup, khối bối cảnh-đám đông, crop tight medium + tỉ lệ chia khung 70cm, toàn bộ khối tư thế ngửa đầu cười bật ngửa và khối câu chặn tư thế, hai bàn tay nắm vật dựng thẳng trước ngực. Chỉ đổi: hai nhân vật (theo thẻ FULL), bối cảnh (theo REF_BG), đạo cụ (cây gậy chống → cây chổi đẩy sàn).\nLỆCH CÓ CHỦ Ý so với mẫu: mẫu tả nạn nhân \"lưng khom nhẹ, vai co lại\" (ông lão 78 tuổi yếu) — đổi thành \"lưng thẳng, vai mở\" vì dáng thẳng là đặc điểm nhân dạng khoá ở thẻ REF_ADRIAN_PATROL_FULL. Mọi câu khác giữ nguyên văn.\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (ánh sáng, chi tiết bối cảnh)\n2. Đẩy căng tương tác tay & đạo cụ (cây chổi, huy hiệu, cốc cà phê)\n3. Biểu cảm khoảnh khắc ghen tị / bất ngờ / lạnh lùng tột độ\n4. Tăng tương phản màu & ánh sáng\n5. Đẩy cao áp lực đe doạ của phản diện",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "REF_BG_PRECINCT_34_BULLPEN_DAY"
+     },
+     "picked": ""
+    },
+    {
+     "id": "SF-THUMB-03",
+     "label": "★ THUMBNAIL #3 (Tự sáng tạo — khoảnh khắc bàn tay áp lên huy hiệu giấu trong áo)",
+     "prompt": "[Photorealistic, Highly detailed, Professional Photography, 16:9] Ánh sáng đèn huỳnh quang trần trắng trung tính chiếu đều, cộng một vệt nắng sáng trắng gắt hắt vào từ cửa kính ra phố làm rim light viền vai và gò má nhân vật chính; tương phản mạnh, sáng rõ, sắc nét, skin tone tự nhiên, không u tối.\n\nBối cảnh: phòng làm việc chung và bàn trực Đồn cảnh sát 34 vào đầu ca sáng — sàn vinyl xám, hai dãy bàn thép xám kê đấu lưng với ghế xoay lưới đen và màn hình, tường kem, dãy tủ locker thép, mảng tường bàn trực phía sau treo phù hiệu tròn của sở và lá cờ Mỹ trên chân đế.\n\nBố cục: medium two-shot phân lớp chiều sâu, camera ngang tầm mắt. Nhân vật chính chiếm khoảng 6/10 bên phải khung hình, ở lớp trước, mặt lấy đủ lớn và rõ cảm xúc. Phản diện chiếm khoảng 4/10 bên trái khung hình, lùi lại khoảng hai mét ở lớp sau, vẫn rõ mặt.\n\nNHÂN VẬT CHÍNH: người đàn ông da đen 46 tuổi, cao, vai rộng, lưng thẳng, da nâu sẫm ấm, tóc đen xoăn sát đầu cắt rất ngắn, râu quai nón và ria mép đen tỉa sát điểm vài sợi bạc ở thái dương. Mặc áo sơ mi đồng phục cảnh sát tay ngắn màu XANH NAVY ĐẬM cài kín toàn bộ cúc, hai cầu vai trơn KHÔNG quân hàm, bảng tên kim loại đen chữ trắng chân phương \"WELLS\" trên ngực phải. Tay trái anh nắm cán một cây chổi đẩy sàn cán gỗ nâu mật dựng đứng sát người, bàn chổi chạm sàn; bàn tay phải áp phẳng lên ngực áo bên trái, đầu ngón tay ấn xuống một cạnh cứng hình chữ nhật nổi mờ dưới lớp vải áo — mặt vải vẫn phẳng và cài kín, KHÔNG lộ ra vật gì. Anh nhìn thẳng vào ống kính, ánh mắt sắc và thách thức, cằm giữ ngang, hàm siết thấy rõ cơ gồ ở khớp quai hàm.\n\nPHẢN DIỆN: người đàn ông da trắng 52 tuổi, tầm thước, vai dày, bụng đã nặng, tóc nâu sẫm ngả muối tiêu cắt ngắn chải ngược, hai bên thái dương bạc, mặt vuông bè, cạo râu nhẵn. Mặc áo sơ mi đồng phục giám sát tay ngắn màu TRẮNG hồ phẳng cài kín cúc, quân hàm trung sĩ ba vạch chữ V kim loại bạc trên hai cầu vai, bảng tên kim loại đen chữ trắng \"HOLLISTER\". Ông ta đứng ở lớp sau, tay chỉ về phía nhân vật chính, đầu ngửa nhẹ, miệng mở cười lớn đầy khinh miệt, mắt nheo lại, tay còn lại nâng một cốc cà phê giấy trơn không chữ ngang ngực, nhãn hư cấu.\n\nNhân vật nền: ba sĩ quan mặc đồng phục ngồi và đứng ở dãy bàn phía sau, mờ ngoài nét, đã dừng việc và đang dõi theo về phía hai nhân vật chính, khoé miệng nhếch lên; không ai nhìn vào ống kính.\n\nMọi bề mặt có thể mang chữ khác (vỏ màn hình, cốc giấy, bìa hồ sơ, tủ locker) đều trơn, là nhãn hư cấu không có thật.\nKHÔNG chữ, KHÔNG watermark, KHÔNG logo, KHÔNG vòng tròn đỏ, KHÔNG mũi tên.\nKHUNG NGANG 16:9",
+     "status": "draft",
+     "notes": "Nguồn: Tự sáng tạo — khoảnh khắc của shot V-HOOK-06 (bàn tay áp lên tấm huy hiệu Captain giấu dưới lớp áo, ngay trước khi cán cân quyền lực lật). Khoảnh khắc tĩnh trước bùng nổ: phản diện vẫn đang đắc thắng, chưa hề biết mình vừa sai ai đi quét sàn.\nMenu tinh chỉnh:\n1. Bối cảnh điện ảnh & đắt giá hơn (ánh sáng, chi tiết bối cảnh)\n2. Đẩy căng tương tác tay & đạo cụ (cây chổi, huy hiệu dưới áo, cốc cà phê)\n3. Biểu cảm khoảnh khắc ghen tị / bất ngờ / lạnh lùng tột độ\n4. Tăng tương phản màu & ánh sáng (vệt nắng gắt từ cửa kính, rim light)\n5. Đẩy cao áp lực đe doạ của phản diện",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "REF_BG_PRECINCT_34_BULLPEN_DAY"
+     },
+     "picked": ""
+    }
+   ],
+   "shots": []
+  },
+  {
+   "id": "HOOK",
+   "name": "HOOK — Bị trung sĩ trực ban ném chổi xuống chân trước cả ca trực Đồn 34",
+   "sfs": [
+    {
+     "id": "SF-HOOK-M1-MASTER",
+     "label": "[HOOK] Master 1 · Adrian bước vào Đồn 34, Hollister chắn trước bàn trực",
+     "goc": "Cinematic wide two-shot, Adrian Owens bên phải khung vừa qua cửa kính lối vào, Bryce Hollister bên trái khung trước bàn trực, CẢ HAI RÕ MẶT, đã khoá mắt vào nhau",
+     "pose": {
+      "zone": "Khoảng sàn trống giữa cửa kính lối vào và bàn trực Đồn 34",
+      "who": {
+       "ADRIAN": "Đã bước hẳn vào trong và dừng lại, trọng tâm còn dồn nhẹ lên chân trước, quay hẳn người đối mặt trực tiếp Hollister, ánh mắt khoá thẳng vào ông ta, cằm giữ ngang, chưa hề né tránh",
+       "HOLLISTER": "Đứng chắn trước bàn trực, chân hơi dạng, vai xoay hẳn về phía Adrian, cằm hất nhẹ, khoé miệng trễ xuống chua chát, mắt bắt đầu quét từ giày lên"
+      },
+      "dist": "Máy quay đặt sát mảng tường phải cách khoảng bảy mét, ngang tầm mắt người đứng, lấy trọn lối vào, bàn trực và hai dãy bàn làm việc",
+      "hands": {
+       "ADRIAN": "Hai tay buông tự nhiên dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+       "HOLLISTER": "Tay phải chống hông sát đai công vụ, tay trái cầm một cốc cà phê giấy"
+      }
+     },
+     "prompt": "Cinematic wide two-shot, photorealistic, máy quay sát mảng tường phải cách khoảng bảy mét, ngang tầm mắt người đứng. Adrian Owens ở khoảng 1/3 phải khung, vừa bước hẳn qua cửa kính lối vào và dừng lại, trọng tâm còn dồn nhẹ lên chân trước, đã quay hẳn người đối mặt trực tiếp Hollister, ánh mắt khoá thẳng vào ông ta, cằm giữ ngang, không né tránh; hai tay buông dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt; gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Bryce Hollister ở khoảng 1/3 trái khung, đứng chắn trước bàn trực, chân hơi dạng, vai xoay hẳn về phía Adrian, cằm hất nhẹ, khoé miệng trễ xuống chua chát, mắt đang quét từ giày lên mặt; tay phải chống hông sát đai công vụ, tay trái cầm một cốc cà phê giấy trơn không chữ, nhãn hư cấu. Cả hai rõ mặt. Một cây chổi đẩy sàn cán gỗ dựng nghiêng vào đầu bàn trực, chưa ai chạm tới. Bảy sĩ quan mặc đồng phục ở hai dãy bàn phía sau: ba người vừa ngẩng lên nhìn về phía cửa, hai người vẫn cúi vào màn hình, một người cầm ống nghe điện thoại bàn, một người đứng rót cà phê; tất cả ngoài nét mềm, không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "REF_BG_PRECINCT_34_BULLPEN_DAY"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-02",
+     "label": "[HOOK] S02 · OTS qua vai Adrian, Hollister nhìn soi từ giày lên mặt rồi bác chuyện thuyên chuyển",
+     "goc": "OTS qua vai phải Adrian Owens (vai/gáy trái tiền cảnh mờ), Bryce Hollister RÕ MẶT giữa khung",
+     "pose": {
+      "zone": "Nhìn từ chỗ Adrian đứng về phía bàn trực",
+      "who": {
+       "HOLLISTER": "Đứng trước bàn trực, người hơi chồm về trước, cằm hất cao, mắt đi từ giày Adrian lên tới mặt rồi mới dừng, một bên khoé miệng nhếch lên",
+       "ADRIAN": "Quay lưng 3/4 về máy, vai phải và một phần gáy chiếm góc dưới trái khung, mờ nét, không thấy mặt"
+      },
+      "dist": "Máy quay cách Hollister khoảng hai mét, qua vai phải Adrian phía trước ống kính, ngang tầm mắt",
+      "hands": {
+       "HOLLISTER": "Tay trái cầm cốc cà phê giấy ngang hông, tay phải chống hông",
+       "ADRIAN": "Vai và một phần gáy mờ ở tiền cảnh, không thấy rõ tay"
+      }
+     },
+     "prompt": "OTS qua vai phải Adrian Owens: vai phải và một phần gáy của Adrian chiếm góc dưới trái khung, mờ ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Bryce Hollister RÕ NÉT giữa khung, cách máy khoảng hai mét, người hơi chồm về trước, cằm hất cao, mắt đi từ đôi giày lên tới mặt Adrian rồi mới dừng lại, một bên khoé miệng đã nhếch lên; đầu ông ta vừa nghiêng vài độ về phía hai sĩ quan ngồi bàn gần nhất như để chắc chắn họ đang theo dõi, rồi quay lại. Tay trái cầm cốc cà phê giấy trơn không chữ, nhãn hư cấu; tay phải chống hông. Hậu cảnh sau lưng Hollister là mặt bàn trực và mảng tường kem treo phù hiệu tròn của sở cùng lá cờ Mỹ trên chân đế, ngoài nét; cây chổi đẩy sàn vẫn dựng nghiêng vào đầu bàn trực, chưa ai chạm tới. Một dáng sĩ quan ngồi bàn mờ hẳn ở sát mép phải khung, đã ngước lên nhìn về phía tiền cảnh, không nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-03",
+     "label": "[HOOK] S03 · Adrian nói Chief đã ký, cây chổi còn dựng sát tay Hollister",
+     "goc": "Medium two-shot 3/4, Adrian Owens trái + Bryce Hollister phải, CẢ HAI RÕ MẶT",
+     "pose": {
+      "zone": "Khoảng sàn trước bàn trực, hai người cách nhau khoảng một mét rưỡi",
+      "who": {
+       "ADRIAN": "Quay 3/4 về máy, đang nói, mắt khoá vào Hollister, cổ họng vừa động một cái nuốt khan, cằm giữ ngang",
+       "HOLLISTER": "Quay 3/4 đối diện Adrian, một bên lông mày nhướn lên, khoé miệng kéo xuống, ngực vừa hạ xuống sau một hơi thở dài"
+      },
+      "dist": "Máy quay chếch bên phải trục, ngang tầm ngực, cách hai người khoảng ba mét, cắt ngang thắt lưng",
+      "hands": {
+       "ADRIAN": "Hai tay buông dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+       "HOLLISTER": "Tay trái cầm cốc cà phê giấy, tay phải buông xuống gần cán chổi nhưng CHƯA chạm vào"
+      }
+     },
+     "prompt": "Medium two-shot 3/4, photorealistic, máy quay chếch bên phải trục, ngang tầm ngực, cách hai người khoảng ba mét. Adrian Owens bên trái khung, RÕ MẶT, quay 3/4 về máy, đang nói, mắt khoá vào Hollister, cổ họng vừa động một cái nuốt khan, cằm giữ ngang; hai tay buông dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt; gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Bryce Hollister bên phải khung, RÕ MẶT, quay 3/4 đối diện Adrian, một bên lông mày nhướn lên, khoé miệng kéo xuống, ngực vừa hạ xuống sau một hơi thở dài, tay trái cầm cốc cà phê giấy trơn không chữ, nhãn hư cấu. Cây chổi đẩy sàn cán gỗ dựng nghiêng vào đầu bàn trực ngay sát hông phải Hollister, cả cán lẫn bàn chổi lọt trọn trong khung, tay ông ta CHƯA chạm vào nó. Khoảng sàn vinyl trống giữa chân hai người lọt đủ trong khung. Hậu cảnh là hai dãy bàn làm việc phía trong phòng, ba sĩ quan ngồi tại chỗ đã dừng việc và quay đầu về phía hai người, ngoài nét, không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-04",
+     "label": "[HOOK] S04 · Hollister giao việc quét phòng nghỉ, chổi đã nằm dưới chân Adrian",
+     "goc": "Dirty single medium trên Bryce Hollister RÕ MẶT, vai trái Adrian Owens mờ ở mép trái khung",
+     "pose": {
+      "zone": "Khoảng sàn trước bàn trực, ngay sau cú ném chổi",
+      "who": {
+       "HOLLISTER": "Đứng thẳng lại sau cú ném, cằm hất cao, đang nói, mắt đưa sang hai sĩ quan ngồi bàn phía sau chứ không nhìn Adrian",
+       "ADRIAN": "Đứng nguyên tại chỗ, chỉ còn vai trái và một phần cánh tay mờ ngoài nét ở mép trái khung, không thấy mặt"
+      },
+      "dist": "Máy quay ngang tầm mắt, cách Hollister khoảng hai mét rưỡi, cắt ngang thắt lưng",
+      "hands": {
+       "HOLLISTER": "Tay trái cầm cốc cà phê giấy, tay phải vừa buông ra còn giơ lửng ngang hông",
+       "ADRIAN": "Không thấy tay, chỉ thấy mũi giày ở đáy khung"
+      }
+     },
+     "prompt": "Medium shot, dirty single, photorealistic, máy quay ngang tầm mắt cách Hollister khoảng hai mét rưỡi, cắt ngang thắt lưng. Bryce Hollister RÕ MẶT chiếm giữa khung, người đứng thẳng lại sau cú ném, cằm hất cao, đang nói với giọng nhẹ như đang xếp lại một tờ lịch trực; mắt ông ta không nhìn Adrian mà đưa sang hai sĩ quan ngồi bàn phía sau. Tay trái cầm cốc cà phê giấy trơn không chữ, nhãn hư cấu; tay phải vừa buông ra, còn giơ lửng ngang hông. Vai trái và một phần cánh tay của Adrian Owens mờ ngoài tiêu điểm ở mép trái khung, đứng hoàn toàn im, không thấy mặt. Dưới đáy khung, cây chổi đẩy sàn nằm ngang trên sàn vinyl, bàn chổi chạm mũi giày Adrian, cán chổi còn hơi nảy. Hậu cảnh là dãy bàn làm việc: hai sĩ quan ngồi tại chỗ đã quay hẳn ghế về phía tiền cảnh, khoé miệng nhếch lên, ngoài nét, không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-M2-MASTER",
+     "label": "[HOOK] Master 2 · Adrian đứng một mình trên cây chổi, Hollister quay sang cười với ca trực",
+     "goc": "Cinematic wide shot, Adrian Owens giữa khung + Bryce Hollister trái khung đã quay nửa người về dãy bàn, CẢ HAI RÕ MẶT",
+     "pose": {
+      "zone": "Giữa lối đi lòng phòng làm việc, nhìn ngược từ bàn trực vào trong",
+      "who": {
+       "ADRIAN": "Đứng thẳng một mình giữa lối đi, cây chổi nằm dưới chân, CHƯA cúi xuống và CHƯA chạm vào chổi, mắt hạ xuống cán chổi, hàm siết lại",
+       "HOLLISTER": "Đã lùi hai bước về bên trái khung, quay nửa người về phía dãy bàn ở góc nghiêng 3/4, đang cười thành tiếng về phía các sĩ quan, không còn nhìn Adrian"
+      },
+      "dist": "Máy quay đặt phía bàn trực nhìn ngược vào lòng phòng, cách khoảng sáu mét, ngang tầm ngực",
+      "hands": {
+       "ADRIAN": "Hai tay buông dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+       "HOLLISTER": "Cốc cà phê giấy nâng ngang ngực, tay còn lại chống hông"
+      }
+     },
+     "prompt": "Cinematic wide shot, photorealistic, máy quay đặt phía bàn trực nhìn ngược vào lòng phòng làm việc, cách khoảng sáu mét, ngang tầm ngực. Adrian Owens đứng một mình giữa lối đi ở chính giữa khung, RÕ MẶT, cây chổi đẩy sàn nằm dưới chân anh, anh CHƯA cúi xuống và CHƯA chạm vào chổi; mắt hạ xuống cán chổi, hàm siết lại thấy rõ cơ gồ lên ở khớp quai hàm, gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm; hai tay buông dọc thân, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Bryce Hollister đã lùi hai bước về bên trái khung và quay nửa người về phía dãy bàn, RÕ MẶT ở góc nghiêng 3/4, đang cười thành tiếng về phía các sĩ quan chứ không còn nhìn Adrian, cốc cà phê giấy trơn không chữ nâng ngang ngực, nhãn hư cấu. Hậu cảnh là hai dãy bàn thép và mảng tường phải với vách kính mờ phòng điểm danh: năm sĩ quan ngồi tại bàn, ba người đã quay hẳn ghế về phía Adrian và đang cười, hai người cúi xuống giấy tờ; tất cả ngoài nét mềm, không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "REF_BG_PRECINCT_34_BULLPEN_DAY"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-06",
+     "label": "[HOOK] S06 · Cận trung Adrian, bàn tay áp lên tấm huy hiệu giấu dưới lớp áo",
+     "goc": "Medium close-up Adrian Owens RÕ MẶT một mình trong khung",
+     "pose": {
+      "zone": "Giữa lối đi lòng phòng làm việc, ngay chỗ Adrian vừa nhặt chổi",
+      "who": {
+       "ADRIAN": "Đã đứng thẳng lên, tay trái nắm cán chổi dựng đứng sát người, bàn tay phải áp phẳng lên ngực áo bên trái, mi mắt hạ xuống đúng một nhịp rồi mở lại"
+      },
+      "dist": "Máy quay chếch trái trục khoảng ba mươi độ so với khung trước, ngang tầm mắt, cách Adrian khoảng một mét hai, cắt ngang ngực",
+      "hands": {
+       "ADRIAN": "Tay trái nắm cán chổi, tay phải áp phẳng lên ngực áo, đầu ngón tay lần thấy một cạnh cứng dưới lớp vải"
+      }
+     },
+     "prompt": "Medium close-up, photorealistic, máy quay chếch trái trục khoảng ba mươi độ, ngang tầm mắt, cách Adrian khoảng một mét hai, cắt ngang ngực. Adrian Owens RÕ MẶT chiếm giữa khung, đã đứng thẳng lên, tay trái nắm cán cây chổi đẩy sàn dựng đứng sát người, bàn chổi chạm sàn. Bàn tay phải anh áp phẳng lên ngực áo bên trái, đầu ngón tay đang lần thấy một cạnh cứng hình chữ nhật dưới lớp vải; mặt vải áo vẫn phẳng và cài kín cúc, KHÔNG lộ ra vật gì. Mi mắt anh hạ xuống đúng một nhịp rồi mở lại, mắt nhìn chếch xuống, gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Hậu cảnh ngay sau lưng anh là mảng tường phải với vách kính mờ phòng điểm danh và mép một dãy tủ locker thép xám, ngoài nét; một dáng sĩ quan ngồi bàn mờ hẳn ở sát mép phải khung, không nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M2-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-07",
+     "label": "[HOOK] S07 · Cận mặt Adrian, mắt ngước lên quét một lượt khắp căn phòng",
+     "goc": "Close-up Adrian Owens RÕ MẶT một mình trong khung",
+     "pose": {
+      "zone": "Giữa lối đi lòng phòng làm việc",
+      "who": {
+       "ADRIAN": "Đứng thẳng, mắt đã ngước lên và đang quét một lượt ngang qua căn phòng, đọc từng gương mặt, hít vào bằng mũi rồi giữ hơi"
+      },
+      "dist": "Máy quay nhích về bên phải trục khoảng ba mươi độ so với khung trước, ngang tầm mắt, cách Adrian khoảng tám mươi phân, cắt ngang vai",
+      "hands": {
+       "ADRIAN": "Cả hai bàn tay đã nắm quanh cán chổi dựng đứng phía trước, cán gỗ lọt vào cạnh dưới khung"
+      }
+     },
+     "prompt": "Close-up, photorealistic, máy quay nhích về bên phải trục khoảng ba mươi độ so với khung trước, ngang tầm mắt, cách Adrian khoảng tám mươi phân, cắt ngang vai. Adrian Owens RÕ MẶT gần kín khung, mắt đã ngước hẳn lên và đang quét một lượt ngang qua căn phòng, đọc từng gương mặt; anh hít vào bằng mũi rồi giữ hơi, cánh mũi giãn nhẹ, môi khép lại một nhịp, gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Cả hai bàn tay đã nắm quanh cán cây chổi đẩy sàn dựng đứng phía trước, cán gỗ lọt vào cạnh dưới khung, các ngón đặt hờ chứ không siết. Hậu cảnh là mảng trần thạch cao và dãy đèn huỳnh quang của phòng làm việc, xoá phông mạnh; một dáng người mờ hẳn đi ngang ở lớp sau xa, không nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M2-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-08",
+     "label": "[HOOK] S08 · Hollister quay hẳn sang chia chiến thắng với ca trực, Adrian đứng một mình ở lớp sau",
+     "goc": "Medium two-shot phân lớp, Bryce Hollister RÕ MẶT ở lớp trước phải khung, Adrian Owens ở lớp sau giữa khung",
+     "pose": {
+      "zone": "Cạnh dãy bàn làm việc → giữa lối đi",
+      "who": {
+       "HOLLISTER": "Đã quay hẳn người khỏi Adrian về phía hai sĩ quan ngồi bàn bên trái khung, đầu ngửa nhẹ, miệng mở cười thành tiếng, mắt nheo lại",
+       "ADRIAN": "Đứng một mình giữa lối đi ở lớp sau cách xa hơn bốn mét, nhỏ hơn và mờ nhẹ, mặt vẫn hướng về phía họ"
+      },
+      "dist": "Máy quay ngang tầm mắt đặt cạnh dãy bàn làm việc, cách Hollister khoảng hai mét",
+      "hands": {
+       "HOLLISTER": "Cốc cà phê giấy nâng ngang ngực nghiêng về phía hai sĩ quan như một cái chạm ly",
+       "ADRIAN": "Hai tay nắm cán chổi dựng đứng trước người"
+      }
+     },
+     "prompt": "Medium two-shot phân lớp chiều sâu, photorealistic, máy quay ngang tầm mắt đặt cạnh dãy bàn làm việc, cách Hollister khoảng hai mét. Lớp trước bên phải khung là Bryce Hollister, RÕ MẶT ở góc 3/4, đã quay hẳn người khỏi Adrian về phía hai sĩ quan ngồi bàn bên trái khung, đầu ngửa nhẹ, miệng mở cười thành tiếng, mắt nheo lại, cốc cà phê giấy trơn không chữ nâng ngang ngực nghiêng về phía họ như một cái chạm ly; ông ta đang chia khoảnh khắc này với họ chứ không còn nhìn về phía Adrian. Hai sĩ quan nền ngồi tại bàn ngửa người ra ghế cười theo, ngoài nét, không ai nhìn vào ống kính. Lớp sau ở giữa khung, xa hơn khoảng bốn mét, là Adrian Owens đứng một mình giữa lối đi, nhỏ hơn và mờ nhẹ, hai tay nắm cán cây chổi đẩy sàn dựng đứng, mặt vẫn hướng về phía họ. Hậu cảnh xa là cửa kính lối vào và mảng tường bàn trực, ngoài nét.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M2-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-09",
+     "label": "[HOOK] S09 · Adrian nắm chặt cán chổi rồi chủ động mở tay ra, mắt khoá vào lưng Hollister",
+     "goc": "Medium close-up Adrian Owens RÕ MẶT, dáng lưng Bryce Hollister mờ ngoài nét ở lớp sau trái khung",
+     "pose": {
+      "zone": "Giữa lối đi lòng phòng làm việc → dãy bàn phía sau",
+      "who": {
+       "ADRIAN": "Đứng thẳng, vai mở, cằm giữ ngang, mắt đã ngước hẳn lên và khoá vào lưng Hollister ở lớp sau",
+       "HOLLISTER": "Chỉ còn là dáng lưng mờ hẳn ngoài nét ở lớp sau trái khung, vẫn quay về phía dãy bàn"
+      },
+      "dist": "Máy quay ngang tầm mắt, chếch phải trục, cách Adrian khoảng một mét rưỡi, cắt ngang ngực",
+      "hands": {
+       "ADRIAN": "Cả hai bàn tay nắm quanh cán chổi dựng đứng trước ngực, các khớp ngón tay bên trên đã trắng lại vì siết"
+      }
+     },
+     "prompt": "Medium close-up, photorealistic, máy quay ngang tầm mắt, chếch phải trục, cách Adrian khoảng một mét rưỡi, cắt ngang ngực. Adrian Owens RÕ MẶT giữa khung, đứng thẳng, vai mở, cằm giữ ngang, mắt đã ngước hẳn lên và khoá vào lưng Hollister ở lớp sau; gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Cả hai bàn tay nắm quanh cán cây chổi đẩy sàn dựng đứng trước ngực, các khớp ngón tay bên trên đã trắng lại vì siết. Lớp sau bên trái khung, mờ hẳn ngoài nét, là dáng lưng Hollister vẫn quay về phía dãy bàn và hai dáng sĩ quan ngồi ghế; không ai nhìn vào ống kính. Hậu cảnh là hai dãy bàn thép, dãy đèn huỳnh quang trần và cửa kính lối vào ở xa, ngoài nét.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ADRIAN_PATROL_FULL",
+       "REF_HOLLISTER_SERGEANT_FULL",
+       "REF_PROP_PUSH_BROOM"
+      ],
+      "bg": "SF-HOOK-M2-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    }
+   ],
+   "shots": [
+    {
+     "id": "V-HOOK-01",
+     "sf": "SF-HOOK-M1-MASTER",
+     "dur": 10,
+     "text": "NARRATION: Adrian Owens walked into Precinct 34 in a fresh officer's uniform.\nADRIAN: \"I've just been transferred here. Officer Wells.\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, just inside the glass street doors, squared off toward the sergeant.\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, planted in front of the front counter.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nStart of the morning shift in a city precinct bullpen. A new patrol officer reports in; the desk sergeant has already decided what he is.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:04 no dialogue — reserved for: \"Adrian Owens walked into Precinct 34 in a fresh officer's uniform.\"\n0:04–0:07 Adrian's line. 0:07–0:10 no dialogue, Hollister's reaction only.\n\nDIALOGUE ORDER:\nADRIAN\n\nSHOT 1 (0:00–0:04) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in from the right-hand wall.\nAdrian finishes the last two steps in off the street and stops, weight settling evenly onto both feet, shoulders squaring toward Hollister rather than shrinking. He holds Hollister's eyes. Hollister does not move to meet him; his eyes start at Adrian's boots and travel up. Hold four seconds, no dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER TWO-SHOT — VERY SLOW PUSH-IN\nCamera: The push-in tightens on both men. Controlled, restrained.\n0:04–0:07: Adrian speaks, plainly, no eagerness in it, chin level.\nADRIAN — even, professional, offering nothing extra: \"I've just been transferred here. Officer Wells.\"\n0:07–0:10: Hollister lets the silence sit. His eyes finish their trip up to Adrian's face, land there last, and one corner of his mouth pulls sideways. He tips his head a few degrees toward the officers at the nearest desks, checking that they are watching.\n\nPERFORMANCE:\nAdrian is contained and correct. Hollister reads the uniform before he reads the man, and lets the room see him do it.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Adrian speaks, Hollister listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue: character voices only, clear natural American English. Silence: faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant Adrian's weight settles and before he opens his mouth.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in.\nSHOT 2 = tighter two-shot, very slow push-in.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-02",
+     "sf": "SF-HOOK-02",
+     "dur": 10,
+     "text": "NARRATION: Sergeant Bryce Hollister gave him a sour, appraising look, eyeing him from head to toe.\nHOLLISTER: \"We didn't put in a request for a transfer.\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, facing camera in front of the counter.\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, seen only as a blurred right shoulder and the back of his head in the lower-left foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe sergeant takes his time looking the new man over, then tells him he is not wanted — without once raising his voice.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:05 no dialogue — reserved for: \"Sergeant Bryce Hollister gave him a sour, appraising look, eyeing him from head to toe.\"\n0:05–0:08 Hollister's line. 0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nHOLLISTER\n\nSHOT 1 (0:00–0:05) — OTS ON HOLLISTER (OVER ADRIAN'S SHOULDER) — SLOW PUSH-IN\nCamera: Very slow push-in on Hollister. Adrian's blurred shoulder anchors the lower-left foreground and never moves.\nHollister works his eyes down and back up — boots, duty belt, name tag, and only then the face — the way a man checks a price ticket. His mouth sours as he goes. Halfway through he turns his head a few degrees toward the two officers at the nearest desk, shares the look, and turns back.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER OTS ON HOLLISTER — VERY SLOW PUSH-IN\nCamera: The push-in tightens on his face. Adrian's blurred shoulder stays at the frame edge.\n0:05–0:08: He delivers it lightly, almost pleasantly, as if correcting a roster.\nHOLLISTER — light, unhurried, faintly amused: \"We didn't put in a request for a transfer.\"\n0:08–0:10: He lifts the cup and drinks, holding Adrian there while he does it.\n\nPERFORMANCE:\nHollister is polished and unworried. The cruelty is in how ordinary he makes it sound, and in his checking of his audience.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Adrian's face is never seen; he never speaks and stays motionless. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue: character voices only, clear natural American English. Silence: faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, the moment Hollister's eyes finish travelling up and settle on Adrian's face.\n\nCAMERA SUMMARY:\nSHOT 1 = OTS on Hollister, slow push-in.\nSHOT 2 = tighter OTS on Hollister, very slow push-in.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-03",
+     "sf": "SF-HOOK-03",
+     "dur": 10,
+     "text": "ADRIAN: \"The Chief signed off on it, Sarge.\"\nNARRATION: Hollister sighed, grimaced, and tossed a broom down at Adrian's feet.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, frame left, facing the sergeant three-quarters to camera.\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, frame right, a push broom leaning against the counter beside his right hand.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nAdrian answers with a fact he cannot be argued out of. Hollister does not argue. He hands him a job instead.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:03 Adrian's line. 0:03–0:10 no dialogue — reserved for: \"Hollister sighed, grimaced, and tossed a broom down at Adrian's feet.\"\n\nDIALOGUE ORDER:\nADRIAN\n\nSHOT 1 (0:00–0:03) — MEDIUM TWO-SHOT, THREE-QUARTER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Locked off. No movement.\nAdrian's throat moves once in a swallow before he answers. He keeps his eyes on Hollister and lets the word 'Sarge' land without any weight on it — no edge, no plea.\nADRIAN — level, respectful, immovable: \"The Chief signed off on it, Sarge.\"\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER MEDIUM TWO-SHOT FAVOURING HOLLISTER — VERY SLOW PUSH-IN\nCamera: Very slow push-in. The floor between the two men stays inside frame.\nHollister lets out a long theatrical sigh loud enough to carry to the desks, pulls his mouth into a grimace, and reaches sideways for the push broom already leaning on the counter. He lifts it, holds it out at arm's length the way you hand somebody a mop at closing time, and simply lets go. It clatters flat on the vinyl across Adrian's boots. Adrian does not step back and does not look down.\n\nPERFORMANCE:\nHollister performs the whole thing for the room, bored and generous with it. Adrian absorbs it without a flinch, but the face must stay alive, never slack.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Adrian speaks, Hollister listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue: character voices only, clear natural American English. Silence: the sigh and the broom hitting the floor, faint bullpen ambience — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:03, immediately after Adrian finishes: \"The Chief signed off on it, Sarge.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot, static locked-off.\nSHOT 2 = tighter medium two-shot favouring Hollister, very slow push-in.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-04",
+     "sf": "SF-HOOK-04",
+     "dur": 10,
+     "text": "HOLLISTER: \"The break room needs sweeping. That's your job.\"\nNARRATION: A few officers chuckled. No one spoke up to object.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, centre frame, facing camera.\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, only a blurred left shoulder at the frame edge, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe sergeant assigns the new officer to sweep the break room, and the room agrees with him by laughing.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:03 Hollister's line. 0:03–0:10 no dialogue — reserved for: \"A few officers chuckled. No one spoke up to object.\"\n\nDIALOGUE ORDER:\nHOLLISTER\n\nSHOT 1 (0:00–0:03) — MEDIUM DIRTY SINGLE ON HOLLISTER — SLOW PUSH-IN\nCamera: Very slow push-in on Hollister.\nHe straightens up after letting the broom go. He gives the first sentence to Adrian; the second one he throws sideways, to the officers behind him, and his eyes go with it.\nHOLLISTER — light, pleasant, as if reading out a duty assignment: \"The break room needs sweeping. That's your job.\"\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER MEDIUM ON HOLLISTER, DESKS BEHIND HIM — SUBTLE LATERAL DOLLY\nCamera: Very slow lateral drift. Keep Hollister's face the primary focus.\nTwo out-of-focus officers at the desks behind him laugh under their breath and go back to their screens. A third glances over, says nothing, looks away. Hollister's smile widens at the sound, and he turns his shoulders toward the desks and lifts his cup a little, sharing it with them. The broom stays on the floor at the bottom of frame.\n\nPERFORMANCE:\nHollister is enjoying an audience he has never once been denied. The room's silence is comfortable and practised, not shocked.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Adrian's face is never seen and he never speaks in this clip. The background officers only laugh under their breath; they form no words. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue: character voices only, clear natural American English. Silence: low chuckling and faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:03, immediately after Hollister finishes: \"That's your job.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Hollister, slow push-in.\nSHOT 2 = tighter medium on Hollister with the desks behind, subtle lateral dolly.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-05",
+     "sf": "SF-HOOK-M2-MASTER",
+     "dur": 10,
+     "text": "NARRATION: Adrian picked up the broom. His jaw tightened—but he maintained his cover. Tucked against his ribs, beneath his uniform shirt,",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, alone in the centre aisle, the push broom lying at his feet.\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, frame left, half-turned away toward the desks.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nNo one speaks. A man with twenty-two years of service bends down in front of a room that has decided what he is, and picks up a broom.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:05 no dialogue — reserved for: \"Adrian picked up the broom. His jaw tightened—but he maintained his cover.\"\n0:05–0:10 no dialogue — reserved for: \"Tucked against his ribs, beneath his uniform shirt,\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE SHOT DOWN THE AISLE — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward Adrian.\nAdrian looks down at the broom for a beat. Then he bends at the knees instead of at the back, keeping his spine straight, takes the handle and stands the broom up beside him. Behind him at frame left, Hollister laughs toward the desks and does not watch him do it. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER MEDIUM ON ADRIAN — VERY SLOW PUSH-IN\nCamera: The push-in tightens on Adrian, Hollister soft at the edge of frame.\nAdrian is upright now with the broom standing beside him. His jaw locks, the muscle standing out at the hinge, and stays locked. He does not turn toward the laughter. Hold the full five seconds silent.\n\nPERFORMANCE:\nRestraint, not blankness: the audience must see what it costs him to look this calm. The face must never go slack or empty. Hollister never once looks back at him.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Low chuckling from the desks and faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, the instant Adrian comes back up to standing with the broom in his hand.\n\nCAMERA SUMMARY:\nSHOT 1 = wide shot down the aisle, slow push-in.\nSHOT 2 = tighter medium on Adrian, very slow push-in.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-06",
+     "sf": "SF-HOOK-06",
+     "dur": 10,
+     "text": "NARRATION: was a captain's badge bearing his name.\nNARRATION: Captain Adrian Owens was going undercover as a rookie officer in the very precinct he commanded.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, alone in frame, holding the push broom upright in his left hand.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe man being told to sweep the floor is the commanding officer of this building. Nobody in the room knows it yet.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:04 no dialogue — reserved for: \"was a captain's badge bearing his name.\"\n0:04–0:10 no dialogue — reserved for: \"Captain Adrian Owens was going undercover as a rookie officer in the very precinct he commanded.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — MEDIUM CLOSE-UP ON ADRIAN — VERY SLOW PUSH-IN\nCamera: Very slow, restrained push-in. Smooth.\nAdrian's right hand comes flat to the left side of his chest and presses there. His fingertips find a hard rectangular edge under the shirt fabric and move once along it, reading it. The shirt stays buttoned and flat; nothing is taken out and nothing shows through. Hold silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER MEDIUM CLOSE-UP — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Locked off. No movement.\nHis eyelids close for exactly one beat and open again. The hand drops from his chest and settles on the broom handle with the other one. He turns his head a few degrees toward the room but keeps his eyes down. Hold silent.\n\nPERFORMANCE:\nHe is checking that the thing that would end this in one second is still there, and choosing again not to use it. Restraint, not blankness — the face must never go slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouth remains closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Faint bullpen ambience and distant low chuckling only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:04, on the moment his fingertips stop moving over the hidden edge.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Adrian, very slow push-in.\nSHOT 2 = tighter medium close-up, static locked-off.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-07",
+     "sf": "SF-HOOK-07",
+     "dur": 10,
+     "text": "NARRATION: Every insult, every order—he took it all in.\nNARRATION: And what he uncovered over the next two weeks... no one saw coming.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, alone in frame, both hands on the upright broom handle.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nHe is not enduring this. He is collecting it. Every face in this room is being filed away.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:05 no dialogue — reserved for: \"Every insult, every order—he took it all in.\"\n0:05–0:10 no dialogue — reserved for: \"And what he uncovered over the next two weeks... no one saw coming.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — CLOSE-UP ON ADRIAN — SUBTLE PAN\nCamera: A very small, slow pan following his eyeline. Controlled.\nHis eyes come up off the floor and travel slowly across the room, stopping a fraction of a second on each face he passes, reading them and moving on. He draws a breath in through his nose and holds it. Hold silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHT CLOSE-UP ON ADRIAN — VERY SLOW PUSH-IN\nCamera: Very slow push-in onto the face. Smooth and restrained.\nThe held breath goes out through his nose, slow and even. His eyes come back to the front and stay there, steady and wide open, no longer moving. Nothing else on the face changes. Hold silent.\n\nPERFORMANCE:\nThis is a man taking inventory, not a man being crushed. Restraint, not blankness — the face must stay alive and never go slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouth remains closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, at the top of the held breath, before he lets it out.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Adrian, subtle pan.\nSHOT 2 = tight close-up on Adrian, very slow push-in.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-08",
+     "sf": "SF-HOOK-08",
+     "dur": 10,
+     "text": "NARRATION: Have you ever watched someone rip off their disguise and reveal exactly who they are to the people who humiliated them",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, foreground right, turned away from Adrian toward the desks.\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, in the background of the aisle, smaller and slightly soft, both hands on the upright broom.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe sergeant has already moved on. He is enjoying it with his own people now, and the man he did it to is still standing there behind him.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:05 no dialogue — reserved for: \"Have you ever watched someone rip off their disguise\"\n0:05–0:10 no dialogue — reserved for: \"and reveal exactly who they are to the people who humiliated them\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM TWO-SHOT IN DEPTH, FAVOURING HOLLISTER — SLOW PUSH-IN\nCamera: Very slow push-in past Hollister's shoulder.\nHollister's head tips back and he laughs out loud toward the two officers at the desks, tilting his cup at them like a toast. He has stopped looking at Adrian entirely. The two officers rock back in their chairs, laughing with him, out of focus.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — SAME DEPTH TWO-SHOT, RACK FOCUS TO ADRIAN — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Locked off. Focus pulls slowly from Hollister in the foreground back to Adrian in the aisle.\nHollister goes soft in the foreground, still laughing, still turned away. Adrian comes sharp in the middle of the aisle, standing straight with both hands on the broom, watching the back of the sergeant's head. Hold silent.\n\nPERFORMANCE:\nHollister is not angry, he is entertained — that is what makes it land. Adrian's face stays alive and holding, never slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. The background officers only laugh; they form no words. Mouths otherwise remain closed with lips still.\n\nAUDIO:\nNo dialogue at all. Laughter from Hollister and the two officers plus faint bullpen ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, on the peak of Hollister's laugh, before the focus pulls back to Adrian.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot in depth favouring Hollister, slow push-in.\nSHOT 2 = same framing, static locked-off with a slow rack focus to Adrian.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-09",
+     "sf": "SF-HOOK-09",
+     "dur": 10,
+     "text": "NARRATION: — because you are about to, so drop a comment, hit that like, and let me take you back to where it all began.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nADRIAN — 46-year-old Black man, wearing a navy-blue uniform shirt, centre frame, both hands on the upright broom handle.\nHOLLISTER — 52-year-old white man, wearing a white uniform shirt, only a blurred back in the far layer at frame left, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe last frame before the story rewinds. He is holding a broom and he is holding the whole building, and only he knows it.\n\nTIMING (no narrator generated — reserve clean silence for the post narrator dub):\n0:00–0:05 no dialogue — reserved for: \"— because you are about to, so drop a comment, hit that like,\"\n0:05–0:10 no dialogue — reserved for: \"and let me take you back to where it all began.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM CLOSE-UP ON ADRIAN — VERY SLOW PUSH-IN\nCamera: Very slow push-in. Smooth, restrained.\nHis grip closes hard around the broom handle, the knuckles of the upper hand going pale. His eyes stay locked on the back of Hollister's head across the room. Hold silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER MEDIUM CLOSE-UP ON ADRIAN — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Locked off. No movement.\nHe deliberately opens his fingers, one at a time, lets the blood come back into them, and settles them onto the handle again in an easy working grip. His shoulders drop half an inch. The eyes do not leave Hollister. Hold silent to the end of the clip.\n\nPERFORMANCE:\nThe opening of the fist is a decision, not a release — he is choosing to keep going. Restraint, not blankness: the face must stay alive and never go slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Faint bullpen ambience and distant low laughter only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, at the tightest point of the grip, immediately before the fingers begin to open.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Adrian, very slow push-in.\nSHOT 2 = tighter medium close-up on Adrian, static locked-off.",
+     "status": "draft",
+     "vpicked": ""
+    }
+   ]
+  }
+ ]
+}

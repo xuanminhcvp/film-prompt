@@ -69,6 +69,7 @@ Quần chúng nền và hướng bối cảnh được quyết định độc l�
 - **Không insert thuần đạo cụ hoặc thuần nhịp lặng không người**: trừ cảnh thời tiết/bối cảnh thuần. Mọi cảnh khác phải có người.
 - **Giới hạn**: không dựng khung đang chuyển động. Tối đa 2 lớp chiều sâu.
 - **Nghe lén**: người nghe lén núp ở vùng tối, không nhìn thấy người trong phòng (chỉ nghe).
+- **Biểu cảm kìm nén ≠ mặt trơ**: tuyệt đối không viết *"gương mặt tĩnh hoàn toàn"*, *"không một nét cảm xúc"* cho nhân vật chính đang nét — khung đầu chết mặt thì cả clip chết theo. Tả dấu hiệu đang phải giữ (hàm siết thấy cơ gồ ở khớp, cánh mũi phập phồng vì nén hơi, mi mắt hạ xuống) và chốt bằng câu *"gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm."* Phản diện chưa bị lộ thì cho thấy sự thích thú ngay trên mặt (khoé miệng đã nhếch, đầu hơi nghiêng như đang thẩm định). Danh sách hành vi đầy đủ: `11-prompt-video.md` §4.5.
 - **Hướng nhìn**: 2 người thì nhìn thẳng mắt nhau (trừ khi thoại bảo khác). 1 người thì nhìn vật/ngoài khung. Quần chúng tuyệt đối không nhìn camera.
 - **Viết ngắn gọn**: cắt mọi thứ ảnh ref đã có (màu áo, tóc), bỏ mã nội bộ.
 
@@ -78,16 +79,18 @@ Quần chúng nền và hướng bối cảnh được quyết định độc l�
 
 - **Cấm lạm dụng từ "không" (Negative Prompts rác):** tuyệt đối cấm thói quen chèn các từ cấm vô nghĩa (*"không chữ, không watermark, không logo"*) vào cuối prompt. Chỉ dùng chữ không khi thực sự cần chặn hành vi sai của nhân vật (VD: *"nhìn nhau nhưng không chạm tay"*, *"đứng yên không bước tới"*). Đừng biến câu cấm thành rác.
 - **Khẳng định trạng thái (tránh cấm theo ngưỡng):** khi cần khoá một trạng thái mặc định (cài cúc, đóng cửa, đứng thẳng...), viết câu khẳng định trạng thái đó ("cài kín toàn bộ cúc"), không viết dưới dạng ngưỡng cấm ("không cởi quá N nút") — câu ngưỡng bị AI sinh ảnh đọc thành *cho phép một phần*, không phải khoá cứng.
+- **Ngoại lệ hợp lệ — cấm tả "mắt đỏ":** tuyệt đối không viết *"mắt đỏ hoe"*, *"mi mắt đỏ"*, *"eyes red"*, *"red-rimmed eyes"*. AI đọc chữ "đỏ"/"red" đứng cạnh "mắt"/"eyes" thành hiệu ứng mắt phát sáng đỏ kèm vệt máu chảy dọc gò má, không thành mắt người khóc bình thường (lỗi có thật đã xảy ra). Khi nhân vật khóc, dùng *"mắt ngân ngấn nước"* / *"eyes brimming with tears"* / *"mi mắt ướt và hơi sưng vì khóc"*, và bắt buộc chèn thêm câu chặn: *"Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má."* Đây là ngoại lệ hợp lệ của luật cấm "Negative Prompt rác" ở trên vì nó chặn một lỗi có thật, không phải câu cấm vô nghĩa.
 
 ## 7. Checklist bắt buộc
 0. **Địa điểm đã xuất hiện chưa?** Rà tất cả scene. Đã xuất hiện (cùng phòng/cùng nhà/khu phố) thì phải khóa bằng `refs.bg`. Chú ý ngoại cảnh rất dễ sót.
 1. **Cast**: đúng người lọt nón quan sát.
-2. **Nhân vật chính**: vị trí, hướng nhìn, biểu cảm khoảnh khắc.
+2. **Nhân vật chính**: vị trí, hướng nhìn, biểu cảm khoảnh khắc — biểu cảm phải là hành vi cơ thể đọc được, không phải mặt trơ (§5).
 3. **Quần chúng nền**: có ai không? Từng vùng có gì? Mang đạo cụ hợp thời tiết/giờ. Khai theo từng vùng.
 4. **Bản đồ không gian**: giữ đúng continuity `pose`.
 5. **Nội thất cơ bản**: phải có (ghế, bàn, giường...).
 6. **Đạo cụ**: phân loại theo (a) nền, (b) hành động. Đính ảnh REF_PROP nếu là món chủ chốt, tối đa 2 ảnh.
 7. **Đồ vật nối tiếp scene trước**: bắt buộc rà SF cuối scene trước (đóng/mở, nằm đâu). Báo user nếu kịch bản mới mâu thuẫn, không tự lách.
+7b. **Đối tượng chịu tác động của hành động sắp tới trong video phải lọt ĐỦ trong khung**: nếu shot video kế tiếp sẽ có ai/vật gì tác động lên một nhân vật (dội nước, xô đẩy, ném đồ...), nhân vật nhận tác động đó phải nằm đủ rõ trong khung SF, không chỉ hở một góc/rìa/đỉnh đầu. Đặt sát mép khung sẽ khiến hành động khi sinh video đổ/rơi ra ngoài khung hình thay vì trúng đúng mục tiêu.
 8. **Giờ giấc / đông đúc**: khớp thoại.
 9. **Chữ**: liệt kê đủ, yêu cầu rõ ràng, không nhòe.
 10. Đọc lại thoại xem mốc đổi trạng thái chuẩn chưa. Khớp 100% chữ kịch bản.

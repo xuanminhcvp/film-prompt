@@ -1,0 +1,351 @@
+{
+ "film": "SAGE — GIỌNG HÁT TRONG VŨNG NƯỚC BẨN",
+ "kind": "phim",
+ "updated_at": "2026-09-10 09:15:09",
+ "scenes": [
+  {
+   "id": "REF",
+   "name": "REF — nhân vật · đạo cụ · bối cảnh",
+   "sfs": [
+    {
+     "id": "REF_SAGE_STREET_FULL",
+     "label": "★ SAGE FOSTER — THẺ NEO NHÂN DẠNG + ĐỒ HÁT RONG VỈA HÈ (áo hoodie của mẹ)",
+     "desc": "Nữ chính, 19 tuổi, người Mỹ gốc Phi. Cô gái hát rong vô gia cư trên vỉa hè Broadway, Nashville — sống nhờ tiền lẻ khách bỏ vào cốc giấy. Có mặt cả 8 clip của Hook. Mặt phải đọc ra: mệt nhưng tỉnh, ánh nhìn thẳng, cam chịu mà chưa gãy.\nĐây là THẺ NEO NHÂN DẠNG của Sage — mọi SF lấy mặt trực tiếp từ ảnh này, không dùng thẻ portrait riêng.\nBộ duy nhất trong Hook: hoodie xám nhạt bạc màu từng là của mẹ, rách vai trái; jeans thùng thình thắt bằng dây giày; giày mòn hết đế. Trang sức duy nhất: dây chuyền đồng mảnh đã xỉn — kỷ vật của mẹ, làm dấu nhận diện xuyên phim.\nDùng: HOOK",
+     "prompt": "Ảnh THẺ NEO NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên chính diện, hai tay thả lỏng hai bên, mặt hướng thẳng vào ống kính. NHÂN DẠNG (khoá cứng, đây là nguồn sự thật duy nhất về khuôn mặt nhân vật này): thiếu nữ Mỹ gốc Phi 19 tuổi, dáng người mảnh và cao vừa, da nâu sẫm có kết cấu thật, gò má cao và sắc, hàm thon, mắt nâu sẫm to và tỉnh táo, lông mày tự nhiên rậm vừa, tóc đen xoăn tự nhiên kiểu 4B bới gọn ra sau gáy để lộ trán và tai, vài lọn tơ loà xoà quanh chân tóc. Miệng khép tự nhiên, KHÔNG cười, ánh nhìn thẳng và chắc. Gương mặt trẻ, ưa nhìn, khoẻ mạnh, KHÔNG hốc hác, KHÔNG quầng thâm, KHÔNG thêm sẹo, kính hay khiếm khuyết nào. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. TRANG PHỤC: áo hoodie nỉ màu XÁM NHẠT BẠC MÀU rộng thùng thình, mũ trùm buông sau lưng, vải sờn bạc trắng ở khuỷu tay, một đường rách ngắn đã cũ mép ở vai TRÁI, dây rút cổ mất một bên — cũ nhưng được giặt cẩn thận, không dơ bẩn, không rách nát tơi tả. Quần jeans xanh bạc rộng hơn người hai cỡ, sờn trắng ở đầu gối, cạp thắt lại bằng một sợi dây giày buộc nút. Giày thể thao vải xám ngà mòn hết gai đế, dây giày đứt nối lại bằng hai nút thắt đôi. Đeo một sợi dây chuyền đồng mảnh đã xỉn màu, mặt dây trơn nhỏ, lộ ra ở cổ áo hoodie — trang sức DUY NHẤT. Áo cài kín, dáng đứng thẳng, vai không so. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, KHÔNG mảng tối gắt, rõ mặt và rõ chất vải nỉ đã sờn.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": "REF_SAGE_STREET_FULL_v1.png"
+    },
+    {
+     "id": "REF_PRESTON_MANAGER_FULL",
+     "label": "★ PRESTON CARLISLE — THẺ NEO NHÂN DẠNG + VEST BA MẢNH THAN ĐEN ĐI CA TRỰC",
+     "desc": "Phản diện, 44 tuổi, đàn ông da trắng. Quản lý sàn của The Bellmore Grill, cầm quyền khi ông chủ vắng mặt; đã báo cảnh sát người vô gia cư 11 lần trong một năm. Có mặt ở 6/8 clip của Hook. Mặt phải đọc ra: lạnh, khinh miệt, tự mãn về vị thế, chưa từng nghĩ mình sẽ phải trả giá.\nĐây là THẺ NEO NHÂN DẠNG của Preston — mọi SF lấy mặt trực tiếp từ ảnh này, không dùng thẻ portrait riêng.\nBộ duy nhất trong Hook: vest ba mảnh màu than gần đen, sơ mi trắng măng sét Pháp, cà vạt navy nút Windsor, giày da đánh bóng như gương. Màu than gần đen tách bạch hoàn toàn với hoodie xám nhạt của Sage trong cùng khung.\nDùng: HOOK",
+     "prompt": "Ảnh THẺ NEO NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng chính diện, vai mở, mặt hướng thẳng vào ống kính. NHÂN DẠNG (khoá cứng, đây là nguồn sự thật duy nhất về khuôn mặt nhân vật này): đàn ông da trắng 44 tuổi, cao lớn, vai rộng và cổ dày, da có kết cấu thật, hàm vuông rõ nét, cạo râu nhẵn bóng, tóc nâu sẫm chải ngược ra sau bằng gel với đường rẽ ngôi sắc như kẻ chỉ, mắt xanh xám lạnh, nếp nhăn mảnh ở khoé mắt đúng tuổi. Miệng khép tự nhiên, KHÔNG cười, cằm hơi hất, ánh nhìn bề trên và tự mãn. Gương mặt ưa nhìn, khoẻ mạnh, KHÔNG thêm sẹo, kính hay khiếm khuyết nào ngoài kịch bản. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. TRANG PHỤC: bộ vest ba mảnh len màu THAN GẦN ĐEN may đo ôm sát người — áo khoác cài một khuy, gi-lê cùng vải cài kín toàn bộ khuy, quần âu ly thẳng. Sơ mi trắng tinh tay măng sét Pháp gập đôi, cài khuy măng sét bạc trơn, cổ áo cứng cài kín. Cà vạt lụa màu XANH NAVY ĐẬM thắt nút Windsor to bản, siết chặt sát cổ. Khăn cài túi ngực trắng gấp vuông. Giày da đen buộc dây đánh bóng như gương. Không đeo đồng hồ, không nhẫn, không phụ kiện nào khác. Dáng đứng ưỡn ngực, hai tay buông dọc thân. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, KHÔNG mảng tối gắt, rõ mặt và rõ chất len, rõ độ bóng của giày.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": "REF_PRESTON_MANAGER_FULL_v1.png"
+    },
+    {
+     "id": "REF_BG_BELLMORE_SIDE_SIDEWALK_NIGHT",
+     "label": "BỐI CẢNH — Vỉa hè lối vào hông The Bellmore Grill, Broadway Nashville (đêm)",
+     "desc": "Bối cảnh gốc DUY NHẤT của Hook — đoạn vỉa hè bên hông nhà hàng, nơi Sage vẫn ngồi hát xin tiền, tối thứ Sáu khoảng 8 giờ 15.",
+     "prompt": "Bối cảnh ở Mỹ. Một đoạn vỉa hè bê tông bên hông nhà hàng bít tết lâu đời trên phố Broadway, Nashville, tối thứ Sáu — đúng chỗ người hát rong vẫn ngồi hát xin tiền, sát lối vào hông của nhà hàng. PHẢI là mặt tiền gạch đỏ sẫm của nhà hàng: cửa hông bằng gỗ sẫm ốp kính lớn hắt ánh vàng ấm từ trong ra, cạnh đó là ô cửa sổ kính rộng thấy loáng thoáng khăn trải bàn trắng và chao đèn quả nhót, một bảng menu bằng đồng gắn tường. TRÁI là mép vỉa hè, một miệng cống thoát nước bằng gang sát lề, rồi tới lòng đường Broadway bốn làn, hai hàng ô tô đỗ sát lề. ĐỐI DIỆN, xuôi theo vỉa hè, là góc phố dẫn tới lối vào chính có mái hiên vải bạt và bục đón xe của valet. SAU LƯNG, vỉa hè chạy tiếp về phía một hốc tường lõm quây gỗ giấu thùng rác của nhà hàng. Bên kia đường là dãy quán nhạc sống rực đèn neon nhiều màu. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Đèn đường natri vàng ấm trên cao đổ một vũng sáng tròn xuống bê tông; ánh vàng ấm hắt ra từ ô kính nhà hàng ở lớp giữa; ánh neon xanh-hồng lạnh từ bên kia đường hắt ngược lên mảng tường gạch. Bê tông xám sáng có vệt ố, gạch đỏ sẫm, khung cửa gỗ nâu sẫm, lan can kim loại đen. Tổng thể ẤM Ở TIỀN CẢNH và LẠNH Ở LỚP SAU, độ tương phản trung bình, bóng đổ mềm, không u tối, không cháy trắng, ánh sáng chính mềm và rõ, giữ skin tone tự nhiên. Không có người trong khung hình.\nKHUNG NGANG 16:9",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": "REF_BG_BELLMORE_SIDE_SIDEWALK_NIGHT_v1.png"
+    },
+    {
+     "id": "REF_PROP_PAPER_CUP",
+     "label": "Cốc giấy đựng tiền lẻ — vật gieo-trả của cả phim",
+     "desc": "Chiếc cốc giấy Sage đặt trên vỉa hè hứng tiền lẻ. Bị Preston đá văng ở đầu Hook, đồng quarter cuối cùng lăn xuống cống — cuối phim chính chiếc cốc và đồng quarter đó đứng trên kệ phòng thu. Trạng thái ảnh gốc là trạng thái ở cảnh đầu tiên: còn đứng thẳng, chưa bị đá.\nDùng: HOOK",
+     "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, chất điện ảnh, KHUNG VUÔNG 1:1, góc 3/4 từ ngang tầm mắt người ngồi, không có người và không có bàn tay trong khung. Một chiếc cốc giấy cà phê mang đi cỡ vừa đặt đứng thẳng trên mặt bê tông vỉa hè xám nhạt — bê tông chính là mốc tỉ lệ và mặt nhận bóng đổ. Cốc đã dùng lại nhiều lần: giấy mềm nhũn, thân móp nhẹ một bên, mép miệng cốc quăn và xơ, một vệt ố cà phê nâu chạy dọc thân. Trên thân cốc in một logo quán cà phê đã phai gần hết mực, chỉ còn đọc được chữ hư cấu \"HARLOW ROAST\" màu nâu — đây là nhãn hiệu hư cấu, không phải thương hiệu có thật. Không có nắp. Trong lòng cốc là một nhúm tiền xu Mỹ lẫn lộn — vài đồng quarter, dime và nickel nằm nghiêng chồng lên nhau, ánh kim xỉn — và một tờ hai mươi đô la gấp đôi cắm dựng lên ở mép. Cốc còn nguyên vẹn, đứng thẳng, chưa bị đụng tới, chưa đổ. Ánh sáng đèn đường vàng ấm chiếu xiên từ phía trên bên trái, đổ một bóng mềm ngắn về bên phải, thấy rõ chất giấy sờn và ánh kim của tiền xu.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": "REF_PROP_PAPER_CUP_v1.png"
+    },
+    {
+     "id": "REF_PROP_MOP_BUCKET",
+     "label": "Xô lau nhà đầy nước bẩn — hung khí của cú làm nhục",
+     "desc": "Chiếc xô lau nhà Preston bưng từ trong bếp ra và dội lên đầu Sage. Là hình ảnh trung tâm của cả phim (\"no mop bucket could wash away\"). Trạng thái ảnh gốc là lúc vừa được bưng ra: đầy tới miệng, chưa dội.\nDùng: HOOK",
+     "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, chất điện ảnh, KHUNG VUÔNG 1:1, góc 3/4 chụp từ ngang tầm hông, không có người và không có bàn tay trong khung. Một chiếc xô lau nhà công nghiệp bằng nhựa XÁM đặt ĐỨNG TRÊN NỀN BÊ TÔNG vỉa hè xám nhạt, không đặt trên bàn. Xô cao ngang đầu gối người lớn, khoảng năm mươi phân, thân xô loe dần lên miệng, quai thép uốn cong gập ngả sang một bên, thành xô xước xám và bám vệt cặn xà phòng khô. Đặt sát bên phải xô làm mốc tỉ lệ là một chai tẩy rửa nhựa trắng cao chừng một gang tay, nhãn trắng trơn không chữ. Trong xô đầy sát tới miệng thứ nước ĐEN ĐỤC như nước cống: váng dầu mỡ bếp loang ánh cầu vồng trên mặt, bọt xà phòng xám vón lại ở sát thành, vài mẩu thức ăn thừa và cọng rau úa nổi lềnh bềnh. Mặt nước phẳng, chưa sóng sánh, xô đứng yên chưa bị nhấc lên. Ánh sáng đèn đường vàng ấm chiếu xiên từ trên xuống, hắt một vệt sáng dài trên mặt nước đen, đổ bóng mềm của xô về bên phải trên bê tông.",
+     "status": "draft",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": "REF_PROP_MOP_BUCKET_v1.png"
+    }
+   ],
+   "shots": []
+  },
+  {
+   "id": "HOOK",
+   "name": "HOOK — Quản lý nhà hàng dội xô nước bẩn lên cô gái hát rong",
+   "sfs": [
+    {
+     "id": "SF-HOOK-M1-MASTER",
+     "label": "[HOOK] Master 1 · Preston đứng đè xuống Sage ngồi hát trên vỉa hè, cốc giấy còn nguyên",
+     "goc": "Cinematic Wide establishing, Preston Carlisle đứng phải khung sát mặt tiền nhà hàng, Sage Foster ngồi bệt trái khung, CẢ HAI RÕ MẶT, Sage đã quay hẳn người ngước nhìn thẳng vào Preston",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông The Bellmore Grill",
+      "who": {
+       "PRESTON": "Đứng thẳng đổ người về phía Sage, cằm hất cao, khoé miệng nhếch khinh miệt, chân phải hơi đưa ra sau lấy đà nhưng CHƯA đá",
+       "SAGE": "Ngồi bệt khoanh chân trên bê tông, lưng thẳng, đã quay hẳn người ngước nhìn thẳng lên mặt Preston, ánh mắt khoá chặt vào ông ta, chưa hề né tránh"
+      },
+      "dist": "Máy quay cách khoảng 5 mét, ngang tầm mắt người đứng, bao trọn đoạn vỉa hè giữa hai người",
+      "hands": {
+       "PRESTON": "Hai tay buông dọc thân, tay trái đang khẽ chỉnh khuy măng sét bên cổ tay phải",
+       "SAGE": "Hai bàn tay đặt ngửa trên đùi, chưa với ra phía cốc giấy"
+      }
+     },
+     "prompt": "Cinematic wide establishing shot, photorealistic, máy quay ngang tầm mắt cách khoảng năm mét. Preston Carlisle đứng bên phải khung sát mặt tiền gạch, người đổ về phía trước, cằm hất cao, khoé miệng nhếch khinh miệt, chân phải hơi đưa ra sau lấy đà nhưng chưa đá. Sage Foster ngồi bệt khoanh chân trên bê tông bên trái khung, lưng thẳng, đã quay hẳn người ngước nhìn thẳng lên mặt Preston, ánh mắt khoá chặt vào ông ta, không né tránh. Sát chân Sage, chiếc cốc giấy đựng tiền lẻ vẫn ĐỨNG THẲNG NGUYÊN VẸN trên vỉa hè, chưa bị đụng tới. Sau lưng hai người, khoảng ba mươi khách bộ hành đứng thành nửa vòng cung lỏng lẻo cách vài mét: phần lớn giơ điện thoại lên quay, số còn lại khoanh tay đứng nhìn, tất cả ngoài nét, không ai nhìn vào ống kính. Cánh cửa hông gỗ sẫm ốp kính bên phải đang hé mở hắt ánh vàng ấm ra vỉa hè; ngay bên trong ngưỡng cửa, đặt trên nền gạch, là một chiếc xô lau nhà nhựa xám đầy nước đen — nhìn thấy rõ, chưa ai chạm tới. Bên trái ngoài lề đường, bốn chiếc ô tô đang chạy chậm qua theo hai hướng, vài chiếc khác đỗ sát lề.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL",
+       "REF_PRESTON_MANAGER_FULL",
+       "REF_PROP_PAPER_CUP",
+       "REF_PROP_MOP_BUCKET"
+      ],
+      "bg": "REF_BG_BELLMORE_SIDE_SIDEWALK_NIGHT"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-M1-MASTER_v1.png"
+    },
+    {
+     "id": "SF-HOOK-02",
+     "label": "[HOOK] S02 · Medium Two-Shot góc thấp, Preston cúi xuống Sage sau khi cốc đã bị đá văng",
+     "goc": "Medium Two-Shot góc thấp, Preston Carlisle đứng phải khung cúi xuống, Sage Foster ngồi bệt trái khung ngước lên, CẢ HAI RÕ MẶT; cửa hông nhà hàng nằm trong khung phía sau Preston",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông The Bellmore Grill",
+      "who": {
+       "PRESTON": "Đứng cúi gập người xuống phía Sage, mặt đưa sát xuống, cằm hất, mắt nheo lại đầy khinh miệt",
+       "SAGE": "Vẫn ngồi bệt khoanh chân, ngửa mặt ngước thẳng lên nhìn Preston, hai vai co lại, mắt ngân ngấn nước nhưng không cụp xuống"
+      },
+      "dist": "Máy quay cách khoảng 2 mét, đặt thấp ngang tầm mắt Sage đang ngồi",
+      "hands": {
+       "PRESTON": "Tay phải buông dọc thân, ngón trỏ đã duỗi thẳng nhưng CHƯA đưa lên; tay trái nắm hờ bên hông",
+       "SAGE": "Hai tay chống nhẹ trên bê tông hai bên hông, chưa với ra phía đồng xu"
+      }
+     },
+     "prompt": "Medium Two-Shot góc thấp, cinematic photorealistic, máy quay đặt thấp ngang tầm mắt Sage đang ngồi. Preston Carlisle bên phải khung cúi gập người xuống, mặt đưa sát xuống phía Sage, cằm hất, mắt nheo khinh miệt, ngón trỏ tay phải đã duỗi thẳng nhưng vẫn buông dọc thân, chưa đưa lên. Sage Foster bên trái khung vẫn ngồi bệt khoanh chân, ngửa mặt ngước thẳng lên nhìn ông ta, hai vai co lại, mắt ngân ngấn nước nhưng không cụp xuống. Trên bê tông giữa hai người, những đồng xu đá văng nằm rải rác, chiếc cốc giấy móp nghiêng sát mép cống, tờ hai mươi đô la kẹt dưới gầm ô tô đỗ ở lề. Hậu cảnh sau lưng Preston là cánh cửa hông gỗ sẫm ốp kính hé mở hắt ánh vàng ấm ra; ngay bên trong ngưỡng cửa đặt sẵn chiếc xô lau nhà nhựa xám đầy nước đen, nhìn thấy rõ, chưa ai chạm tới. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL",
+       "REF_PRESTON_MANAGER_FULL",
+       "REF_PROP_MOP_BUCKET"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-02_v1.png"
+    },
+    {
+     "id": "SF-HOOK-03",
+     "label": "[HOOK] S03 · Sage xin lỗi, Preston xoay người về phía cửa hông — xô lau nhà ĐÃ đặt sẵn trong ngưỡng cửa",
+     "goc": "Medium Wide hơi thấp, Sage Foster ngồi bệt trái khung ngước lên, Preston Carlisle đứng phải khung vừa thẳng lưng dậy và đã xoay người về phía cửa hông, CẢ HAI RÕ MẶT",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông The Bellmore Grill → lấy cả cánh cửa hông đang mở",
+      "who": {
+       "SAGE": "VẪN ngồi bệt khoanh chân bên trái khung, ngửa mặt ngước lên nhìn Preston, hai vai co lại, môi hé chuẩn bị nói, CHƯA quỳ xuống",
+       "PRESTON": "Đứng bên phải khung, vừa thẳng lưng dậy sau khi cúi xuống, người đã xoay về phía cánh cửa hông, CHƯA bước đi, CHƯA chạm vào xô"
+      },
+      "dist": "Máy quay đặt thấp ngang tầm mắt Sage đang ngồi, cách khoảng 3 mét, lấy cả Sage ở tiền cảnh trái và trọn cánh cửa hông bên phải khung",
+      "hands": {
+       "SAGE": "Hai tay chống nhẹ trên bê tông hai bên hông, chưa với ra phía đồng xu",
+       "PRESTON": "Hai tay buông dọc thân, ngón trỏ đã thu về"
+      }
+     },
+     "prompt": "Medium Wide hơi thấp, cinematic photorealistic, máy quay đặt thấp ngang tầm mắt Sage đang ngồi, cách khoảng ba mét, lấy cả Sage ở tiền cảnh trái và trọn cánh cửa hông bên phải khung. Sage Foster vẫn ngồi bệt khoanh chân bên trái, ngửa mặt ngước lên nhìn Preston, hai vai co lại, môi hé chuẩn bị nói, CHƯA quỳ xuống. Preston Carlisle đứng bên phải, vừa thẳng lưng dậy, mặt còn hằn vẻ khinh miệt, người đã xoay về phía cánh cửa nhưng CHƯA bước đi. Cánh cửa hông gỗ sẫm ốp kính mở toang hắt ánh vàng ấm ra vỉa hè; NGAY BÊN TRONG NGƯỠNG CỬA, đặt trên nền gạch, là chiếc xô lau nhà nhựa xám đầy nước đen đục — thấy trọn cả thân xô, quai thép và mặt nước, Preston CHƯA chạm vào nó. Trên bê tông quanh Sage, những đồng xu bị đá văng nằm rải rác, chiếc cốc giấy móp nằm nghiêng sát mép cống. Một dáng người xem mờ ngoài nét ở mép trái khung, không nhìn camera.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL",
+       "REF_PRESTON_MANAGER_FULL",
+       "REF_PROP_MOP_BUCKET",
+       "REF_PROP_PAPER_CUP"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-03_v1.png"
+    },
+    {
+     "id": "SF-HOOK-04",
+     "label": "[HOOK] S04 · Dirty Single — Preston bưng xô ngang ngực, Sage quỳ trọn trong khung tiền cảnh dưới",
+     "goc": "Dirty Single góc thấp vừa, chếch bên; Preston Carlisle chiếm nửa trên khung RÕ MẶT bưng xô ngang ngực; Sage Foster quỳ nửa dưới khung tiền cảnh, thấy rõ đầu · tóc · hai vai, mặt nghiêng 3/4 cúi xuống",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông The Bellmore Grill",
+      "who": {
+       "PRESTON": "Đứng thẳng chân dạng vững ở nửa trên khung, bưng xô lau nhà bằng cả hai tay ngang ngực, CHƯA nâng lên, mắt nhìn thẳng xuống đỉnh đầu Sage",
+       "SAGE": "Quỳ gối ở nửa dưới khung tiền cảnh, nghiêng ba phần tư so với máy, đầu cúi xuống mặt bê tông, tóc và hai vai lộ TRỌN trong khung, người CÒN KHÔ hoàn toàn, đang nhặt từng đồng xu"
+      },
+      "dist": "Máy quay đặt chếch bên, thấp ngang thắt lưng Preston, cách khoảng 1.8 mét, lấy trọn chiều dọc từ miệng xô xuống tới đầu gối Sage",
+      "hands": {
+       "PRESTON": "Cả hai tay ôm hai bên thành xô giữ ngang ngực, mặt nước đen phẳng chưa sóng sánh",
+       "SAGE": "Tay phải đang nhặt một đồng xu trên bê tông, tay trái chống đất"
+      }
+     },
+     "prompt": "Dirty Single góc thấp vừa, cinematic photorealistic, máy quay đặt chếch bên, thấp ngang thắt lưng Preston, cách khoảng một mét tám, lấy trọn chiều dọc từ miệng xô xuống tới đầu gối Sage. Preston Carlisle chiếm nửa trên khung, rõ mặt, đứng chân dạng vững, hai tay ôm hai bên thành chiếc xô lau nhà nhựa xám giữ ngang ngực, CHƯA nâng lên, mặt nước đen đục còn phẳng lì chưa sóng sánh; mắt ông ta nhìn thẳng xuống đỉnh đầu Sage, cằm hất cao, khoé miệng nhếch thoả mãn. Sage Foster quỳ gối ở nửa dưới khung tiền cảnh, nghiêng ba phần tư so với máy, đầu cúi xuống mặt bê tông, tóc xoăn bới gọn và hai vai hoodie xám lộ TRỌN trong khung, người còn KHÔ hoàn toàn, tay phải đang nhặt một đồng xu. Hậu cảnh sau lưng hai người là mảng tường gạch đỏ sẫm và ô cửa sổ kính hắt ánh vàng ấm. Một dáng người xem mờ hẳn đứng sát mép trái khung, không nhìn camera.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL",
+       "REF_PRESTON_MANAGER_FULL",
+       "REF_PROP_MOP_BUCKET"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-04_v2.png"
+    },
+    {
+     "id": "SF-HOOK-M2-MASTER",
+     "label": "[HOOK] Master 2 · Góc đảo ngược — Sage quỳ trong vũng nước bẩn, ba mươi người xem đứng chết lặng",
+     "goc": "Cinematic Wide, góc đảo ngược nhìn từ phía tường gạch ra ngoài lòng đường; Sage Foster quỳ giữa khung tiền cảnh, RÕ MẶT nghiêng 3/4",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông → nhìn ra nửa vòng cung người xem và lòng đường Broadway",
+      "who": {
+       "SAGE": "Quỳ gối trong vũng nước bẩn giữa khung, tóc và hoodie ướt sũng nhỏ giọt, mặt cúi, vai rũ, nước bẩn chảy thành vệt xám dọc má"
+      },
+      "dist": "Máy quay cách Sage khoảng 4 mét, đặt thấp ngang tầm người quỳ, chĩa ngược ra phía đám đông và lòng đường",
+      "hands": {
+       "SAGE": "Bàn tay phải XOÈ RA đặt trên bê tông ướt, đầu ngón tay vừa chạm vào một đồng quarter, CHƯA nắm lại; tay trái chống trên đầu gối"
+      }
+     },
+     "prompt": "Cinematic wide shot góc đảo ngược, photorealistic, máy quay đặt thấp ngang tầm người quỳ, sát mảng tường gạch, chĩa ngược ra phía lòng đường. Sage Foster quỳ gối giữa khung tiền cảnh trong một vũng nước đen loang rộng trên bê tông, tóc và áo hoodie ướt sũng nhỏ giọt, mặt cúi, vai rũ, nước bẩn chảy thành vệt xám dọc má, rõ mặt nghiêng ba phần tư. Bàn tay phải cô xoè ra đặt trên bê tông ướt, đầu ngón tay vừa chạm vào một đồng quarter, chưa nắm lại. Chiếc xô lau nhà nhựa xám đã rỗng nằm lăn lóc trên vỉa hè cách đó một bước chân. Preston không có mặt trong khung. Phía sau lưng Sage, khoảng ba mươi người đứng thành nửa vòng cung chết lặng, phần lớn còn giơ điện thoại lên quay, tất cả ngoài nét, không ai nhìn vào ống kính. Xa hơn là lòng đường Broadway với ba bốn chiếc ô tô đang chạy qua và hàng xe đỗ sát lề, bên kia đường là dãy đèn neon nhiều màu.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL",
+       "REF_PROP_MOP_BUCKET"
+      ],
+      "bg": "REF_BG_BELLMORE_SIDE_SIDEWALK_NIGHT"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-M2-MASTER_v1.png"
+    },
+    {
+     "id": "SF-HOOK-06",
+     "label": "[HOOK] S06 · Cận Sage ướt sũng, nắm chặt đồng quarter áp vào ngực, mắt vẫn cụp xuống",
+     "goc": "Close-up Sage Foster chiếm gần trọn khung, RÕ MẶT chính diện hơi chếch, mắt cụp xuống",
+     "pose": {
+      "zone": "Vỉa hè trước lối vào hông, trong vũng nước bẩn",
+      "who": {
+       "SAGE": "Quỳ, người thẳng, mặt hướng gần chính diện nhưng MẮT VẪN CỤP XUỐNG, chưa ngẩng lên; nước bẩn còn nhỏ giọt từ chân tóc xuống xương quai xanh"
+      },
+      "dist": "Máy quay cách khoảng 0.8 mét, ngang tầm mặt người quỳ",
+      "hands": {
+       "SAGE": "Bàn tay phải đã nắm chặt thành nắm đấm quanh đồng quarter, kéo lên áp vào giữa ngực; tay trái không lọt khung"
+      }
+     },
+     "prompt": "Close-up, cinematic photorealistic, máy quay ngang tầm mặt người quỳ, cách khoảng tám mươi phân, khuôn mặt Sage Foster chiếm gần trọn khung. Cô quỳ thẳng người, mặt hướng gần chính diện nhưng mắt vẫn cụp xuống, chưa ngẩng lên. Tóc xoăn bết nước, từng giọt nước bẩn còn đọng ở chân tóc rồi nhỏ xuống xương quai xanh, một vệt xám mỡ vắt ngang gò má, mi mắt ướt nước và hơi sưng vì khóc, môi hơi run nhưng hàm siết lại. Cổ áo hoodie xám nhạt ướt sẫm dính vào cổ, sợi dây chuyền đồng xỉn màu lộ ra bên trong cổ áo. Bàn tay phải cô đã nắm chặt thành nắm đấm quanh đồng quarter, kéo lên áp vào giữa ngực, lọt vào mép dưới khung. Hậu cảnh xoá mờ mạnh: mảng tường gạch đỏ sẫm và một dáng người xem mờ hẳn đứng ngay sau vai trái cô, không nhìn camera. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_SAGE_STREET_FULL"
+      ],
+      "bg": "SF-HOOK-M2-MASTER"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-06_v1.png"
+    },
+    {
+     "id": "SF-HOOK-07",
+     "label": "[HOOK] S07 · Preston đứng sau lớp kính cửa hông, lạnh lùng đắc thắng nhìn ra vỉa hè",
+     "goc": "Medium Shot nhìn từ vỉa hè vào cửa hông nhà hàng, Preston Carlisle đứng sau lớp kính, RÕ MẶT",
+     "pose": {
+      "zone": "Vỉa hè → nhìn vào ô kính cửa hông nhà hàng",
+      "who": {
+       "PRESTON": "Đứng sau ô kính cửa hông cách kính chừng nửa mét, người quay hẳn ra ngoài, cằm hất cao, khoé miệng nhếch một bên đầy thoả mãn, mắt nhìn thẳng ra vỉa hè"
+      },
+      "dist": "Máy quay đứng trên vỉa hè cách cánh cửa khoảng 2 mét, ngang tầm ngực",
+      "hands": {
+       "PRESTON": "Tay phải đang vuốt chỉnh lại khuy măng sét ở cổ tay áo TRÁI, hai khuỷu tay khép sát người"
+      }
+     },
+     "prompt": "Medium Shot, cinematic photorealistic, máy quay đứng trên vỉa hè cách cánh cửa khoảng hai mét, ngang tầm ngực, nhìn xuyên qua ô kính lớn của cánh cửa hông nhà hàng. Preston Carlisle đứng bên trong sau lớp kính chừng nửa mét, người quay hẳn ra ngoài, rõ mặt, cằm hất cao, khoé miệng nhếch một bên đầy thoả mãn, ánh mắt lạnh nhìn thẳng ra vỉa hè, không một nét nao núng. Tay phải ông ta đang vuốt chỉnh lại khuy măng sét ở cổ tay áo trái, hai khuỷu khép sát người. Hậu cảnh sau lưng Preston là bên trong phòng ăn nhà hàng: những khăn trải bàn trắng và chao đèn quả nhót ánh vàng ấm, xoá mờ nhẹ. Trên mặt kính có vệt phản chiếu mảnh của ánh đèn đường vàng và ánh neon xanh bên kia đường, nhưng không che khuất khuôn mặt ông ta.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_PRESTON_MANAGER_FULL"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": "SF-HOOK-07_v1.png"
+    }
+   ],
+   "shots": [
+    {
+     "id": "V-HOOK-01",
+     "sf": "SF-HOOK-M1-MASTER",
+     "dur": 10,
+     "text": "PRESTON: \"That whimpering you call singing?\"\nNARRATION: Preston Carlisle kicked the paper cup off the sidewalk.\nPRESTON: \"Sounds like a stray dog dying on the asphalt. You're driving my customers away.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 44-year-old white man, wearing a charcoal-black three-piece suit, standing over her on the sidewalk.\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, sitting cross-legged on the concrete, already turned to face him.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nNight, a sidewalk beside a steakhouse side entrance. From the first frame Sage is already turned fully toward Preston, holding his stare while he stands over her. About thirty onlookers form a loose half-circle behind, most holding phones up, all out of focus.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:02 SHOT 1, Preston's first line fills this window.\n0:02-0:05 SHOT 1, fully silent, reserved for: \"Preston Carlisle kicked the paper cup off the sidewalk.\"\n0:05-0:10 SHOT 2, Preston's second line fills this window.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00-0:05) - WIDE ESTABLISHING TWO-SHOT - SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward both. Controlled, no handheld shake.\n0:00-0:02: Sage holds his stare, chin level.\nPRESTON - sneering, spoken straight down at her: \"That whimpering you call singing?\"\n0:02-0:05: silent. He draws his right foot back and kicks the paper cup off the sidewalk; coins spray across the concrete. Sage does not flinch.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER MEDIUM WIDE ON BOTH - VERY SLOW PUSH-IN\nCamera: Continues the push-in, tighter, same angle and eyeline.\nPreston leans further down, jaw hard. Sage keeps looking straight up at him.\nPRESTON - loud, contemptuous: \"Sounds like a stray dog dying on the asphalt. You're driving my customers away.\n\nPERFORMANCE:\nPreston is rigid with entitled disgust, performing for the onlookers. Sage stays still, holding eye contact.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue.\nWhen Preston speaks, Sage listens silently with her mouth closed. During silent pauses, both mouths remain closed with lips still.\n\nAUDIO:\nPreston's dialogue 0:00-0:02 and 0:05-0:10, clear natural American English. 0:02-0:05: no dialogue, faint street ambience - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, on the impact as Preston's shoe sends the paper cup off the sidewalk.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in, dialogue then silent kick.\nSHOT 2 = tighter medium wide on both, very slow push-in, dialogue.",
+     "status": "draft",
+     "vpicked": "V-HOOK-01_v1.mp4"
+    },
+    {
+     "id": "V-HOOK-02",
+     "sf": "SF-HOOK-02",
+     "dur": 10,
+     "text": "NARRATION: He jabbed his finger an inch from the Black girl's face.\nPRESTON: \"Get your stinking carcass out of here before I call the cops.\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 44-year-old white man, wearing a charcoal-black three-piece suit, bent down over her, index finger straight at his side.\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, still sitting cross-legged, looking straight up at him.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nSame sidewalk, seconds later. The kicked cup lies near the drain, coins scattered. Preston bends into Sage's face and drives his threat home.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:04 SHOT 1, fully silent, reserved for: \"He jabbed his finger an inch from the Black girl's face.\"\n0:04-0:10 SHOT 2, Preston's line fills this window.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00-0:04) - MEDIUM TWO-SHOT, LOW ANGLE - STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, locked off, low, at the eye level of the seated girl.\nSilent. Preston's right hand comes up, his straightened index finger stabbing forward and stopping an inch from Sage's face. He holds it there. Sage does not flinch away; her eyes stay on him.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) - TIGHTER MEDIUM TWO-SHOT, LOW ANGLE - VERY SLOW PUSH-IN\nCamera: Very slow push-in, same low angle, both faces in frame.\nHis finger stays up between them. Brief pause; he lets the silence sit, then speaks slowly, savouring it.\nPRESTON - cold, menacing, an inch from her face: \"Get your stinking carcass out of here before I call the cops.\"\n\nPERFORMANCE:\nPreston is unhurried and certain of himself. Sage holds still, shoulders drawn in, eyes brimming with tears but not lowered.\n Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue.\nWhen Preston speaks, Sage listens with her mouth closed. In Shot 1 no character speaks or moves their lips as if talking. During silent pauses, mouths remain closed.\n\nAUDIO:\n0:00-0:04: no dialogue, faint street ambience only - leave clean for narrator dub. 0:04-0:10: Preston's dialogue, clear natural American English, low and hard. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:04, the instant Preston's fingertip stops an inch from Sage's face.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot, low angle, static, silent finger jab.\nSHOT 2 = tighter medium two-shot, low angle, very slow push-in, dialogue.",
+     "status": "draft",
+     "vpicked": "V-HOOK-02_v2.mp4"
+    },
+    {
+     "id": "V-HOOK-03",
+     "sf": "SF-HOOK-03",
+     "dur": 10,
+     "text": "SAGE: \"I'm sorry, sir. I'll go.\"\nNARRATION: She dropped to her knees, reaching for the scattered coins. He turned to the doorway.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSAGE — 19-year-old Black woman, faded light-gray hoodie, sitting cross-legged, lips parting to speak.\nPRESTON — 44-year-old white man, charcoal-black three-piece suit, body already half-turned toward the side door.\nKeep exactly these characters. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nPreston is already half-turned toward the side door. Sage speaks in defeat, then sinks to her knees to gather coins. Preston takes two steps to the doorway — a gray mop bucket sits just inside the threshold, visible in the start frame — reaches through and hauls it out.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:02 SHOT 1, Sage's line fills this window.\n0:02-0:05 SHOT 1, fully silent, reserved for: \"She dropped to her knees, reaching for the scattered coins.\"\n0:05-0:10 SHOT 2, fully silent, reserved for: \"He turned to the doorway.\"\n\nDIALOGUE ORDER:\nSAGE\n\nSHOT 1 (0:00-0:05) - MEDIUM WIDE, LOW ANGLE - SLOW PUSH-IN ON SAGE\nCamera: Very slow push-in favouring Sage, low angle.\n0:00-0:02: Preston stands half-turned away, not looking at her.\nSAGE - small, defeated, barely above a whisper: \"I'm sorry, sir. I'll go.\"\n0:02-0:05: silent. She leans forward onto her knees, reaching for coins with shaking fingers.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - SAME MEDIUM WIDE FRAMING, LOW ANGLE - STATIC LOCKED-OFF\nCamera: Static, locked off, identical framing and angle.\nSilent. Sage stays on her knees in the foreground, head down, gathering coins. Preston takes two steps to the lit side door. The gray mop bucket already sits just inside the threshold — he reaches through the doorway, grabs the handle with both hands, and hauls it out onto the sidewalk.\n\nPERFORMANCE:\nSage's voice is thin and apologetic, her hands shaking. Preston moves without hurry.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue.\nWhen Sage speaks, Preston stands with mouth closed. From 0:02 onward no character speaks and no lips move.\n\nAUDIO:\nSage's dialogue 0:00-0:02, clear natural American English, quiet and small. 0:02-0:10: no dialogue, faint street ambience — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, as Preston turns fully toward the side door.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide, low angle, slow push-in on Sage, dialogue then silent.\nSHOT 2 = same framing, static, fully silent.",
+     "status": "draft",
+     "vpicked": "V-HOOK-03_v1.mp4"
+    },
+    {
+     "id": "V-HOOK-04",
+     "sf": "SF-HOOK-04",
+     "dur": 10,
+     "text": "NARRATION: Came back with a mop bucket — black water, grease, food scraps — and poured it over her head.\nPRESTON: \"Next time I see your face, I'm calling sanitation to pick up the trash.\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, and props.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 44-year-old white man, wearing a charcoal-black three-piece suit, holding a gray mop bucket at chest height.\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, kneeling in the lower foreground, head bowed, dry.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nPreston empties the full mop bucket straight down onto Sage's bowed head, the water clearly seen hitting her, then delivers his threat.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 SHOT 1, silent, reserved for: \"Came back with a mop bucket — black water, grease, food scraps — and poured it over her head.\"\n0:05-0:10 SHOT 2, Preston's line.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00-0:05) - DIRTY SINGLE ON PRESTON, SAGE LOWER FG - STATIC LOCKED-OFF\nCamera: Static, locked off, from the side, low at Preston's waist; bucket near the top of frame, Sage's head and shoulders lower foreground.\nSilent. He raises the bucket over her bowed head and tips it. Black greasy water pours out in one thick sheet and lands squarely on top of her head: it hits her hair first, sheets down the side of her face and across both shoulders, soaking her hoodie dark, scraps and gray froth with it. Her shoulders jolt once; she never lifts her head.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER ON PRESTON, SAME ANGLE - VERY SLOW PUSH-IN\nCamera: Very slow push-in on Preston. Sage stays lower foreground, now soaked, head still down.\nThe emptied bucket hangs at his hip, dripping. Brief pause, then he speaks down at her without raising his voice.\nPRESTON - flat, final, contemptuous: \"Next time I see your face, I'm calling sanitation to pick up the trash.\"\n\nPERFORMANCE:\nNo hesitation; the pour is deliberate, aimed at her head. Sage never fights back.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Sage never speaks; her mouth stays closed throughout. In Shot 1 no character moves their lips as if talking.\n\nAUDIO:\n0:00-0:05: no dialogue, faint street ambience - leave clean for narrator dub. Preston's dialogue 0:05-0:10, clear American English, flat and hard. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, as the last black water empties from the bucket over Sage's head.\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single on Preston, Sage lower foreground, static, silent pour onto her head.\nSHOT 2 = tighter on Preston, very slow push-in, dialogue.",
+     "status": "draft",
+     "vpicked": "V-HOOK-04_v3.mp4"
+    },
+    {
+     "id": "V-HOOK-05",
+     "sf": "SF-HOOK-M2-MASTER",
+     "dur": 10,
+     "text": "NARRATION: Thirty people stood frozen. Phones still recording. Nobody spoke. Sage Foster knelt in that filthy puddle, closed her fist around one last quarter.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, kneeling in a spreading puddle of dirty water, hair and hoodie soaked through.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nReverse angle, looking out from the brick wall across the sidewalk toward the road. Preston is gone. Sage kneels alone in the black puddle. About thirty onlookers stand in a frozen half-circle behind her, most still holding phones up, all out of focus, none looking at the lens. The emptied gray mop bucket lies a step away. Traffic moves on the road beyond. Nobody speaks in this clip.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 SHOT 1, fully silent, reserved for: \"Thirty people stood frozen. Phones still recording. Nobody spoke.\"\n0:05-0:10 SHOT 2, fully silent, reserved for: \"Sage Foster knelt in that filthy puddle, closed her fist around one last quarter.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:05) - CINEMATIC WIDE, REVERSE ANGLE - STATIC LOCKED-OFF\nCamera: Static, locked off, low, at the height of the kneeling girl.\nSilent. Nothing in the half-circle moves except the faintest shift of weight; the raised phones stay up. Dirty water drips steadily off Sage's hair into the puddle. Cars keep rolling past in the background.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - MEDIUM, TIGHTER ON SAGE INSIDE THE SAME FRAME - SLOW PUSH-IN\nCamera: Slow push-in toward Sage on the same axis, the blurred half-circle holding at the edges of frame.\nSilent. Her open right hand slides across the wet concrete, closes into a fist around the single quarter under her fingertips, and draws it up against her chest. Her head stays down.\n\nPERFORMANCE:\nThe crowd stays neutral and still, held by what they just watched; no exaggerated faces, no one looks at the camera. Everything Sage does is small and contained.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout both shots.\n\nAUDIO:\n0:00-0:10: no dialogue at all, faint street ambience and passing traffic only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, cutting from the frozen half-circle of onlookers in to Sage kneeling in the puddle.\n\nCAMERA SUMMARY:\nSHOT 1 = cinematic wide reverse angle, static, silent.\nSHOT 2 = medium on Sage inside the same frame, slow push-in, silent.",
+     "status": "draft",
+     "vpicked": "V-HOOK-05_v1.mp4"
+    },
+    {
+     "id": "V-HOOK-06",
+     "sf": "SF-HOOK-06",
+     "dur": 10,
+     "text": "NARRATION: But what she did next left every single witness burning with outrage. And what came from that outrage — Preston Carlisle never could have imagined.",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, kneeling, soaked through, her right fist pressed against her chest, eyes lowered.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nClose on Sage in the puddle. Dirty water still runs off her. She does not move, does not speak, does not look up. One out-of-focus onlooker stands behind her left shoulder. Nobody speaks in this clip.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 SHOT 1, fully silent, reserved for: \"But what she did next left every single witness burning with outrage.\"\n0:05-0:10 SHOT 2, fully silent, reserved for: \"And what came from that outrage — Preston Carlisle never could have imagined.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:05) - CLOSE-UP ON SAGE - VERY SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward her face. Controlled, no handheld shake.\nSilent. Water beads at her hairline and runs down her temple and cheek. Her eyelashes are wet, her eyes brimming with tears, her lips press together. She keeps her eyes lowered. Her fist stays closed against her chest.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER CLOSE-UP ON SAGE - STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, locked off, tighter on her face at the same angle and eyeline.\nSilent. The last of the dirty water runs off her jaw and drips away. Her jaw sets and her breathing steadies. Her eyes stay lowered through the whole shot; she does not look up and she does not look at the lens.\n\nPERFORMANCE:\nEverything is held in. No sobbing, no shaking of the head. The only change across the clip is the hardening of her jaw.\n Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout both shots.\n\nAUDIO:\n0:00-0:10: no dialogue at all, faint street ambience and distant traffic only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, as a last bead of dirty water rolls off Sage's jaw.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Sage, very slow push-in, silent 0:00-0:05.\nSHOT 2 = tighter close-up on Sage, static, silent 0:05-0:10, eyes still lowered.",
+     "status": "draft",
+     "vpicked": "V-HOOK-06_v2.mp4"
+    },
+    {
+     "id": "V-HOOK-07",
+     "sf": "SF-HOOK-07",
+     "dur": 10,
+     "text": "NARRATION (VO): \"Have you ever watched someone rise from the absolute lowest moment of their life and felt your whole chest burn with satisfaction —",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 44-year-old white man, wearing a charcoal-black three-piece suit, standing just inside the restaurant behind the glass of the side door, squaring his left cufflink.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nLooking from the sidewalk through the glass panel of the restaurant's side door. Preston stands behind it, back in his warm dining room, entirely pleased with himself. He has faced no consequence yet and nothing in him has cracked. Nobody speaks in this clip.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 SHOT 1, fully silent, reserved for: \"Have you ever watched someone rise from the absolute lowest moment of their life\n0:05-0:10 SHOT 2, fully silent, reserved for: and felt your whole chest burn with satisfaction —\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:05) - MEDIUM SHOT THROUGH THE SIDE-DOOR GLASS - STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, locked off, from the sidewalk, chest height, shooting through the glass panel.\nSilent. Preston finishes smoothing the cufflink at his left wrist, squares his shoulders and lifts his chin, looking out at the sidewalk. The corner of his mouth stays pulled up. Warm light behind him; thin reflections of lamp and neon slide across the glass without covering his face.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER MEDIUM CLOSE-UP THROUGH THE GLASS - VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the glass, tightening on his face at the same angle.\nSilent. He holds his position, cold and unbothered, gaze steady out through the glass. His expression does not soften, does not falter, does not register any doubt. He does not look at the lens.\n\nPERFORMANCE:\nPreston is triumphant and utterly composed throughout. No flicker of unease, no nervous swallow, no loosening of the tie. He believes he has won.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. His mouth remains closed with lips still throughout both shots.\n\nAUDIO:\n0:00-0:10: no dialogue at all, muffled street ambience through glass only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, as Preston finishes squaring his left cufflink and lifts his chin.\n\nCAMERA SUMMARY:\nSHOT 1 = medium shot through the side-door glass, static, silent.\nSHOT 2 = tighter medium close-up through the glass, very slow push-in, silent.",
+     "status": "draft",
+     "vpicked": "V-HOOK-07_v1.mp4"
+    },
+    {
+     "id": "V-HOOK-08",
+     "sf": "SF-HOOK-06",
+     "dur": 10,
+     "text": "NARRATION (VO): because you are about to, so drop a comment, hit that like, and let me take you back to the very beginning of this story.\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSAGE — 19-year-old Black woman, wearing a faded light-gray hoodie, kneeling, soaked through, her right fist pressed against her chest, eyes lowered.\nKeep exactly these characters throughout the video.\nDo not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nBack close on Sage in the puddle, exactly where the previous close-up left her. She takes one slow breath, and then, for the first time, lifts her eyes. Nobody speaks in this clip.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 SHOT 1, fully silent, reserved for: \"because you are about to, so drop a comment, hit that like,\n0:05-0:10 SHOT 2, fully silent, reserved for: and let me take you back to the very beginning of this story.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:05) - CLOSE-UP ON SAGE - STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, locked off, on her face at the same angle and eyeline as before.\nSilent. Her eyes stay lowered. She draws one slow, deep breath; her shoulders rise and settle. The fist against her chest tightens around the quarter until her knuckles show.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER CLOSE-UP ON SAGE - VERY SLOW PUSH-IN\nCamera: Very slow push-in toward her eyes, same angle, controlled and restrained.\nSilent. She lifts her head and raises her eyes for the first time, looking straight ahead past the camera, never into the lens. Her tear-swollen eyes are steady now. She holds that look to the end of the clip without blinking away.\n\nPERFORMANCE:\nThe change is entirely in the eyes and the breath. No smile, no defiance played big, no dialogue. Just a girl who has stopped looking down.\n Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout both shots.\n\nAUDIO:\n0:00-0:10: no dialogue at all, faint street ambience and distant traffic only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total.\nExactly ONE hard cut.\nCUT 1: At 0:05, as Sage finishes drawing the slow breath, just before she lifts her head.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Sage, static, silent 0:00-0:05, eyes still lowered.\nSHOT 2 = tighter close-up on Sage, very slow push-in, silent 0:05-0:10, eyes lifted.",
+     "status": "draft",
+     "vpicked": "V-HOOK-08_v1.mp4"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,535 @@
+{
+  "film": "HOOK — ĐÁM CƯỚI DA ĐEN Ở 14 BRIARCLIFF DRIVE (WHITE NEIGHBOR CALLED COPS ON A 'LOUD BLACK WEDDING')",
+  "kind": "hook",
+  "updated_at": "2026-09-09 09:41:13",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "script": "",
+      "sfs": [
+        {
+          "id": "REF_AUDREY_PORTRAIT",
+          "label": "★ AUDREY BENNETT — cô dâu, nữ chính (chân dung gốc)",
+          "desc": "Nữ chính · 33 tuổi · phụ nữ Mỹ gốc Phi xinh đẹp nổi bật, chủ nhà số 14 Briarcliff Drive và cô dâu trong Hook. Thân phận thượng nghị sĩ đương nhiệm chưa được tiết lộ trong hình ảnh mở đầu. Khuôn mặt phải trẻ trung, cuốn hút nhưng vẫn đọc ra sự điềm tĩnh, quyền uy tự nhiên và tuyệt đối không nao núng trước sự xúc phạm.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI là góc CHÍNH DIỆN nhìn thẳng vào ống kính; nửa PHẢI là góc NGANG profile 90 độ nhìn về phía bên phải khung hình. Hai nửa cùng cỡ đầu, cùng độ cao mắt, cùng ánh sáng và tuyệt đối cùng một khuôn mặt. Nền màu trơn xám ấm nhạt. Ánh sáng studio dịu và đều trên mặt, không có mảng tối gắt. Chỉ lấy ngang cổ trở lên, không lấy thân hoặc quần áo. Miệng khép tự nhiên, không cười. Không chữ, không khung viền, không đường kẻ chia.\n\nNHÂN VẬT: phụ nữ Mỹ gốc Phi 33 tuổi, xinh đẹp nổi bật và trẻ trung, da nâu đậm tông ấm mịn khỏe với kết cấu da thật, gương mặt oval thanh tú cân đối, gò má cao mềm mại, quai hàm gọn, mũi cánh rộng vừa hài hòa, môi đầy cân đối. Mắt nâu sẫm to vừa hình hạnh nhân, hàng mi tự nhiên, ánh nhìn trực diện và sáng. Tóc đen tự nhiên dày, búi thấp gọn sau gáy, ngôi lệch nhẹ, chân tóc tự nhiên. Đeo khuyên tai ngọc trai giọt nhỏ ở cả hai tai. Không nếp nhăn sâu, không quầng thâm, không tạo vẻ trung niên.\n\nBIỂU CẢM: bình tĩnh, tự chủ, cằm ngang, ánh mắt vững và có quyền uy; không giận dữ phô trương, không sợ hãi, không cười. KHUNG NGANG 16:9",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "REF_AUDREY_WEDDING_FULL",
+            "SF-S1-M1-MASTER",
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05",
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_AUDREY_PORTRAIT_v2.png"
+        },
+        {
+          "id": "REF_AUDREY_WEDDING_FULL",
+          "label": "AUDREY — VÁY CƯỚI REN NGÀ VÀ NGỌC TRAI",
+          "desc": "Trang phục duy nhất của Audrey trong Hook. Sang trọng, tinh tế và phù hợp một lễ cưới tại tư gia cao cấp; không được biến thành váy công chúa phô trương.",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng, hai tay buông tự nhiên, nền xám trơn, ánh sáng studio dịu đều, rõ chi tiết vải. Gương mặt, tóc, màu da và vóc dáng giống hệt ảnh portrait tham chiếu.\n\nTRANG PHỤC: váy cưới màu TRẮNG NGÀ, thân trên ôm vừa với lớp ren hoa thủ công tinh xảo, cổ thuyền thấp thanh lịch, tay ren mỏng dài đến cổ tay, eo định hình tự nhiên, chân váy chữ A dài chạm sàn với đuôi váy ngắn. Không đính đá lấp lánh quá mức. Khăn voan mỏng dài đến giữa lưng gắn dưới búi tóc. Khuyên tai ngọc trai giọt nhỏ, vòng tay vàng mảnh ở cổ tay trái, nhẫn cưới vàng trắng. Giày cao gót mũi nhọn màu ngà chỉ lộ nhẹ dưới gấu váy.\n\nVóc dáng cao vừa, cân đối, tư thế thẳng, vai mở, cằm ngang. KHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-M1-MASTER",
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05",
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_AUDREY_WEDDING_FULL_v1.png"
+        },
+        {
+          "id": "REF_MEREDITH_PORTRAIT",
+          "label": "★ MEREDITH COLLIER — hàng xóm xâm nhập tiệc cưới (chân dung gốc)",
+          "desc": "Phản diện · 58 tuổi · phụ nữ da trắng sống đối diện số 14 Briarcliff Drive. Khuôn mặt phải đọc ra sự khinh miệt, tự cho mình đúng và quen dùng địa vị xã hội để áp đảo người khác; hiện thực, không biến thành ác nhân hoạt hình.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI chính diện nhìn thẳng vào ống kính; nửa PHẢI profile 90 độ nhìn về phía bên phải. Hai nửa cùng cỡ đầu, cùng độ cao mắt, cùng ánh sáng, tuyệt đối cùng một khuôn mặt. Nền xám ấm nhạt, ánh sáng studio dịu đều, không mảng tối gắt. Chỉ lấy ngang cổ trở lên. Miệng khép, không cười. Không chữ, không khung viền.\n\nNHÂN VẬT: phụ nữ da trắng 58 tuổi, da sáng có nếp nhăn thật quanh mắt và khóe miệng, gương mặt dài vừa, gò má cao, mũi thẳng hẹp, môi mỏng. Tóc vàng tro pha bạc cắt bob ngang cằm, sấy phồng có kiểm soát, rẽ ngôi bên. Mắt xanh xám, lông mày mảnh được tỉa kỹ. Đeo khuyên tai ngọc trai tròn cỡ vừa.\n\nBIỂU CẢM: ánh nhìn lạnh, mí mắt hơi nheo, cơ hàm căng, khóe môi ép xuống vì ghê tởm; không la hét, không cười, không méo mặt quá mức. KHUNG NGANG 16:9",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "REF_MEREDITH_LINEN_FULL",
+            "SF-S1-M1-MASTER",
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05",
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_MEREDITH_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_MEREDITH_LINEN_FULL",
+          "label": "MEREDITH — BỘ LINEN KEM VÀ NGỌC TRAI",
+          "desc": "Bộ đồ Meredith mặc khi tự ý băng qua đường và xông vào tiệc cưới. Đắt tiền, bảo thủ, ép phẳng hoàn hảo; tạo đối lập với váy cưới của Audrey.",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân đứng thẳng, hai tay buông tự nhiên, nền xám trơn, ánh sáng studio dịu đều. Gương mặt, tóc và vóc dáng giống hệt ảnh portrait tham chiếu.\n\nTRANG PHỤC: áo blouse lụa màu trắng ngà cài kín vừa phải, bên ngoài là blazer linen màu be sáng may đo, ve áo hẹp, tay áo dài; quần linen ống đứng đồng bộ được là phẳng sắc nếp. Thắt lưng da nâu hạt dẻ khóa vàng nhỏ. Giày loafer da màu cognac. Khuyên tai ngọc trai tròn, vòng cổ một dây ngọc trai sát xương quai xanh, đồng hồ vàng mặt nhỏ ở cổ tay trái. Điện thoại smartphone màu đen đặt trong túi blazer phải. Không túi xách, không mũ.\n\nTư thế cứng, vai kéo ra sau, cằm hơi hất, hai chân đứng sát vừa. KHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-M1-MASTER",
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05",
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [
+              "REF_MEREDITH_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_MEREDITH_LINEN_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_MEREDITH_PHONE",
+          "label": "ĐIỆN THOẠI CỦA MEREDITH — smartphone đen",
+          "desc": "Đạo cụ hành động trung tâm của Hook: được Meredith giật khỏi túi, gọi 911, cúp máy rồi giữ như bằng chứng chiến thắng.",
+          "prompt": "Ảnh tĩnh photorealistic, tỷ lệ 1:1, không có người và không có bàn tay. Một smartphone cao cấp màu đen than, cạnh kim loại bạc mờ, ốp da đen mỏng không logo, màn hình khóa tối phản chiếu nhẹ ánh trời. Máy đặt nghiêng 3/4 trên mặt bàn gỗ ngoài trời màu nâu sẫm. Ánh sáng cuối chiều ấm, bóng đổ mềm ngắn. Không chữ thương hiệu, không giao diện 911, không nứt vỡ. KHUNG VUÔNG 1:1",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_MEREDITH_PHONE_v1.png"
+        },
+        {
+          "id": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON",
+          "label": "SÂN SAU 14 BRIARCLIFF DRIVE — tiệc cưới cuối chiều",
+          "desc": "Bối cảnh duy nhất của Hook trước khi cảnh sát tới. Neo kiến trúc, bố cục tiệc, ánh sáng và mật độ 150 khách cho toàn bộ cụm đối đầu.",
+          "prompt": "Bối cảnh ở Mỹ. Sân sau của dinh thự Georgian phục dựng từ thập niên 1920 tại số 14 Briarcliff Drive, Fairfax County, Virginia, vào bốn giờ ba mươi chiều một ngày thứ Bảy ấm áp giữa tháng Sáu. Không có nhân vật chính trong khung hình. Photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 24mm, camera ngang tầm mắt, tương phản trung bình, không u tối, không moody.\n\nQUY HOẠCH 360 ĐỘ: ĐỐI DIỆN là bãi cỏ lớn được cắt phẳng, cuối bãi có vòm cưới gỗ sáng quấn hoa nhài trắng và lá xanh; xa hơn là mặt sau dinh thự ba tầng bằng đá xám sáng phủ dây thường xuân, các cửa sổ cao khung trắng và cửa kính đôi mở ra sân. BÊN TRÁI là sàn nhảy gỗ vuông và sân khấu nhỏ cho ban jazz gồm trumpet, upright bass, piano và trống; loa nhỏ gọn hướng vào trong sân. BÊN PHẢI là dãy bàn tiệc tròn phủ khăn trắng, ghế trắng, hoa hồng trắng và ly champagne, phía sau là bàn tráng miệng cùng bánh cưới ba tầng. SAU LƯNG máy là cổng vườn mở về phía lối xe và con phố rợp cây. Dọc mép vườn là hàng rào cây boxwood cắt gọn và luống hoa hồng. Dây đèn bóng tròn trong suốt treo cao giữa các cây sồi nhưng chưa bật.\n\nCó khoảng một trăm năm mươi khách dự cưới người Mỹ gốc Phi mặc lễ phục mùa hè sang trọng, phân bố tự nhiên thành nhiều lớp: một số đứng trò chuyện, một số ngồi bàn, trẻ nhỏ gần mép bãi cỏ. Không ai nhìn vào máy. Không tạo đám đông đồng phục hoặc đứng thành hàng.\n\nÁNH SÁNG: nắng cuối chiều màu vàng mật chiếu xiên từ bên trái, viền sáng trên tóc và vai khách, bóng cây mềm kéo dài trên cỏ; ánh trời xanh trung tính lấp vùng tối. Tổng thể sáng, ấm, vui và cao cấp. KHUNG NGANG 16:9",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "REF_BG_BRIARCLIFF_WEDDING_POLICE",
+            "SF-S1-M1-MASTER",
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05"
+          ],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_FAIRFAX_PATROL_GROUP",
+          "label": "SÁU CẢNH SÁT TUẦN TRA FAIRFAX — nhóm phản ứng tại hiện trường",
+          "desc": "Tài sản nhóm cho khoảnh khắc sáu sĩ quan tràn vào sân. Không khóa một gương mặt chính vì Hook chưa giới thiệu danh tính bất kỳ sĩ quan nào.",
+          "prompt": "Ảnh tham chiếu nhóm nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, nền xám trơn, ánh sáng studio dịu đều. Sáu sĩ quan cảnh sát tuần tra của một hạt ngoại ô Virginia, độ tuổi từ 28 đến 52, gồm bốn nam và hai nữ với ngoại hình đa dạng nhưng không ai giống nhân vật chính. Tất cả mặc đồng phục tuần tra màu xanh navy sẫm, áo giáp mềm gọn dưới áo, phù hiệu hạt hư cấu ở vai, huy hiệu kim loại bạc, bộ đàm vai, body camera giữa ngực, thắt lưng nghiệp vụ và giày đen. Không rút súng, không cầm khiên, không đội mũ chiến thuật. Họ đứng thành hai hàng lệch, toàn thân rõ, tư thế cảnh giác chuyên nghiệp. Không logo hoặc chữ của cơ quan có thật. KHUNG NGANG 16:9",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "REF_BG_BRIARCLIFF_WEDDING_POLICE",
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_FAIRFAX_PATROL_GROUP_v1.png"
+        },
+        {
+          "id": "REF_BG_BRIARCLIFF_WEDDING_POLICE",
+          "label": "SÂN SAU 14 BRIARCLIFF DRIVE — sáu cảnh sát vừa tràn vào",
+          "desc": "Biến thể khủng hoảng của cùng sân cưới: kiến trúc và ánh sáng không đổi, nhưng sáu sĩ quan phá vỡ trục lễ cưới và toàn bộ khách đã nín lặng.",
+          "prompt": "Giữ nguyên 100% kiến trúc, tỷ lệ sân, dinh thự đá phủ thường xuân, vòm hoa nhài, sàn nhảy, ban jazz, bàn tiệc, bàn bánh cưới, hàng boxwood, dây đèn và ánh nắng cuối chiều của ảnh tham chiếu sân sau 14 Briarcliff Drive. Sáu sĩ quan mặc đúng đồng phục của ảnh tham chiếu vừa đi nhanh qua cổng vườn từ phía sau máy và tỏa thành hình quạt trên bãi cỏ; tay đặt gần thắt lưng nghiệp vụ nhưng không ai rút súng. Một trăm năm mươi khách đã ngừng nói, cùng quay đầu về phía nhóm cảnh sát, tạo khoảng trống rõ ở trung tâm sân. Vòm cưới và bàn bánh vẫn nguyên vẹn. Không xe cảnh sát trên bãi cỏ, không đèn đỏ xanh phủ toàn ảnh, không hỗn loạn, không người chạy. Nắng cuối chiều vẫn vàng ấm nhưng không khí đông cứng vì căng thẳng. KHUNG NGANG 16:9",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-M2-MASTER",
+            "SF-S1-07"
+          ],
+          "refs": {
+            "chars": [
+              "REF_FAIRFAX_PATROL_GROUP"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "REF_BG_BRIARCLIFF_WEDDING_POLICE_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "S1",
+      "name": "S1 — HOOK · Cuộc gọi 911 giữa tiệc cưới tại 14 Briarcliff Drive",
+      "script": "\"This damn Black wedding is driving the whole street insane.\"\nMeredith Collier's face twisted with disgust, standing in the middle of a reception she was never invited to.\nAudrey Bennett met her eyes. \"This is my home, Mrs. Collier. My wedding. On my property.\"\n\"Your property?\" Meredith yanked out her phone. \"Frauds. I'm calling 911 to bust this whole scam of yours.\"\n\"Put the phone down, Mrs. Collier. You don't want to do this.\"\n\"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"\nShe hung up and smiled. Actually smiled.\n\"The police are coming, sweetheart. Let's see how long you last.\"\nAudrey's hands didn't shake. Her chin didn't drop.\nA hundred and fifty guests held their breath.\nWithin minutes, six officers flooded that backyard. But Meredith Collier had no idea who she'd just called the cops on. And what happened next — nobody in that neighborhood will ever forget.\nHave you ever watched someone's racism explode right back in their face so hard it destroyed everything they ever had — their career, their marriage, their whole life — because you are about to, smash that like, drop a comment, and let me take you all the way back to the beginning. Because this story didn't start with a 911 call. It started with a house.",
+      "sfs": [
+        {
+          "id": "SF-S1-M1-MASTER",
+          "label": "MASTER CỤM 1 — Meredith xâm nhập tiệc cưới và đối đầu Audrey",
+          "desc": "Ảnh neo vị trí, tỷ lệ hai nhân vật, 150 khách, ánh sáng và trục nhìn cho năm shot đầu của Hook.",
+          "goc": "Cinematic Wide Shot ngang tầm mắt · Audrey bên trái tiền cảnh, Meredith bên phải tiền cảnh, cả hai rõ mặt · đám cưới và 150 khách mở sâu phía sau",
+          "pose": {
+            "zone": "trung tâm bãi cỏ, giữa bàn tráng miệng và sàn nhảy",
+            "who": {
+              "AUDREY": "đứng bên trái khung, thân xoay ba phần tư sang phải, đối diện Meredith",
+              "MEREDITH": "đứng bên phải khung, cách Audrey khoảng một mét, thân chồm nhẹ về trước",
+              "GUESTS": "tạo vòng cung lỏng phía sau, gần nhất cách hai người khoảng ba mét"
+            },
+            "dist": "máy cách hai phụ nữ khoảng 5m, ống 28mm, lấy từ đầu gối trở lên và vẫn đọc rõ không gian cưới",
+            "hands": {
+              "AUDREY": "tay phải giữ ly champagne thấp ngang hông, tay trái buông tự nhiên",
+              "MEREDITH": "hai tay đang buông căng hai bên người, điện thoại còn trong túi blazer phải"
+            }
+          },
+          "prompt": "ẢNH THAM CHIẾU: Audrey portrait và váy cưới, Meredith portrait và bộ linen, sân sau tiệc cưới cuối chiều.\n\nCinematic Wide Shot, ống 28mm, camera ngang tầm mắt, đặt gần mép sàn nhảy hướng về trung tâm bãi cỏ. Audrey đứng BÊN TRÁI tiền cảnh trong váy cưới ren trắng ngà, thân xoay ba phần tư sang phải, gương mặt bình tĩnh nhìn thẳng Meredith. Meredith đứng BÊN PHẢI tiền cảnh trong bộ linen be và ngọc trai, cách Audrey khoảng một mét, mặt vặn lại vì ghê tởm, cằm hất, thân hơi chồm tới. Cả hai phải rõ mặt, đúng cùng khuôn mặt và trang phục tham chiếu. Audrey cầm ly champagne thấp ở tay phải; điện thoại Meredith còn nằm trong túi blazer.\n\nPhía sau là vòm hoa nhài, sàn nhảy, ban jazz và các bàn tiệc của đúng bối cảnh tham chiếu. Một trăm năm mươi khách người Mỹ gốc Phi mặc lễ phục phân bố tự nhiên thành nhiều lớp; một số gần đó bắt đầu quay đầu nhìn nhưng phần lớn chưa hiểu chuyện. Nắng cuối chiều vàng mật, tương phản trung bình, da người phơi sáng chuẩn, không ám vàng toàn ảnh. Không cảnh sát, không điện thoại trong tay Meredith, không ai la hét, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-02",
+            "SF-S1-03",
+            "SF-S1-04",
+            "SF-S1-05",
+            "V-S1-01"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "SF-S1-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S1-02",
+          "label": "AUDREY KHÓA ÁNH MẮT — Đây là nhà và đám cưới của tôi",
+          "desc": "Medium Two Shot giữ cả hai rõ mặt: Audrey khẳng định quyền sở hữu, Meredith chuẩn bị giật điện thoại.",
+          "goc": "Medium Two Shot ngang tầm mắt · Audrey trái khung chính diện ba phần tư · Meredith phải khung profile ba phần tư",
+          "pose": {
+            "zone": "cùng vị trí Master, máy tiến gần theo trục sàn nhảy",
+            "who": {
+              "AUDREY": "đứng thẳng bên trái, vai mở, mắt khóa Meredith",
+              "MEREDITH": "bên phải, đầu hơi giật ra sau khi nghe Audrey nói"
+            },
+            "dist": "máy cách hai người khoảng 2,7m, ống 50mm, cắt từ eo trở lên",
+            "hands": {
+              "AUDREY": "đặt ly champagne xuống mép bàn bên trái, bàn tay sau đó mở tự nhiên",
+              "MEREDITH": "tay phải luồn nhanh vào túi blazer để lấy điện thoại"
+            }
+          },
+          "prompt": "Dùng MASTER CỤM 1 làm neo tuyệt đối cho gương mặt, trang phục, vị trí và ánh sáng. Medium Two Shot, ống 50mm, ngang tầm mắt, cắt từ eo trở lên. Audrey bên trái giữ lưng thẳng, cằm ngang và nhìn trực tiếp Meredith với vẻ bình tĩnh có quyền uy; bàn tay phải vừa đặt ly champagne xuống mép bàn. Meredith bên phải quay ba phần tư về Audrey, lông mày nhíu, môi khinh miệt, tay phải thọc vào túi blazer và nắm lấy điện thoại đen. Cả hai rõ mặt, khoảng cách một mét. Khách cưới và hoa trắng phía sau mờ vừa nhưng vẫn đọc được là tiệc cưới đông người. Không cảnh sát, không chỉ tay, không tiếp xúc cơ thể, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "V-S1-02"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_PROP_MEREDITH_PHONE",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "SF-S1-02_v1.png"
+        },
+        {
+          "id": "SF-S1-03",
+          "label": "MEREDITH GIƠ ĐIỆN THOẠI — lời cảnh báo cuối của Audrey",
+          "desc": "Over-the-shoulder từ sau vai Audrey, tập trung Meredith vừa rút điện thoại và công khai đe dọa gọi 911.",
+          "goc": "Medium OTS từ sau vai Audrey sang Meredith · Meredith rõ toàn mặt và điện thoại · Audrey chỉ làm tiền cảnh mềm",
+          "pose": {
+            "zone": "mép bàn tráng miệng nhìn về phía cổng vườn",
+            "who": {
+              "AUDREY": "vai trái và profile mềm ở tiền cảnh trái, không lùi",
+              "MEREDITH": "giữa-phải khung, mặt đối diện Audrey, điện thoại vừa được kéo khỏi túi"
+            },
+            "dist": "máy cách Meredith khoảng 2m, ống 65mm",
+            "hands": {
+              "AUDREY": "hai tay thấp và mở, không run",
+              "MEREDITH": "tay phải giơ điện thoại ngang ngực, ngón cái chuẩn bị chạm màn hình"
+            }
+          },
+          "prompt": "Dùng Master và các thẻ nhân vật làm neo. Medium over-the-shoulder từ sau vai Audrey ở tiền cảnh trái nhìn sang Meredith giữa-phải khung, ống 65mm, ngang tầm mắt. Meredith rõ toàn mặt, biểu cảm hằn học và tự tin, tay phải vừa giật smartphone đen khỏi túi, giữ dọc ngang ngực, ngón cái lơ lửng trên màn hình; tay trái mở ra như buộc tội. Audrey chỉ hiện vai ren và profile mềm nhưng tư thế vẫn thẳng, không lùi. Vài khách gần đó đã ngừng nói và nhìn sang. Nắng cuối chiều viền tóc, phơi sáng da chuẩn. Không hiển thị giao diện điện thoại, không cảnh sát, không bạo lực, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "V-S1-03"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_PROP_MEREDITH_PHONE",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "SF-S1-03_v1.png"
+        },
+        {
+          "id": "SF-S1-04",
+          "label": "CUỘC GỌI 911 — Meredith nói dối giữa 150 nhân chứng",
+          "desc": "Cận trung Meredith gọi 911, Audrey hiện rõ phía sau và nghe từng chữ; nụ cười chiến thắng bắt đầu hình thành.",
+          "goc": "Medium Close-Up profile Meredith ở phải tiền cảnh · Audrey rõ vừa ở trái hậu cảnh · điện thoại áp tai",
+          "pose": {
+            "zone": "cùng cụm đối đầu, máy dịch sang hông Meredith",
+            "who": {
+              "MEREDITH": "chiếm phải tiền cảnh, profile trái, nhìn qua Audrey khi nói vào máy",
+              "AUDREY": "trái hậu cảnh, chính diện ba phần tư, đứng bất động"
+            },
+            "dist": "máy cách Meredith khoảng 1,4m, ống 75mm",
+            "hands": {
+              "MEREDITH": "tay phải áp điện thoại dọc vào tai phải, tay trái chống nhẹ lên hông",
+              "AUDREY": "hai bàn tay thả thấp trước váy, ngón tay hoàn toàn ổn định"
+            }
+          },
+          "prompt": "Medium Close-Up, ống 75mm, ngang tầm mắt, máy đặt bên hông Meredith. Meredith chiếm phải tiền cảnh ở profile trái, smartphone đen áp đúng vào tai phải, mắt liếc về Audrey và khóe miệng cong thành nụ cười nhỏ đầy thỏa mãn khi nói dối với 911. Audrey đứng rõ vừa ở trái hậu cảnh trong váy cưới, cằm ngang, hai tay thả thấp và tuyệt đối không run, nhìn thẳng Meredith. Sau Audrey, một lớp khách cưới đã ngừng trò chuyện và cùng quan sát. Giữ đúng gương mặt, trang phục, ánh nắng và địa hình của Master. Không màn hình điện thoại quay ra máy, không khóc, không hét, không cảnh sát, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "V-S1-04"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_PROP_MEREDITH_PHONE",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "SF-S1-04_v1.png"
+        },
+        {
+          "id": "SF-S1-05",
+          "label": "AUDREY KHÔNG CÚI ĐẦU — 150 khách nín thở",
+          "desc": "Hero medium shot Audrey giữ nguyên phẩm giá sau lời đe dọa; Meredith và điện thoại ở lớp phụ, đám đông đông cứng phía sau.",
+          "goc": "Medium Hero Shot chính diện Audrey · Meredith lệch phải ở lớp hai · đám đông tạo chiều sâu",
+          "pose": {
+            "zone": "máy ở phía Meredith nhìn qua khoảng trống về Audrey",
+            "who": {
+              "AUDREY": "giữa-trái khung, chính diện, lưng thẳng và cằm không hạ",
+              "MEREDITH": "mép phải lớp hai, vừa hạ điện thoại khỏi tai",
+              "GUESTS": "đứng im thành nhiều lớp phía sau Audrey, ánh mắt tập trung vào hai người"
+            },
+            "dist": "máy cách Audrey khoảng 2,4m, ống 55mm, cắt ngang hông",
+            "hands": {
+              "AUDREY": "hai tay buông thấp cân xứng, ngón tay thư giãn, không nắm váy",
+              "MEREDITH": "tay phải giữ điện thoại thấp ngang ngực sau khi cúp máy"
+            }
+          },
+          "prompt": "Medium Hero Shot chính diện Audrey, ống 55mm ngang tầm mắt, cắt ngang hông. Audrey đứng giữa-trái khung, mặt rõ nét, vai mở, hai tay buông thấp không run, cằm ngang và mắt không rời Meredith; biểu cảm bình tĩnh nhưng chắc. Meredith nằm ở mép phải lớp hai, vừa hạ điện thoại khỏi tai và cười mỏng, vẫn đúng bộ linen be và ngọc trai. Sau Audrey, hàng chục khách gần nhất đã hoàn toàn nín lặng, gương mặt căng thẳng và cùng nhìn về phía Meredith; các lớp khách còn lại mở sâu đến vòm hoa nhài. Không ai chạy, không giơ điện thoại, không cảnh sát, không khóc, không chữ. Ánh nắng cuối chiều ấm nhưng màu da trung thực. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "V-S1-05"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_PROP_MEREDITH_PHONE",
+              "SF-S1-M1-MASTER"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_LATE_AFTERNOON"
+          },
+          "picked": "SF-S1-05_v1.png"
+        },
+        {
+          "id": "SF-S1-M2-MASTER",
+          "label": "MASTER CỤM 2 — Sáu sĩ quan tràn vào sân cưới",
+          "desc": "Ảnh neo khoảnh khắc cảnh sát xuất hiện: sáu sĩ quan tạo hình quạt, Audrey và Meredith ở trung tâm, 150 khách đóng băng.",
+          "goc": "Cinematic Wide Shot từ gần vòm hoa nhìn ngược về cổng · sáu sĩ quan rõ toàn thân · Audrey và Meredith rõ mặt ở trung cảnh",
+          "pose": {
+            "zone": "máy cạnh vòm hoa nhài nhìn dọc bãi cỏ về cổng vườn",
+            "who": {
+              "OFFICERS": "sáu người vừa qua cổng và tỏa hình quạt ở nửa sau bãi cỏ",
+              "AUDREY": "giữa-trái trung cảnh, quay nửa người về phía cảnh sát",
+              "MEREDITH": "giữa-phải trung cảnh, gần Audrey nhưng hơi tiến về phía cảnh sát",
+              "GUESTS": "dạt nhẹ sang hai bên tạo hành lang trung tâm, không chạy"
+            },
+            "dist": "máy cách Audrey và Meredith khoảng 8m, cách nhóm cảnh sát khoảng 14m, ống 24mm",
+            "hands": {
+              "AUDREY": "hai tay thấp, không giơ lên và không nắm váy",
+              "MEREDITH": "tay phải giữ điện thoại sát ngực",
+              "OFFICERS": "tay gần thắt lưng nghiệp vụ, không ai rút súng"
+            }
+          },
+          "prompt": "ẢNH THAM CHIẾU: bối cảnh sân cưới có cảnh sát, nhóm sáu sĩ quan, Audrey portrait và váy cưới, Meredith portrait và bộ linen. Cinematic Wide Shot ống 24mm ngang tầm mắt, máy cạnh vòm hoa nhài nhìn ngược dọc bãi cỏ về cổng. Sáu sĩ quan vừa tràn qua cổng và tỏa thành hình quạt ở lớp sau, bước nhanh nhưng không chạy, tay gần thắt lưng nghiệp vụ, không ai rút súng. Audrey đứng giữa-trái trung cảnh trong váy cưới, quay nửa người nhìn họ, lưng vẫn thẳng. Meredith đứng giữa-phải, điện thoại sát ngực, biểu cảm thỏa mãn kín đáo. Một trăm năm mươi khách dạt nhẹ sang hai bên thành hành lang, tất cả nín lặng và nhìn về cảnh sát. Vòm hoa nhài, bàn tiệc và bánh cưới nguyên vẹn. Không xe trên cỏ, không đèn đỏ xanh quá mạnh, không bắt giữ, không chĩa súng, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "SF-S1-07",
+            "V-S1-06"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_FAIRFAX_PATROL_GROUP"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_POLICE"
+          },
+          "picked": "SF-S1-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S1-07",
+          "label": "CLIFFHANGER — Meredith chưa biết Audrey là ai",
+          "desc": "Khung kết Hook đặt Meredith tự mãn ở tiền cảnh, Audrey bình tĩnh giữa các sĩ quan và đám đông; chưa tiết lộ chức danh thượng nghị sĩ.",
+          "goc": "Medium-Wide OTS từ sau vai Meredith · Audrey rõ mặt ở trung tâm · cảnh sát và khách tạo hai lớp áp lực",
+          "pose": {
+            "zone": "máy sau vai phải Meredith nhìn về Audrey và nhóm cảnh sát",
+            "who": {
+              "MEREDITH": "vai và nửa profile ở tiền cảnh phải, điện thoại vẫn trong tay",
+              "AUDREY": "trung tâm khung, đứng thẳng trong váy cưới, nhìn qua cảnh sát về Meredith",
+              "OFFICERS": "ba sĩ quan mỗi bên tạo khoảng hở nhìn thẳng tới Audrey",
+              "GUESTS": "đông cứng thành nền sâu phía sau Audrey"
+            },
+            "dist": "máy cách Meredith 1m, cách Audrey 6m, ống 40mm",
+            "hands": {
+              "MEREDITH": "tay phải giữ điện thoại thấp sát sườn",
+              "AUDREY": "hai tay thả thấp và ổn định",
+              "OFFICERS": "tay buông gần thắt lưng, không rút vũ khí"
+            }
+          },
+          "prompt": "Dùng MASTER CỤM 2 làm neo tuyệt đối. Medium-Wide over-the-shoulder từ sau vai phải Meredith ở tiền cảnh, ống 40mm ngang tầm mắt. Meredith chỉ hiện vai linen, một phần profile và tay phải giữ smartphone thấp sát sườn; khóe môi còn nụ cười tự mãn. Audrey đứng rõ mặt chính giữa khung trong váy cưới, lưng thẳng, hai tay ổn định, nhìn xuyên qua khoảng trống giữa sáu sĩ quan về Meredith với sự bình tĩnh không thể lay chuyển. Ba sĩ quan ở mỗi bên tạo hai lớp áp lực nhưng không che mặt Audrey, không rút vũ khí. Một trăm năm mươi khách im lặng phía sau, vòm hoa và dây đèn vẫn đọc rõ. Không phù hiệu Thượng viện, không bảng tên chức vụ, không tiết lộ Audrey là thượng nghị sĩ, không bắt giữ, không chữ. KHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [
+            "V-S1-07"
+          ],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_LINEN_FULL",
+              "REF_PROP_MEREDITH_PHONE",
+              "REF_FAIRFAX_PATROL_GROUP",
+              "SF-S1-M2-MASTER"
+            ],
+            "bg": "REF_BG_BRIARCLIFF_WEDDING_POLICE"
+          },
+          "picked": "SF-S1-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S1-01",
+          "sf": "SF-S1-M1-MASTER",
+          "dur": 10,
+          "text": "MEREDITH: \"This damn Black wedding is driving the whole street insane.\"\nNARRATOR: Meredith Collier's face twisted with disgust, standing in the middle of a reception she was never invited to.",
+          "prompt": "Use the uploaded reference image as the absolute visual anchor for both women's identities, wardrobe, positions, wedding layout, crowd density, and late-afternoon lighting. 10-SECOND VIDEO. ONE CONTINUOUS SHOT. Eye-level cinematic wide shot with a very slow controlled push-in. Meredith leans forward slightly and delivers exactly one angry sentence to Audrey; her disgust is visible in a tightened jaw and narrowed eyes, not exaggerated flailing. Audrey remains still and meets her gaze. Nearby guests gradually notice the intrusion while the jazz quartet continues silently in the background. Natural facial motion and restrained body language. Dialogue is spoken only by Meredith with accurate lip sync. The narrator is voice-over and no on-screen person lip-syncs to narration. No subtitles, no text, no music added, no camera shake, no cuts.",
+          "prompt_text": "MEREDITH: \"This damn Black wedding is driving the whole street insane.\"\nNARRATOR: Meredith Collier's face twisted with disgust, standing in the middle of a reception she was never invited to.",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-01_v1.mp4"
+        },
+        {
+          "id": "V-S1-02",
+          "sf": "SF-S1-02",
+          "dur": 10,
+          "text": "AUDREY: \"This is my home, Mrs. Collier. My wedding. On my property.\"\nMEREDITH: \"Your property? Frauds. I'm calling 911 to bust this whole scam of yours.\"",
+          "prompt": "Use the reference frame as the exact starting composition. 10-SECOND VIDEO. ONE CONTINUOUS MEDIUM TWO SHOT. Audrey calmly sets her champagne glass on the table, keeps her chin level, and delivers her line with precise restrained lip sync. Meredith jerks her head back on 'Your property?', scoffs, reaches into the right blazer pocket, and pulls out the black phone while delivering her reply. Keep both faces visible for the full exchange. No character crosses the axis and neither woman touches the other. Background guests begin falling quiet. Only Audrey and Meredith speak; no narrator in this shot. No subtitles, no text, no added music, no cuts, no handheld shake.",
+          "prompt_text": "AUDREY: \"This is my home, Mrs. Collier. My wedding. On my property.\"\nMEREDITH: \"Your property? Frauds. I'm calling 911 to bust this whole scam of yours.\"",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-02_v1.mp4"
+        },
+        {
+          "id": "V-S1-03",
+          "sf": "SF-S1-03",
+          "dur": 10,
+          "text": "AUDREY: \"Put the phone down, Mrs. Collier. You don't want to do this.\"\nMEREDITH: \"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"",
+          "prompt": "Use the uploaded frame as the exact identity and spatial anchor. 10-SECOND VIDEO. ONE CONTINUOUS OVER-THE-SHOULDER SHOT FROM AUDREY TO MEREDITH. Audrey gives her warning from the soft left foreground without stepping back. Meredith taps the phone, raises it to her right ear, and immediately performs a controlled false-emergency voice while looking past Audrey. Precise lip sync for both lines; Audrey speaks first, Meredith second, with no overlap. Meredith's free hand makes one small accusatory gesture, then stills. Guests behind her stop moving one by one. Do not show the phone interface. No police yet, no subtitles, no text, no added music, no cuts, no camera shake.",
+          "prompt_text": "AUDREY: \"Put the phone down, Mrs. Collier. You don't want to do this.\"\nMEREDITH: \"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-03_v1.mp4"
+        },
+        {
+          "id": "V-S1-04",
+          "sf": "SF-S1-04",
+          "dur": 10,
+          "text": "NARRATOR: She hung up and smiled. Actually smiled.\nMEREDITH: \"The police are coming, sweetheart. Let's see how long you last.\"",
+          "prompt": "Use the reference frame as the exact visual anchor. 10-SECOND VIDEO. ONE CONTINUOUS MEDIUM CLOSE-UP. Meredith ends the call with one thumb movement, lowers the phone from her ear to chest height, pauses, then forms a small deliberate smile. On the spoken line she turns her eyes fully toward Audrey and delivers the threat with quiet satisfaction and accurate lip sync. Audrey remains visible behind her, still and unsmiling. The narrator is voice-over only; no visible person lip-syncs to narration. Keep gestures minimal and realistic. No police enter yet. No subtitles, no text, no added music, no cuts, no zoom burst, no camera shake.",
+          "prompt_text": "NARRATOR: She hung up and smiled. Actually smiled.\nMEREDITH: \"The police are coming, sweetheart. Let's see how long you last.\"",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-04_v1.mp4"
+        },
+        {
+          "id": "V-S1-05",
+          "sf": "SF-S1-05",
+          "dur": 10,
+          "text": "NARRATOR: Audrey's hands didn't shake. Her chin didn't drop. A hundred and fifty guests held their breath.",
+          "prompt": "Use the reference frame as the exact identity, wardrobe, and crowd anchor. 10-SECOND VIDEO. ONE CONTINUOUS MEDIUM HERO SHOT with a nearly imperceptible push toward Audrey. Audrey does not speak. Her hands remain relaxed and perfectly steady at her sides; her chin stays level; she takes one controlled breath without breaking eye contact. Behind her, the closest guests gradually stop all conversation and motion until the entire reception feels suspended. Meredith remains at the right edge holding the lowered phone. The full narration is voice-over only and nobody lip-syncs to it. No melodramatic tears, no clenched fists, no police yet, no subtitles, no text, no added music, no cuts, no camera shake.",
+          "prompt_text": "NARRATOR: Audrey's hands didn't shake. Her chin didn't drop. A hundred and fifty guests held their breath.",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-05_v1.mp4"
+        },
+        {
+          "id": "V-S1-06",
+          "sf": "SF-S1-M2-MASTER",
+          "dur": 15,
+          "text": "NARRATOR: Within minutes, six officers flooded that backyard. But Meredith Collier had no idea who she'd just called the cops on. And what happened next — nobody in that neighborhood will ever forget. Have you ever watched someone's racism explode right back in their face so hard it destroyed everything they",
+          "prompt": "Use the uploaded reference image as the absolute spatial and character anchor. 15-SECOND VIDEO. ONE CONTINUOUS EYE-LEVEL WIDE SHOT. Six and only six uniformed officers enter rapidly through the garden gate and spread into a controlled fan across the lawn; none draws a weapon. Guests shift aside without running, creating a tense central corridor. Audrey turns only her head and upper torso toward the officers while keeping a straight posture. Meredith steps half a pace toward them with the phone against her chest and a faint satisfied look. The camera makes a slow backward drift to reveal the full scale of the frozen wedding. Narration is voice-over only; nobody lip-syncs. No arrests, no sirens on the lawn, no red-blue strobe washing the image, no subtitles, no text, no added music, no cuts, no camera shake.",
+          "prompt_text": "NARRATOR: Within minutes, six officers flooded that backyard. But Meredith Collier had no idea who she'd just called the cops on. And what happened next — nobody in that neighborhood will ever forget. Have you ever watched someone's racism explode right back in their face so hard it destroyed everything they",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-06_v1.mp4"
+        },
+        {
+          "id": "V-S1-07",
+          "sf": "SF-S1-07",
+          "dur": 15,
+          "text": "NARRATOR: ever had — their career, their marriage, their whole life — because you are about to, smash that like, drop a comment, and let me take you all the way back to the beginning. Because this story didn't start with a 911 call. It started with a house.",
+          "prompt": "Use the uploaded reference frame as the exact starting composition and preserve every identity and spatial relationship. 15-SECOND VIDEO. ONE CONTINUOUS MEDIUM-WIDE OVER-THE-SHOULDER SHOT from behind Meredith toward Audrey. Begin with Meredith's faint confident smile in partial profile, then execute a very slow controlled push through the gap between the six officers until Audrey's calm face becomes the visual center. Audrey never speaks, bows, or looks away. Officers remain alert but restrained; guests remain silent and still. Do not reveal Audrey's occupation or show any Senate insignia. The entire narration is voice-over only and nobody on screen lip-syncs. End holding on Audrey's unwavering eyes for the final words 'It started with a house.' No subtitles, no text, no added music, no cuts, no camera shake, no dramatic zoom.",
+          "prompt_text": "NARRATOR: ever had — their career, their marriage, their whole life — because you are about to, smash that like, drop a comment, and let me take you all the way back to the beginning. Because this story didn't start with a 911 call. It started with a house.",
+          "status": "todo",
+          "notes": "",
+          "vpicked": "V-S1-07_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

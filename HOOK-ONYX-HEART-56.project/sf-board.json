@@ -1,0 +1,427 @@
+{
+  "film": "ONYX HEART 56 — HENRIETTA VÀ CHÍN MƯƠI GIÂY (HOTEL MANAGER FIRED A BLACK HOUSEKEEPER OVER A GUEST'S LIE)",
+  "kind": "phim",
+  "updated_at": "2026-09-11 10:52:00",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_HENRIETTA_WORK_FULL",
+          "label": "★ HENRIETTA APPLEGATE — ĐỒNG PHỤC BUỒNG PHÒNG CA TỐI (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. Henrietta Applegate, 68 tuổi, người Mỹ da đen — \"Miss Etta\", nhân viên buồng phòng ca tối hai mươi năm của The Belhaven Court, người ghi sổ đồ thất lạc tỉ mỉ nhất khách sạn. Bị tổng quản lý vu trộm tiền khách, giật phong bì lương và giật biển tên ngay giữa tiệc chủ sở hữu. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồng phục trong cùng một ảnh. Mặt phải đọc ra: đứng đắn, ấm và chắc; bị làm nhục trước hai trăm người nhưng không cúi đầu, không van xin.\nĐồng phục: HOUSEKEEPING (neo)\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ Mỹ da đen 68 tuổi, da nâu sẫm ấm có kết cấu thật với lỗ chân lông nhìn rõ, nếp nhăn nhẹ đúng tuổi ở đuôi mắt và hai rãnh cười, gò má cao, sống mũi rộng thanh, mắt nâu đen sâu nhìn tỉnh, ấm và chắc, miệng khép tự nhiên KHÔNG cười. Tóc tự nhiên bạc trắng xen xám, chải gọn ra sau, búi thành một búi thấp nhỏ sau gáy. Vóc người nhỏ vừa, lưng thẳng, dáng gọn của người đứng làm việc cả đời. Đồng phục buồng phòng khách sạn: váy liền cài cúc trước màu XÁM BỒ CÂU NHẠT, cổ bẻ, tay ngắn, dài quá gối, cài kín toàn bộ cúc, vải được giặt cẩn thận và là phẳng phiu. Ngoài buộc một tạp dề TRẮNG ngang eo có một túi trước, dây thắt nơ sau lưng. Trên ngực trái cài một biển tên kim loại mạ vàng hình chữ nhật, khắc chữ đen in hoa hai dòng \"HENRIETTA\" và \"HOUSEKEEPING\". Tất màu da, giày đen đế thấp chống trượt, sạch. Trang sức đúng một món: một nhẫn cưới vàng trơn mảnh ở ngón áp út tay TRÁI. Nền màu trơn be nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BRANTLEY_HOST_FULL",
+          "label": "★ BRANTLEY STILES — VEST ĐỎ RƯỢU CHỦ TIỆC (thẻ neo nhân dạng)",
+          "desc": "Phản diện. Brantley Stiles, 31 tuổi, tổng quản lý (GM) The Belhaven Court, đêm nay chủ trì tiệc của hội đồng chủ sở hữu chuỗi Aldergate. Tin lời một vị khách, không mở nhật ký cửa, kết tội bà lao công ngay giữa sảnh để \"giữ sạch buổi tối\". Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: trẻ, bóng bẩy, tự tin tuyệt đối, quen được phục tùng, khinh người một cách thoải mái.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ da trắng 31 tuổi, điển trai sắc sảo, da sáng được chăm chút có kết cấu thật với lỗ chân lông nhìn rõ, gò má gọn, sống mũi thẳng hẹp, quai hàm sắc, mắt xanh nhạt, lông mày rậm gọn, cạo râu nhẵn, miệng khép tự nhiên KHÔNG cười, cằm hơi hất cao. Tóc vàng sẫm, hai bên cắt ngắn, phần trên chải hất ngược ra sau bằng gel bóng. Vóc người cao gọn, vai vuông. Bộ vest may đo ôm màu ĐỎ RƯỢU VANG hai cúc, cài cúc trên, sơ mi trắng tinh cài kín cổ, cà vạt lụa đen, khăn cài túi ngực trắng gấp thẳng. Trên ve áo trái cài một biển tên kim loại màu BẠC khắc chữ đen hai dòng \"BRANTLEY STILES\" và \"GENERAL MANAGER\". Quần âu cùng màu vest, giày oxford da đen bóng. Một đồng hồ thép mặt mỏng ở cổ tay TRÁI. Nền màu trơn be nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_LAWSON_ARRIVAL_FULL",
+          "label": "★ LAWSON APPLEGATE — ÁO KHOÁC ĐEN LÚC VỪA TỚI (thẻ neo nhân dạng)",
+          "desc": "Con trai Henrietta, 34 tuổi, người Mỹ da đen. Chín ngày trước tập đoàn của anh vừa mua lại chuỗi Aldergate — anh là chủ mới của khách sạn, tới để đọc bài phát biểu sau tráng miệng. Trong Hook chỉ hiện rất xa, bước vào qua cửa chính khi không ai để ý. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: điềm tĩnh, quyền lực không cần phô, nét mặt giống mẹ ở gò má và ánh mắt.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ da đen 34 tuổi, da nâu sẫm có kết cấu thật với lỗ chân lông nhìn rõ, gò má cao, sống mũi thẳng, quai hàm vuông chắc, mắt nâu đen sâu, lông mày đậm, râu quai nón cắt sát và tỉa gọn, miệng khép tự nhiên KHÔNG cười. Tóc đen cắt sát kiểu fade, viền chân tóc sắc gọn. Vóc người cao, vai rộng, thân săn chắc. Áo khoác dạ len ĐEN dài tới gối, để mở cúc, bên trong là bộ vest XANH NAVY ĐÊM may đo, sơ mi trắng cài kín cổ, cà vạt lụa navy trơn. Một tờ giấy trắng gấp làm tư thò nửa ra khỏi túi ngực áo khoác. Cánh tay trái kẹp một chiếc cặp tài liệu da nâu sẫm dưới nách, mặt cặp trơn, nhãn hư cấu. Quần cùng màu vest, giày oxford da đen. Nền màu trơn be nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_ALDEN_ARRIVAL_FULL",
+          "label": "★ ALDEN BLAKENEY — ÁO KHOÁC DẠ XÁM THAN (thẻ neo nhân dạng)",
+          "desc": "Chủ tịch điều hành chuỗi Aldergate, khoảng 60 tuổi, người Mỹ da trắng, mười chín năm điều hành. Đi cùng chủ mới Lawson tới buổi tiệc. Trong Hook chỉ hiện rất xa, bước vào qua cửa chính. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: già dặn, nghiêm, kiểu người không cần lên giọng.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ da trắng 60 tuổi, da sáng có kết cấu thật với lỗ chân lông nhìn rõ, nếp nhăn đúng tuổi ở trán và đuôi mắt, gò má hơi gầy, sống mũi thẳng, mắt xám xanh điềm tĩnh sau cặp kính gọng kim loại mảnh màu bạc, cạo râu nhẵn, miệng khép tự nhiên KHÔNG cười. Tóc bạc trắng dày, chải gọn rẽ ngôi một bên. Vóc người trung bình, hơi gầy, dáng thẳng. Áo khoác dạ len XÁM THAN ĐẬM dài tới gối, cài cúc, lộ cổ sơ mi xanh da trời nhạt và cà vạt xanh navy. Cánh tay phải ôm một tập hồ sơ bìa cứng màu đen áp trước ngực, mặt bìa trơn không chữ. Quần âu xám than, giày da đen. Nền màu trơn be nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_PAY_ENVELOPE",
+          "label": "Phong bì lương của Henrietta — còn dán kín",
+          "desc": "Vật trao tay chủ chốt: Brantley tưởng là tiền ăn cắp, giật khỏi tay bà rồi xé toạc trước cả sảnh — bên trong chỉ có tờ phiếu lương. Ảnh gốc ở trạng thái đầu tiên: còn dán kín nguyên nắp.\nDùng: HOOK",
+          "prompt": "Ảnh tĩnh photorealistic, KHUNG VUÔNG 1:1, góc 3/4 nhìn chếch từ trên xuống, đạo cụ đặt trên mặt bàn gỗ sồi trơn màu sáng, không có người hay bàn tay trong ảnh. Một phong bì lương giấy trắng dày khổ dài (khoảng 23 x 10 cm), còn DÁN KÍN nguyên nắp, hơi phồng nhẹ vì có giấy gấp bên trong. Góc trên trái in logo khách sạn: một huy hiệu nhỏ màu xanh navy kèm dòng chữ in hoa \"THE BELHAVEN COURT\". Giữa phong bì là nhãn in máy chữ đen \"APPLEGATE, H. — HOUSEKEEPING\". Chữ in sắc nét, đúng chính tả. Ánh sáng tự nhiên dịu từ cửa sổ bên trái, bóng đổ mềm dưới mép vật để thấy rõ tỉ lệ.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_PAYSLIP",
+          "label": "Tờ phiếu lương của Henrietta — gấp đôi, rách một góc",
+          "desc": "Thứ duy nhất rơi ra từ phong bì — bằng chứng Brantley không thèm cúi nhìn. Henrietta quỳ nhặt, vuốt phẳng, gấp lại và giữ nó suốt phần còn lại của Hook.\nDùng: HOOK",
+          "prompt": "Ảnh tĩnh photorealistic, KHUNG VUÔNG 1:1, góc 3/4 nhìn chếch từ trên xuống, đạo cụ đặt trên mặt bàn gỗ sồi trơn màu sáng, không có người hay bàn tay trong ảnh. Một tờ phiếu lương giấy trắng khổ nhỏ, đang mở hé từ nếp gấp đôi, một góc bị rách xơ và hơi nhàu. Trên cùng in huy hiệu xanh navy và chữ in hoa \"THE BELHAVEN COURT\"; bên dưới là ba dòng in đen \"APPLEGATE, H.\", \"HOUSEKEEPING\", \"EVENING SHIFT\" và một bảng giờ công chữ số nhỏ. Chữ in sắc nét, đúng chính tả. Ánh sáng tự nhiên dịu từ cửa sổ bên trái, bóng đổ mềm dưới mép vật để thấy rõ tỉ lệ.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_NAME_BADGE",
+          "label": "Biển tên mạ vàng của Henrietta",
+          "desc": "Brantley giật khỏi ngực áo bà, giơ lên khoe khách rồi ném vào thùng ly bẩn. Phân biệt với biển tên màu BẠC của chính Brantley (thuộc thẻ trang phục của hắn).\nDùng: HOOK",
+          "prompt": "Ảnh tĩnh photorealistic, KHUNG VUÔNG 1:1, góc 3/4 nhìn chếch từ trên xuống, đạo cụ đặt trên mặt bàn gỗ sồi trơn màu sáng, không có người hay bàn tay trong ảnh. Một biển tên nhân viên bằng kim loại mạ vàng hình chữ nhật bo góc (khoảng 7 x 2,5 cm), mặt phẳng bóng, khắc chữ đen in hoa chân phương hai dòng: \"HENRIETTA\" (dòng trên, lớn) và \"HOUSEKEEPING\" (dòng dưới, nhỏ). Biển đặt hơi nghiêng để thấy mép chiếc kim cài ở mặt sau. Chữ in sắc nét, đúng chính tả. Ánh sáng tự nhiên dịu từ cửa sổ bên trái, bóng đổ mềm dưới mép vật để thấy rõ tỉ lệ.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_BALLROOM_EVENING",
+          "label": "BỐI CẢNH — Sảnh tiệc lớn The Belhaven Court, tiệc hội đồng chủ sở hữu (buổi tối)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — sảnh tiệc thông thẳng ra cửa chính khách sạn, dài khoảng ba mươi mét, nơi Henrietta bị kết tội, bị giật lương, giật biển tên trước hai trăm khách, và nơi hai người đàn ông bước vào qua cặp cửa khung đồng.",
+          "prompt": "Bối cảnh ở Mỹ. Sảnh tiệc khách sạn cổ điển sang trọng vừa bày xong cho tiệc tối của hội đồng chủ sở hữu — đèn đã bật hết, bàn đã dọn đủ, khách CHƯA vào. Không có người trong khung hình. Sàn cẩm thạch trắng vân xám bóng, dải thảm đỏ thẫm chạy giữa sảnh dài chừng ba mươi mét, trần treo ba chùm đèn pha lê lớn thành một hàng. ĐỐI DIỆN, cuối dải thảm, là cặp cửa kính lớn khung đồng vàng, trên đầu cửa có bảng đồng khắc \"THE BELHAVEN COURT\"; ngoài kính là mái hiên đón xe, trời tối xanh; cạnh cửa bên phải là quầy lễ tân đá. BÊN TRÁI là quầy bar gỗ óc chó dài, kệ rượu sáng đèn, tượng băng thiên nga và một cửa phục vụ màu xám có ô kính nhỏ. BÊN PHẢI là hàng cột cẩm thạch, bàn tiệc tròn phủ khăn trắng với ly pha lê và nến, góc tứ tấu bốn ghế và giá nhạc, nhạc cụ đặt trên ghế vì nhạc công chưa vào chỗ. SAU LƯNG là bục phát biểu gỗ dưới băng rôn xanh navy chữ vàng \"ALDERGATE HOTELS\" và bảng loa nội bộ gắn tường. Photorealistic, điện ảnh nhưng hiện thực, cinematic wide shot, ống kính 28mm, máy ngang tầm mắt. Đèn pha lê bật hết cỡ toả vàng ấm từ trên, đèn tường đồng hắt sáng ấm hai bên; ánh sáng mềm, rõ, giữ skin tone tự nhiên; không u tối, không moody, không cháy trắng, tương phản trung bình, bóng đổ mềm. Kem ngà, vàng đồng, đỏ thẫm, trắng khăn bàn. Tổng thể ẤM, SANG, rực rỡ — KHÁC HẲN ánh huỳnh quang trắng phẳng của hành lang phục vụ và phòng giặt hậu trường.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Bà lao công bị giật lương, giật biển tên giữa tiệc chủ sở hữu",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Brantley quát thẳng mặt Henrietta giữa sảnh tiệc, phong bì lương còn trên tay bà",
+          "goc": "Wide establishing two-shot, Brantley Stiles bên trái khung + Henrietta Applegate bên phải khung, CẢ HAI RÕ MẶT, đã khoá mắt vào nhau",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, cạnh hàng cột bên phải, nhìn dọc dải thảm đỏ về cửa chính",
+            "who": {
+              "BRANTLEY": "Đứng cách bà một mét, người đổ về phía trước, miệng há to đang quát, mắt nhìn thẳng vào bà, khoé môi nhếch khinh",
+              "HENRIETTA": "Đã quay hẳn người đối mặt trực tiếp với Brantley, cằm ngang, ánh mắt khoá chặt vào hắn, môi khép, chưa hề lùi"
+            },
+            "dist": "Máy quay ở nửa sau sảnh cách khoảng bảy mét, ngang tầm mắt người đứng, bao trọn hai người, lớp khách và cặp cửa khung đồng ở xa",
+            "hands": {
+              "BRANTLEY": "Ngón trỏ tay phải chĩa thẳng vào chiếc phong bì trên tay bà, CHƯA chạm tới; tay trái buông",
+              "HENRIETTA": "Tay phải cầm phong bì trắng dán kín ngang eo, mặt logo quay ra máy; tay trái buông, các ngón hơi cong, không nắm chặt"
+            }
+          },
+          "prompt": "Cinematic wide shot, photorealistic, máy quay ở nửa sau sảnh tiệc cách khoảng bảy mét, ngang tầm mắt người đứng, chĩa dọc dải thảm đỏ về cặp cửa kính khung đồng ở cuối sảnh. Brantley Stiles đứng bên trái khung, người đổ về phía trước, miệng há to đang quát, khoé môi nhếch khinh, ngón trỏ tay phải chĩa thẳng vào chiếc phong bì trên tay bà. Henrietta Applegate đứng bên phải khung, đã quay hẳn người đối mặt trực tiếp với hắn, cằm ngang, ánh mắt khoá chặt, môi khép; tay phải cầm chiếc phong bì trắng dán kín ngang eo, mặt logo quay ra máy; tay trái buông, các ngón hơi cong, không nắm chặt. Giữa hai người có khoảng trống rõ ràng chừng một mét: KHÔNG chạm vào nhau, tay Brantley chưa chạm tới phong bì. Sau lưng Henrietta là cột cẩm thạch và chiếc xe đẩy dọn phòng xám có cuốn sổ bìa da trên nóc, chưa ai chạm tới. Sau lưng Brantley là mép quầy bar với một chân đỡ khay đặt thùng nhựa xám đựng ly bẩn. Khoảng bốn mươi khách dạ phục quanh các bàn tiệc ở trung cảnh đã dừng hẳn việc, ly champagne dừng lơ lửng, quay hẳn người và hướng mắt về hai người ở tiền cảnh, vài người giơ điện thoại quay; tất cả ngoài nét mềm. Xa cuối thảm đỏ, cặp cửa khung đồng đang đóng, trời ngoài kính tối xanh. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_PROP_PAY_ENVELOPE"
+            ],
+            "bg": "REF_BG_BALLROOM_EVENING"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Two-shot 3/4, Brantley giơ cao phong bì vừa giật được như chiến lợi phẩm",
+          "goc": "Medium two-shot 3/4, Brantley Stiles bên trái khung + Henrietta Applegate bên phải khung, CẢ HAI RÕ MẶT",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, máy nhích chéo về phía nam-đông so với Master, cùng một bên trục",
+            "who": {
+              "BRANTLEY": "Mặt 3/4 hướng về máy, cằm hất, khoé miệng nhếch, miệng há giữa câu quát",
+              "HENRIETTA": "Mặt nghiêng 3/4 hướng sang trái khung, vẫn quay hẳn người về phía hắn, cằm ngang, mắt khoá vào hắn"
+            },
+            "dist": "Máy quay cách hai người khoảng ba mét, ngang tầm mắt, lấy từ hông trở lên",
+            "hands": {
+              "BRANTLEY": "Tay phải giơ cao chiếc phong bì trắng dán kín ngang vai, tay trái chống hông",
+              "HENRIETTA": "Tay phải trống, còn khựng ngang eo nơi phong bì vừa bị giật; tay trái buông, các ngón hơi cong, không nắm chặt"
+            }
+          },
+          "prompt": "Medium two-shot 3/4, cinematic photorealistic, máy quay ngang tầm mắt cách khoảng ba mét, nhích chéo chừng 35 độ so với Master, cùng một bên trục. Brantley Stiles RÕ MẶT bên trái khung, mặt 3/4 hướng về máy, tay phải giơ cao chiếc phong bì trắng vừa giật được ngang vai như khoe chiến lợi phẩm, tay trái chống hông, cằm hất, khoé miệng nhếch, miệng há giữa câu quát. Henrietta Applegate RÕ MẶT bên phải khung, mặt nghiêng 3/4 sang trái, vẫn quay hẳn người về phía hắn, cằm ngang, mắt khoá vào hắn; tay phải trống còn khựng ngang eo, tay trái buông, các ngón hơi cong, không nắm chặt. Giữa hai người chừng một mét, không chạm nhau. Hậu cảnh là lòng sảnh phía cửa chính: ba bốn khách dạ phục ngoài nét đã dừng việc, ly còn cầm dở, quay hẳn người nhìn về hai người, một người giơ điện thoại.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_PROP_PAY_ENVELOPE"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Dirty single MCU qua vai Henrietta, Brantley kẹp mép phong bì sắp xé",
+          "goc": "Dirty single MCU, qua vai trái Henrietta Applegate (vai/gáy tiền cảnh phải mờ), Brantley Stiles RÕ MẶT lệch trái khung",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, máy đứng sau lưng Henrietta chĩa về phía quầy bar bên trái",
+            "who": {
+              "BRANTLEY": "Nhìn thẳng xuống bà, đầu hơi nghiêng như đang thẩm định, khoé miệng nhếch",
+              "HENRIETTA": "Quay lưng 3/4 về máy, vai trái và một phần búi tóc bạc ở góc dưới phải khung, mờ nét, không thấy mặt"
+            },
+            "dist": "Máy quay cách Brantley khoảng hai mét, ngang tầm mắt hắn, qua vai trái Henrietta",
+            "hands": {
+              "BRANTLEY": "Hai tay nâng chiếc phong bì trắng còn nguyên ngang ngực, hai ngón cái đã kẹp vào mép nắp, CHƯA xé; mặt logo quay ra máy",
+              "HENRIETTA": "Không thấy rõ tay"
+            }
+          },
+          "prompt": "Dirty single MCU, cinematic photorealistic, máy quay sau vai trái Henrietta, ngang tầm mắt Brantley, cách hắn khoảng hai mét. Tiền cảnh phải là vai trái và một phần búi tóc bạc của Henrietta, mờ nét, đứng hoàn toàn im, không thấy mặt. Brantley Stiles RÕ NÉT lệch trái khung từ ngực trở lên, hai tay nâng chiếc phong bì trắng còn nguyên ngang ngực, hai ngón cái đã kẹp vào mép nắp, CHƯA xé, mặt logo quay ra máy; mắt nhìn thẳng xuống bà, đầu hơi nghiêng như đang thẩm định một món hàng, khoé miệng nhếch. Hậu cảnh sau lưng hắn là phía quầy bar bên trái sảnh: kệ rượu sáng đèn, chân đỡ khay với thùng nhựa xám đựng ly bẩn, hai khách dạ phục ngoài nét đã dừng uống, quay hẳn người nhìn về phía hắn, một người giơ điện thoại.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_PROP_PAY_ENVELOPE"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · Medium wide qua vai Brantley, Henrietta vẫn đứng, phiếu lương nằm dưới chân",
+          "goc": "Medium wide dirty single, qua vai phải Brantley Stiles (vai/gáy tiền cảnh trái mờ), Henrietta Applegate RÕ MẶT lệch phải khung",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, máy đứng sau lưng Brantley chĩa về hàng cột bên phải",
+            "who": {
+              "HENRIETTA": "Vẫn ĐANG ĐỨNG, quay hẳn người về phía Brantley, cằm ngang, cánh mũi nở ra vì nén hơi",
+              "BRANTLEY": "Quay lưng 3/4 về máy, vai phải và gáy ở mép trái khung, mờ nét, không thấy mặt"
+            },
+            "dist": "Máy quay cách Henrietta khoảng ba mét, ngang tầm mắt, lấy bà từ đầu tới gối cùng mặt sàn trước chân",
+            "hands": {
+              "HENRIETTA": "Hai tay buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "BRANTLEY": "Không thấy rõ tay"
+            }
+          },
+          "prompt": "Medium wide, cinematic photorealistic, máy quay sau vai phải Brantley ngang tầm mắt, cách Henrietta khoảng ba mét, lấy bà từ đầu tới gối cùng mặt sàn trước chân. Tiền cảnh trái là vai phải và gáy Brantley, mờ nét, đứng hoàn toàn im, không thấy mặt. Henrietta Applegate RÕ NÉT lệch phải khung, vẫn ĐANG ĐỨNG, quay hẳn người về phía hắn, cằm ngang, cánh mũi nở ra vì nén hơi; hai tay buông, các ngón hơi cong, không nắm chặt. Trên mặt đá cẩm thạch cách mũi giày bà nửa bước là tờ phiếu lương gấp đôi rách một góc, mặt chữ ngửa lên, chưa ai nhặt. Chùm đèn pha lê sáng rực lọt vào mép trên khung phía xa. Hậu cảnh sau lưng bà là phía hàng cột bên phải sảnh: cột cẩm thạch, chiếc xe đẩy dọn phòng xám có cuốn sổ bìa da trên nóc, hai ba khách dạ phục ngoài nét đã dừng việc, quay hẳn người nhìn về bà.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_PROP_PAYSLIP"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · Profile two-shot, Henrietta quỳ ôm phiếu lương, biển tên còn cài trên ngực",
+          "goc": "Profile two-shot, Brantley Stiles đứng bên trái khung + Henrietta Applegate quỳ bên phải khung, CẢ HAI RÕ MẶT",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, máy đặt vuông góc với trục hai người, phía nam",
+            "who": {
+              "BRANTLEY": "Đứng thẳng nhìn nghiêng sang phải, cúi mắt xuống bà, khoé miệng nhếch thích thú",
+              "HENRIETTA": "Đang QUỲ trên mặt đá cẩm thạch, lưng thẳng, mặt ngẩng nghiêng về phía hắn, mạch cổ đập rõ"
+            },
+            "dist": "Máy quay cách khoảng ba mét, cao ngang hông người đứng, đặt ngang, không chếch lên hay chúc xuống",
+            "hands": {
+              "BRANTLEY": "Tay trái nắm chiếc phong bì rách vo nhàu, tay phải buông cạnh hông, CHƯA đưa về phía bà",
+              "HENRIETTA": "Hai tay giữ tờ phiếu lương gấp đôi áp trước ngực, bên dưới biển tên"
+            }
+          },
+          "prompt": "Profile two-shot, cinematic photorealistic, máy quay cách khoảng ba mét, cao ngang hông người đứng, đặt vuông góc với trục hai người, KHÔNG chếch lên hay chúc xuống. Brantley Stiles RÕ MẶT bên trái khung, đứng thẳng nhìn nghiêng sang phải, cúi mắt xuống bà, khoé miệng nhếch thích thú; tay trái nắm chiếc phong bì rách vo nhàu, tay phải buông cạnh hông. Henrietta Applegate RÕ MẶT bên phải khung, đang QUỲ trên mặt đá cẩm thạch, lưng thẳng, mặt ngẩng nghiêng về phía hắn, mạch cổ đập rõ; hai tay giữ tờ phiếu lương gấp đôi áp trước ngực. Biển tên vàng vẫn cài nguyên trên ngực trái, chữ quay rõ ra máy; tạp dề trắng vẫn buộc. Giữa hai người chừng một mét: KHÔNG chạm vào nhau. Hậu cảnh là lòng sảnh phía cửa chính: năm sáu khách dạ phục ngoài nét đã dừng việc, quay hẳn người nhìn xuống hai người, hai người giơ điện thoại quay.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_PROP_NAME_BADGE",
+              "REF_PROP_PAYSLIP"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Wide sau lưng Brantley, bức tường khách lạnh lùng đứng xem — xa tít, hai người đàn ông vừa bước qua cửa chính",
+          "goc": "Wide shot, qua vai Brantley Stiles (vai/gáy tiền cảnh trái mờ), xa cuối sảnh Alden Blakeney + Lawson Applegate vừa bước qua cửa, rất nhỏ, ngoài nét",
+          "pose": {
+            "zone": "Chỗ Henrietta đang quỳ → dọc dải thảm đỏ về cặp cửa khung đồng",
+            "who": {
+              "BRANTLEY": "Quay lưng về máy, đứng thẳng nhìn xuống bà lao công đang quỳ ngay dưới mép khung, mờ nét, không thấy mặt",
+              "ALDEN": "Vừa bước qua ngưỡng cửa khung đồng, tóc bạc, rất xa, nhỏ, ngoài nét",
+              "LAWSON": "Nửa bước sau Alden, vừa bước qua ngưỡng cửa, rất xa, nhỏ, ngoài nét"
+            },
+            "dist": "Máy quay ngay sau lưng Brantley, ngang tầm mắt người đứng, chĩa dọc sảnh; cửa chính cách khoảng hai mươi lăm mét",
+            "hands": {
+              "BRANTLEY": "Không thấy rõ tay",
+              "ALDEN": "Ôm tập hồ sơ đen áp trước ngực",
+              "LAWSON": "Kẹp cặp da dưới cánh tay trái"
+            }
+          },
+          "prompt": "Wide shot, cinematic photorealistic, máy quay ngay sau lưng Brantley ngang tầm mắt người đứng, chĩa dọc dải thảm đỏ về cặp cửa khung đồng ở cuối sảnh. Tiền cảnh trái là vai và gáy Brantley, mờ nét, đứng hoàn toàn im, không thấy mặt. Trung cảnh là một bức tường người: khoảng sáu mươi khách dạ phục đứng thành vòng cung giữa các bàn tiệc, đã dừng mọi việc, ly còn cầm dở, đồng loạt hướng mắt xuống điểm sàn sát mép dưới trái khung nơi bà lao công đang quỳ; mặt lạnh, nhiều người giơ điện thoại quay; không ai nhìn thẳng ống kính. Xa cuối thảm đỏ, cặp cửa kính khung đồng vừa mở vào trong, Alden Blakeney và Lawson Applegate vừa bước qua ngưỡng cửa — rất xa, nhỏ, ngoài nét, đúng dáng theo ảnh tham chiếu; không một vị khách nào quay lại nhìn họ. Trời ngoài cửa tối xanh thẫm.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_ALDEN_ARRIVAL_FULL",
+              "REF_LAWSON_ARRIVAL_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · MCU Brantley giơ biển tên vừa giật khoe khách, thùng ly bẩn ngay cạnh",
+          "goc": "Clean single MCU, Brantley Stiles RÕ MẶT lệch phải khung",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, Brantley quay nửa người về phía quầy bar bên trái",
+            "who": {
+              "BRANTLEY": "Quay nửa người sang trái khung về phía khách bên quầy bar, cằm hất, cười đắc thắng lộ hàm răng, lông mày nhướng như chờ tràng pháo tay"
+            },
+            "dist": "Máy quay cách khoảng một mét rưỡi, ngang tầm mắt, lệch về phía trước-trái hắn",
+            "hands": {
+              "BRANTLEY": "Tay phải giơ tấm biển tên vàng ngang vai, kẹp giữa hai ngón như cầm đồ bẩn, mặt chữ quay ra máy; tay trái vẫn nắm phong bì rách vo nhàu"
+            }
+          },
+          "prompt": "MCU, cinematic photorealistic, máy quay ngang tầm mắt cách Brantley khoảng một mét rưỡi, lệch về phía trước-trái hắn. Brantley Stiles RÕ NÉT từ ngực trở lên, lệch phải khung, quay nửa người sang trái khung về phía khách bên quầy bar, cằm hất, cười đắc thắng lộ hàm răng, lông mày nhướng như chờ tràng pháo tay. Tay phải giơ tấm biển tên vàng vừa giật được ngang vai, kẹp giữa hai ngón như cầm một món đồ bẩn, mặt chữ \"HENRIETTA\" quay ra máy; tay trái vẫn nắm chiếc phong bì rách vo nhàu; khăn cài túi ngực trắng thấy rõ. Sát khuỷu tay phải hắn, ở mép dưới khung, là chân đỡ khay đặt thùng nhựa xám đựng đầy ly bẩn. Hậu cảnh là phía quầy bar bên trái sảnh, kệ rượu sáng đèn ngoài nét, hai dáng khách dạ phục mờ đã dừng uống, quay hẳn người nhìn về phía hắn.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_BRANTLEY_HOST_FULL",
+              "REF_PROP_NAME_BADGE"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-08",
+          "label": "[HOOK] S08 · Cận mặt Henrietta quỳ trên sàn, phiếu lương rách trên lòng bàn tay, ngực áo chỉ còn lỗ kim",
+          "goc": "Close-up, Henrietta Applegate RÕ MẶT lệch phải khung",
+          "pose": {
+            "zone": "Giữa sảnh tiệc, sàn đá chỗ Henrietta quỳ, máy nhìn về hàng cột bên phải",
+            "who": {
+              "HENRIETTA": "Vẫn quỳ, mặt 3/4 hướng sang trái khung, mắt nhìn xuống tờ phiếu lương, quai hàm siết thấy cơ gồ ở khớp, mắt khô chưa rơi lệ"
+            },
+            "dist": "Máy quay hạ xuống đúng tầm mắt người đang quỳ, cách khoảng một mét, đặt ngang, không chúc xuống",
+            "hands": {
+              "HENRIETTA": "Tay trái ngửa đỡ tờ phiếu lương gấp đôi rách góc; cạnh bàn tay phải đặt lên mép giấy, CHƯA vuốt"
+            }
+          },
+          "prompt": "Close-up, cinematic photorealistic, máy quay hạ xuống đúng tầm mắt Henrietta đang quỳ, cách khoảng một mét, đặt ngang, KHÔNG chúc xuống. Henrietta Applegate RÕ NÉT lệch phải khung từ ngực trở lên, vẫn quỳ trên mặt đá cẩm thạch, mặt 3/4 hướng sang trái khung, mắt nhìn xuống tờ phiếu lương gấp đôi rách góc đặt trên lòng bàn tay trái; cạnh bàn tay phải đặt lên mép giấy như sắp vuốt phẳng. Quai hàm đã siết thấy cơ gồ ở khớp; gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm; mắt khô, chưa rơi lệ. Ngực trái áo đồng phục chỉ còn một lỗ kim nhỏ nơi biển tên vừa bị giật, tạp dề trắng vẫn buộc. Hậu cảnh là phía hàng cột bên phải sảnh, ánh nến bàn tiệc nhoè ấm, một dáng khách dạ phục mờ đã dừng việc, quay hẳn người nhìn xuống bà.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HENRIETTA_WORK_FULL",
+              "REF_PROP_PAYSLIP"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "BRANTLEY: \"Your filthy hands are stealing a guest's money! Give it here!\"\nNARRATION: Brantley Stiles roared, ripping the envelope out of her hand.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, frame left, pointing at the envelope.\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, frame right, holding a white envelope at her waist.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA hotel ballroom mid-banquet. The manager accuses the old housekeeper at full volume in front of his guests. The BURGUNDY-SUIT man snatches the envelope out of the DOVE-GRAY housekeeper's hand. ONE WAY ONLY, never reversed: the burgundy suit takes, the dove-gray uniform is robbed.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 Brantley's line. 0:04–0:10 no dialogue — reserved for: \"Brantley Stiles roared, ripping the envelope out of her hand.\"\n\nDIALOGUE ORDER:\nBRANTLEY\n\nSHOT 1 (0:00–0:04) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in along the red runner. No handheld shake.\nThe burgundy-suit man leans in, finger jabbing at the envelope, and flicks a glance at the nearest guests to be sure they are watching.\nBRANTLEY — roaring, pitched to carry across the whole room: \"Your filthy hands are stealing a guest's money! Give it here!\"\nThe dove-gray housekeeper does not step back. Her lips press together for one beat; her eyes never leave his face.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM TWO-SHOT — VERY SLOW PUSH-IN\nCamera: Tighter on the two of them, same side of the room, eye level.\nThe burgundy-suit man's right hand shoots out and rips the envelope out of the dove-gray housekeeper's hand. Only his hand travels; her fingers open, stay empty and never grip back. He lifts the envelope like a prize and turns his head toward the guests, who stay frozen, drinks halted, phones up. No dialogue.\n\nPERFORMANCE:\nBrantley enjoys the audience more than the accusation. Henrietta is restraint, not blankness.\n\nLIP SYNC:\nOnly Brantley speaks. When Brantley speaks, Henrietta listens silently with her mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue window: Brantley only, clear American English. Silent window: faint ambience and the snap of paper only — clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after Brantley finishes: \"Give it here!\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in.\nSHOT 2 = medium two-shot, very slow push-in, the envelope is snatched one way only.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "BRANTLEY: \"What's in that stupid head besides toilet bowls, you old thief? Stealing right in front of me?\"\nHENRIETTA: \"Sir, that is my pay—\"\nBRANTLEY: \"Shut your mouth!\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, frame left, holding the white envelope up at shoulder height.\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, frame right, empty-handed, facing him.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nBrantley waves the snatched envelope like a trophy and turns the insult into a show for his guests. Henrietta tries once, quietly, to say what it is, and he talks straight over her.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:06 Brantley's line. 0:06–0:08 Henrietta's line. 0:08–0:10 Brantley cuts her off.\n\nDIALOGUE ORDER:\nBRANTLEY → HENRIETTA → BRANTLEY\n\nSHOT 1 (0:00–0:06) — MEDIUM TWO-SHOT 3/4 — SLOW PUSH-IN\nCamera: Very slow push-in, both faces kept clear.\nBrantley gives the envelope a little shake beside his head and throws the line half toward the guests on his left rather than at her.\nBRANTLEY — loud, sneering, playing to the room: \"What's in that stupid head besides toilet bowls, you old thief? Stealing right in front of me?\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER TWO-SHOT FAVOURING HENRIETTA — VERY SLOW PUSH-IN\nCamera: The frame tightens on Henrietta; Brantley's profile and raised envelope stay at the left edge.\n0:06–0:08: She swallows once before she speaks, chin still level, voice low and even.\nHENRIETTA — quiet, precise, not pleading: \"Sir, that is my pay—\"\n0:08–0:10: Brantley cuts across her before the word ends, leaning in without touching her.\nBRANTLEY — sharp, dismissive: \"Shut your mouth!\"\n\nPERFORMANCE:\nBrantley never treats her as someone worth answering; every line is for the audience. Henrietta is restraint, not blankness: the face stays alive and holding.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Brantley speaks, Henrietta listens silently with her mouth closed. When Henrietta speaks, Brantley listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue only, clear natural American English. Faint room ambience only. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Brantley finishes: \"Stealing right in front of me?\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot 3/4, slow push-in.\nSHOT 2 = tighter two-shot favouring Henrietta, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: He tore it open in front of the whole banquet. The payslip fell to the floor. He never even looked down.\nBRANTLEY: \"A guest says you stole her money.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, sharp in frame, holding the sealed white envelope in both hands.\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, seen only as a blurred left shoulder and silver bun in the lower-right foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe general manager tears the envelope open for the room, certain it is full of cash. One folded pay slip falls out. He does not look at it, not once.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:07 no dialogue — reserved for: \"He tore it open in front of the whole banquet. The payslip fell to the floor. He never even looked down.\" 0:07–0:10 Brantley's line.\n\nDIALOGUE ORDER:\nBRANTLEY\n\nSHOT 1 (0:00–0:05) — DIRTY SINGLE MCU ON BRANTLEY — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static. Henrietta's blurred shoulder holds the lower-right foreground.\nHe raises the envelope so the guests at the bar can see it and rips the flap open slowly, like a magician. He tips it and shakes it hard. One small folded slip of paper drops out and falls below the bottom of frame. His eyes stay on her the whole time. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER MCU ON BRANTLEY — VERY SLOW PUSH-IN\nCamera: Very slow push-in on his face.\n0:05–0:07: He lets the empty envelope hang from two fingers. His eyes never drop toward the floor; he tilts his head at her, amused.\n0:07–0:10: BRANTLEY — light, almost pleasant, as if reading out a menu: \"A guest says you stole her money.\"\n\nPERFORMANCE:\nThe cruelty is in how little it costs him: he is certain, relaxed, entertained. He must never glance down at the fallen slip.\n\nLIP SYNC:\nOnly Brantley speaks. Henrietta's face is never seen and her head never turns. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nSilent window: faint room ambience and the tearing of paper only — leave clean for narrator dub. Dialogue window: Brantley only, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, as the slip of paper falls out of frame.\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single MCU, static, the envelope is torn and shaken.\nSHOT 2 = tighter MCU, very slow push-in, he never looks down.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "BRANTLEY: \"That's proof enough. You're fired.\"\nNARRATION: Henrietta Applegate knelt under the chandeliers for her torn payslip. Sixty-eight years old. Gray uniform. Trembling hands that gave her away.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, sharp, frame right, standing.\nBRANTLEY — 31-year-old white man, wearing burgundy, seen only as a blurred right shoulder and the back of his head in the left foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe verdict, then the cost: fired in front of the banquet, Henrietta has to kneel on the marble for her own pay slip.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 Brantley's line, spoken from the blurred foreground. 0:03–0:10 no dialogue — reserved for: \"Henrietta Applegate knelt under the chandeliers for her torn payslip. Sixty-eight years old. Gray uniform. Trembling hands that gave her away.\"\n\nDIALOGUE ORDER:\nBRANTLEY\n\nSHOT 1 (0:00–0:03) — MEDIUM WIDE ON HENRIETTA OVER BRANTLEY'S SHOULDER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static. His blurred shoulder never moves and his head never turns to camera.\nBRANTLEY — flat, final, bored with it: \"That's proof enough. You're fired.\"\nHenrietta takes it standing. Her nostrils flare on one held breath.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — MEDIUM ON HENRIETTA — SLOW PUSH-IN WITH A GENTLE TILT DOWN\nCamera: Slow push-in that tilts gently down with her. No other movement.\nShe lowers herself onto her knees on the marble the careful way a sixty-eight-year-old does, one hand on her knee, chandelier light glittering above her. She reaches for the torn pay slip. Her fingers tremble visibly as they close on it, while her face stays composed and lifted. The guests behind her stay frozen, watching. No dialogue.\n\nPERFORMANCE:\nThe trembling belongs to the hands only; the face keeps its dignity. Restraint, not blankness: the face must never go slack or empty.\n\nLIP SYNC:\nOnly Brantley speaks, with his back to camera; no lip movement is visible. Henrietta's mouth stays closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue window: Brantley only, clear natural American English. Silent window: faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, immediately after Brantley finishes: \"You're fired.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide over Brantley's shoulder, static.\nSHOT 2 = medium on Henrietta, slow push-in with gentle tilt, she kneels for the slip.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "NARRATION: He ripped the badge off her chest.\nBRANTLEY: \"Apron off. Hand it over. Then get out before you dirty my guests' eyes, you filthy old hag!\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, frame left, standing.\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, frame right, kneeling on the marble, holding a folded slip at her chest.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nBrantley strips the kneeling housekeeper of her name in front of the room. The BURGUNDY-SUIT man tears the gold badge off the chest of the kneeling DOVE-GRAY housekeeper. ONE WAY ONLY, never reversed: the burgundy suit takes the badge, the dove-gray uniform loses it.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 no dialogue — reserved for: \"He ripped the badge off her chest.\" 0:03–0:10 Brantley's line.\n\nDIALOGUE ORDER:\nBRANTLEY\n\nSHOT 1 (0:00–0:03) — PROFILE TWO-SHOT — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, level, never tilting up.\nThe burgundy-suit man bends, pinches the gold badge on the dove-gray uniform and yanks it off in one pull, the way you peel a price sticker off a shelf. Only his hand moves toward her; her hands stay on the slip at her chest. Her eyes close for exactly one beat, then open again, still on him. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER ON BRANTLEY, HENRIETTA'S PROFILE AT FRAME RIGHT — VERY SLOW PUSH-IN\nCamera: Very slow push-in favouring Brantley.\nHe straightens up, the badge dangling from two fingers, and looks down at her while pitching his voice to the guests.\nBRANTLEY — loud, contemptuous, enjoying every word: \"Apron off. Hand it over. Then get out before you dirty my guests' eyes, you filthy old hag!\"\n\nPERFORMANCE:\nHe handles her like an object and her badge like litter. Henrietta is restraint, not blankness: the audience must see what it costs her to stay upright on her knees.\n\nLIP SYNC:\nOnly Brantley speaks. When Brantley speaks, Henrietta listens silently with her mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nSilent window: faint room ambience and the small tear of fabric only — leave clean for narrator dub. Dialogue window: Brantley only, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, the instant the badge comes away in his fingers.\n\nCAMERA SUMMARY:\nSHOT 1 = profile two-shot, static, the badge is ripped off one way only.\nSHOT 2 = tighter on Brantley, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: Two hundred people stood watching, cold, entertained. Not one spoke.\nNARRATION: But nobody noticed the two powerful men walking in through the front doors.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, seen only as a blurred shoulder and the back of his head in the left foreground, completely still like a statue, face never visible.\nALDEN — 60-year-old white man with silver hair, wearing charcoal gray, tiny and far away at the open front doors.\nLAWSON — 34-year-old Black man, wearing black, half a step behind Alden, tiny and far away.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA wall of guests in evening clothes watching a humiliation as if it were part of the entertainment. Far behind them, unseen by every one of them, the two men who own the ending have just stepped inside.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 no dialogue — reserved for: \"Two hundred people stood watching, cold, entertained. Not one spoke.\" 0:04–0:10 no dialogue — reserved for: \"But nobody noticed the two powerful men walking in through the front doors.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — WIDE ON THE CROWD — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static. Brantley's blurred shoulder anchors the left foreground.\nThe guests stand motionless, glasses held mid-air, phone screens raised and glowing, every face turned down toward the point just below the bottom-left of frame. Nobody moves toward it. Nobody looks at the camera.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — SAME AXIS, TOWARD THE FRONT DOORS — VERY SLOW PUSH-IN\nCamera: Very slow push-in straight down the red runner. The camera does not travel past the crowd.\nAt the far end, Alden and Lawson take two slow steps in from the open brass-framed doors and stop, small and slightly soft, no facial detail. Not one guest turns around; their backs stay to the doors. No dialogue.\n\nPERFORMANCE:\nThe crowd is still and neutral, only physical stillness. The two men stay distant and understated.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking.\n\nAUDIO:\nNo dialogue at any point. Faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, as the push-in begins toward the far doors.\n\nCAMERA SUMMARY:\nSHOT 1 = wide on the crowd, static.\nSHOT 2 = same axis, very slow push-in toward the doors, two men step in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Have you ever watched a man who was certain, publicly, absolutely certain, get proven wrong in ninety seconds flat —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBRANTLEY — 31-year-old white man, wearing burgundy, sharp in frame, holding a small gold badge up between two fingers.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nBrantley at the top of his night. He shows the torn-off badge to his guests like a trophy, then throws it away without even looking where it lands.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:10 no dialogue — reserved for: \"Have you ever watched a man who was certain, publicly, absolutely certain, get proven wrong in ninety seconds flat —\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MCU ON BRANTLEY — SLOW PUSH-IN\nCamera: Very slow, smooth push-in.\nHe holds the gold badge up at shoulder height toward the guests at the bar, turns his head a few degrees to share the moment with them and back, eyebrows raised, grin widening, waiting for a laugh. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER MCU ON BRANTLEY — VERY SLOW PUSH-IN\nCamera: Very slow push-in, the gray bus tub at the lower frame edge.\nWithout looking, he drops the badge into the gray bus tub of dirty glasses beside his elbow. Then he tugs the white pocket square from his breast pocket, wipes his fingertips on it and tucks it back, eyes still on the guests. No dialogue.\n\nPERFORMANCE:\nPure, public certainty. He must look like a man who has already won and wants credit for it; never nervous, never checking the doors.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. His mouth stays closed except for the grin.\n\nAUDIO:\nNo dialogue at any point. Faint room ambience and the clink of the badge among the glasses only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, as he lowers the badge toward the tub.\n\nCAMERA SUMMARY:\nSHOT 1 = MCU on Brantley, slow push-in, badge shown to the guests.\nSHOT 2 = tighter MCU, very slow push-in, badge dropped in the bus tub.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-08",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, so drop a comment, hit that like button, and let me take you back to the beginning.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHENRIETTA — 68-year-old Black woman, wearing dove-gray with a white apron, sharp in frame, kneeling, a torn pay slip on her left palm.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nAlone on the marble with two hundred people watching, Henrietta does the one thing twenty years of housekeeping taught her: she puts the paper in order. Then she looks up at the man who did this.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:10 no dialogue — reserved for: \"because you are about to, so drop a comment, hit that like button, and let me take you back to the beginning.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — CLOSE-UP ON HENRIETTA — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static, level with her kneeling eye line.\nShe smooths the torn pay slip flat on her palm with the side of her right hand, twice, the way you would straighten a child's collar. Her jaw is set; the muscle at its hinge stands out. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER CLOSE-UP — VERY SLOW PUSH-IN\nCamera: Very slow push-in on her face.\nShe folds the slip once along its crease and holds it. Her eyes come up off the paper and rise to frame left, to the man standing over her out of frame, and stay there. Her eyes are dry. No dialogue.\n\nPERFORMANCE:\nDignity under pressure, not sorrow. Restraint, not blankness: the face must never go slack or empty; she does not cry.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Her mouth stays closed with lips still.\n\nAUDIO:\nNo dialogue at any point. Faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, as she begins to fold the slip.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Henrietta, static, she smooths the slip.\nSHOT 2 = tighter close-up, very slow push-in, she folds it and looks up.",
+          "status": "draft",
+          "vpicked": ""
+        }
+      ]
+    }
+  ]
+}

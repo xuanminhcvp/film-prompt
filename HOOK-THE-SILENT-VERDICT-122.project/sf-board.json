@@ -1,0 +1,401 @@
+{
+  "film": "THE SILENT VERDICT 122",
+  "kind": "phim",
+  "updated_at": "2026-09-11 09:53:25",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_ARLO_GALA_FULL",
+          "label": "★ ARLO BENNETT — ÁO SƠ MI ĐI MƯỢN (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. 18 tuổi, con trai người giúp việc, kỳ thủ cờ vua trực tuyến hạng expert mà không ai biết. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: tĩnh, phẳng lặng tới mức bất thường ở tuổi này — không sợ, không hỗn, không hốc hác.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Thanh niên Mỹ gốc Phi 18 tuổi, da nâu sẫm ấm có kết cấu thật và lỗ chân lông nhìn rõ, gương mặt ưa nhìn và khoẻ mạnh, xương hàm thanh, gò má cao vừa, mũi thẳng, môi đầy vừa khép tự nhiên KHÔNG cười, mắt nâu sẫm nhìn tỉnh và chắc. Tóc xoăn tự nhiên cắt ngắn sát đều, chưa có râu. Vóc người cao, gầy, vai còn hẹp kiểu thiếu niên mới lớn. Áo sơ mi dự tiệc màu TRẮNG TINH, rộng hơn người hẳn một cỡ: cổ áo hở một khoảng quanh cổ, vai áo sệ xuống quá khớp vai, tay áo dài trùm quá cổ tay; cài kín toàn bộ cúc kể cả cúc cổ, sơ vin phẳng phiu, được giặt cẩn thận, chân cổ áo đã hơi sờn chỉ. Quần tây màu XÁM THAN, gấu quần lền tay bằng chỉ TRẮNG nhìn thấy rõ một đường may khác màu. Giày da đen đã cũ, mũi giày xước và bóng gượng gạo kiểu đánh bằng sáp thay vì xi. Không đeo phụ kiện nào, không kính, không hình xăm, không sẹo. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_ARLO_GALA_FULL_v1.png"
+        },
+        {
+          "id": "REF_THATCHER_TUXEDO_FULL",
+          "label": "★ THATCHER CRENSHAW — TUXEDO CHỦ TIỆC (thẻ neo nhân dạng)",
+          "desc": "Phản diện. Tỷ phú 62 tuổi, chủ dinh thự Crenshaw, chủ xướng buổi gala từ thiện thường niên. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt lạnh lùng, chưa từng bị ai nói không.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng 62 tuổi, da rám nắng đều kiểu nghỉ dưỡng, nếp nhăn sâu ở khoé mắt và hai bên miệng, quai hàm nặng, môi mỏng khép chặt, mắt xanh xám sắc lạnh, lông mày hoa râm. Tóc bạc trắng dày chải ngược ra sau gọn gàng, cạo râu nhẵn. Vóc người cao lớn, vai ngang, bụng hơi dày kiểu đàn ông có tuổi sống đầy đủ. Bộ tuxedo may đo màu XANH NAVY ĐÊM, ve áo satin đen bóng, cài một cúc, bên trong là sơ mi dự tiệc trắng ngà có nẹp ngực và nơ cổ bướm đen, cài kín toàn bộ cúc. Cổ tay áo lòi ra khoảng hai phân, mỗi bên một chiếc khuy măng sét vàng khối cỡ lớn mặt trơn bóng. Quần tuxedo navy còn nếp là, sọc satin dọc ống, giày da đen bóng lộn. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_THATCHER_TUXEDO_FULL_v1.png"
+        },
+        {
+          "id": "REF_LORETTA_MAID_FULL",
+          "label": "★ LORETTA BENNETT — ĐỒNG PHỤC GIÚP VIỆC (thẻ neo nhân dạng)",
+          "desc": "Mẹ của Arlo. 44 tuổi, tám năm làm giúp việc tại dinh thự Crenshaw, sáu ngày một tuần. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: mệt nhưng vẫn đẹp và tỉnh, kiềm chế đã thành bản năng; hai bàn tay là thứ tố cáo đời sống của cô.\nĐồng phục: GIUPVIEC (neo)\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay buông hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Phụ nữ Mỹ gốc Phi 44 tuổi, da nâu sẫm ấm có kết cấu thật, gương mặt ưa nhìn và khoẻ mạnh, gò má cao, mắt nâu sẫm nhìn tỉnh và ấm, miệng khép tự nhiên KHÔNG cười. Tóc đen xoăn vấn gọn thành búi thấp sau gáy, rẽ ngôi giữa, vài sợi bạc ở thái dương. Vóc người tầm thước, chắc, lưng thẳng. HAI BÀN TAY phải thấy rõ: da quanh móng nứt nẻ, khớp ngón ứng đỏ và hơi sưng, móng cắt cụt sát và tróc — bàn tay của người làm việc với hoá chất tẩy rửa nhiều năm. Đồng phục phục vụ: váy liền thân tay ngắn màu XÁM THAN, dài quá đầu gối, cài kín toàn bộ cúc trước ngực, cổ tròn, phẳng phiu; bên ngoài là tạp dề dài màu KEM SỮA buộc nơ sau lưng, mép tạp dề đã hơi ố ngà vì giặt nhiều nhưng sạch. Tất da chân, giày bệt da đen đế mềm đã mòn gót. Trang sức duy nhất: một cặp khuyên tai nụ tròn nhỏ mạ vàng đã xỉn màu. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_LORETTA_MAID_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_TABLET",
+          "label": "Chiếc tablet nứt màn của Arlo — cửa sổ duy nhất ra thế giới cờ vua",
+          "desc": "Quà của một thầy giáo, thứ duy nhất nối Arlo với sáu nghìn ván cờ trực tuyến dưới tên \"pawn_storm_504\". Bị Thatcher giật khỏi tay và đập vỡ trên sàn cẩm thạch — vật trao tay chủ chốt của Hook, được nhắc thẳng trong thoại (\"pushing pieces on a broken screen\", \"Garbage\").\nTrạng thái ảnh gốc: lúc còn nguyên trong tay Arlo, CHƯA bị đập vỡ.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm, không có người và không có bàn tay trong khung. Một chiếc máy tính bảng cũ cỡ mười inch, vỏ sau nhựa nhám màu XÁM CHÌ đã xước xài nhiều, viền màn hình dày kiểu đời cũ, bốn góc nhựa sứt nhẹ. Đặt nằm nghiêng dựa vào một khối gỗ nhỏ trên mặt bàn gỗ thông trơn màu trung tính, màn hình quay về phía ống kính. Màn hình ĐANG BẬT, hiển thị rõ nét một bàn cờ vua kỹ thuật số hai màu kem và xanh rêu, các quân cờ đang ở giữa ván, đọc được từng quân. MỘT VẾT NỨT ĐƠN chạy dọc suốt mép TRÁI mặt kính, toả vài nhánh nhỏ như sợi tóc, bắt sáng thành đường chỉ bạc — kính vẫn còn nguyên mảng, chưa vỡ vụn. Mặt lưng không mang logo thương hiệu có thật; chỉ có một dòng chữ dập chìm rất nhỏ, nhãn hư cấu, đánh vần chính xác \"NORVEL\". Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm ngắn dưới máy, giữ màn hình không bị loá cháy để đọc rõ bàn cờ.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_TABLET_v1.png"
+        },
+        {
+          "id": "REF_BG_ATRIUM_NIGHT",
+          "label": "BỐI CẢNH — Đại sảnh Grand Atrium dinh thự Crenshaw, Greenwich (đêm gala)",
+          "desc": "Bối cảnh gốc duy nhất của Hook. Toàn bộ 8 clip diễn ra trong đại sảnh này, giữa buổi gala từ thiện \"Crenshaw Classic\", khoảng chín giờ tối.",
+          "prompt": "Bối cảnh ở Mỹ. Đại sảnh trung tâm một dinh thự tư nhân hai mươi hai phòng ở Greenwich, giữa buổi gala từ thiện lễ phục đen, khoảng chín giờ tối.\nTRUNG TÂM: bàn cờ vua đá cẩm thạch khảm sáu mươi bốn ô trắng-đen bóng, quân cờ bày đủ hai bên, trên thảm tròn màu rượu vang sẫm; hai ghế bành lưng cao bọc nhung xanh rêu hai đầu bàn, CẢ HAI GHẾ ĐANG TRỐNG vì trận đấu chưa bắt đầu.\nĐỐI DIỆN: cầu thang cẩm thạch đôi uốn lên tầng lửng, lan can sắt mạ vàng, trên cao là dãy cửa sổ vòm nhìn ra vườn tối.\nTRÁI: quầy bar dài mặt đá cẩm thạch đen với tháp ly champagne, cạnh đó cửa phục vụ sơn trắng dẫn xuống hành lang bếp.\nPHẢI: tường ốp gỗ óc chó treo bốn chân dung sơn dầu khung mạ vàng, một đại dương cầm nắp mở.\nSAU LƯNG: vòm cửa chính cao và quầy gửi áo khoác.\nSàn cẩm thạch trắng vân xám bóng như gương. Ba chùm đèn pha lê lớn bật ấm cùng đèn hắt tường vàng nhạt hai bên: phòng sáng đều, không mảng tối, tương phản trung bình, bóng đổ mềm, giữ skin tone tự nhiên và rõ mặt người, không cháy trắng.\nKhách lễ phục đen và váy dạ hội đứng thành cụm cầm ly champagne; vài phục vụ đồng phục xám than bưng khay len giữa. Không ai nhìn ống kính.\nPhotorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Tổng thể ẤM, VÀNG KIM, bóng bẩy — phải KHÁC HẲN ánh huỳnh quang xanh xám của hành lang bếp ở các cảnh sau. Chữ trên bề mặt khác là nhãn hư cấu \"Verhoeven & Kesler\".\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_ATRIUM_NIGHT_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Tỷ phú đập tablet của con trai người giúp việc và cược một triệu đô trên bàn cờ",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Thatcher khoá vai Arlo giữa sảnh, hai người đã đối mặt, Loretta ở mép đám khách",
+          "goc": "Wide establishing three-shot, Arlo Bennett trái khung + Thatcher Crenshaw phải khung, CẢ HAI RÕ MẶT và khoá mắt vào nhau; Loretta Bennett rõ mặt ở lớp sau, qua khoảng trống giữa hai người",
+          "pose": {
+            "zone": "Khoảng sàn cẩm thạch trống giữa bàn cờ và chân cầu thang, đại sảnh",
+            "who": {
+              "ARLO": "Đứng thẳng, đã quay hẳn người đối mặt trực tiếp Thatcher, ánh mắt khoá chặt vào ông ta, cằm giữ ngang, chưa hề né tránh; CHƯA bị xoay về phía đám khách",
+              "THATCHER": "Đứng sát bên phải Arlo, người hơi nghiêng tới, cằm hất cao, khoé miệng trề khinh miệt, đang nói lớn cho cả phòng nghe",
+              "LORETTA": "Đứng ở mép đám khách cách bốn mét phía sau, người cứng lại, mắt dán vào con trai"
+            },
+            "dist": "Máy quay cách khoảng bảy mét, ngang tầm mắt, bao trọn khoảng sàn giữa hai người, bàn cờ ở lớp sau bên trái và chân cầu thang ở lớp sau xa",
+            "hands": {
+              "ARLO": "Hai tay ôm chiếc tablet áp trước ngực, các ngón siết nhẹ vào mép máy",
+              "THATCHER": "Tay phải ĐÃ đặt chắc lên vai trái Arlo nhưng CHƯA xoay người cậu; tay trái cầm ly champagne ngang hông",
+              "LORETTA": "Hai tay bưng chiếc khay tròn nhỏ trước bụng"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, ống kính 28mm, máy ngang tầm mắt cách khoảng bảy mét. Arlo Bennett đứng bên trái khung trên sàn cẩm thạch, người đã quay hẳn đối mặt trực tiếp Thatcher Crenshaw, ánh mắt khoá chặt vào ông ta, cằm giữ ngang, không né tránh; hai tay ôm chiếc tablet nứt màn áp trước ngực. Thatcher đứng sát bên phải cậu, người hơi nghiêng tới, cằm hất cao, khoé miệng trề khinh miệt, đang nói lớn cho cả phòng nghe; tay phải ĐÃ đặt chắc lên vai trái Arlo nhưng CHƯA xoay người cậu về phía đám khách, tay trái cầm ly champagne ngang hông. Giữa hai người có một khoảng trống rõ ràng. Qua khoảng trống đó, cách bốn mét ở lớp sau, Loretta Bennett đứng nơi mép đám khách, hai tay bưng khay tròn nhỏ trước bụng, người cứng lại, mắt dán vào con trai — nhỏ hơn nhưng vẫn rõ mặt. Vây quanh ba người là khoảng ba mươi khách lễ phục đứng thành vòng cung lỏng, đã ngừng chuyện và quay đầu nhìn vào, vài người nâng ly ngang ngực. Lớp sau bên trái là bàn cờ cẩm thạch, xa hơn là cầu thang cẩm thạch đôi. Không ai nhìn thẳng ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL",
+              "REF_PROP_TABLET"
+            ],
+            "bg": "REF_BG_ATRIUM_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Medium two-shot, Arlo đã bị xoay ra phía đám khách, tay siết chặt tablet",
+          "goc": "Medium Two-Shot, Arlo Bennett trái + Thatcher Crenshaw phải, CẢ HAI RÕ MẶT, cả hai đã quay về phía đám khách; Loretta Bennett rõ mặt ở lớp sau qua khoảng trống giữa hai người",
+          "pose": {
+            "zone": "Khoảng sàn cẩm thạch trống giữa bàn cờ và chân cầu thang, đại sảnh",
+            "who": {
+              "ARLO": "Đã bị xoay hẳn về phía đám khách, mặt hướng ra phòng, mắt nhìn thẳng phía trước không cụp xuống, quai hàm siết",
+              "THATCHER": "Đứng bên phải, nửa người quay ra phòng, miệng đang nói, mắt quét qua đám khách",
+              "LORETTA": "Vẫn ở mép đám khách phía sau, người nghiêng tới trước nửa bước"
+            },
+            "dist": "Máy quay cách khoảng ba mét, ngang tầm ngực, cùng trục với Master 1",
+            "hands": {
+              "ARLO": "Hai tay ôm chặt tablet áp trước ngực, các đốt ngón tay siết trắng lại",
+              "THATCHER": "Tay phải bóp vai trái Arlo, tay trái hất về phía đám khách",
+              "LORETTA": "Hai tay siết chặt mép khay bưng trước bụng"
+            }
+          },
+          "prompt": "Medium two-shot, cinematic photorealistic, máy ngang tầm ngực cách khoảng ba mét. Arlo Bennett bên trái khung, người đã bị xoay hẳn về phía đám khách, mặt hướng ra phòng, mắt nhìn thẳng phía trước không cụp xuống, quai hàm siết lại; hai tay ôm chặt chiếc tablet nứt màn áp trước ngực, các đốt ngón tay siết trắng. Thatcher Crenshaw bên phải khung, nửa người quay ra phòng, tay phải vẫn bóp vai trái Arlo, tay trái hất về phía đám khách, miệng đang nói, mắt quét qua từng gương mặt. Cả hai rõ mặt. Qua khoảng trống giữa hai người, ở lớp sau cách bốn mét, Loretta Bennett đứng nơi mép đám khách, hai tay siết chặt mép khay bưng, người nghiêng tới trước nửa bước, mặt vẫn đọc được rõ. Hai bên và sau lưng hai người là khách lễ phục đứng sát nhau, ly champagne ngang ngực, tất cả ngoài nét. Không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL",
+              "REF_PROP_TABLET"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Medium dirty single Thatcher, tay đã vươn tới chiếc tablet nhưng chưa chạm",
+          "goc": "Medium dirty single hơi chếch cao, Thatcher Crenshaw RÕ MẶT giữa khung; hai cẳng tay và bàn tay Arlo Bennett cầm tablet ở tiền cảnh trái, không thấy mặt Arlo",
+          "pose": {
+            "zone": "Khoảng sàn cẩm thạch trống giữa bàn cờ và chân cầu thang, đại sảnh",
+            "who": {
+              "THATCHER": "Vẫn đứng bên phải Arlo nhưng đã xoay hẳn người vào cậu, chồm tới, mắt gằn xuống chiếc tablet, môi mím thành một vệt",
+              "ARLO": "Chỉ thấy hai cẳng tay và hai bàn tay ôm tablet ở tiền cảnh trái khung, mặt nằm ngoài khung"
+            },
+            "dist": "Máy cách Thatcher khoảng hai mét, đặt cao hơn tầm mắt một chút và chếch xuống để lấy được dải sàn cẩm thạch ở một phần ba dưới khung",
+            "hands": {
+              "THATCHER": "Tay phải đã vươn ra, đầu ngón chỉ còn cách mép chiếc tablet vài phân nhưng CHƯA chạm vào; tay trái hạ ly champagne xuống ngang hông",
+              "ARLO": "Hai tay ôm tablet giơ ngang ngực ở tiền cảnh, mặt màn hình quay về phía ống kính, thấy rõ bàn cờ và vết nứt dọc mép trái"
+            }
+          },
+          "prompt": "Medium dirty single, cinematic photorealistic, máy đặt cao hơn tầm mắt một chút và chếch xuống, cách Thatcher khoảng hai mét, lấy được dải sàn cẩm thạch trắng vân xám bóng ở một phần ba dưới khung. Thatcher Crenshaw RÕ NÉT giữa khung, đã xoay hẳn người vào Arlo và chồm tới, mắt gằn xuống, môi mỏng mím thành một vệt; tay phải vươn ra, đầu ngón chỉ còn cách mép chiếc tablet vài phân nhưng CHƯA chạm vào, tay trái hạ ly champagne xuống ngang hông. Ở tiền cảnh trái khung, gần ống kính, là hai cẳng tay và hai bàn tay Arlo Bennett đang ôm chiếc tablet giơ ngang ngực: mặt màn hình quay về phía ống kính nên đọc rõ bàn cờ đang dở và vết nứt dọc chạy suốt mép trái, máy vẫn còn nguyên chưa vỡ. Không thấy mặt Arlo trong khung này. Hậu cảnh sau lưng Thatcher là hướng quầy bar cẩm thạch đen và tháp ly champagne, cùng vài dáng khách lễ phục đứng nhìn, tất cả ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_PROP_TABLET"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · MCU dirty single Arlo, nắm đấm siết, tablet đã vỡ dưới chân",
+          "goc": "Medium close-up dirty single, Arlo Bennett RÕ MẶT giữa khung; vai phải và một phần gáy Thatcher Crenshaw mờ ở tiền cảnh phải; Loretta Bennett là dáng mờ duy nhất ngay sau lưng Arlo",
+          "pose": {
+            "zone": "Khoảng sàn cẩm thạch trống giữa bàn cờ và chân cầu thang, đại sảnh",
+            "who": {
+              "ARLO": "Đứng thẳng nguyên chỗ, không lùi nửa bước, mắt nhìn thẳng vào Thatcher, quai hàm siết, mặt giữ phẳng không lộ ra điều gì",
+              "THATCHER": "Vai phải và một phần gáy chiếm góc dưới phải khung, mờ nét, đứng hoàn toàn im, không thấy mặt",
+              "LORETTA": "Một dáng người mờ duy nhất ở lớp sau ngay sau lưng Arlo, khay bưng còn trên tay"
+            },
+            "dist": "Máy quay cách Arlo khoảng một mét rưỡi, ngang tầm mắt, nhìn qua vai phải Thatcher",
+            "hands": {
+              "ARLO": "Hai tay buông thẳng hai bên, hai nắm đấm siết chặt tới nổi gân",
+              "THATCHER": "Không thấy tay, chỉ có vai và gáy mờ ở tiền cảnh",
+              "LORETTA": "Không rõ, chỉ thấy dáng mờ"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, máy ngang tầm mắt cách Arlo khoảng một mét rưỡi, nhìn qua vai phải Thatcher Crenshaw. Vai phải và một phần gáy Thatcher chiếm góc dưới phải khung, mờ hẳn ngoài tiêu điểm, đứng hoàn toàn im, không thấy mặt. Arlo Bennett RÕ NÉT giữa khung, đứng thẳng nguyên chỗ, không lùi nửa bước, mắt nhìn thẳng vào Thatcher, quai hàm siết lại, mặt giữ phẳng không lộ ra điều gì; hai tay buông thẳng hai bên, hai nắm đấm siết chặt tới nổi gân. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ hơi ánh nước; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má. Ngay sau lưng cậu ở lớp sau là một dáng người mờ duy nhất, Loretta Bennett với chiếc khay bưng trên tay. Xa hơn nữa chỉ còn mảng tường gỗ óc chó và quầng vàng của đèn chùm, xoá mờ mạnh.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-04_v1.png"
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · Medium wide three-shot, Thatcher tuyên bố lời cược, Loretta ở lớp sau chính giữa",
+          "goc": "Medium Wide three-shot, Thatcher Crenshaw trái khung + Arlo Bennett phải khung, CẢ HAI RÕ MẶT; Loretta Bennett RÕ MẶT ở lớp sau chính giữa, qua khoảng trống giữa hai người",
+          "pose": {
+            "zone": "Khoảng sàn cẩm thạch trống giữa bàn cờ và chân cầu thang; mảnh tablet vỡ nằm trên sàn ở mép dưới khung",
+            "who": {
+              "THATCHER": "Đứng bên trái, một chân bước lên trước, người quay nửa ra phòng, cằm hất cao, mặt đắc thắng khinh miệt, đang tuyên bố lớn cho cả phòng nghe",
+              "ARLO": "Đứng bên phải, mặt hướng thẳng vào Thatcher, mắt không chớp, người không nhúc nhích",
+              "LORETTA": "Đứng chính giữa lớp sau ở mép đám khách cách bốn mét, mặt hướng về phía hai người"
+            },
+            "dist": "Máy quay cách khoảng năm mét, ngang tầm ngực, hơi chếch xuống để lấy được chiếc tablet vỡ trên sàn ở mép dưới khung",
+            "hands": {
+              "THATCHER": "Tay phải giơ một ngón trỏ lên ngang mặt, tay trái chống hông",
+              "ARLO": "Hai tay buông thẳng, hai nắm đấm vẫn siết",
+              "LORETTA": "Hai tay ép chặt chiếc khay tròn vào bụng, các ngón siết trắng mép khay"
+            }
+          },
+          "prompt": "Medium wide three-shot, cinematic photorealistic, máy ngang tầm ngực hơi chếch xuống, cách khoảng năm mét. Ở mép dưới khung, trên sàn cẩm thạch trắng bóng, là chiếc tablet đã vỡ nằm úp nghiêng, mặt kính nứt thành mạng nhện, màn hình tối đen. Thatcher Crenshaw bên trái khung, một chân bước lên trước, người quay nửa ra phòng, cằm hất cao, mặt đắc thắng khinh miệt, đang tuyên bố lớn cho cả phòng nghe; tay phải giơ một ngón trỏ lên ngang mặt, tay trái chống hông. Arlo Bennett bên phải khung, mặt hướng thẳng vào Thatcher, mắt không chớp, người không nhúc nhích, hai tay buông thẳng và hai nắm đấm vẫn siết. Cả hai rõ mặt. Chính giữa khung ở lớp sau, qua khoảng trống giữa hai người, Loretta Bennett đứng nơi mép đám khách cách bốn mét, hai tay ép chặt chiếc khay tròn vào bụng, mặt hướng về phía hai người, còn đọc rõ từng nét và KHÔNG bị xoá mờ. Hai bên là khách lễ phục đứng thành vòng cung, đã ngừng hẳn và quay vào nhìn, tất cả ngoài nét. Không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-05_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Bàn cờ cẩm thạch, Thatcher đã ngồi, Arlo đứng bên ghế chưa ngồi xuống",
+          "goc": "Wide establishing shot, bàn cờ cẩm thạch chính giữa khung; Thatcher Crenshaw đã ngồi ở ghế xa bên trái, Arlo Bennett đứng bên ghế gần bên phải, CẢ HAI RÕ MẶT; Loretta Bennett rõ mặt ở mép vòng khách phía sau bên phải",
+          "pose": {
+            "zone": "Trung tâm đại sảnh, quanh bàn cờ cẩm thạch trên thảm tròn",
+            "who": {
+              "THATCHER": "Đã ngồi vào ghế bành lưng cao phía xa, tựa lưng ra sau, hai chân bắt chéo, cằm hất cao, mặt đắc thắng",
+              "ARLO": "Đứng bên chiếc ghế gần, người đã quay hẳn đối mặt trực tiếp Thatcher qua mặt bàn, mắt khoá chặt vào ông ta, CHƯA kéo ghế và CHƯA ngồi xuống",
+              "LORETTA": "Đứng riêng ở mép vòng khách phía sau bên phải cách ba mét, mắt dán vào con trai"
+            },
+            "dist": "Máy quay cách khoảng sáu mét, ngang tầm mắt, đặt về phía quầy bar, bao trọn bàn cờ, hai ghế và vòng khách vây quanh",
+            "hands": {
+              "THATCHER": "Hai tay đặt hờ lên hai tay ghế, khuy măng sét vàng bắt sáng đèn chùm",
+              "ARLO": "Tay phải đặt lên lưng ghế bành gần, CHƯA kéo ghế ra; tay trái buông thẳng",
+              "LORETTA": "Hai tay giữ chiếc khay bưng hạ xuống ngang hông"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, ống kính 28mm, máy ngang tầm mắt cách khoảng sáu mét, đặt về phía quầy bar. Chính giữa khung là bàn cờ vua cẩm thạch trắng-đen trên thảm tròn màu rượu vang sẫm, quân cờ bày đủ hai bên, chưa ai đi nước nào. Thatcher Crenshaw đã ngồi vào chiếc ghế bành lưng cao phía xa bên trái, tựa lưng ra sau, hai chân bắt chéo, cằm hất cao, mặt đắc thắng khinh miệt; hai tay đặt hờ lên tay ghế, khuy măng sét vàng bắt sáng đèn chùm. Arlo Bennett đứng bên chiếc ghế phía phải, người đã quay hẳn đối mặt trực tiếp Thatcher qua mặt bàn, mắt khoá chặt vào ông ta; tay phải đặt lên lưng ghế nhưng CHƯA kéo ghế ra và CHƯA ngồi xuống, tay trái buông thẳng. Vây quanh bàn là khoảng năm mươi khách lễ phục đứng thành vòng cung kín, ly champagne ngang ngực, mọi mặt đều hướng vào bàn cờ, vài người giơ điện thoại lên quay. Ở mép vòng khách phía sau bên phải, cách ba mét, Loretta Bennett đứng riêng một mình, khay bưng hạ ngang hông, mắt dán vào con trai. Lớp sau xa là cầu thang cẩm thạch đôi. Không ai nhìn thẳng ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL"
+            ],
+            "bg": "REF_BG_ATRIUM_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Medium dirty single Thatcher qua vai Arlo, ngồi tựa ghế đắc thắng bên kia bàn cờ",
+          "goc": "Medium dirty single qua vai trái Arlo Bennett (vai và gáy mờ ở tiền cảnh dưới trái), Thatcher Crenshaw RÕ MẶT ngồi bên kia bàn cờ",
+          "pose": {
+            "zone": "Hai đầu bàn cờ cẩm thạch, máy đặt phía Arlo nhìn sang Thatcher",
+            "who": {
+              "THATCHER": "Ngồi tựa hẳn lưng vào ghế bành, cằm hất cao, khoé miệng nhếch lên đắc thắng, mắt nheo lại nhìn sang bên kia bàn, hoàn toàn thoải mái và chắc thắng",
+              "ARLO": "Vai trái và một phần gáy chiếm góc dưới trái khung, mờ nét, ngồi im, không thấy mặt"
+            },
+            "dist": "Máy quay cách Thatcher khoảng một mét tám, ngang tầm mắt người ngồi, nhìn qua vai trái Arlo",
+            "hands": {
+              "THATCHER": "Tay phải vắt lên thành ghế, tay trái đặt hờ trên mép bàn cẩm thạch ngay cạnh hàng quân trắng",
+              "ARLO": "Không thấy tay, chỉ có vai và gáy mờ ở tiền cảnh"
+            }
+          },
+          "prompt": "Medium dirty single, cinematic photorealistic, máy ngang tầm mắt người ngồi, cách Thatcher khoảng một mét tám, nhìn qua vai trái Arlo Bennett. Vai trái và một phần gáy Arlo chiếm góc dưới trái khung, mờ hẳn ngoài tiêu điểm, ngồi hoàn toàn im, không thấy mặt. Thatcher Crenshaw RÕ NÉT bên kia bàn cờ, ngồi tựa hẳn lưng vào ghế bành nhung xanh rêu, tay phải vắt lên thành ghế, tay trái đặt hờ trên mép bàn cẩm thạch ngay cạnh hàng quân trắng; cằm hất cao, khoé miệng nhếch lên đắc thắng, mắt nheo lại nhìn sang bên kia bàn, thần thái hoàn toàn thoải mái và chắc thắng, không một nét nao núng. Mép dưới khung có một phần mặt bàn cờ cẩm thạch trắng-đen với các quân cờ còn nguyên vị trí xuất phát. Hậu cảnh sau lưng Thatcher là vòng cung khách lễ phục vây quanh bàn đứng sát nhau nhìn vào, xa hơn là cầu thang cẩm thạch, tất cả ngoài nét. Không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        },
+        {
+          "id": "SF-HOOK-08",
+          "label": "[HOOK] S08 · Medium dirty single Arlo qua vai Thatcher, ngồi lọt thỏm trong ghế, ngón trỏ đặt mép bàn",
+          "goc": "Medium dirty single qua vai phải Thatcher Crenshaw (vai và gáy mờ ở tiền cảnh dưới phải), Arlo Bennett RÕ MẶT ngồi bên kia bàn cờ; Loretta Bennett là dáng mờ duy nhất ở lớp sau sau lưng Arlo",
+          "pose": {
+            "zone": "Hai đầu bàn cờ cẩm thạch, máy đặt phía Thatcher nhìn sang Arlo",
+            "who": {
+              "ARLO": "Ngồi thẳng lưng trong chiếc ghế bành rộng quá khổ, hai vai buông lỏng, mặt hoàn toàn phẳng lặng, mắt nhìn xuống bàn cờ",
+              "THATCHER": "Vai phải và một phần gáy chiếm góc dưới phải khung, mờ nét, ngồi im, không thấy mặt",
+              "LORETTA": "Dáng mờ duy nhất ở lớp sau ngay sau lưng Arlo"
+            },
+            "dist": "Máy quay cách Arlo khoảng một mét tám, ngang tầm mắt người ngồi, nhìn qua vai phải Thatcher",
+            "hands": {
+              "ARLO": "Ngón trỏ tay phải đặt nhẹ lên mép bàn cẩm thạch, CHƯA chạm vào quân cờ nào; tay trái đặt trên đùi",
+              "THATCHER": "Không thấy tay, chỉ có vai và gáy mờ ở tiền cảnh",
+              "LORETTA": "Không rõ, chỉ thấy dáng mờ"
+            }
+          },
+          "prompt": "Medium dirty single, cinematic photorealistic, máy ngang tầm mắt người ngồi, cách Arlo khoảng một mét tám, nhìn qua vai phải Thatcher Crenshaw. Vai phải và một phần gáy Thatcher chiếm góc dưới phải khung, mờ hẳn ngoài tiêu điểm, ngồi im, không thấy mặt. Arlo Bennett RÕ NÉT bên kia bàn cờ, ngồi thẳng lưng trong chiếc ghế bành nhung xanh rêu rộng quá khổ so với người cậu, hai vai buông lỏng, mặt hoàn toàn phẳng lặng, mắt nhìn xuống bàn cờ; cổ áo sơ mi trắng rộng hở ra một khoảng quanh cổ. Ngón trỏ tay phải cậu đặt nhẹ lên mép bàn cẩm thạch, CHƯA chạm vào quân cờ nào; tay trái đặt trên đùi. Mép dưới khung có một phần mặt bàn cờ với hàng quân đen còn nguyên vị trí xuất phát. Ngay sau lưng cậu ở lớp sau là một dáng người mờ duy nhất, Loretta Bennett với chiếc khay bưng hạ ngang hông. Xa hơn chỉ còn vòng khách lễ phục xoá mờ mạnh và quầng vàng của đèn chùm.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ARLO_GALA_FULL",
+              "REF_THATCHER_TUXEDO_FULL",
+              "REF_LORETTA_MAID_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-08_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "THATCHER: \"A damn Black kid whose mama cleans my toilets thinks he can play chess?\"\nNARRATION: Thatcher Crenshaw spun Arlo toward the crowd.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, holding a cracked tablet against his chest.\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, right hand on Arlo's shoulder.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress with a cream apron, at the edge of the guests four metres behind.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA black-tie gala. The host has dragged his maid's son out as the evening's entertainment. Arlo is already squared off with him, eyes locked.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 Thatcher's line. 0:05-0:08 silent, reserved for: \"Thatcher Crenshaw spun Arlo toward the crowd.\" 0:08-0:10 silent hold.\n\nDIALOGUE ORDER:\nTHATCHER\n\nSHOT 1 (0:00-0:05) — WIDE THREE-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the two men. No handheld shake.\nArlo faces Thatcher head-on, chin level, arms around the tablet. Thatcher leans in and pitches his voice out to the room. Loretta goes rigid. Nearby guests turn.\nTHATCHER — loud, contemptuous, performing for the room: \"A damn Black kid whose mama cleans my toilets thinks he can play chess?\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER THREE-SHOT — STATIC\nCamera: Static locked-off camera on a fixed tripod, all three still in frame.\n0:05-0:08: Thatcher's hand tightens and he turns the boy bodily around to face the crowd. Arlo lets himself be turned, chin still level, arms locked around the tablet. Silent.\n0:08-0:10: Thatcher holds him there, chin high. Loretta's shoulders drop half an inch. Silent.\n\nPERFORMANCE:\nThatcher is entitled, cold and certain, enjoying himself. Arlo gives nothing away: no flinch, no anger, only stillness. Loretta does not move.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Thatcher speaks, Arlo and Loretta listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00-0:05: Thatcher's dialogue only, clear natural American English. 0:05-0:10: no dialogue, faint ballroom ambience — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Thatcher finishes: \"...thinks he can play chess?\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide three-shot, slow push-in.\nSHOT 2 = tighter three-shot, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: The boy's fingers tightened around his tablet.\nTHATCHER: \"This is what my maid raised. Eighteen years old, pushing pieces on a broken screen.\"\nNARRATION: The room laughed.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, gripping a cracked tablet.\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, right hand on Arlo's shoulder.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress with a cream apron, holding a tray behind them. Arlo's mother, staff, NOT a guest.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThatcher displays the boy like an exhibit and the guests laugh. His mother is the one person who does not laugh.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:03 silent, reserved for: \"The boy's fingers tightened around his tablet.\" 0:03-0:08 Thatcher's line. 0:08-0:10 guests' laughter only, reserved for: \"The room laughed.\"\n\nDIALOGUE ORDER:\nTHATCHER\n\nSHOT 1 (0:00-0:03) — MEDIUM TWO-SHOT — VERY SLOW PUSH-IN\nCamera: Very slow, smooth push-in.\nArlo's fingers close harder around the tablet until the knuckles pale; his eyes stay level. Thatcher draws breath. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03-0:10) — TIGHTER TWO-SHOT — STATIC\nCamera: Static locked-off tripod; both men in frame, Loretta readable behind them.\n0:03-0:08: Thatcher's left hand sweeps toward the guests; he glances at them to check they are watching, not at Arlo.\nTHATCHER — loud, jeering, performing for the crowd: \"This is what my maid raised. Eighteen years old, pushing pieces on a broken screen.\"\n0:08-0:10: ONLY the background guests laugh. Thatcher grins at them. Arlo swallows once, jaw muscle standing out, eyes level. Loretta does NOT laugh or smile: lips pressed tight, thumbs whitening on the tray rim, eyes fixed on her son. Silent.\n\nPERFORMANCE:\nThatcher enjoys his audience. Arlo holds himself together and it costs him. Loretta shows fear and hurt for her son — never amusement.\n\nLIP SYNC:\nOnly Thatcher moves his lips, 0:03-0:08. Arlo and Loretta keep their mouths closed the whole clip. Loretta never smiles or laughs.\n\nAUDIO:\n0:03-0:08: Thatcher's dialogue, clear natural American English. 0:00-0:03 ambience only; 0:08-0:10 background guests' laughter only — both left clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:03, as Arlo's grip finishes tightening, before Thatcher speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot, very slow push-in.\nSHOT 2 = tighter two-shot, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v3.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "THATCHER: \"Your mama scrubs my floors every damn day. Think you're better than that?\"\nNARRATION: He snatched the tablet.\nTHATCHER: \"Garbage.\"\nNARRATION: Slammed it on the marble. Screen shattered.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, right hand reaching for the tablet, sharply in focus.\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, seen only as two hands holding the cracked tablet in the near foreground, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThatcher takes the boy's tablet and destroys it on the marble floor in front of the whole room.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 Thatcher's line. 0:05-0:06 silent, reserved for: \"He snatched the tablet.\" 0:06-0:07 his single word. 0:07-0:10 silent, reserved for: \"Slammed it on the marble. Screen shattered.\"\n\nDIALOGUE ORDER:\nTHATCHER\n\nSHOT 1 (0:00-0:06) — MEDIUM DIRTY SINGLE ON THATCHER, HIGH ANGLE — STATIC\nCamera: Static locked-off tripod, angled down so the marble floor stays in the lower third of frame.\n0:00-0:05: Thatcher leans in over the tablet, eyes hard on the screen.\nTHATCHER — cold, jeering: \"Your mama scrubs my floors every damn day. Think you're better than that?\"\n0:05-0:06: his right hand rips the tablet out of Arlo's grip in one motion. The foreground hands are left empty and open. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:06-0:10) — SAME ANGLE, TIGHTER — VERY SLOW PUSH-IN\nCamera: Very slow push-in on Thatcher, marble floor still in the lower third of frame.\n0:06-0:07: he holds the tablet up beside his face like evidence.\nTHATCHER — flat, dismissive: \"Garbage.\"\n0:07-0:10: he hurls it down onto the marble. It lands face-down, the glass bursts into a spiderweb, the screen flickers twice and goes black. He straightens and turns to Arlo. Silent.\n\nPERFORMANCE:\nThatcher throws it the way a man discards trash — fast, casual, not watching it land. The foreground hands never grab back; they open and stay open.\n\nLIP SYNC:\nOnly Thatcher moves his lips, and only while speaking. Arlo's face is never seen and he does not speak. During pauses his mouth stays closed with lips still.\n\nAUDIO:\nDialogue windows: Thatcher's dialogue, clear natural American English. Silent windows: no dialogue, ambience and the crack of glass on marble — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, the instant the tablet leaves Arlo's hands in Thatcher's grip.\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Thatcher, high angle, static.\nSHOT 2 = same angle tighter, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "NARRATION: Fists clenched. Face gave nothing.\nARLO: \"I've been playing chess since I was six, sir. I'm ready to sit down and prove it.\"\nTHATCHER: \"Fine.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, sharply in focus at centre frame.\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, seen only as a blurred right shoulder in foreground, completely still like a statue, face never visible.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress, a soft out-of-focus figure behind Arlo.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe tablet is destroyed. Instead of anger, the boy answers with the calmest sentence in the room, and the billionaire takes the bait.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:03 silent, reserved for: \"Fists clenched. Face gave nothing.\" 0:03-0:09 Arlo's line. 0:09-0:10 Thatcher's single word, off-face.\n\nDIALOGUE ORDER:\nARLO to THATCHER\n\nSHOT 1 (0:00-0:03) — MEDIUM CLOSE-UP ON ARLO, DIRTY SINGLE — STATIC\nCamera: Static locked-off tripod.\nArlo's hands close into fists at his sides until the tendons stand out. His jaw sets. His eyes stay on Thatcher and do not drop. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03-0:10) — TIGHTER CLOSE-UP ON ARLO — VERY SLOW PUSH-IN\nCamera: Very slow, restrained push-in toward Arlo's face. Thatcher's blurred shoulder stays at the right edge.\n0:03-0:04: brief dramatic pause. Arlo takes one slow breath before speaking.\nARLO — calm, respectful, absolutely steady: \"I've been playing chess since I was six, sir. I'm ready to sit down and prove it.\"\n0:09-0:10: from the blurred foreground, off-face, Thatcher answers. His head never turns into frame.\nTHATCHER — amused, contemptuous, off-face: \"Fine.\"\n\nPERFORMANCE:\nArlo is neither defiant nor frightened, simply unmovable. Natural human eyes only: no glowing eyes, no colored light, no marks down the cheeks.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Arlo speaks, no one else's lips move. Thatcher's face is never visible, so his word is heard off-face. During pauses, mouths stay closed with lips still.\n\nAUDIO:\n0:00-0:03: no dialogue, faint ballroom ambience — leave clean for narrator dub. 0:03-0:10: character dialogue only, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, the moment Arlo's fists finish closing, just before he speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Arlo, static.\nSHOT 2 = tighter close-up on Arlo, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "THATCHER: \"Beat me — your mama gets a million dollars. Little punk thinks he can step up to me.\"\nNARRATION: His mother's lips trembled. Arlo's gaze held steady — unbroken.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, at frame left.\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, at frame right, facing him.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress with a cream apron, in the background gap between them, in focus.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThatcher turns the boy into a wager and announces it to the room. The mother hears the number. The son never moves.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:06 Thatcher's line. 0:06-0:10 silent, reserved for: \"His mother's lips trembled. Arlo's gaze held steady — unbroken.\"\n\nDIALOGUE ORDER:\nTHATCHER\n\nSHOT 1 (0:00-0:06) — MEDIUM WIDE THREE-SHOT — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the centre of the group. No handheld shake.\nThatcher steps forward, raises one index finger beside his face and pitches the wager out to the guests, chin high. The shattered tablet lies face-down on the marble at the bottom of frame.\nTHATCHER — loud, gloating, performing for the room: \"Beat me — your mama gets a million dollars. Little punk thinks he can step up to me.\"\n\nHARD CUT.\n\nSHOT 2 (0:06-0:10) — TIGHTER FRAMING ON LORETTA AND ARLO — VERY SLOW PUSH-IN\nCamera: The push-in continues into the centre of frame, tightening on Loretta in the background and Arlo at frame right. Thatcher's shoulder stays at the left edge.\nLoretta's lips press together and tremble; her hands lock onto the tray. Arlo's eyes stay on Thatcher, unblinking, face unchanged. Silent.\n\nPERFORMANCE:\nThatcher is at his most pleased — he believes he has just bought a win in front of everyone. Loretta is afraid and silent. Arlo is completely still. Natural human eyes only: no glowing eyes, no colored light on the face.\n\nLIP SYNC:\nOnly Thatcher moves his lips, and only from 0:00 to 0:06. Arlo and Loretta listen silently with their mouths closed. Loretta's lips tremble but form no words.\n\nAUDIO:\n0:00-0:06: Thatcher's dialogue, clear natural American English. 0:06-0:10: no dialogue, faint ballroom ambience — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Thatcher finishes: \"...step up to me.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide three-shot, very slow push-in.\nSHOT 2 = tighter framing on Loretta and Arlo, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Arlo sat down at the chess board. Nobody in that room knew why he was so calm. But in three moves, they'd find out.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, standing beside the near chair with his right hand on its back.\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, already seated in the far chair, leaning back.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress with a cream apron, alone at the edge of the ring of guests behind Arlo.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe boy takes his seat at the marble chess table. Two hundred people are waiting for a joke. Nobody in the room understands what they are actually looking at.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:04 silent, reserved for: \"Arlo sat down at the chess board.\" 0:04-0:07 silent, reserved for: \"Nobody in that room knew why he was so calm.\" 0:07-0:10 silent, reserved for: \"But in three moves, they'd find out.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:04) — WIDE THREE-SHOT — STATIC\nCamera: Static locked-off tripod on a fixed wide frame holding the whole table and the ring of guests.\nArlo draws the chair back, steps in and sits down facing Thatcher across the board. He settles once and stops. Thatcher stays leaning back, chin high. The nearest guests exchange amused glances; Loretta does not — lips pressed, eyes on her son.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) — TIGHTER FRAMING ON ARLO AT THE BOARD — VERY SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward Arlo seated at the board. Controlled movement.\nArlo sits back into a chair too big for him, shoulders loose, hands settling on the table edge. He looks at the pieces, not at the man. He does not fidget once. Loretta stays a soft figure at the edge of frame behind him.\n\nPERFORMANCE:\nEverything in the room is loud except the boy. His calm reads as strange, not brave. Thatcher stays smug and certain, no trace of doubt.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. All mouths remain closed with lips still for the full ten seconds.\n\nAUDIO:\nNo dialogue at all. Faint ballroom ambience and low murmuring only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the moment Arlo settles into the chair and stops moving.\n\nCAMERA SUMMARY:\nSHOT 1 = wide three-shot, static.\nSHOT 2 = tighter framing on Arlo at the board, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: And that's when the billionaire would pay the price.\nNARRATION: Have you ever watched someone's smirk collapse in real time — because you are about to.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, seated across the board, sharply in focus.\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, seen only as a left shoulder and the back of his head, blurred in foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe last seconds before the game begins. The billionaire is enjoying himself and has no idea what is sitting across from him.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:04 silent, reserved for: \"And that's when the billionaire would pay the price.\" 0:04-0:10 silent, reserved for: \"Have you ever watched someone's smirk collapse in real time — because you are about to.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:04) — MEDIUM DIRTY SINGLE ON THATCHER — STATIC\nCamera: Static locked-off tripod. Arlo's blurred shoulder anchors the lower left foreground and does not move.\nThatcher settles deeper into the chair, throws his right arm over the chair back and lets the smirk widen. His left hand taps the marble beside the white pieces, once.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) — TIGHTER CLOSE-UP ON THATCHER — VERY SLOW PUSH-IN\nCamera: Very slow push-in tightening on Thatcher's face. Arlo's blurred shoulder stays at the frame edge.\nHe looks across the board, gives one slow blink, and holds the smirk without a flicker. Nothing in his face falters, softens or doubts. He is completely certain he has already won.\n\nPERFORMANCE:\nKeep Thatcher fully triumphant here — cold, superior, amused, chin high. He must show no unease, no crack, no early fear of any kind. Arlo never moves at all.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. All mouths remain closed with lips still for the full ten seconds.\n\nAUDIO:\nNo dialogue at all. Faint ballroom ambience and low murmuring only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, on the beat after Thatcher's finger taps the marble.\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Thatcher, static.\nSHOT 2 = tighter close-up on Thatcher, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-08",
+          "dur": 10,
+          "text": "NARRATION: Drop a comment, hit that like, and let me take you back to the night a billionaire sat down across from a boy he never should have underestimated.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLO — 18-year-old Black young man, wearing an oversized white dress shirt, seated across the board, sharply in focus.\nTHATCHER — 62-year-old white man, wearing a midnight-navy tuxedo, seen only as a right shoulder and the back of his head, blurred in foreground, completely still like a statue, face never visible.\nLORETTA — 44-year-old Black woman, wearing a charcoal-gray service dress, a single soft out-of-focus figure behind Arlo.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe closing image of the hook: the boy the whole room has written off, sitting down to play.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:04 silent, reserved for: \"Drop a comment, hit that like, and let me take you back to the night\" 0:04-0:10 silent, reserved for: \"a billionaire sat down across from a boy he never should have underestimated.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:04) — MEDIUM DIRTY SINGLE ON ARLO — STATIC\nCamera: Static locked-off tripod. Thatcher's blurred shoulder anchors the lower right foreground and does not move.\nArlo's eyes travel slowly up from the pieces and settle on the man opposite him. His expression does not change at all.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) — TIGHTER CLOSE-UP ON ARLO — VERY SLOW PUSH-IN\nCamera: Very slow push-in tightening on Arlo's face and his right hand at the table edge.\nHis right index finger taps the marble edge twice, quick and quiet, then goes still. He breathes out once. He keeps his eyes on Thatcher and does not blink. The oversized collar sits loose around his neck.\n\nPERFORMANCE:\nAbsolute containment. No triumph, no anger, no smile — only a boy who already knows how this ends. The two taps are small, unconscious and easy to miss.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. All mouths remain closed with lips still for the full ten seconds.\n\nAUDIO:\nNo dialogue at all. Faint ballroom ambience and low murmuring only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the moment Arlo's eyes finish rising from the board to Thatcher's face.\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Arlo, static.\nSHOT 2 = tighter close-up on Arlo, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-08_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

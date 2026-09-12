@@ -168,8 +168,8 @@ SHOT 2 = close-up <TÊN B>, subtle camera movement.
 - Với nhịp không thoại: `No character speaks. No character moves their lips as if talking.`
 
 ### 4.3 Khoảng lặng diễn xuất cảm xúc (Emotional Dramatic Pauses)
-- Con số 3.0 từ/giây chỉ là trần tối đa chống nhồi thoại. Trần cứng theo `7-bang-shot.md` §5.2 (42 từ cho clip 15s). *(Bản cũ của file này ghi 45 từ — đã thống nhất về 42 theo script.)*
-- Với các phân cảnh lắng đọng, uất ức, xúc động hoặc kìm nén, số từ thoại có thể ít nhiều tuỳ trường hợp. Tốc độ thoại hoàn toàn linh hoạt tùy tình huống diễn biến trong video.
+- 3,0 từ/giây là hằng số quy đổi, không phải trần (`7-bang-shot.md` §5.2). Số từ đã chốt ở bảng shot quyết định độ dài phần có tiếng; prompt video KHÔNG được làm thay đổi con số đó.
+- Phân cảnh lắng đọng, uất ức hay kìm nén thì kéo dãn bằng **khoảng lặng viết rõ trong từng shot con**, KHÔNG bằng cách cắt bớt số từ. Cắt bớt từ là tạo quãng chết ở cuối clip, không phải tạo nhịp diễn.
 - Viết rõ khoảng lặng cảm xúc trong từng shot con hoặc giữa các lượt thoại, ví dụ:
   `Brief dramatic pause. <TÊN A> hesitates, eyes glinting with suppressed emotion, before speaking in a low voice.`
   hoặc

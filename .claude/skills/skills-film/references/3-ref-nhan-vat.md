@@ -15,12 +15,12 @@
 ---
 
 ## 2. Ảnh chân dung (PORTRAIT)
-- **Mục đích:** Khóa khuôn mặt chuẩn cho cả phim. (Tỷ lệ 2:3, Scene `REF`).
+- **Mục đích:** Khóa khuôn mặt chuẩn cho cả phim, (Tỷ lệ 16:9, Scene `REF`).
 - **Phạm vi tạo Portrait:** Chỉ 4 nhân vật quan trọng nhất của kịch bản mới cần portrait riêng. Nhân vật phụ không tạo portrait, chỉ tạo fullbody đầu tiên có khóa trực tiếp khuôn mặt + trang phục.
-- **Góc chụp & Khung hình:** bắt buộc chụp từ ngang cổ trở lên, chính diện, nhìn thẳng vào ống kính. Không lấy thân người, không lấy quần áo.
+- **Góc chụp & Khung hình — HAI GÓC TRONG MỘT ẢNH:** portrait bắt buộc là một ảnh 16:9 chia hai nửa của CÙNG MỘT người — nửa TRÁI chính diện nhìn thẳng ống kính, nửa PHẢI góc ngang (profile 90°) nhìn về mép phải khung. nền trơn liền một dải, không đường kẻ chia và không chữ. Cả hai nửa chỉ lấy từ ngang cổ trở lên, không lấy thân người, không lấy quần áo.
 - **Ánh sáng & Nền:** Nền màu trơn. Ánh sáng studio dịu đều, không mảng tối gắt.
-- **Định dạng Prompt mẫu (bắt buộc dùng phần mở đầu này):**
-  > Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG DỌC 2:3, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. Chụp NGANG CỔ TRỞ LÊN, chính diện, NHÌN THẲNG VÀO ỐNG KÍNH. Nền màu trơn. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Chỉ từ cổ trở lên, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười.
+- **Định dạng Prompt mẫu (bắt buộc dùng phần mở đầu này, không cắt bớt câu nào):**
+  > Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI là góc CHÍNH DIỆN nhìn thẳng vào ống kính; nửa PHẢI là góc NGANG (profile 90 độ) nhìn về phía bên phải khung hình. Cùng một khuôn mặt. Nền màu trơn. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Cả hai nửa chỉ lấy NGANG CỔ TRỞ LÊN, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Không chữ, không khung viền, không đường kẻ chia giữa hai nửa.
 - **Mô tả nhân vật:** Khoá cứng chủng tộc, kiểu tóc, tuổi bằng chữ. Không đính `refs.bg` hay ref nào khác.
 - **Biểu cảm & Chặn lỗi:** Ánh nhìn tỉnh, ấm, chắc. Cấm làm hốc hác, quầng thâm hay nét khắc khổ (trừ khi kịch bản bắt buộc).
 - **Cấm bịa phụ kiện/khiếm khuyết ngoài kịch bản:** không tự thêm kính, sẹo, hình xăm, hay bất cứ đặc điểm khuôn mặt nào mà kịch bản không nhắc tới. Portrait mặc định là một gương mặt ưa nhìn, khoẻ mạnh (đối với các nhân vật dưới 50 tuổi) — kể cả nhân vật phản diện hay nhân vật nghèo. Từ khoá hao mòn/mức sống (rẻ tiền, trầy xước, mí sụp, da xỉn...) chỉ được dùng ở trang phục của ảnh FULL BODY, tuyệt đối không dùng cho khuôn mặt portrait.
@@ -74,6 +74,7 @@ Có những nhân vật mà trang phục do thiết chế / bối cảnh nghề 
 
 ## 8. Checklist trước khi sang bước tạo địa điểm / bảng shot
 - [ ] Chỉ 4 nhân vật quan trọng nhất có portrait riêng; nhân vật phụ dùng fullbody đầu tiên làm neo nhân dạng.
+- [ ] Mọi portrait là ảnh 16:9 hai góc: trái chính diện · phải ngang 90°.
 - [ ] Mọi trạng thái trang phục đều có 1 ảnh FULL (có đính portrait lấy mặt).
 - [ ] Thẻ FULL ghi rõ danh sách cảnh dùng ở cuối `desc`.
 - [ ] Trang phục khớp ba trục: Mức sống · Độ tuổi · Chức vụ (vai có y phục thiết chế thì y phục thắng mức sống).

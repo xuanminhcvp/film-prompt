@@ -1,0 +1,436 @@
+{
+  "film": "AUTO 17 — CORLISS: CHỮ KÝ TRÊN TỜ BỔ NHIỆM",
+  "kind": "phim",
+  "updated_at": "2026-09-11 12:40:07",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_CORLISS_JACKET_FULL",
+          "label": "★ CORLISS VANN — ÁO KHOÁC ĐIỀU PHỐI VIÊN HẠT (thẻ neo nhân dạng)",
+          "desc": "Nữ chính. 44 tuổi, điều phối viên cấp cứu ca đêm của hạt Bellamy mười một năm, mẹ của Tavion. Tan ca sáu giờ sáng rồi đi thẳng xuống toà, vẫn mặc nguyên áo khoác đi làm: phù hiệu hạt trên vai, họ VANN thêu chỉ trắng trên túi ngực. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong một ảnh. Mặt phải đọc ra: tỉnh và điềm tĩnh kiểu người nghe điện thoại cấp cứu cả đêm, chịu đựng nhưng không cam chịu; mệt nằm ở dáng vai, không nằm trên gương mặt.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ Mỹ gốc Phi 44 tuổi, da nâu ấm có kết cấu thật với lỗ chân lông nhìn rõ, gương mặt khoẻ và ưa nhìn, gò má đầy đặn, sống mũi mềm, mắt nâu sẫm nhìn tỉnh và chắc, lông mày tự nhiên, môi đầy khép tự nhiên KHÔNG cười. Tóc tự nhiên xoăn tít màu đen, chải gọn ra sau buộc thành búi thấp sau gáy, vài sợi tơ ở mai tóc. Vóc người tầm trung, đầy đặn vừa phải, vai hơi trĩu. Áo khoác làm việc vải kaki dày màu XANH NAVY, khoá kéo lên gần cổ, bạc màu nhẹ ở cổ tay và đường may nhưng được giặt cẩn thận, phẳng phiu. Trên bắp tay áo trái là phù hiệu vải tròn thêu chữ rõ nét, đánh vần chính xác: vòng trên \"BELLAMY COUNTY\", vòng dưới \"EMERGENCY COMMUNICATIONS\". Trên túi ngực trái thêu bằng chỉ trắng đúng một chữ \"VANN\". Bên trong lộ cổ áo thun xám tro. Quần vải đen ống đứng, giày thể thao đen đế êm đã mòn nhưng sạch. Trang sức đúng một món: đồng hồ đeo tay mặt tròn dây da đen ở cổ tay TRÁI. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_CORLISS_JACKET_FULL_v1.png"
+        },
+        {
+          "id": "REF_KIRSCH_ROBE_FULL",
+          "label": "★ THẨM PHÁN ROLAND KIRSCH — ÁO CHOÀNG THẨM PHÁN (thẻ neo nhân dạng)",
+          "desc": "Phản diện. 58 tuổi, thẩm phán toà hạt Bellamy, vừa lần thứ hai bị gạt khỏi danh sách bổ nhiệm lên toà phúc thẩm nên xử lịch nhanh như chạy. Y phục thiết chế: áo choàng thẩm phán đen — y phục thắng mức sống. Thẻ neo nhân dạng. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt nhẹ nhàng như việc vặt, chưa từng phải nhìn lại người mình vừa xử.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi nâng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 58 tuổi, da sáng hơi hồng có kết cấu thật với lỗ chân lông và nếp nhăn đuôi mắt nhìn rõ, mặt dài, gò má gọn, sống mũi thẳng hẹp, cằm vuông cạo nhẵn, mắt xanh xám nhạt dưới mí hơi trĩu, môi mỏng khép tự nhiên KHÔNG cười. Tóc muối tiêu cắt ngắn chải lệch gọn gàng, hai bên thái dương bạc trắng. Vóc người cao, gầy, dáng thẳng. Áo choàng thẩm phán ĐEN TUYỀN chất vải mờ, xếp ly dọc từ vai, dài chấm ống chân, tay áo rộng, cài kín phía trước; cổ áo lộ cổ sơ mi trắng và nút cà vạt xanh đen sẫm thắt gọn. Quần âu xám than, giày da đen bóng. Không đeo kính, không trang sức. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_KIRSCH_ROBE_FULL_v1.png"
+        },
+        {
+          "id": "REF_TAVION_COURT_FULL",
+          "label": "★ TAVION VANN — SƠ MI XANH NHẠT ĐI HẦU TOÀ (thẻ neo nhân dạng)",
+          "desc": "Con trai Corliss, bị cáo vụ chiếc xe đạp hai mươi đô. Mười tám tuổi được sáu tuần, vừa tốt nghiệp, bốc hàng ở kho lạnh Merrow, đã đậu thứ mười một vào khoá học việc thợ đường dây. Ít nói, lễ phép, mặc bộ tử tế nhất đi hầu toà. Thẻ neo nhân dạng. Mặt phải đọc ra: một chàng trai ngoan đang cố đứng yên theo lời luật sư, trẻ và dễ tổn thương nhưng không cúi đầu.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Chàng trai Mỹ gốc Phi 18 tuổi, da nâu sẫm có kết cấu thật với lỗ chân lông nhìn rõ, gương mặt trẻ và ưa nhìn, gò má cao, quai hàm gọn, mắt nâu sẫm nhìn thẳng, môi khép tự nhiên KHÔNG cười, chưa có râu. Tóc đen xoăn cắt fade ngắn gọn gàng. Vóc người cao, gầy, vai rộng rắn chắc kiểu người bốc hàng. Áo sơ mi cotton tay dài màu XANH DA TRỜI NHẠT, cài kín toàn bộ cúc kể cả cúc cổ, sơ vin gọn; áo rộng hơn người một cỡ nhưng phẳng phiu mới là ủi. Quần âu xám than, thắt lưng da đen, giày da đen đế mỏng đã cũ nhưng đánh sạch. Không trang sức. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_TAVION_COURT_FULL_v1.png"
+        },
+        {
+          "id": "REF_STROUD_SUIT_FULL",
+          "label": "★ EMIL STROUD — VEST NÂU BE LUẬT SƯ CÔNG (thẻ neo nhân dạng)",
+          "desc": "Luật sư công của Tavion. 41 tuổi, sáng nay ôm mười chín hồ sơ, đọc hồ sơ Tavion trong thang máy, tử tế và nhanh, có đúng bảy phút cho thân chủ. Thẻ neo nhân dạng. Mặt phải đọc ra: người làm nghề đã quen thua ở phòng số Chín, vẫn đứng lên phản đối nhưng biết rõ giới hạn của mình.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 41 tuổi, da sáng có kết cấu thật với lỗ chân lông nhìn rõ, mặt tròn vừa, mắt nâu nhạt, lông mày rậm, cằm cạo nhẵn còn hơi xanh chân râu, môi khép tự nhiên KHÔNG cười. Tóc nâu sẫm dày chải ngược, vài sợi rủ xuống trán. Vóc người tầm trung, hơi đậm. Bộ vest hai mảnh màu NÂU BE (tan) vải len pha, vừa vặn, hơi nhàu nếp ở khuỷu tay kiểu mặc từ sáng, cài một cúc; sơ mi trắng, cà vạt đỏ gạch sẫm thắt hơi nới. Quần cùng bộ, giày da nâu. Không trang sức. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_STROUD_SUIT_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_BUS_TRANSFER",
+          "label": "Vé chuyển tuyến xe buýt Route 14 — gấp tư, mềm nếp",
+          "desc": "Tấm vé chuyển tuyến Corliss giữ trong tay từ chuyến Route 14 sáng hôm đó — thói quen giữ giấy tờ của bà. Được nhắc thẳng trong văn kể của Hook (\"stayed flat under her thumb\") và là vật gieo–trả ở cuối phim (Tavion đưa vé của mình cho mẹ, cũng gấp tư, mềm nếp). Trạng thái ảnh gốc: đã GẤP TƯ như lúc nằm dưới ngón cái bà trong phòng xử.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 chếch nhẹ từ trên xuống, không có người và không có bàn tay trong khung. Một tấm vé chuyển tuyến xe buýt bằng giấy bìa mỏng màu VÀNG NHẠT, đã gấp làm tư thành một ô chữ nhật nhỏ cỡ nửa bao diêm, nằm phẳng trên mặt bàn gỗ sồi trơn. Nếp gấp mềm, sờn trắng ở mép, một góc hơi quăn vì bị cầm lâu trong lòng bàn tay. Mặt trên lộ ra chữ in mực đen chân phương, rõ nét không nhoè, đánh vần chính xác: \"BELLAMY COUNTY TRANSIT\" ở dòng trên, \"TRANSFER · ROUTE 14\" ở dòng dưới — nhãn hư cấu, không có thật; mép vé có một lỗ bấm tròn. Cạnh vé đặt một đồng xu 25 xu làm mốc tỉ lệ. Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm ngắn dưới mép giấy, làm nổi rõ thớ giấy và nếp gấp.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_BUS_TRANSFER_v1.png"
+        },
+        {
+          "id": "REF_BG_COURTROOM_NINE_AFTERNOON",
+          "label": "BỐI CẢNH — Phòng xử án số Chín, toà án hạt Bellamy (bốn giờ mười lăm chiều)",
+          "desc": "Bối cảnh duy nhất của Hook — phòng xử lịch luận tội tội nhẹ, nơi Kirsch gọi Corliss là rác trước bốn mươi mốt người. Mốc trục: nhìn từ khán phòng lên bục thì bàn bào chữa và dãy cửa sổ ở bên TRÁI, bàn công tố và hộp bồi thẩm ở bên PHẢI; Corliss ngồi đầu hàng ghế thứ hai sát lối đi hông cửa sổ.",
+          "prompt": "Bối cảnh ở Mỹ. Phòng xử án toà hạt đang dùng cho lịch luận tội tội nhẹ buổi chiều, lúc nghỉ giữa hai vụ nên mọi ghế còn trống. Không có người trong khung hình. Máy ở lối đi giữa khán phòng nhìn lên bục. TRƯỚC MẶT: bục thẩm phán gỗ óc chó sẫm cao ba bậc, ghế lưng cao bọc da đen, micro cổ ngỗng, biển tên đồng khắc \"JUDGE ROLAND KIRSCH\"; vách gỗ sau bục treo con dấu tròn bằng đồng khắc \"BELLAMY COUNTY COURT\", hai bên cờ Mỹ và cờ tiểu bang; chân bục là bàn thư ký có màn hình và bàn máy tốc ký. GIỮA PHÒNG, sau thanh chắn gỗ có cửa lửng: bàn bào chữa bên trái, bàn công tố bên phải. Khán phòng tám hàng ghế băng gỗ sồi, lối đi giữa và lối đi hông dọc tường trái. BÊN TRÁI: dãy cửa sổ cao, rèm lá dọc trắng mở hé. BÊN PHẢI: hộp bồi thẩm mười hai ghế để trống (lịch luận tội không có bồi thẩm đoàn) và cửa hông gỗ. SAU LƯNG: cửa gỗ kép có ô kính, trên khung gắn biển \"COURTROOM 9\".\n- Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt.\n- Đèn panel LED trần trắng trung tính chiếu đều; nắng chiều muộn vàng ấm xiên qua khe rèm bên trái thành vệt dài trên sàn và lưng ghế. Không u tối, không moody, không cháy trắng; tương phản trung bình, bóng mềm.\n- Vách gỗ nâu mật, thảm xanh rêu sẫm, ghế sồi vàng sáng, đồng thau xỉn.\n- Tổng thể trang nghiêm, ấm mà ngột ngạt — KHÁC HẲN ánh xanh lạnh màn hình phòng điều phối ban đêm ở phần sau phim.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_COURTROOM_NINE_AFTERNOON_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Thẩm phán gọi người mẹ là rác trước cả phòng xử",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Toàn cảnh từ lối đi giữa khán phòng, Kirsch ngước khỏi hồ sơ nhìn về hàng ghế thứ hai",
+          "goc": "Wide establishing shot từ lối đi giữa khán phòng, Roland Kirsch RÕ MẶT trên bục chính giữa; Tavion Vann + Emil Stroud đứng ở bàn bào chữa bên trái, lưng 3/4 về máy; Corliss Vann ngồi đầu hàng ghế thứ hai sát lối đi hông bên trái, lưng 3/4 về máy",
+          "pose": {
+            "zone": "Lối đi giữa khán phòng ngang hàng ghế thứ năm → bục thẩm phán",
+            "who": {
+              "KIRSCH": "Ngồi trên bục, đầu vừa ngẩng khỏi tập hồ sơ, mắt lướt qua Tavion nhìn thẳng về đầu hàng ghế thứ hai bên trái, khoé miệng nhếch nhẹ như sắp nói một câu đùa",
+              "TAVION": "Đứng thẳng sau bàn bào chữa (ghế phía cửa sổ), người hướng lên bục, lưng 3/4 về máy",
+              "STROUD": "Đứng bên phải Tavion sau bàn bào chữa, người hướng lên bục, lưng 3/4 về máy",
+              "CORLISS": "Ngồi đầu hàng ghế thứ hai sát lối đi hông cửa sổ, lưng thẳng, mặt hướng lên bục, lưng 3/4 về máy, thấy một phần gò má"
+            },
+            "dist": "Máy cách bục khoảng mười hai mét, ngang tầm mắt người đứng",
+            "hands": {
+              "KIRSCH": "Tay trái đè trên tập hồ sơ mở, tay phải cầm bút",
+              "TAVION": "Hai tay buông hai bên, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "STROUD": "Tay trái kẹp tập bìa hồ sơ manila",
+              "CORLISS": "Hai tay trong lòng, không thấy rõ"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy đứng ở lối đi giữa khán phòng ngang hàng ghế thứ năm, ngang tầm mắt người đứng, cách bục khoảng mười hai mét. Roland Kirsch RÕ MẶT chính giữa khung trên bục, đầu vừa ngẩng khỏi tập hồ sơ mở, mắt lướt qua bàn bào chữa nhìn thẳng về đầu hàng ghế thứ hai bên trái, khoé miệng nhếch nhẹ, tay phải còn cầm bút. Sau bàn bào chữa bên trái, Tavion Vann đứng thẳng, bên phải cậu là Emil Stroud kẹp tập bìa manila, cả hai hướng lên bục, lưng 3/4 về máy. Corliss Vann ngồi đầu hàng ghế thứ hai sát lối đi hông bên trái, lưng thẳng, mặt hướng lên bục, lưng 3/4 về máy, thấy một phần gò má. Công tố viên vest xám than ngồi ở bàn công tố; thư ký toà trước màn hình dưới chân bục, người tốc ký bên máy; một nhân viên chấp pháp đồng phục xanh xám đứng cạnh cửa hông phải. Gần bốn mươi người lớn ăn mặc thường ngày ngồi kín các hàng ghế băng: đã ngừng lật giấy, ngừng xem điện thoại, phần lớn quay đầu nhìn về đầu hàng ghế thứ hai, số còn lại nhìn lên bục; tất cả ngoài nét mềm. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL",
+              "REF_STROUD_SUIT_FULL",
+              "REF_CORLISS_JACKET_FULL"
+            ],
+            "bg": "REF_BG_COURTROOM_NINE_AFTERNOON"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Toàn cảnh trục ngang từ dãy cửa sổ: bục mép trái, bàn bào chữa giữa, Corliss ngồi hàng thứ hai tiền cảnh phải",
+          "goc": "Lateral wide từ phía dãy cửa sổ, Roland Kirsch trên bục mép TRÁI khung (nghiêng mặt), Tavion Vann + Emil Stroud đứng ở bàn bào chữa giữa khung (nghiêng mặt, rõ nét), Corliss Vann ngồi hàng ghế thứ hai tiền cảnh PHẢI, RÕ MẶT nghiêng 3/4",
+          "pose": {
+            "zone": "Lối đi hông sát dãy cửa sổ, ngang hàng ghế thứ hai → cắt ngang phòng về phía hộp bồi thẩm",
+            "who": {
+              "CORLISS": "Ngồi đầu hàng ghế thứ hai, gần máy nhất, lưng thẳng, đã quay hẳn mặt lên bục, ánh mắt khoá vào Kirsch, cằm giữ ngang, chưa hề né tránh",
+              "TAVION": "Đứng thẳng sau bàn bào chữa, nghiêng mặt hướng lên bục, hai vai căng",
+              "STROUD": "Đứng sát phía bên kia Tavion, nghiêng mặt hướng lên bục, người hơi ngả về trước",
+              "KIRSCH": "Ngồi trên bục ở xa mép trái, nghiêng mặt, mắt đã cúi trở lại tập hồ sơ, không nhìn xuống khán phòng"
+            },
+            "dist": "Máy đứng trong lối đi hông sát tường cửa sổ, ống kính góc rộng 24mm, ngang tầm mắt người ngồi, chĩa ngang sang tường đối diện",
+            "hands": {
+              "CORLISS": "Hai tay trong lòng, ngón cái phải đè phẳng tấm vé chuyển tuyến vàng nhạt gấp tư lên đùi phải; cổ tay trái đeo đồng hồ dây da đen",
+              "TAVION": "Hai tay buông hai bên, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "STROUD": "Tay trái kẹp tập bìa manila sát hông",
+              "KIRSCH": "Tay phải cầm bút trên trang hồ sơ"
+            }
+          },
+          "prompt": "Lateral wide establishing shot, cinematic photorealistic, máy đứng trong lối đi hông sát dãy cửa sổ, ngang hàng ghế thứ hai, ngang tầm mắt người ngồi, ống kính 24mm chĩa ngang qua phòng. Tiền cảnh PHẢI: Corliss Vann RÕ MẶT nghiêng 3/4, ngồi đầu hàng ghế băng thứ hai, lưng thẳng, đã quay hẳn mặt lên bục, ánh mắt khoá vào Kirsch, cằm giữ ngang; hai tay trong lòng, ngón cái phải đè phẳng tấm vé chuyển tuyến vàng nhạt gấp tư lên đùi. Giữa khung, trước thanh chắn gỗ khoảng hai mét rưỡi: Tavion Vann đứng thẳng sau bàn bào chữa, Emil Stroud đứng sát phía bên kia cậu, cả hai nghiêng mặt hướng lên bục, rõ nét, tay Tavion buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Mép TRÁI khung, xa và cao: Roland Kirsch ngồi trên bục, nghiêng mặt, mắt đã cúi xuống tập hồ sơ. Hậu cảnh là tường phải của phòng: hộp bồi thẩm mười hai ghế để trống và vách gỗ nâu mật. Các hàng ghế phía sau Corliss kín người lớn ngồi, đã ngừng mọi việc, mắt dõi lên bục và về phía bà; công tố viên vest xám than ở bàn công tố xa hơn; thư ký và người tốc ký ở chân bục; tất cả ngoài nét mềm. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL",
+              "REF_STROUD_SUIT_FULL",
+              "REF_CORLISS_JACKET_FULL",
+              "REF_PROP_BUS_TRANSFER"
+            ],
+            "bg": "REF_BG_COURTROOM_NINE_AFTERNOON"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · OTS qua vai Stroud lên bục — Kirsch cắt lời mà không ngẩng khỏi hồ sơ",
+          "goc": "OTS qua vai trái Emil Stroud (vai/gáy tiền cảnh phải, mờ), mép vai phải Tavion Vann mờ ở mép trái khung, Roland Kirsch RÕ MẶT trên bục, cỡ medium",
+          "pose": {
+            "zone": "Sau lưng bàn bào chữa, giữa Tavion và Stroud → bục thẩm phán",
+            "who": {
+              "KIRSCH": "Ngồi trên bục, đầu cúi xuống tập hồ sơ, mắt đọc trang giấy, không nhìn luật sư, khoé miệng nhếch nhẹ một bên như thấy việc này buồn cười",
+              "STROUD": "Đứng, lưng về máy, vai trái và gáy tóc nâu chiếm góc dưới phải khung, mờ nét, người hơi ngả về phía bục như sắp lên tiếng, KHÔNG thấy mặt",
+              "TAVION": "Chỉ lọt mép vai phải áo xanh nhạt ở mép trái khung, mờ nét, đứng im"
+            },
+            "dist": "Máy cách bục khoảng bốn mét, nâng ngang tầm mắt Kirsch, ống kính giữ thẳng không ngửa lên",
+            "hands": {
+              "KIRSCH": "Tay phải cầm bút, ngón trỏ trái đặt hờ trên mép trang giấy",
+              "STROUD": "Tay trái kẹp tập bìa manila, bàn tay phải đặt hờ trên mép bàn bào chữa",
+              "TAVION": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium OTS, cinematic photorealistic, máy đứng ở bàn bào chữa, giữa Tavion và Stroud, cách bục khoảng bốn mét, nâng ngang tầm mắt Kirsch, ống kính giữ thẳng không ngửa lên. Vai trái và gáy tóc nâu của Emil Stroud chiếm góc dưới phải khung, mờ ngoài tiêu điểm, người hơi ngả về phía bục, KHÔNG thấy mặt. Mép trái khung lọt một phần vai áo xanh nhạt của Tavion Vann, mờ nét, đứng im. Roland Kirsch RÕ NÉT giữa khung trên bục, đầu cúi xuống tập hồ sơ mở, mắt đọc trang giấy, không nhìn luật sư; tay phải cầm bút, ngón trỏ trái đặt hờ trên mép trang; khoé miệng nhếch nhẹ một bên như thấy việc này buồn cười. Biển tên đồng \"JUDGE ROLAND KIRSCH\" rõ chữ trên mép bục. Hậu cảnh sau lưng ông là vách gỗ với con dấu tròn bằng đồng và cờ Mỹ, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_STROUD_SUIT_FULL",
+              "REF_TAVION_COURT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03B",
+          "label": "[HOOK] S03B · Trung cảnh hai người trục ngang từ phía cửa sổ — Stroud RÕ MẶT sắp lên tiếng lần nữa, Kirsch RÕ MẶT cúi đọc trên bục",
+          "goc": "Medium two-shot trục ngang, ống kính tele, từ phía dãy cửa sổ ngang thanh chắn: Emil Stroud RÕ MẶT nghiêng giữa-phải khung, Roland Kirsch RÕ MẶT nghiêng trên bục bên trái khung; mép vai Tavion Vann tiền cảnh phải, mờ",
+          "pose": {
+            "zone": "Lối đi hông sát cửa sổ, ngang thanh chắn → cắt ngang bàn bào chữa lên bục",
+            "who": {
+              "STROUD": "Đứng ở bàn bào chữa, nghiêng mặt hướng lên bục, người hơi ngả về trước, cằm nâng, miệng khép như sắp lên tiếng lần nữa; CHƯA bước lên",
+              "KIRSCH": "Ngồi trên bục, nghiêng mặt, đầu cúi đọc hồ sơ, không nhìn luật sư",
+              "TAVION": "Chỉ lọt vai và cánh tay áo xanh nhạt ở mép phải tiền cảnh, mờ nét, đứng im"
+            },
+            "dist": "Máy đứng trong lối đi hông sát cửa sổ ngang thanh chắn, ống kính tele 85mm, ngang tầm mắt người đứng, chĩa ngang sang phía lối đi giữa",
+            "hands": {
+              "STROUD": "Tay trái kẹp tập bìa manila sát hông, tay phải buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "KIRSCH": "Tay phải cầm bút trên trang hồ sơ",
+              "TAVION": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium two-shot trục ngang, cinematic photorealistic, ống kính tele 85mm, máy đứng trong lối đi hông sát dãy cửa sổ ngang thanh chắn, ngang tầm mắt người đứng, chĩa ngang sang phía lối đi giữa. Mép phải tiền cảnh lọt vai và cánh tay áo xanh nhạt của Tavion Vann, mờ ngoài tiêu điểm, đứng im. Giữa-phải khung: Emil Stroud RÕ MẶT nghiêng, đứng ở bàn bào chữa, người hơi ngả về phía bục, cằm nâng, miệng khép như sắp lên tiếng lần nữa, CHƯA bước lên; tay trái kẹp tập bìa manila sát hông, tay phải buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Bên trái khung, cao hơn và xa hơn khoảng ba mét: Roland Kirsch RÕ MẶT nghiêng trên bục, đầu cúi đọc hồ sơ, bút trong tay phải, không nhìn luật sư. Hậu cảnh là tường phải của phòng: hộp bồi thẩm để trống và vách gỗ nâu mật, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_STROUD_SUIT_FULL",
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03B_v1.png"
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · Trung-rộng hai lớp từ đầu bục phía cửa sổ — Kirsch RÕ MẶT cúi vào hồ sơ hạch hỏi, Corliss ngồi giữa khán phòng phía sau",
+          "goc": "Medium wide 3/4 hai lớp từ trên bục sát bên phải Kirsch (phía cửa sổ), Roland Kirsch RÕ MẶT nghiêng 3/4 tiền cảnh trái; Emil Stroud + Tavion Vann ở bàn bào chữa trung cảnh phải; Corliss Vann ngồi hàng ghế thứ hai hậu cảnh phải, nhỏ nhưng đọc được mặt",
+          "pose": {
+            "zone": "Trên bục, sát bên phải Kirsch phía cửa sổ → chéo xuống bàn bào chữa và hàng ghế thứ hai",
+            "who": {
+              "KIRSCH": "Ngồi trên bục, đầu hơi nghiêng về phía máy nên thấy rõ mặt 3/4, cúi vào tập hồ sơ, mắt nhìn trang giấy chứ không nhìn xuống khán phòng, khoé miệng hơi nhếch như đang điền một tờ khai nhàm chán",
+              "STROUD": "Đứng ở bàn bào chữa, mặt hướng lên bục",
+              "TAVION": "Đứng ở bàn bào chữa cạnh Stroud, mặt hướng lên bục, mắt nhìn thẳng phía trước",
+              "CORLISS": "Ngồi đầu hàng ghế thứ hai, lưng thẳng, mắt ngước nhìn vách gỗ phía trên đầu Kirsch, không nhìn con trai"
+            },
+            "dist": "Máy đặt trên bục sát bên phải Kirsch (phía cửa sổ), ngang tầm mặt ông, cách khoảng hai mét, ống kính 35mm chĩa chéo xuống khán phòng; độ sâu trường ảnh rộng để cả hai lớp đọc được",
+            "hands": {
+              "KIRSCH": "Tay phải cầm bút, đầu bút chạm trang giấy; tay trái đè mép hồ sơ",
+              "STROUD": "Tay trái kẹp tập bìa manila sát hông",
+              "TAVION": "Hai tay buông hai bên, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "CORLISS": "Hai tay yên trong lòng, tấm vé gấp tư dưới ngón cái phải"
+            }
+          },
+          "prompt": "Medium wide 3/4, cinematic photorealistic, máy đặt trên bục sát bên phải Kirsch phía cửa sổ, ngang tầm mặt ông, cách khoảng hai mét, ống kính 35mm chĩa chéo xuống khán phòng, hai lớp đều đọc được. Tiền cảnh trái: Roland Kirsch RÕ MẶT nghiêng 3/4, đầu hơi nghiêng về phía máy, cúi vào tập hồ sơ, mắt nhìn trang giấy chứ không nhìn xuống khán phòng, khoé miệng hơi nhếch như đang điền một tờ khai nhàm chán; đầu bút chạm trang giấy. Trung cảnh phải, thấp hơn bục: Emil Stroud và Tavion Vann đứng ở bàn bào chữa, mặt hướng lên bục; tay Tavion buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Hậu cảnh phải, sau thanh chắn gỗ: Corliss Vann ngồi đầu hàng ghế thứ hai, lưng thẳng, mắt ngước nhìn vách gỗ phía trên đầu Kirsch chứ không nhìn con trai, hai tay yên trong lòng; nhỏ hơn nhưng đọc được mặt. Quanh bà các hàng ghế kín người lớn đã ngừng mọi việc, ngồi im nhìn lên bục, vài người quay sang nhìn bà; ngoài nét mềm, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_STROUD_SUIT_FULL",
+              "REF_TAVION_COURT_FULL",
+              "REF_CORLISS_JACKET_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-04_v1.png"
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · Cận trung Kirsch qua vai Tavion — ngả lưng, đảo mắt khắp khán phòng như chia sẻ một câu đùa",
+          "goc": "Medium close-up dirty single, Roland Kirsch RÕ MẶT giữa khung, vai trái và gáy Tavion Vann tiền cảnh phải, mờ",
+          "pose": {
+            "zone": "Sau lưng Tavion ở bàn bào chữa, chếch về phía cửa sổ → bục thẩm phán",
+            "who": {
+              "KIRSCH": "Đã ngẩng hẳn khỏi hồ sơ, ngả nhẹ ra lưng ghế, mắt đảo sang các hàng ghế khán phòng như tìm người đồng tình, khoé miệng nhếch một nụ cười nhỏ dễ chịu, đầu hơi nghiêng như đang thẩm định",
+              "TAVION": "Lưng về máy, vai trái áo xanh nhạt và gáy tóc đen chiếm góc dưới phải khung, mờ nét, đứng im, KHÔNG thấy mặt"
+            },
+            "dist": "Máy cách bục khoảng ba mét, ống kính tele, nâng ngang tầm mắt Kirsch hạ nhẹ, không ngửa lên",
+            "hands": {
+              "KIRSCH": "Bút nằm ngang trên trang hồ sơ, bàn tay trái mở hờ trên mép bàn cạnh micro",
+              "TAVION": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, ống kính tele, máy đứng sau lưng Tavion, chếch về phía dãy cửa sổ, cách bục khoảng ba mét, nâng ngang tầm mắt Kirsch rồi hạ nhẹ, ống kính giữ thẳng không ngửa lên. Vai trái áo xanh nhạt và gáy tóc đen cắt ngắn của Tavion Vann chiếm góc dưới phải khung, mờ ngoài tiêu điểm, đứng im, KHÔNG thấy mặt. Roland Kirsch RÕ NÉT giữa khung, từ ngực trở lên, đã ngẩng hẳn khỏi hồ sơ, ngả nhẹ ra lưng ghế da, mắt đảo sang các hàng ghế khán phòng như tìm người đồng tình, khoé miệng nhếch một nụ cười nhỏ dễ chịu, đầu hơi nghiêng như đang thẩm định; bút nằm ngang trên trang giấy, bàn tay trái mở hờ trên mép bàn cạnh micro cổ ngỗng. Hậu cảnh sau lưng ông là vách gỗ nâu mật và mép cờ Mỹ, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-05_v1.png"
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Trung cảnh Corliss qua vai Kirsch — bà còn NGỒI, mắt khoá vào ông, ngón cái đè phẳng tấm vé",
+          "goc": "Medium dirty single ngược trục, Corliss Vann RÕ MẶT giữa khung còn NGỒI; mép vai phải áo choàng Roland Kirsch tiền cảnh trái, mờ; Tavion Vann lọt nửa người ở trung cảnh mép trái, ngoài nét",
+          "pose": {
+            "zone": "Mép bục thẩm phán sát vai phải Kirsch → đầu hàng ghế thứ hai",
+            "who": {
+              "CORLISS": "VẪN ĐANG NGỒI, CHƯA đứng dậy, lưng thẳng, ánh mắt khoá thẳng vào Kirsch, cằm giữ ngang, môi khép, cánh mũi phập phồng vì nén hơi",
+              "KIRSCH": "Mép vai phải áo choàng đen mờ ở góc dưới trái khung, đầu vẫn cúi, KHÔNG thấy mặt",
+              "TAVION": "Đứng ở bàn bào chữa, chỉ lọt nửa người bên phải ở trung cảnh mép trái khung, ngoài nét, mặt hướng lên bục"
+            },
+            "dist": "Máy đặt ở mép bục sát vai phải Kirsch, ống kính tele, cách Corliss khoảng sáu mét",
+            "hands": {
+              "CORLISS": "Ngón cái phải đè phẳng tấm vé chuyển tuyến vàng nhạt gấp tư lên đùi phải, mặt in chữ hướng lên; tay trái các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "KIRSCH": "Không thấy tay",
+              "TAVION": "Không rõ tay, ngoài nét"
+            }
+          },
+          "prompt": "Medium shot dirty single, cinematic photorealistic, ống kính tele, máy đặt ở mép bục sát vai phải Kirsch, cách Corliss khoảng sáu mét. Mép vai phải áo choàng đen của Roland Kirsch chiếm góc dưới trái khung, mờ, KHÔNG thấy mặt. Trung cảnh mép trái lọt nửa người Tavion Vann đứng ở bàn bào chữa, ngoài nét. Corliss Vann RÕ NÉT giữa khung, lấy từ ngang đùi trở lên, chừa rộng khoảng trống phía trên đầu, VẪN ĐANG NGỒI ở đầu hàng ghế thứ hai, CHƯA đứng dậy; lưng thẳng, ánh mắt khoá thẳng vào Kirsch, cằm giữ ngang, môi khép, cánh mũi phập phồng vì nén hơi — gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Ngón cái phải đè phẳng tấm vé chuyển tuyến vàng nhạt gấp tư lên đùi, mặt in chữ \"BELLAMY COUNTY TRANSIT\" hướng lên; tay trái các ngón hơi cong theo dáng nghỉ, không nắm chặt. Hậu cảnh sau lưng bà là các hàng ghế phía cuối phòng, một dáng người ngồi mờ ngay sau vai bà đang quay nhìn về phía bà, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_CORLISS_JACKET_FULL",
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL",
+              "REF_PROP_BUS_TRANSFER"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-06_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Trung cảnh Kirsch nghiêng từ đầu bục — gập hồ sơ gọi vụ kế tiếp, Corliss vẫn ĐỨNG mờ ở hậu cảnh",
+          "goc": "Medium 3/4 nghiêng từ đầu bục phía cửa sổ, Roland Kirsch RÕ MẶT nửa trái khung; Tavion Vann + Emil Stroud đứng ở bàn bào chữa và Corliss Vann ĐÃ ĐỨNG ở hàng ghế thứ hai, cả ba ở hậu cảnh phải, nhỏ, ngoài nét",
+          "pose": {
+            "zone": "Đầu phía cửa sổ của bục thẩm phán → chếch xuống bàn bào chữa và hàng ghế thứ hai",
+            "who": {
+              "KIRSCH": "Ngồi trên bục, mặt nghiêng 3/4 về phía phải khung, mắt cúi xuống tập hồ sơ vừa đọc xong, khoé miệng nhếch lên hài lòng, không nhìn xuống khán phòng",
+              "TAVION": "Đứng sau bàn bào chữa ở hậu cảnh phải, nhỏ, ngoài nét, mặt hướng lên bục",
+              "STROUD": "Đứng cạnh Tavion ở hậu cảnh, nhỏ, ngoài nét",
+              "CORLISS": "ĐÃ ĐỨNG THẲNG ở đầu hàng ghế thứ hai, hậu cảnh phải xa hơn Tavion, nhỏ, ngoài nét, mặt hướng lên bục"
+            },
+            "dist": "Máy đặt trên bục ở đầu phía cửa sổ, cách Kirsch khoảng hai mét, ngang tầm mắt ông, ống kính tele",
+            "hands": {
+              "KIRSCH": "Tay trái đè trên bìa tập hồ sơ đang mở, chuẩn bị gập lại; tay phải đặt hờ cạnh một tập hồ sơ khác còn đóng",
+              "TAVION": "Không rõ tay, ngoài nét",
+              "STROUD": "Không rõ tay, ngoài nét",
+              "CORLISS": "Không rõ tay, ngoài nét"
+            }
+          },
+          "prompt": "Medium shot 3/4, cinematic photorealistic, ống kính tele, máy đặt trên bục thẩm phán ở đầu phía cửa sổ, cách Kirsch khoảng hai mét, ngang tầm mắt ông. Mép trái tiền cảnh là cần micro cổ ngỗng, mờ. Roland Kirsch RÕ NÉT nửa trái khung, từ eo trở lên, mặt nghiêng 3/4 về phía phải khung, mắt cúi xuống tập hồ sơ mở, khoé miệng nhếch lên hài lòng như vừa xong một việc vặt; tay trái đè trên bìa hồ sơ chuẩn bị gập lại, tay phải đặt hờ cạnh một tập hồ sơ khác còn đóng. Nửa phải khung là hậu cảnh xa và thấp dưới bục, ngoài nét sâu: Tavion Vann và Emil Stroud đứng ở bàn bào chữa, xa hơn sau thanh chắn gỗ là Corliss Vann ĐÃ ĐỨNG THẲNG ở đầu hàng ghế thứ hai, cả ba nhỏ, mặt hướng lên bục; vài người ngồi quanh bà quay nhìn bà. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KIRSCH_ROBE_FULL",
+              "REF_TAVION_COURT_FULL",
+              "REF_STROUD_SUIT_FULL",
+              "REF_CORLISS_JACKET_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "KIRSCH: \"Trash raises trash. Sit down.\"\nNARRATION: Judge Roland Kirsch said it into the microphone at four fifteen, in Bellamy County's Courtroom Nine. He meant the",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKIRSCH — 58-year-old white man, wearing a black judicial robe, on the bench.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, back to camera.\nSTROUD — 41-year-old white man, wearing a tan suit, back to camera.\nCORLISS — 44-year-old Black woman, wearing a navy-blue work jacket, second row left, back to camera.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe defense has just asked on what basis. The judge answers by looking past the defendant at his mother.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:03 Kirsch's line, with a small pause between the two sentences.\n0:03–0:10 no dialogue — reserved for: \"Judge Roland Kirsch said it into the microphone at four fifteen, in Bellamy County's Courtroom Nine. He meant the\"\n\nDIALOGUE ORDER:\nKIRSCH\n\nSHOT 1 (0:00–0:04) — WIDE ESTABLISHING FROM THE CENTRE AISLE — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the bench.\n0:00–0:03: Kirsch's eyes travel past the defense table to the end of the second row on the left. He leans an inch toward the gooseneck microphone and says it lightly, almost pleasantly, the way a man reads out a docket number.\nKIRSCH — light, pleasant, unhurried: \"Trash raises trash. Sit down.\"\n0:03–0:04: He lets it sit. Tavion, Stroud and Corliss hold their places, backs to camera.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM ON THE BENCH — VERY SLOW PUSH-IN\nKirsch turns his head a few degrees toward the gallery rows and back, checking that the room caught it, and the corner of his mouth lifts. Then his eyes drop back to the file and one finger turns a page. In the rows, heads stay turned toward the second row; nobody stands, nobody speaks. No dialogue.\n\nPERFORMANCE:\nThe cruelty is in how easy it is for him, shared with the room. Everyone else stays soft and neutral.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Only Kirsch speaks, only in Shot 1. In Shot 2 no character speaks or moves their lips. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, one beat after Kirsch finishes: \"Sit down.\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide from the centre aisle, slow push-in.\nSHOT 2 = medium on the bench, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v1.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: woman in row two. Corliss Vann, forty-four, night-shift dispatcher. Her son sat at the defense table.\nKIRSCH: \"Bailiff. Take the mother's name for the record.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCORLISS — 44-year-old Black woman, wearing a navy-blue work jacket, right foreground, seated.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, mid-frame, standing.\nSTROUD — 41-year-old white man, wearing a tan suit, beside Tavion.\nKIRSCH — 58-year-old white man, wearing a black judicial robe, far left on the bench.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nSide-on view. The woman he meant sits eight feet behind her son. The judge orders her name taken without looking up.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:06 no dialogue — reserved for: \"woman in row two. Corliss Vann, forty-four, night-shift dispatcher. Her son sat at the defense table.\"\n0:06–0:09 Kirsch's line.\n0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nKIRSCH\n\nSHOT 1 (0:00–0:06) — LATERAL WIDE — SLOW PUSH-IN TOWARD CORLISS\n0:00–0:03: Corliss sits upright, face turned fully to the bench, eyes locked on Kirsch. Her eyelids close for one slow beat and open again, eyes still on him — she has taken the word and will not let it show. Her jaw sets; a muscle tightens at the hinge.\n0:03–0:06: Mid-frame, Tavion faces the bench and draws one breath in through his nose, and holds it. Stroud stands beside him. No one speaks.\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — SLIGHTLY TIGHTER LATERAL, KIRSCH STILL AT THE LEFT EDGE — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:06–0:09: On the bench at the far left, Kirsch does not lift his eyes from the file. Without looking, he flicks two fingers toward the second row, the way one points out an item on a shelf.\nKIRSCH — mild, bored, as if ordering office supplies: \"Bailiff. Take the mother's name for the record.\"\n0:09–0:10: Corliss's eyes stay on him. The folded transfer stays flat under her right thumb.\n\nPERFORMANCE:\nRestraint, not blankness: we must see what sitting still costs Corliss. Kirsch treats her as paperwork.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Only Kirsch speaks, only in Shot 2; the others listen with mouths closed. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, as the silent window ends, just before Kirsch speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = lateral wide, slow push-in toward Corliss.\nSHOT 2 = tighter lateral, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v4.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 6,
+          "text": "KIRSCH: \"Spell it out loud.\"\nSTROUD: \"Your Honor, that isn't relevant to—\"\nKIRSCH: \"Sit down, counselor.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n6-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKIRSCH — 58-year-old white man, wearing a black judicial robe, facing camera, reading his file.\nSTROUD — 41-year-old white man, wearing a tan suit, blurred shoulder in foreground, face never visible.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, blurred sliver at left edge, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe judge orders the mother's name spelled out. The public defender objects and is cut off without a glance. Fast, clipped, one push and one shove back.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:02 Kirsch: \"Spell it out loud.\"\n0:02–0:04 Stroud, back to camera, cut off mid-sentence: \"Your Honor, that isn't relevant to—\"\n0:04–0:06 Kirsch: \"Sit down, counselor.\"\n\nDIALOGUE ORDER:\nKIRSCH → STROUD → KIRSCH\n\nSHOT 1 (0:00–0:04) — MEDIUM OTS ON KIRSCH BETWEEN THE TWO SHOULDERS — SLOW PUSH-IN\n0:00–0:02: Kirsch reads, pen moving across the page, and gives the order without looking up.\nKIRSCH — flat, unhurried: \"Spell it out loud.\"\n0:02–0:04: Stroud straightens and leans toward the bench; his face stays out of view.\nSTROUD — polite, firm: \"Your Honor, that isn't relevant to—\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:06) — TIGHTER ON KIRSCH — VERY SLOW PUSH-IN\nKirsch lifts one finger off the page without raising his eyes, stopping Stroud like a waiter being waved off, a faint amused crease at one corner of his mouth.\nKIRSCH — mild, bored, like correcting a typo: \"Sit down, counselor.\"\n\nPERFORMANCE:\nThe smallness of Kirsch's effort is the insult; he never looks up. Stroud is decent and outranked.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Stroud speaks with his back to camera, face never seen. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant Kirsch cuts across Stroud's unfinished sentence.\n\nCAMERA SUMMARY:\nSHOT 1 = medium OTS on Kirsch, slow push-in.\nSHOT 2 = tighter on Kirsch, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v2.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-03B",
+          "sf": "SF-HOOK-03B",
+          "dur": 6,
+          "text": "STROUD: \"Your Honor—\"\nKIRSCH: \"I said sit down.\"\nNARRATION: He never looked at her.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n6-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSTROUD — 41-year-old white man, wearing a TAN suit, standing mid-frame at the defense table, face in profile. He is the ONLY man in a tan suit.\nKIRSCH — 58-year-old white man, wearing a BLACK judicial robe, seated high on the bench at frame left, face in profile. He is the ONLY man in black.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, blurred shoulder at right edge, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe lawyer tries once more; the judge stops him without looking up.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:02 the man in the TAN suit speaks: \"Your Honor—\"\n0:02–0:04 the judge in the BLACK robe speaks: \"I said sit down.\"\n0:04–0:06 no dialogue — reserved for: \"He never looked at her.\"\n\nDIALOGUE ORDER:\nSTROUD (tan suit) → KIRSCH (black robe). One speaker per shot.\n\nSHOT 1 (0:00–0:02) — MEDIUM ON STROUD, SIDE-ON — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nThe judge in black stays small at far left, head bowed, mouth closed.\nThe man in the tan suit takes a half step forward, putting himself between his client and the bench.\nSTROUD (man in the TAN suit) — firm, respectful, pushing: \"Your Honor—\"\n\nHARD CUT.\n\nSHOT 2 (0:02–0:06) — TIGHTER ON KIRSCH ON THE BENCH — VERY SLOW PUSH-IN\nThe judge in black fills the frame at left, face in clear profile; the man in the tan suit is a soft shape at right, mouth closed.\n0:02–0:04: Without looking up, he turns a page with one finger.\nKIRSCH (man in the BLACK robe) — quiet, almost amused, never raising his voice: \"I said sit down.\"\n0:04–0:06: He writes a note, mouth corner lifting at a win this cheap. At right, the man in the tan suit draws his foot back beside his client. No dialogue.\n\nPERFORMANCE:\nThe half step is all the lawyer can do; pulling it back costs him. The judge enjoys the easy win.\n\nLIP SYNC:\nShot 1: ONLY the man in the tan suit moves his lips; the man in the black robe keeps his mouth fully closed. Shot 2: ONLY the man in the black robe moves his lips; the man in the tan suit keeps his mouth fully closed. No overlapping dialogue.\n\nAUDIO:\nDialogue only, clear American English. Silent window: room tone only. No narrator. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:02, right after \"Your Honor—\".\n\nCAMERA SUMMARY:\nSHOT 1 = medium on the tan suit, static.\nSHOT 2 = tighter on the black robe, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03B_v4.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "KIRSCH: \"Ma'am. Do you work? Anywhere? And how far did you get in school? Answer both.\"\nNARRATION: Forty-one people sat in the gallery. Nobody answered for her.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKIRSCH — 58-year-old white man, wearing a black judicial robe, left foreground, face clearly visible in three-quarter view.\nSTROUD — 41-year-old white man, wearing a tan suit, mid-ground right.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, mid-ground right.\nCORLISS — 44-year-old Black woman, wearing a navy-blue work jacket, seated in the background.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKirsch questions the mother without looking up; a full gallery lets the silence stand.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:05 Kirsch's line, his face visible.\n0:05–0:10 no dialogue — reserved for: \"Forty-one people sat in the gallery. Nobody answered for her.\"\n\nDIALOGUE ORDER:\nKIRSCH\n\nSHOT 1 (0:00–0:05) — MEDIUM WIDE THREE-QUARTER ON KIRSCH, GALLERY BEHIND — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nKirsch's face stays clear in three-quarter view. He asks each question to the page and ticks the pen against the paper after each one, like ticking boxes on a form, never lifting his eyes.\nKIRSCH — light, conversational, as if filling in a form: \"Ma'am. Do you work? Anywhere? And how far did you get in school? Answer both.\"\nBehind him, Tavion's head starts to turn toward the second row, stops a few degrees in, and his eyes go back to the front. Further back, Corliss keeps her eyes on the wall above the judge, not on her son.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER ON THE SECOND ROW, KIRSCH'S PROFILE AT LEFT EDGE — VERY SLOW PUSH-IN\nKirsch waits, pen resting on the page, one eyebrow lifted, still not looking up, letting the questions hang for the room. Corliss sits upright, hands still in her lap, eyes up on the wall; she swallows once. Nobody in the gallery moves; the rows stay soft. No dialogue.\n\nPERFORMANCE:\nKirsch treats her like a line on a form and lets the room watch. Corliss: restraint, not blankness.\n\nLIP SYNC:\nOnly Kirsch speaks, in Shot 1, face visible. In Shot 2 no one speaks. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Kirsch finishes: \"Answer both.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide three-quarter on Kirsch, static.\nSHOT 2 = tighter on the second row, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v3.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "KIRSCH: \"Some people raise children,\"\nNARRATION: Kirsch said.\nKIRSCH: \"Some people raise defendants. Nine years up here, and I can tell which is which before either one talks.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKIRSCH — 58-year-old white man, wearing a black judicial robe, facing camera.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, blurred shoulder in foreground, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKirsch delivers his philosophy of the room — to the room. The defendant's back is a few feet away.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:02 Kirsch: \"Some people raise children,\"\n0:02–0:03 silent beat — reserved for: \"Kirsch said.\"\n0:03–0:04 Kirsch: \"Some people raise defendants.\"\n0:04–0:09 Kirsch: \"Nine years up here, and I can tell which is which before either one talks.\"\n0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nKIRSCH\n\nSHOT 1 (0:00–0:04) — MEDIUM CLOSE-UP DIRTY SINGLE ON KIRSCH — SLOW PUSH-IN\n0:00–0:02: Kirsch's eyes travel along the gallery rows as if looking for agreement.\nKIRSCH — warm, easy, like remarking on the weather: \"Some people raise children,\"\n0:02–0:03: He pauses and tilts his head a little, appraising the rows.\nKIRSCH — same easy tone: \"Some people raise defendants.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER MEDIUM CLOSE-UP ON KIRSCH — VERY SLOW PUSH-IN\n0:04–0:09: He picks up the pen, taps it once on the file, and throws the rest out to the gallery, not toward the defense table, the small smile widening as he goes.\nKIRSCH — relaxed, self-satisfied: \"Nine years up here, and I can tell which is which before either one talks.\"\n0:09–0:10: He holds the smile on the rows a beat longer.\n\nPERFORMANCE:\nKirsch performs the line for the audience in the room and enjoys it; he is never defensive, never loud.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Only Kirsch speaks. Tavion stays silent with his face never visible. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after Kirsch finishes: \"Some people raise defendants.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up dirty single on Kirsch, slow push-in.\nSHOT 2 = tighter medium close-up on Kirsch, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v2.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: Corliss stood. A folded bus transfer stayed flat under her thumb.\nCORLISS: \"My son has a name, Your Honor,\"\nNARRATION: she said.\nCORLISS: \"So do I.\"\nKIRSCH: \"Noted for the record.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCORLISS — 44-year-old Black woman, wearing a navy-blue work jacket, seated at the start.\nKIRSCH — 58-year-old white man, wearing a black judicial robe, blurred shoulder in foreground, face never visible.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, soft at the left edge, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe mother stands to face the man who will not look at her.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:04 no dialogue — reserved for: \"Corliss stood. A folded bus transfer stayed flat under her thumb.\"\n0:04–0:06 Corliss: \"My son has a name, Your Honor,\"\n0:06–0:07 silent beat — reserved for: \"she said.\"\n0:07–0:08 Corliss: \"So do I.\"\n0:08–0:10 Kirsch, from the foreground: \"Noted for the record.\"\n\nDIALOGUE ORDER:\nCORLISS → KIRSCH\n\nSHOT 1 (0:00–0:04) — MEDIUM ON CORLISS OVER KIRSCH'S SHOULDER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:00–0:03: Corliss rises in one steady movement and stands straight at the end of the row. Her right hand comes up with her, the folded transfer still pressed flat under her thumb. Her eyes stay locked on Kirsch the whole way up.\n0:03–0:04: Standing, she presses her lips together for one beat.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM CLOSE-UP ON CORLISS, STANDING — VERY SLOW PUSH-IN\n0:04–0:06: CORLISS — low, level, every word placed: \"My son has a name, Your Honor,\"\n0:06–0:07: One beat of silence. She does not look away.\n0:07–0:08: CORLISS — quieter, final: \"So do I.\"\n0:08–0:10: Kirsch answers from the foreground, head still bowed.\nKIRSCH — flat, dismissive, already finished with her: \"Noted for the record.\"\n\nPERFORMANCE:\nRestraint, not blankness: standing up costs her and we see it. No raised voice, no tears. Her face never goes slack.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Kirsch's face is never seen; his line comes from the blurred shoulder. Tavion never speaks. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, once Corliss is fully standing and before she speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = medium on Corliss, static.\nSHOT 2 = medium close-up on Corliss, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v2.mp4",
+          "vstatus": "approved"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "KIRSCH: \"Next case.\"\nNARRATION: He did not know what she had been before the radio room. Four days later, he found out. It starts nine years earlier.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKIRSCH — 58-year-old white man, wearing a black judicial robe, left half of frame.\nTAVION — 18-year-old Black young man, wearing a light-blue shirt, small, out of focus in background.\nSTROUD — 41-year-old white man, wearing a tan suit, small, out of focus.\nCORLISS — 44-year-old Black woman, wearing a navy-blue work jacket, standing, small, out of focus in far background.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKirsch has already moved on. Far behind him, the woman he dismissed is still on her feet — and he has no idea who she is.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:02 Kirsch: \"Next case.\"\n0:02–0:10 no dialogue — reserved for: \"He did not know what she had been before the radio room. Four days later, he found out. It starts nine years earlier.\"\n\nDIALOGUE ORDER:\nKIRSCH\n\nSHOT 1 (0:00–0:03) — MEDIUM THREE-QUARTER PROFILE ON KIRSCH FROM THE END OF THE BENCH — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:00–0:02: Kirsch closes the open file under the flat of his left hand and slides it aside without looking at it or at anyone.\nKIRSCH — brisk, light, already bored: \"Next case.\"\n0:02–0:03: In the soft background, Corliss is still standing at the end of the second row.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER ON KIRSCH, BACKGROUND STILL SOFT — VERY SLOW PUSH-IN\nHe draws the closed file that was already beside his right hand in front of him and opens it. He glances down toward the clerk's desk below the bench, out of frame, with a small pleased breath through the nose, as if the room agreed with him. He never looks toward the second row again. Far behind him, out of focus, Corliss stays standing, facing the bench. No dialogue for seven seconds.\n\nPERFORMANCE:\nDismissal as reflex: Kirsch shares his small victory with the room. The background figures never come into focus.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Only Kirsch speaks, only in Shot 1. In silences, mouths stay closed.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint room tone only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, just after Kirsch finishes: \"Next case.\" and slides the file aside.\n\nCAMERA SUMMARY:\nSHOT 1 = medium on Kirsch, static.\nSHOT 2 = tighter on Kirsch, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v2.mp4",
+          "vstatus": "approved"
+        }
+      ]
+    }
+  ]
+}

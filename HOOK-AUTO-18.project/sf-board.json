@@ -1,0 +1,518 @@
+{
+  "film": "AUTO 18 — ISAIAH MERCER: TÀI XẾ BẢY THỨ TIẾNG",
+  "kind": "phim",
+  "updated_at": "2026-09-11 16:25:09",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_ISAIAH_CHAUFFEUR_FULL",
+          "label": "★ ISAIAH MERCER — VEST ĐEN TÀI XẾ CRESTLINE (thẻ neo nhân dạng)",
+          "desc": "Nam chính. 41 tuổi, tài xế limousine hãng Crestline chín năm, nói bảy thứ tiếng, lớn lên trên chiếc ghế thứ hai của sạp đánh giày ở JFK. Trong Hook: cầm lái, bị hất gương, bị rơi tro xì gà lên vai, nghe trọn kế hoạch bằng tiếng Nhật mà vẫn lái không lệch một phân. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong một ảnh. Mặt phải đọc ra: điềm đạm, lịch thiệp, luôn lắng nghe; sức nén nằm ở hàm và ánh mắt, không nằm ở vẻ khắc khổ.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ gốc Phi 41 tuổi, da nâu sẫm ấm có kết cấu thật với lỗ chân lông nhìn rõ, gương mặt khoẻ và ưa nhìn, xương hàm vuông vừa, sống mũi rộng mềm, mắt nâu sẫm nhìn tỉnh, ấm và chú tâm, lông mày dày gọn, môi đầy khép tự nhiên KHÔNG cười, râu cạo sạch. Tóc đen xoăn sát cắt rất ngắn, viền tóc cắt sắc gọn. Vóc người cao vừa, vai rộng, lưng thẳng kiểu người làm nghề phục vụ lâu năm. Bộ vest tài xế len màu ĐEN hai khuy, cài khuy trên, may vừa người, phẳng phiu; sơ mi TRẮNG cổ đứng phẳng; cà vạt ĐEN trơn thắt gọn; quần âu đen ly thẳng; giày da đen đánh bóng như gương, mũi giày phản chiếu ánh đèn. Không trang sức, không đội mũ. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PRESTON_SUIT_FULL",
+          "label": "★ PRESTON HALE — VEST XÁM NGỌC TRAI (thẻ neo nhân dạng)",
+          "desc": "Phản diện. 63 tuổi, chủ tịch Hale Industries, hai mươi năm điều hành mảng châu Á từ Tokyo, nói tiếng Nhật trôi chảy. Vừa bay từ Tokyo về, ngồi băng ghế sau limousine cạnh mẹ, bàn kế hoạch tước quyền bà bằng tiếng Nhật qua loa ngoài điện thoại. Thẻ neo nhân dạng. Mặt phải đọc ra: tự tin, bóng bẩy, quen được chiều; cái ác nằm ở sự thoải mái, không nằm ở nét mặt hung dữ.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ da trắng 63 tuổi, da sáng hơi rám nắng có kết cấu thật với lỗ chân lông nhìn rõ, vài nếp nhăn nhẹ ở khoé mắt và trán đúng tuổi, gương mặt gầy góc cạnh ưa nhìn, xương hàm sắc, mũi thẳng, mắt xanh xám nhìn thẳng tự tin, môi mỏng khép tự nhiên KHÔNG cười, râu cạo sạch. Tóc nâu sẫm dày chải lật ra sau gọn gàng, hai bên thái dương BẠC. Vóc người CAO, gầy, vai thẳng. Bộ vest hai khuy màu XÁM NGỌC TRAI sáng, len mỏng cao cấp, may đo vừa khít, phẳng phiu; sơ mi XANH DA TRỜI NHẠT mở một khuy cổ, không cà vạt; khăn cài túi ngực trắng gấp phẳng; quần âu cùng màu vest; giày loafer da nâu sẫm. Đúng một món trang sức: đồng hồ thép mặt xanh navy ở cổ tay TRÁI. Nền màu trơn xám than vừa kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_MARGARET_COAT_FULL",
+          "label": "★ MARGARET HALE — ÁO KHOÁC LẠC ĐÀ (thẻ neo nhân dạng)",
+          "desc": "Mẹ của Preston, 84 tuổi, goá chồng, nắm 51% cổ phần Hale Industries. Vừa về sau chuyến bay mười bốn tiếng từ Tokyo, ngồi cạnh con trai, không hiểu một chữ tiếng Nhật nào. Thẻ neo nhân dạng. Mặt phải đọc ra: hiền, tinh tế, mệt và hơi lạc lõng; già ở đôi tay nhiều hơn ở gương mặt.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ Mỹ da trắng 84 tuổi, nhỏ người, dáng vẫn thẳng. Da trắng hồng mỏng có kết cấu thật, nếp nhăn tuổi già ở khoé mắt, trán và quanh miệng, vài đốm đồi mồi nhạt ở thái dương; gương mặt thanh, gò má cao, mắt xanh lơ nhạt dịu và tinh anh, môi mỏng khép tự nhiên KHÔNG cười. Đôi tay lộ tuổi rõ nhất: da mỏng, gân xanh nổi, đốm đồi mồi. Tóc bạc trắng xoắn lên và ghim gọn gàng sau đầu. Áo khoác dạ len màu LẠC ĐÀ (camel) dài quá gối, cài kín khuy, hơi dày so với trời tháng Chín, phẳng phiu; bên trong lộ cổ áo len mỏng màu kem; váy len nâu nhạt, giày da thấp gót màu nâu. Tay trái cầm chiếc túi xách da cầm tay màu NÂU SẪM có khoá cài vàng, buông tự nhiên bên hông. Trang sức: đôi hoa tai ngọc trai nhỏ và nhẫn cưới vàng mảnh ở ngón áp út tay TRÁI. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_LIMO_CABIN_AFTERNOON",
+          "label": "BỐI CẢNH — Khoang limousine Crestline trên Hutchinson Parkway (đầu giờ chiều)",
+          "desc": "Bối cảnh chính của Hook — nơi Preston hất gương, rơi tro lên vai tài xế và bàn kế hoạch bằng tiếng Nhật. Mốc trục: xe tay lái thuận, ghế lái bên TRÁI xe. Nhìn từ kính chắn gió vào trong thì ghế lái (Isaiah) ở PHẢI khung, ghế phụ trống ở TRÁI khung; băng ghế sau ngay sau vách ngăn đã hạ kính: Preston ngồi lệch vào giữa, phía sau lưng ghế lái; Margaret sát cửa bên phải xe. Điện thoại nằm trên tay vịn gập giữa hai người.",
+          "prompt": "Bối cảnh ở Mỹ. Khoang một chiếc limousine Lincoln đen dáng sedan trục cơ sở dài của hãng xe đưa đón hạng sang, đang chạy trên Hutchinson Parkway đầu giờ chiều tháng Chín, chở khách từ sân bay về Connecticut. Không có người trong khung hình. Máy gắn sát kính chắn gió chính giữa, nhìn ngược vào trong xe. TRƯỚC MẶT (hướng đuôi xe): ghế lái da đen bên PHẢI khung, ghế phụ để trống bên TRÁI khung; sau hai ghế trước là vách ngăn riêng tư ốp gỗ, ô kính đen đã hạ hết để lại một khung mở chữ nhật; ngay sau vách là băng ghế da hai chỗ hướng về trước, giữa có tay vịn gập; sau băng ghế là kính hậu phủ phim. HAI BÊN: cửa sổ hông phủ phim, ngoài kia hàng cây và rào gỗ ven parkway trôi qua. SAU LƯNG MÁY: kính chắn gió, gương chiếu hậu treo giữa mép trên kính, táp-lô ốp gỗ, vô lăng da đen.\n- Photorealistic, điện ảnh nhưng hiện thực, ống kính 20mm, máy ngang tầm mắt người ngồi.\n- Da ghế đen mờ, ốp gỗ óc chó sẫm bóng nhẹ, trần nỉ màu kem, thảm đen, viền kim loại mạ bạc xước.\n- Nắng chiều vàng ấm xiên qua cửa sổ bên trái xe thành vệt sáng trên lưng ghế; ánh trời trắng dịu qua kính chắn gió mở sáng khoang trước; khoang sau tối hơn một bậc nhưng rõ chi tiết. Không u tối, không moody, tương phản trung bình, bóng mềm, giữ skin tone tự nhiên.\n- Tổng thể sang, kín, ấm mà ngột ngạt — KHÁC HẲN ánh huỳnh quang trắng lạnh của sảnh đến sân bay JFK ở phần sau phim.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_HUTCHINSON_PARKWAY_AFTERNOON",
+          "label": "BỐI CẢNH — Hutchinson River Parkway hướng về Connecticut (đầu giờ chiều)",
+          "desc": "Ngoại cảnh duy nhất của Hook — limousine chạy thẳng giữa làn, \"never drifted an inch\". Mốc trục: chiều về Connecticut, máy nhìn ngược về dòng xe đang tới; làn trái sát dải phân cách cây, làn phải sát lề cỏ.",
+          "prompt": "Bối cảnh ở Mỹ. Một đoạn Hutchinson River Parkway phía bắc thành phố New York, chiều đi Connecticut, đầu giờ chiều thứ Sáu tháng Chín: dòng xe về cuối tuần đông nhưng vẫn chạy đều. Không có người trong khung hình. Máy đặt giữa hai làn cùng chiều, ngang tầm nắp capô, nhìn ngược về phía dòng xe đang tới. TRƯỚC MẶT: hai làn nhựa xám cùng chiều vạch sơn trắng đứt, uốn cong nhẹ; xa là một cầu vượt vòm đá xám kiểu parkway cổ. BÊN TRÁI: dải phân cách cỏ trồng sồi và phong cao, lá xanh sẫm cuối hè, lác đác vài chùm ngả vàng, sau đó là chiều ngược lại. BÊN PHẢI: lề cỏ hẹp, rào chắn gỗ trên trụ thép nâu, dốc cỏ lên bìa rừng. SAU LƯNG MÁY: đường tiếp tục thẳng lên hướng bắc, một biển chỉ đường xanh lá chữ trắng ghi \"HUTCHINSON PKWY NORTH\". Parkway không có chỗ đỗ xe; lề đường sạch.\n- Photorealistic, điện ảnh nhưng hiện thực, ống kính 35mm, máy ngang tầm capô.\n- Mặt nhựa xám tro, đá cầu vượt xám ấm, rào gỗ nâu, cỏ xanh vàng cuối hè.\n- Nắng đầu giờ chiều trong, chiếu xiên từ phía sau bên trái dòng xe, đổ bóng cây ngắn lốm đốm trên mặt đường; trời xanh nhạt mây mỏng. Không cháy trắng, tương phản trung bình.\n- Tổng thể thoáng, sáng và mở — KHÁC HẲN khoang limousine da đen kín, tối hơn một bậc ở các khung trước.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Tài xế nghe trọn kế hoạch bằng tiếng Nhật",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Toàn cảnh khoang xe từ kính chắn gió — Isaiah ngước nhìn gương, Preston nhổm lên",
+          "goc": "Wide nội cảnh từ kính chắn gió nhìn ngược vào khoang, Isaiah Mercer RÕ MẶT ghế lái bên phải khung; Preston Hale RÕ MẶT giữa khung, mặt lọt khe hai tựa đầu ghế trước; Margaret Hale RÕ MẶT băng ghế sau bên trái khung",
+          "pose": {
+            "zone": "Kính chắn gió chính giữa → toàn khoang, đuôi xe",
+            "who": {
+              "ISAIAH": "Ngồi ghế lái, mắt ngước lên gương chiếu hậu, chân mày hơi chau vì lo cho bà cụ ghế sau",
+              "PRESTON": "Ngồi lệch vào giữa băng ghế sau, người vừa nhổm về phía trước, mắt nhìn lên gương chiếu hậu, khoé miệng nhếch khó chịu",
+              "MARGARET": "Ngồi sát cửa bên phải xe, lưng tựa ghế, da tái vì mệt"
+            },
+            "dist": "Máy sát kính chắn gió, cách băng ghế sau khoảng hai mét, ngang tầm mắt người ngồi",
+            "hands": {
+              "ISAIAH": "Hai tay đặt nhẹ trên vô lăng, không siết",
+              "PRESTON": "Tay trái kẹp xì gà đang cháy, tàn tro dài; tay phải đặt trên mép vách ngăn, chưa chạm gương",
+              "MARGARET": "Hai tay đặt hờ trên túi xách trong lòng, không nắm chặt"
+            }
+          },
+          "prompt": "Wide shot nội cảnh, cinematic photorealistic, ống kính 20mm, máy gắn sát kính chắn gió chính giữa, nhìn ngược vào khoang xe, ngang tầm mắt người ngồi. Gương chiếu hậu treo ở mép trên chính giữa khung, tiền cảnh, mờ, mặt gương đang chỉnh chếch về băng ghế sau. Ghế lái bên PHẢI khung: Isaiah Mercer RÕ MẶT, hai tay đặt nhẹ trên vô lăng, không siết, mắt ngước lên gương chiếu hậu, chân mày hơi chau vì lo cho bà cụ ghế sau. Ghế phụ bên TRÁI khung để trống. Qua khung vách ngăn đã hạ kính: Preston Hale ngồi lệch vào giữa băng ghế sau, mặt lọt giữa khe hai tựa đầu ghế trước, RÕ MẶT, người vừa nhổm về phía trước, mắt nhìn lên gương chiếu hậu (không nhìn vào ống kính), khoé miệng nhếch khó chịu như vừa bắt được lỗi của người làm; tay trái kẹp điếu xì gà đang cháy, tàn tro dài; tay phải đặt trên mép vách ngăn, chưa chạm gương. Margaret Hale ngồi sát cửa bên TRÁI khung, RÕ MẶT, da tái nhợt vì mệt sau chuyến bay dài, lưng tựa ghế, hai tay đặt hờ trên chiếc túi xách nâu sẫm trong lòng, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Điện thoại của Preston nằm ngửa trên tay vịn giữa, màn hình tối. Qua kính hậu và cửa sổ hông: dòng xe cùng chiều chạy chậm phía sau, hàng cây ven đường trôi qua. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "REF_BG_LIMO_CABIN_AFTERNOON"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Medium ba lớp từ ghế phụ — tàn xì gà treo trên vai Isaiah, Margaret nhìn con",
+          "goc": "Medium ba lớp từ ghế phụ nhìn chéo về sau bên trái, Isaiah Mercer RÕ MẶT nghiêng phải tiền cảnh phải; Preston Hale RÕ MẶT giữa khung, chồm vào khe hai ghế trước; Margaret Hale RÕ MẶT 3/4 băng ghế sau mép trái khung",
+          "pose": {
+            "zone": "Ghế phụ phía trước → ghế lái, khe hai ghế trước, băng ghế sau",
+            "who": {
+              "ISAIAH": "Nghiêng mặt phải, mắt nhìn thẳng đường, môi khép, cơ hàm gồ nhẹ ở khớp",
+              "PRESTON": "Chồm hẳn vào khe giữa hai ghế trước, mắt đã rời Isaiah, lướt về điện thoại trên tay vịn",
+              "MARGARET": "Ngồi sát cửa, mặt 3/4, mắt nhìn về con trai"
+            },
+            "dist": "Máy ở ghế phụ, cách Isaiah khoảng 0,8 mét, ngang tầm vai",
+            "hands": {
+              "ISAIAH": "Hai tay trên vô lăng, ngoài khung",
+              "PRESTON": "Cẳng tay trái gác đỉnh lưng ghế lái, xì gà kẹp giữa hai ngón, tàn tro dài treo trên vai phải Isaiah — CHƯA rơi",
+              "MARGARET": "Hai tay đặt hờ trên túi xách, không nắm chặt"
+            }
+          },
+          "prompt": "Medium shot ba lớp, cinematic photorealistic, ống kính 35mm, máy đặt ở ghế phụ ngang tầm vai, nhìn chéo về phía sau bên trái. Tiền cảnh phải: Isaiah Mercer nghiêng mặt phải, RÕ NÉT từ vai trở lên, mắt nhìn thẳng đường phía trước, môi khép, cơ hàm gồ nhẹ ở khớp — gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ. Giữa khung: Preston Hale RÕ MẶT, chồm hẳn vào khe giữa hai ghế trước, cẳng tay trái gác lên đỉnh lưng ghế lái, điếu xì gà kẹp giữa hai ngón với đoạn tàn tro xám dài treo ngay trên vai phải áo vest đen của Isaiah — tro CHƯA rơi; mắt Preston đã rời Isaiah, lướt về điện thoại trên tay vịn giữa. Mép trái khung, băng ghế sau: Margaret Hale RÕ MẶT 3/4, mắt nhìn về con trai, hai tay đặt hờ trên túi xách, không nắm chặt. Qua cửa sổ ghế lái sau lưng Isaiah: hàng cây và xe làn bên trôi qua, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · OTS qua vai Margaret sang Preston — điện thoại trên tay vịn còn tối",
+          "goc": "OTS qua vai phải Margaret Hale (tiền cảnh phải, mờ) sang Preston Hale RÕ MẶT 3/4 giữa-trái khung; gáy và vai phải Isaiah Mercer mờ ở khoang trước, phía phải khung",
+          "pose": {
+            "zone": "Góc sau bên phải khoang, sau vai Margaret → Preston, khoang lái",
+            "who": {
+              "MARGARET": "Lưng 3/4 về máy, chỉ thấy vai áo và búi tóc bạc, KHÔNG thấy mặt",
+              "PRESTON": "Đã ngả lưng lại vào ghế, mặt nghiêng 3/4 cúi về điện thoại trên tay vịn giữa, khoé miệng hơi nhếch, thư thái",
+              "ISAIAH": "Ở ghế lái qua khung vách ngăn, chỉ thấy gáy và vai phải, mờ, trên vai có vệt tro xám"
+            },
+            "dist": "Máy cách Preston khoảng 1,2 mét, ngang tầm vai người ngồi",
+            "hands": {
+              "PRESTON": "Tay trái kẹp xì gà gác trên tay vịn cửa; máy tính bảng nằm trên đùi phải",
+              "MARGARET": "Không thấy tay",
+              "ISAIAH": "Không thấy tay"
+            }
+          },
+          "prompt": "OTS medium shot, cinematic photorealistic, ống kính 40mm, máy đặt sau vai phải Margaret Hale ở góc sau bên phải khoang, nhìn ngang sang trái. Tiền cảnh phải: vai áo khoác lạc đà và búi tóc bạc của Margaret, mờ, KHÔNG thấy mặt. Giữa-trái khung: Preston Hale RÕ MẶT, đã ngả lưng lại vào ghế da, mặt nghiêng 3/4 cúi về chiếc điện thoại nằm ngửa trên tay vịn giữa, màn hình còn tối; tay trái kẹp xì gà gác trên tay vịn cửa; máy tính bảng nằm trên đùi phải; khoé miệng hơi nhếch, vẻ thư thái như đang ngồi phòng khách nhà mình. Xa phía phải, qua khung vách ngăn đã hạ kính: gáy và vai phải Isaiah Mercer ở ghế lái, mờ, trên vai áo đen có một vệt tro xám; gương chiếu hậu phía trên bị hất chếch lên trần. Sau lưng Preston là cửa sổ hông phủ phim, hàng cây trôi qua ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · Medium two-shot băng ghế sau — Preston sắp vỗ lưng ghế lái, Margaret dò mặt con",
+          "goc": "Medium two-shot băng ghế sau nhìn từ khe giữa hai ghế trước, Preston Hale RÕ MẶT bên phải khung, Margaret Hale RÕ MẶT bên trái khung; mép tựa đầu ghế lái và vai phải Isaiah Mercer mờ ở mép phải tiền cảnh",
+          "pose": {
+            "zone": "Khe giữa hai ghế trước, lệch về ghế phụ → băng ghế sau",
+            "who": {
+              "PRESTON": "Ngả lưng, mặt hướng về lưng ghế lái trước mặt, nụ cười nhỏ thích thú",
+              "MARGARET": "Ngồi sát cửa, đầu hơi nghiêng về phía con, mắt dò theo mặt con, môi khép hiền",
+              "ISAIAH": "Mép phải tiền cảnh, chỉ thấy mép tai và vai phải áo đen, mờ, đứng im"
+            },
+            "dist": "Máy cách băng ghế sau khoảng 1,3 mét, ngang tầm mắt người ngồi",
+            "hands": {
+              "PRESTON": "Tay phải vừa nhấc hai ngón hướng về lưng ghế lái — chưa chạm; tay trái kẹp xì gà; máy tính bảng trên đùi",
+              "MARGARET": "Hai tay đặt hờ trên túi xách, không nắm chặt",
+              "ISAIAH": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium two-shot, cinematic photorealistic, ống kính 35mm, máy đặt ở khe giữa hai ghế trước, lệch về phía ghế phụ, nhìn qua khung vách ngăn về băng ghế sau. Bên PHẢI khung: Preston Hale RÕ MẶT, ngả lưng, mặt hướng về lưng ghế lái trước mặt với nụ cười nhỏ thích thú; tay phải vừa nhấc hai ngón hướng về lưng ghế lái — chưa chạm; tay trái kẹp xì gà; máy tính bảng trên đùi. Điện thoại nằm ngửa trên tay vịn giữa, màn hình sáng cuộc gọi. Bên TRÁI khung: Margaret Hale RÕ MẶT, ngồi sát cửa, đầu hơi nghiêng về phía con, mắt dò theo mặt con, môi khép hiền, hai tay đặt hờ trên túi xách, không nắm chặt. Mép phải tiền cảnh: mép tai và vai phải áo đen của Isaiah Mercer, mờ. Sau lưng hai người là kính hậu phủ phim, dòng xe chạy chậm ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · MCU Preston qua khe ghế trước — lướt máy tính bảng như chọn món",
+          "goc": "Medium close-up dirty single, Preston Hale RÕ MẶT 3/4 giữa khung; vai và mép tóc bạc của Margaret Hale mờ mép trái; mép tai và vai phải Isaiah Mercer mờ mép phải tiền cảnh",
+          "pose": {
+            "zone": "Khe giữa hai ghế trước → Preston ở băng ghế sau",
+            "who": {
+              "PRESTON": "Ngả lưng, mặt 3/4, mắt cúi xuống máy tính bảng, nửa nụ cười dễ chịu",
+              "MARGARET": "Mép trái khung, chỉ thấy vai áo và mép tóc bạc, mờ",
+              "ISAIAH": "Mép phải tiền cảnh, chỉ thấy mép tai và vai phải, mờ, đứng im"
+            },
+            "dist": "Máy cách Preston khoảng 1 mét, ngang tầm mắt anh ta",
+            "hands": {
+              "PRESTON": "Tay phải cầm máy tính bảng, tay trái kẹp xì gà gần cằm",
+              "MARGARET": "Không thấy tay",
+              "ISAIAH": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, ống kính 50mm, máy đặt ở khe giữa hai ghế trước, nhìn qua khung vách ngăn. Preston Hale RÕ MẶT giữa khung, từ ngực trở lên, ngả lưng vào ghế da, mặt 3/4, mắt cúi xuống máy tính bảng cầm ở tay phải, nửa nụ cười dễ chịu như đang chọn món trong thực đơn; tay trái kẹp xì gà gần cằm, một làn khói mảnh. Mép dưới khung: điện thoại nằm ngửa trên tay vịn giữa, màn hình sáng cuộc gọi. Mép trái khung: vai áo khoác lạc đà và mép tóc bạc của Margaret Hale, mờ. Mép phải tiền cảnh: mép tai và vai phải áo đen của Isaiah Mercer, mờ. Hậu cảnh sau lưng Preston là kính hậu phủ phim, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Medium Preston qua má Isaiah — sắp nói câu \"nhà bán trước mùa xuân\"",
+          "goc": "Medium dirty single từ ghế phụ, Preston Hale RÕ MẶT 3/4 giữa khung; má phải và vai Isaiah Mercer mờ tiền cảnh phải; Margaret Hale mờ nhẹ mép trái khung, nhìn ra cửa sổ",
+          "pose": {
+            "zone": "Ghế phụ phía trước → khe vách ngăn, băng ghế sau",
+            "who": {
+              "PRESTON": "Ngả lưng thoải mái, mắt nhìn xuống điện thoại trên tay vịn, môi hé như sắp nói tiếp, nhàn nhã",
+              "ISAIAH": "Tiền cảnh phải, chỉ thấy má phải, tai và vai phải, mờ, đứng im",
+              "MARGARET": "Quay mặt nhìn ra cửa sổ bên mình"
+            },
+            "dist": "Máy ở ghế phụ, cách Preston khoảng 1,4 mét, ngang tầm vai",
+            "hands": {
+              "PRESTON": "Tay trái lăn điếu xì gà giữa hai ngón; máy tính bảng úp trên đùi",
+              "ISAIAH": "Không thấy tay",
+              "MARGARET": "Hai tay đặt hờ trên túi xách, không nắm chặt"
+            }
+          },
+          "prompt": "Medium dirty single, cinematic photorealistic, ống kính 40mm, máy đặt ở ghế phụ ngang tầm vai, nhìn chéo về sau qua khung vách ngăn. Tiền cảnh phải: má phải, tai và vai phải áo vest đen của Isaiah Mercer, mờ, trên vai còn vệt tro xám. Giữa khung: Preston Hale RÕ MẶT, ngả lưng thoải mái, mặt 3/4, mắt nhìn xuống điện thoại nằm ngửa trên tay vịn giữa, môi hé như sắp nói tiếp, vẻ nhàn nhã; tay trái lăn điếu xì gà giữa hai ngón; máy tính bảng úp trên đùi. Mép trái khung: Margaret Hale mờ nhẹ, quay mặt nhìn ra cửa sổ bên mình, hai tay đặt hờ trên túi xách, không nắm chặt. Ngoài cửa sổ phía bà: vài xe con chạy cùng chiều ở làn bên, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Medium Isaiah từ góc kính chắn gió — gương còn hất lên trần, tro còn trên vai",
+          "goc": "Medium Isaiah Mercer RÕ MẶT 3/4 từ góc kính chắn gió phía ghế phụ; Preston Hale mờ nhẹ ở băng ghế sau qua khung vách ngăn; vai Margaret Hale mờ mép trái khung",
+          "pose": {
+            "zone": "Góc kính chắn gió phía ghế phụ → ghế lái",
+            "who": {
+              "ISAIAH": "Mắt nhìn đường phía trước, môi khép, cánh mũi hơi nở vì nén hơi",
+              "PRESTON": "Ngả lưng ở băng ghế sau, mắt trên máy tính bảng, mờ nhẹ",
+              "MARGARET": "Mép trái khung, chỉ thấy vai áo lạc đà, mờ"
+            },
+            "dist": "Máy cách Isaiah khoảng 1 mét, ngang tầm mắt anh",
+            "hands": {
+              "ISAIAH": "Hai tay đặt nhẹ trên vô lăng ở vị trí mười giờ và hai giờ, không siết",
+              "PRESTON": "Máy tính bảng trên tay, xì gà tay trái",
+              "MARGARET": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium shot, cinematic photorealistic, ống kính 35mm, máy đặt ở góc kính chắn gió phía ghế phụ, nhìn chéo vào ghế lái. Isaiah Mercer RÕ MẶT 3/4 giữa-phải khung, từ thắt lưng trở lên, hai tay đặt nhẹ trên vô lăng ở vị trí mười giờ và hai giờ, không siết, mắt nhìn đường phía trước; vệt tro xám còn nguyên trên vai phải áo vest đen; môi khép, cánh mũi hơi nở vì nén hơi — gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ. Mép trên bên trái khung: gương chiếu hậu bị hất chếch lên trần, mặt gương chỉ phản chiếu trần nỉ kem. Qua khung vách ngăn phía sau anh: Preston Hale ngả lưng, mắt trên máy tính bảng, điện thoại sáng trên tay vịn, mờ nhẹ; mép trái khung là vai Margaret Hale, mờ. Ngoài cửa sổ ghế lái: làn bên trái có một sedan xám chạy cùng chiều hơi lùi sau, hàng cây trôi qua.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Ngoại cảnh 3/4 đầu xe — limousine chạy thẳng giữa làn, Isaiah sau kính chắn gió",
+          "goc": "Wide ngoại cảnh 3/4 đầu xe bên trái, Isaiah Mercer RÕ MẶT sau kính chắn gió ghế lái; Preston Hale và Margaret Hale là hai dáng mờ tối ở khoang sau",
+          "pose": {
+            "zone": "Làn trái Hutchinson Parkway, trên xe quay chạy trước → limousine ở làn phải",
+            "who": {
+              "ISAIAH": "Ngồi ghế lái sau kính chắn gió, mắt nhìn thẳng đường",
+              "PRESTON": "Ngả lưng ở băng ghế sau, dáng mờ tối",
+              "MARGARET": "Ngồi sát cửa ở băng ghế sau, dáng mờ tối"
+            },
+            "dist": "Máy trên xe quay chạy trước cùng tốc độ, cách đầu limousine khoảng tám mét, ngang tầm nắp capô",
+            "hands": {
+              "ISAIAH": "Hai tay đặt vững trên vô lăng",
+              "PRESTON": "Không thấy tay",
+              "MARGARET": "Không thấy tay"
+            }
+          },
+          "prompt": "Wide shot ngoại cảnh, cinematic photorealistic, ống kính 35mm, máy đặt trên xe quay chạy phía trước ở làn trái cùng tốc độ, ngang tầm nắp capô, nhìn ngược về sau. Chiếc limousine Lincoln đen dáng sedan trục cơ sở dài đang chạy thẳng giữa làn phải, chiếm giữa khung, chếch 3/4 đầu xe bên trái: thân sơn đen bóng phản chiếu hàng cây, lưới tản nhiệt không huy hiệu hãng, biển số trắng hư cấu mờ; trên cửa sau bên trái có dòng chữ bạc nhỏ đánh vần chính xác \"CRESTLINE\". Hai bánh trước thẳng, xe nằm đúng giữa hai vạch làn. Qua kính chắn gió: Isaiah Mercer ngồi ghế lái ở nửa kính gần máy, RÕ MẶT, hai tay đặt vững trên vô lăng, mắt nhìn thẳng đường. Khoang sau tối hơn một bậc: Preston Hale ngả lưng và Margaret Hale ngồi sát cửa, chỉ là hai dáng mờ. Phía sau limousine một quãng: một SUV xám và một sedan trắng chạy cùng chiều, xa hơn vài xe nối đuôi. Bên kia dải phân cách cây: vài xe chạy ngược chiều, ngoài nét. Không có người đi bộ.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "REF_BG_HUTCHINSON_PARKWAY_AFTERNOON"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-09",
+          "label": "[HOOK] S09 · Insert gương chiếu hậu đã chỉnh lại — Preston ngả đầu cười trong gương",
+          "goc": "Insert/ECU gương chiếu hậu từ sau vai phải Isaiah Mercer: trong gương là Preston Hale RÕ MẶT ngả đầu cười, Margaret Hale lọt một phần mép gương; má phải và tai Isaiah mờ tiền cảnh phải",
+          "pose": {
+            "zone": "Sau vai phải ghế lái → gương chiếu hậu giữa kính chắn gió",
+            "who": {
+              "PRESTON": "Chỉ thấy trong gương: ngả đầu vào lưng ghế, mắt lim dim, nụ cười thoải mái của người đã thắng",
+              "MARGARET": "Chỉ thấy trong gương: một phần vai áo lạc đà và tóc bạc ở mép gương",
+              "ISAIAH": "Tiền cảnh phải, chỉ thấy má phải, tai và vai áo đen, mờ, đứng im"
+            },
+            "dist": "Máy cách gương khoảng 0,6 mét, ngang tầm mắt Isaiah",
+            "hands": {
+              "PRESTON": "Điếu xì gà gần môi",
+              "MARGARET": "Không thấy tay",
+              "ISAIAH": "Không thấy tay"
+            }
+          },
+          "prompt": "Insert cận gương chiếu hậu, cinematic photorealistic, ống kính 85mm, máy đặt sau vai phải Isaiah Mercer ngang tầm mắt anh, nhìn về gương chiếu hậu giữa kính chắn gió. Gương đã được chỉnh về đúng chỗ, chiếm giữa-trên khung, mặt gương phản chiếu RÕ NÉT băng ghế sau: Preston Hale RÕ MẶT ngả đầu vào lưng ghế da, điếu xì gà gần môi, mắt lim dim, nụ cười thoải mái của người đã thắng; mép gương lọt một phần vai áo lạc đà và tóc bạc của Margaret Hale. Tiền cảnh phải: má phải, tai và vai áo vest đen của Isaiah, mờ, trên vai còn một vệt tro nhạt. Qua kính chắn gió sau gương: lòng đường parkway và đuôi hai xe con chạy phía trước, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-10",
+          "label": "[HOOK] S10 · Cận Isaiah từ táp-lô phía ghế phụ — mắt trên đường, vệt tro phủi sót",
+          "goc": "Close-up Isaiah Mercer RÕ MẶT 3/4 phải từ táp-lô phía ghế phụ; Preston Hale rất mờ, nhỏ ở băng ghế sau qua khung vách ngăn",
+          "pose": {
+            "zone": "Mép táp-lô phía ghế phụ → ghế lái",
+            "who": {
+              "ISAIAH": "Mắt nhìn thẳng đường, môi khép chặt, mí mắt hơi nặng",
+              "PRESTON": "Ngả lưng ở băng ghế sau, rất mờ, nhỏ"
+            },
+            "dist": "Máy cách Isaiah khoảng 0,7 mét, ngang tầm mắt anh",
+            "hands": {
+              "ISAIAH": "Ngoài khung",
+              "PRESTON": "Không thấy tay"
+            }
+          },
+          "prompt": "Close-up, cinematic photorealistic, ống kính 85mm, máy đặt ở mép táp-lô phía ghế phụ, nhìn chéo vào mặt Isaiah Mercer. Isaiah RÕ MẶT 3/4 phải, từ vai trở lên, mắt nhìn thẳng đường phía trước, môi khép chặt, mí mắt hơi nặng — gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ. Mép dưới khung: vai phải áo vest đen còn một vệt tro nhạt chỗ phủi sót. Hậu cảnh sau lưng anh: cửa sổ ghế lái với hàng cây trôi qua ngoài nét, và qua khung vách ngăn, dáng Preston Hale ngả lưng ở băng ghế sau, rất mờ, nhỏ.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-11",
+          "label": "[HOOK] S11 · OTS rộng qua vai Margaret — Preston duỗi tay trên lưng ghế cười, mắt Isaiah trong gương",
+          "goc": "Medium wide OTS qua vai phải Margaret Hale (tiền cảnh phải, mờ), Preston Hale RÕ MẶT 3/4 giữa-trái khung; qua khung vách ngăn thấy gáy Isaiah Mercer, mắt Isaiah trong gương chiếu hậu",
+          "pose": {
+            "zone": "Góc sau bên phải khoang, cao hơn vai Margaret → Preston, khoang lái, gương chiếu hậu",
+            "who": {
+              "MARGARET": "Lưng 3/4 về máy, đầu quay về cửa sổ bên mình, KHÔNG thấy rõ mặt",
+              "PRESTON": "Ngả lưng, mặt 3/4, nhìn xuống điện thoại trên tay vịn với nụ cười rộng tự mãn",
+              "ISAIAH": "Gáy và vai qua khung vách ngăn, mờ; đôi mắt thấy trong gương chiếu hậu, đang nhìn đường"
+            },
+            "dist": "Máy cách Preston khoảng 1,5 mét, cao hơn vai người ngồi một chút",
+            "hands": {
+              "PRESTON": "Cánh tay phải duỗi dài trên đỉnh lưng ghế, không chạm Margaret; tay trái kẹp xì gà",
+              "MARGARET": "Không thấy tay",
+              "ISAIAH": "Không thấy tay"
+            }
+          },
+          "prompt": "Medium wide OTS, cinematic photorealistic, ống kính 28mm, máy đặt ở góc sau bên phải khoang, cao hơn vai Margaret Hale, nhìn chéo về phía trước bên trái. Tiền cảnh phải: vai áo khoác lạc đà và búi tóc bạc của Margaret, mờ, đầu bà quay về cửa sổ bên mình. Giữa-trái khung: Preston Hale RÕ MẶT 3/4, ngả lưng, cánh tay phải duỗi dài trên đỉnh lưng ghế, không chạm vào bà, tay trái kẹp xì gà, nhìn xuống điện thoại sáng trên tay vịn với nụ cười rộng tự mãn. Xa phía trước, qua khung vách ngăn đã hạ kính: gáy và vai Isaiah Mercer ở ghế lái, mờ; gương chiếu hậu giữa mép trên kính chắn gió đã chỉnh về đúng chỗ, trong gương thấy đôi mắt Isaiah đang nhìn đường. Qua kính chắn gió: lòng đường parkway sáng nắng và vài xe phía trước, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ISAIAH_CHAUFFEUR_FULL",
+              "REF_PRESTON_SUIT_FULL",
+              "REF_MARGARET_COAT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "PRESTON: \"Eyes on the road, boy. Not in my mirror.\"\nNARRATION: Preston Hale leaned forward from the back seat and shoved the rearview mirror toward the roof.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, frame right.\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, centre, his face between the two front headrests.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, at frame left.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA limousine on a parkway. The driver has been checking the pale old woman in the rearview mirror. Her son decides he is looking at the wrong thing.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:03 Preston's line.\n0:03–0:09 no dialogue — reserved for: \"Preston Hale leaned forward from the back seat and shoved the rearview mirror toward the roof.\"\n0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00–0:04) — WIDE INTERIOR FROM THE WINDSHIELD — VERY SLOW PUSH-IN\n0:00–0:03: Preston's eyes are on the mirror. He says it lightly, almost bored, and on \"boy\" turns his head a few degrees toward his mother, sharing a joke about the help.\nPRESTON (the light-gray suit, back seat centre) — light, amused, unhurried: \"Eyes on the road, boy. Not in my mirror.\"\n0:03–0:04: Isaiah's eyes drop from the mirror to the road; a slow breath in through the nose, held.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM ON THE GAP BETWEEN THE FRONT SEATS — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nPreston leans forward into the gap between the front seats, the lit cigar held back in his left hand. His right hand goes up to the rearview mirror at the top of frame and shoves it toward the roof with his flat palm, the way you swat a fly. He never looks at the driver. Isaiah keeps both hands on the wheel, eyes on the road. Margaret's hands go still on her purse. The parkway keeps sliding past the windows.\n\nPERFORMANCE:\nThe insult is a reflex he wants his mother to see. The driver's calm visibly costs him; his face never goes blank.\n\nLIP SYNC:\nOnly Preston speaks, only in Shot 1; Isaiah and Margaret listen with mouths closed. In Shot 2 nobody speaks or moves their lips.\n\nAUDIO:\nDialogue only, clear natural American English. Silent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, one beat after Preston finishes: \"Not in my mirror.\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide interior from the windshield, very slow push-in.\nSHOT 2 = medium on the gap between the front seats, static.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Ash dropped from his cigar onto Isaiah Mercer's shoulder. Gray on black wool.\nNARRATION: Isaiah was forty-one years old.\nNARRATION: Beside Preston, his mother held her purse a little tighter.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, right profile in the right foreground.\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, leaning into the gap between the front seats, centre.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, at the left edge of frame.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nPreston still leans forward, forearm on the driver's seatback, the long cigar ash hanging over the driver's shoulder.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:06 no dialogue — reserved for: \"Ash dropped from his cigar onto Isaiah Mercer's shoulder. Gray on black wool. Isaiah was forty-one years old.\"\n0:06–0:10 no dialogue — reserved for: \"Beside Preston, his mother held her purse a little tighter.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:06) — MEDIUM THREE-LAYER FROM THE PASSENGER SEAT — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:00–0:02: The long gray ash breaks off Preston's cigar and drops onto the right shoulder of Isaiah's black suit, leaving a gray smear on the black wool. Preston does not look where it landed; his eyes are already on the phone on the armrest, the way you ignore where you tapped an ashtray.\n0:02–0:06: Isaiah does not turn his head. His eyes stay on the road. The muscle at the hinge of his jaw tightens and stays tight. Preston draws his arm back and settles into the back seat.\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — MEDIUM CLOSE-UP ON MARGARET AT FRAME LEFT — VERY SLOW PUSH-IN\nMargaret's eyes go from the gray mark on the driver's shoulder to her son. Her fingers close a little tighter around the gold clasp of her purse. Her lips part as if to say something, then close again.\n\nPERFORMANCE:\nThe driver's shoulder is an ashtray to Preston. Isaiah's restraint is in the jaw, never a slack face. Margaret is embarrassed, not angry.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed.\n\nAUDIO:\nSilent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, after Preston has settled back, cutting to Margaret.\n\nCAMERA SUMMARY:\nSHOT 1 = medium three-layer from the passenger seat, static.\nSHOT 2 = medium close-up on Margaret, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: She said nothing.\nNARRATION: Preston's phone buzzed. His lawyer, calling from Tokyo. He answered in Japanese.\nPRESTON: \"Go ahead. The driver doesn't understand a word,\"\nNARRATION: he said in Japanese.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat left, clear.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, her right shoulder and silver hair in the right foreground, blurred in foreground, completely still like a statue.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, back of his head beyond the lowered partition, soft.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA call from Tokyo. Preston answers in Japanese, on speaker, with his mother beside him and the driver right there.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:05 no dialogue — reserved for: \"She said nothing. Preston's phone buzzed. His lawyer, calling from Tokyo. He answered in Japanese.\"\n0:05–0:08 Preston's line, in Japanese.\n0:08–0:10 silent beat — reserved for: \"he said in Japanese.\"\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00–0:05) — OVER MARGARET'S SHOULDER ONTO PRESTON — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:00–0:02: Nobody speaks. The phone lying face up on the centre armrest lights up and buzzes against the leather; the screen shows the name DAISUKE ARAI.\n0:02–0:05: Preston looks at the screen; his face turns more private. One thumb tap answers on speaker; he leaves it face up on the armrest.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — MEDIUM CLOSE-UP ON PRESTON — VERY SLOW PUSH-IN\n0:05–0:08: Preston speaks down to the phone, relaxed. On the words about the driver he points the lit cigar lazily at the back of the driver's head, the way you point at a coat rack.\nPRESTON (the light-gray suit man) — easy, amused, in fluent Japanese: 「どうぞ。運転手は一言もわからないから。」 (meaning: \"Go ahead. The driver doesn't understand a word.\")\n0:08–0:10: He lowers the cigar and settles back. Beyond the partition, the driver's head does not turn.\n\nPERFORMANCE:\nCompletely at ease; his contempt is a lazy gesture, never a raised voice.\n\nLIP SYNC:\nOnly Preston speaks, only 0:05–0:08. Margaret and Isaiah never speak. The phone plays no voice.\n\nAUDIO:\nPreston's lines in natural fluent Japanese. Silent windows: faint road hum and one soft phone buzz only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, right after Preston answers on speaker, before he speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = over Margaret's shoulder onto Preston, static.\nSHOT 2 = medium close-up on Preston, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "PRESTON: \"He comes with the upholstery.\"\nNARRATION: Margaret Hale smiled at her son, patient and a little lost. She had never learned a word of Japanese.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat at frame right, clear.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat at frame left, clear.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, edge of his ear and right shoulder at the right frame edge, blurred in foreground, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nOn speaker, Preston finishes his joke about the driver, then gives his mother, who understood nothing, a warm son's smile.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:02 Preston's line, in Japanese.\n0:02–0:09 no dialogue — reserved for: \"Margaret Hale smiled at her son, patient and a little lost. She had never learned a word of Japanese.\"\n0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00–0:03) — MEDIUM TWO-SHOT OF THE BACK SEAT — VERY SLOW PUSH-IN\n0:00–0:02: Preston reaches forward and gives the back of the driver's seat two light pats with two fingers, the way you pat a piece of furniture you are pleased with, and says:\nPRESTON (the light-gray suit, frame right) — pleasant, offhand, in fluent Japanese: 「あいつは座席の付属品みたいなもんだ。」 (meaning: \"He comes with the upholstery.\")\n0:02–0:03: He sits back, satisfied. His hand touches only the leather seatback, never the driver.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — MEDIUM CLOSE-UP ON MARGARET — VERY SLOW PUSH-IN\nMargaret turns to her son with a small, patient smile, a little lost, the smile of someone who has nodded along to a language she does not speak for a month. Her eyes search his face for a clue, find none; a tiny nod. At the frame edge, Preston gives her back the warmest smile in the car.\n\nPERFORMANCE:\nThe mouth that called the driver furniture smiles lovingly at his mother; that gap is the cruelty. Margaret is gentle, tired, trusting.\n\nLIP SYNC:\nOnly Preston speaks, only 0:00–0:02. In Shot 2 nobody speaks; Margaret smiles with lips closed.\n\nAUDIO:\nPreston's lines in natural fluent Japanese. Silent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, once Preston has sat back after the pat.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot of the back seat, very slow push-in.\nSHOT 2 = medium close-up on Margaret, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "NARRATION: Preston kept going in Japanese, his voice easy.\nPRESTON: \"She signs at four. Power of attorney. She thinks it's for the taxes.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, clear, centre.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, her shoulder and silver hair at the left edge, blurred in foreground, completely still like a statue.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, edge of his ear and shoulder at the right edge, blurred in foreground, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nOn speaker, in Japanese, Preston lays out the plan for his mother while she sits a foot away.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:03 no dialogue — reserved for: \"Preston kept going in Japanese, his voice easy.\"\n0:03–0:08 Preston's lines, in Japanese.\n0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00–0:03) — MEDIUM CLOSE-UP ON PRESTON THROUGH THE PARTITION — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nPreston scrolls the tablet with one finger of his right hand, draws on the cigar and lets out a thin line of smoke, a pleasant half-smile on his face, a man choosing from a menu. His mouth stays closed.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER MEDIUM CLOSE-UP ON PRESTON — VERY SLOW PUSH-IN\n0:03–0:08: He speaks toward the phone on the armrest without lifting his eyes from the tablet. On the last sentence his eyes slide sideways to his mother at the edge of frame and back, the way a buyer glances at a piece he has already paid for.\nPRESTON (the light-gray suit man) — light, easy, almost cheerful, in fluent Japanese: 「四時に署名する。委任状だ。税金の書類だと思ってる。」 (meaning: \"She signs at four. Power of attorney. She thinks it's for the taxes.\")\n0:08–0:10: Eyes back on the tablet, one more lazy scroll.\n\nPERFORMANCE:\nHe discusses his mother like a delivery schedule. The ease is the evil; nothing on his face is strained.\n\nLIP SYNC:\nOnly Preston speaks, only 0:03–0:08. Margaret and Isaiah never speak or move their lips. In silences, mouths stay closed.\n\nAUDIO:\nPreston's lines in natural fluent Japanese. Silent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, after the smoke, just before Preston speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Preston through the partition, static.\nSHOT 2 = tighter medium close-up on Preston, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "PRESTON: \"The house is sold by spring, and she's in a care home by Christmas.\"\nNARRATION: The line went quiet for a long second.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, clear, centre.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, right cheek, ear and shoulder in the right foreground, blurred in foreground, completely still like a statue.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, soft at frame left, looking out of her window.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nPreston says the worst sentence in the car in his easiest voice. On the phone, his own lawyer goes silent.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:05 Preston's line, in Japanese.\n0:05–0:08 no dialogue — reserved for: \"The line went quiet for a long second.\"\n0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nPRESTON\n\nSHOT 1 (0:00–0:05) — MEDIUM ON PRESTON FROM THE PASSENGER SEAT — VERY SLOW PUSH-IN\nPreston rolls the cigar between two fingers and speaks down to the phone on the armrest, easy, a little amused at how simple it is.\nPRESTON (the light-gray suit man) — easy, pleasant, in fluent Japanese: 「家は春までに売って、クリスマスまでには老人ホームだ。」 (meaning: \"The house is sold by spring, and she's in a care home by Christmas.\")\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — CLOSER ON PRESTON, SAME ANGLE — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nSilence. The phone gives nothing back. Preston raises his eyebrows at it as if the line had dropped. Then his eyes lift to the back of the driver's head in the foreground and rest there for a full second, measuring, amused, and a small satisfied smile comes. In the foreground the driver's blurred cheek does not move. Margaret keeps watching the cars go by outside her window.\n\nPERFORMANCE:\nHe is enjoying the lawyer's silence; it is proof of how bold he is. Keep him relaxed and smug, never nervous.\n\nLIP SYNC:\nOnly Preston speaks, only 0:00–0:05. In Shot 2 no character speaks or moves their lips; the phone stays silent.\n\nAUDIO:\nPreston's lines in natural fluent Japanese. Silent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, one beat after Preston finishes his line.\n\nCAMERA SUMMARY:\nSHOT 1 = medium on Preston from the passenger seat, very slow push-in.\nSHOT 2 = closer on Preston, static.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Isaiah tipped the mirror back into place with two fingers. Brushed his shoulder once. Signaled, and changed lanes.\nISAIAH: \"Forty minutes to Greenwich, sir.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, clear, in the driver's seat.\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, soft beyond the partition, eyes on his tablet.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, her shoulder soft at the left edge, blurred in foreground, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe driver has heard every word. He puts the car back exactly the way it was.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:06 no dialogue — reserved for: \"Isaiah tipped the mirror back into place with two fingers. Brushed his shoulder once. Signaled, and changed lanes.\"\n0:06–0:08 Isaiah's line.\n0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nISAIAH\n\nSHOT 1 (0:00–0:06) — MEDIUM ON ISAIAH FROM THE PASSENGER-SIDE WINDSHIELD CORNER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\n0:00–0:02: Isaiah lifts his right hand off the wheel and, with two fingers, tips the rearview mirror at the top left of frame back down into place.\n0:02–0:04: With the back of his fingers he brushes the ash off his right shoulder. One stroke only. A faint pale smudge stays.\n0:04–0:06: His left hand flicks the turn signal, he checks the side mirror and eases smoothly one lane over; trees and traffic slide across the window.\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — MEDIUM CLOSE-UP ON ISAIAH — VERY SLOW PUSH-IN\n0:06–0:07: A single swallow moves his throat.\nISAIAH (the man in the black suit, driver's seat) — even, courteous, professional: \"Forty minutes to Greenwich, sir.\"\n0:08–0:10: Eyes back on the road. Behind him, soft, Preston does not look up from his tablet.\n\nPERFORMANCE:\nRestraint, not blankness: every movement precise and polite; the swallow shows the cost. The face never goes slack.\n\nLIP SYNC:\nOnly Isaiah speaks, only 0:06–0:08. Preston and Margaret never speak or move their lips. In silences, mouths stay closed.\n\nAUDIO:\nIsaiah's line in clear natural American English. Silent windows: faint road hum and one soft turn-signal tick only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, as the car settles into the new lane.\n\nCAMERA SUMMARY:\nSHOT 1 = medium on Isaiah from the passenger-side windshield corner, static.\nSHOT 2 = medium close-up on Isaiah, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Preston was already talking again, in Japanese.\nNARRATION: The limo never drifted an inch.\nNARRATION: Preston Hale believes the man at the wheel hears nothing but the road.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, clear behind the windshield at the wheel.\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, a dim shape in the rear cabin.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, a dim shape by her rear window.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nFrom outside, the black limousine glides up the parkway dead straight in its lane, as if nothing at all were happening inside it.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:05 no dialogue — reserved for: \"Preston was already talking again, in Japanese. The limo never drifted an inch.\"\n0:05–0:10 no dialogue — reserved for: \"Preston Hale believes the man at the wheel hears nothing but the road.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE EXTERIOR, FRONT THREE-QUARTER — CAMERA TRAVELS AHEAD AT THE SAME SPEED, FRAMING LOCKED ON THE CAR\nThe limousine holds exactly in the centre of its lane, front wheels straight, never touching the lane lines. The gray SUV and white sedan behind it keep their distance. Tree shadows slide over the black hood and roof. Oncoming cars pass beyond the tree median, soft.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — MEDIUM ON THE DRIVER'S SIDE OF THE WINDSHIELD — VERY SLOW PUSH-IN\nBehind the glass, Isaiah drives with his eyes on the road. For one beat his fingers tighten on the wheel; then he deliberately loosens them, one hand at a time, and the car does not waver at all. Reflections of branches slide across the windshield. In the dim rear cabin, Preston's shape leans back with the phone; Margaret's shape sits by her window.\n\nPERFORMANCE:\nTotal control made visible: whatever he heard, it goes into his hands and stops there. Calm, never blank.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed.\n\nAUDIO:\nSilent windows: faint road and tyre hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, from the wide exterior to the driver's side of the windshield.\n\nCAMERA SUMMARY:\nSHOT 1 = wide exterior, front three-quarter, camera travelling ahead at matched speed.\nSHOT 2 = medium on the windshield, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-09",
+          "sf": "SF-HOOK-09",
+          "dur": 10,
+          "text": "NARRATION: By four o'clock, he is going to learn exactly what his driver heard.\nNARRATION: Have you ever watched a rich man's smile die in a rearview mirror",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, seen only as a clear reflection in the rearview mirror.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, a partial reflection at the mirror's edge, soft.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, right cheek, ear and shoulder in the right foreground, blurred in foreground, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe mirror is back where it belongs. In it, the man in the back seat is having the best afternoon of his life.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:05 no dialogue — reserved for: \"By four o'clock, he is going to learn exactly what his driver heard.\"\n0:05–0:10 no dialogue — reserved for: \"Have you ever watched a rich man's smile die in a rearview mirror\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — INSERT ON THE REARVIEW MIRROR — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nIn the mirror, Preston rests his head against the leather, the cigar at his lips, eyes half closed, the loose smile of a man who has already won. He lets a slow stream of smoke drift toward the front seat, straight at the driver's side, as if the front of the car were his too.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER ON THE MIRROR — VERY SLOW PUSH-IN\nThe smile widens. His eyes open and pass across the mirror, right over the spot where the driver's eyes would be, and move on without stopping once, as if nobody were sitting there. The road slides by beyond the glass.\n\nPERFORMANCE:\nHis smile must stay whole and confident in this clip; it does not falter. The audience only imagines the moment it dies.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed.\n\nAUDIO:\nSilent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, after the smoke drifts forward.\n\nCAMERA SUMMARY:\nSHOT 1 = insert on the rearview mirror, static.\nSHOT 2 = tighter on the mirror, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-10",
+          "sf": "SF-HOOK-10",
+          "dur": 10,
+          "text": "NARRATION: when the driver he never once looked at answers him in the very language he was hiding behind —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, clear close-up.\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, far and soft in the back seat beyond the partition.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nClose on the man nobody in the back seat looks at, carrying every word he just heard.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:06 no dialogue — reserved for: \"when the driver he never once looked at answers him in the very language he was hiding behind —\"\n0:06–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — CLOSE-UP ON ISAIAH FROM THE PASSENGER-SIDE DASHBOARD — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nIsaiah drives, eyes on the road. One slow blink: his lids close for a full beat and open again, and his eyes are exactly where they were. The faint pale ash smudge sits on his shoulder at the bottom of frame.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER CLOSE-UP ON ISAIAH — VERY SLOW PUSH-IN\nHis lips press together for one beat, then release. His eyes stay on the road. Far behind him, soft and small, Preston's shape leans back with the phone. The face is alive, holding something enormous behind very good manners.\n\nPERFORMANCE:\nRestraint, not blankness: the audience must feel how much he knows and how much it costs to say nothing. The face never goes slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed.\n\nAUDIO:\nSilent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, after the slow blink.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Isaiah from the passenger-side dashboard, static.\nSHOT 2 = tighter close-up on Isaiah, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-11",
+          "sf": "SF-HOOK-11",
+          "dur": 10,
+          "text": "NARRATION: because you're about to, so drop a comment, hit like, and let me take you back to where that ride began.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPRESTON — 63-year-old white man, silver temples, wearing a light-gray suit, back seat, clear, left of centre.\nMARGARET — 84-year-old white woman, silver hair, wearing a camel coat, back seat, her right shoulder and silver hair in the right foreground, turned to her window, blurred in foreground, completely still like a statue.\nISAIAH — 41-year-old Black man, wearing a black suit, the driver, back of his head beyond the partition, soft; his eyes visible in the rearview mirror.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe back seat belongs to Preston. In the rearview mirror, the driver's eyes are the only thing in the car that is paying attention.\n\nTIMING (no narrator generated — silent windows reserved for a narrator track in post):\n0:00–0:07 no dialogue — reserved for: \"because you're about to, so drop a comment, hit like, and let me take you back to where that ride began.\"\n0:07–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM WIDE OVER MARGARET'S SHOULDER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nPreston lounges with his right arm stretched along the top of the seatback, the cigar in his left hand, grinning down at the lit phone, soundless. He drums two fingers on the leather like a man in his own living room, then glances at his mother with an owner's fond smile and goes back to the phone. His arm never touches her. Margaret watches the cars slide past her window.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — SLOW PUSH-IN TOWARD THE REARVIEW MIRROR AT TOP CENTRE\nIn the mirror, the driver's eyes lift for one beat to the man in the back seat, then return to the road. Preston does not notice. He is still grinning at the phone.\n\nPERFORMANCE:\nKeep Preston at the height of his arrogance, unaware and pleased with himself. The driver gives away nothing but that one look.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed.\n\nAUDIO:\nSilent windows: faint road hum only, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, from the back seat to the push toward the mirror.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide over Margaret's shoulder, static.\nSHOT 2 = slow push-in toward the rearview mirror.",
+          "status": "draft",
+          "vpicked": ""
+        }
+      ]
+    }
+  ]
+}

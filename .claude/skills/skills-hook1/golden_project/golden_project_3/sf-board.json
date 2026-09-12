@@ -1,0 +1,351 @@
+{
+  "film": "MARCUS — KHÓI BẢY SẮC TRÊN VỈ NƯỚNG (KAREN KEPT TAKING CHARCOAL FROM MY SHED AT NIGHT)",
+  "kind": "phim",
+  "updated_at": "2026-09-10 14:39:59",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_MARCUS_MEETING_FULL",
+          "label": "★ MARCUS HOLLOWAY — ÁO ĐI HỌP HỘI DÂN CƯ (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính, người kể chuyện. 38 tuổi, cựu chuyên viên hậu cần Lục quân, nay là pitmaster thi đấu BBQ ở Texas, vừa thừa kế nhà và kho dụng cụ của ông chú. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, râu, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: điềm tĩnh có kỷ luật nhà binh, ánh mắt tỉnh và chắc, đang bị dồn nhưng không cam chịu và cũng không hằn học.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 38 tuổi, da rám nắng nhẹ kiểu người làm ngoài trời, có kết cấu thật với lỗ chân lông nhìn rõ, gò má gọn, sống mũi thẳng, quai hàm vuông, mắt nâu xám nhìn tỉnh và chắc, miệng khép tự nhiên KHÔNG cười. Tóc nâu sẫm cắt ngắn gọn kiểu nhà binh, râu quai nón tỉa sát và đều. Vóc người cao, vai rộng, thân chắc gọn. Áo sơ mi flannel kẻ ca-rô XANH RÊU SẪM, cài kín toàn bộ cúc, tay áo buông xuống cổ tay, vải hơi sờn ở cổ và khuỷu nhưng được giặt cẩn thận và phẳng phiu. Quần jeans xanh sẫm còn nếp, thắt lưng da nâu bản vừa. Bốt làm việc da nâu đã mòn gót nhưng sạch. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_MARCUS_MEETING_FULL_v1.png"
+        },
+        {
+          "id": "REF_DEBRA_MEETING_FULL",
+          "label": "★ DEBRA KENDRICKS — TRANG PHỤC CHỦ TỌA HỌP HỘI DÂN CƯ (thẻ neo nhân dạng)",
+          "desc": "Phản diện. Chủ tịch hội dân cư Lakeshore Pines sáu năm liền, 54 tuổi, đẹp sắc sảo và ăn mặc đắt tiền, cai trị khu dân cư bằng luật tự chế và giấy phạt. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt lịch sự, chưa từng bị ai nói không.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ da trắng 54 tuổi, cao và dáng thẳng, da sáng được chăm sóc kỹ có kết cấu thật, gò má cao sắc nét, sống mũi thẳng, quai hàm gọn, mắt xanh xám sắc lạnh, môi mỏng tô son hồng nude, miệng khép tự nhiên KHÔNG cười. Tóc vàng mật highlight sáng, cắt bob dài chạm vai, sấy phồng bồng và rẽ ngôi lệch. Một cặp kính râm gọng đen bản to gài ngược trên đỉnh đầu, gọng trơn không logo không chữ, nhãn hư cấu. Vóc người thon, dáng chuẩn. Áo lụa KEM NGÀ cổ tròn, cài kín toàn bộ cúc, ngoài khoác blazer len màu NÂU LẠC ĐÀ may đo vừa vặn, phẳng phiu. Quần âu đen ống đứng, giày cao gót mũi nhọn da bóng đen. Trang sức đúng hai món: một vòng tay vàng bản dẹt ở cổ tay PHẢI và một đôi khuyên tai kim cương nhỏ. Tay trái xách một chiếc túi da bò dáng hộp quai xách màu nâu vàng, mặt túi trơn hoàn toàn, không logo và không chữ, nhãn hư cấu. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_DEBRA_MEETING_FULL_v1.png"
+        },
+        {
+          "id": "REF_DEBRA_NIGHT_FULL",
+          "label": "DEBRA KENDRICKS — ĐỒ THỂ THAO ĐEN LÚC MỘT GIỜ SÁNG",
+          "desc": "Bộ Debra mặc khi mở khoá cửa hông kho dụng cụ nhà Marcus lúc một giờ ba mươi hai sáng để khuân than. Đen từ đầu đến chân nhưng vẫn là đồ hiệu — bà ta không mặc đồ rẻ tiền kể cả khi đi ăn trộm. Mặt vẫn giữ nguyên thần thái đắc thắng, không hề nao núng.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Giữ NGUYÊN 100% khuôn mặt, tuổi, màu tóc và vóc dáng của người trong ảnh thẻ neo tham chiếu, CHỈ ĐỔI TRANG PHỤC VÀ KIỂU TÓC như mô tả dưới đây. Tóc vàng mật được buộc túm gọn thấp sau gáy, vài sợi mai buông. Không đeo kính râm trên đầu. Áo khoác gió thể thao ĐEN TUYỀN chất kỹ thuật mờ, kéo khoá kín đến ngang ngực, cổ dựng, may đo ôm gọn và còn mới. Bên trong là áo thun cổ tròn đen. Quần legging thể thao đen ống côn, giày thể thao da lộn đen đế đen, mặt giày trơn không logo và không chữ, nhãn hư cấu. Vẫn đeo đúng chiếc vòng tay vàng bản dẹt ở cổ tay PHẢI, không đeo thêm trang sức nào khác. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DEBRA_MEETING_FULL"
+            ],
+            "bg": null
+          },
+          "picked": "REF_DEBRA_NIGHT_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_CHARCOAL_BAG",
+          "label": "Bao than gỗ sồi hậu 50 pound — nhiên liệu thi đấu của Marcus",
+          "desc": "Nhiên liệu thi đấu Marcus đặt riêng từ nhà cung cấp vùng Hill Country, mười một đô một pound. Đây là món bị nhắc thẳng trong thoại của cả đoạn Hook và là thứ Debra khuân đi hằng tháng. Trạng thái ảnh gốc: bao còn NGUYÊN ĐAI, chưa mở, đứng trên sàn ván của kho dụng cụ.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm hông, không có người và không có bàn tay trong khung. Một bao nhiên liệu 50 pound bằng giấy kraft nhiều lớp màu nâu đất, đáy bao bạnh ra và đứng vững trên sàn ván gỗ thông cũ của một kho dụng cụ. Bao còn NGUYÊN ĐAI, mép trên khâu chỉ máy liền một đường, chưa hề bị rạch hay mở. Thân bao căng lổn nhổn hình các cục than to bên trong, bề mặt giấy có vài vết xước và bụi than đen bám mỏng ở đáy. Bao cao ngang đầu gối người lớn, khoảng sáu mươi phân; ngay bên cạnh đặt một chiếc ghế đẩu gỗ thấp làm mốc tỉ lệ. Mặt trước bao in mộc đen chân phương, chữ rõ nét không nhoè, đánh vần chính xác: \"HILL COUNTRY POST OAK\" ở dòng trên, \"LUMP CHARCOAL — 50 LB\" ở dòng dưới — đây là thương hiệu hư cấu, không có thật. Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm ngắn dưới đáy bao, làm nổi rõ vân giấy kraft và nếp gấp mép khâu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_CHARCOAL_BAG_v1.png"
+        },
+        {
+          "id": "REF_BG_CLUBHOUSE_NIGHT",
+          "label": "BỐI CẢNH — Phòng họp nhà sinh hoạt cộng đồng Lakeshore Pines (buổi tối)",
+          "desc": "Bối cảnh gốc của cụm 1 — phòng họp hằng tháng của hội dân cư, nơi Marcus đứng lên hỏi về vụ mất than và bị Debra dập xuống trước cả phòng.",
+          "prompt": "Bối cảnh ở Mỹ. Một phòng đa năng trong nhà sinh hoạt cộng đồng của khu dân cư ngoại ô, vừa được kê xong cho buổi họp hội dân cư hằng tháng buổi tối — phòng đã sắp xong nhưng CHƯA ai vào, ba ghế trên bục chủ tọa còn trống vì cuộc họp chưa bắt đầu. Không có người trong khung hình. TRƯỚC MẶT là một bục gỗ thấp kê bàn chủ tọa gỗ sồi sáng phủ khăn xanh navy, ba ghế tựa, một micro để bàn và một biển gỗ khắc chân phương \"LAKESHORE PINES HOA\"; sau bàn là màn chiếu trắng kéo xuống và một lá cờ Mỹ trên chân đế. GIỮA PHÒNG là bốn mươi ghế gấp thép xám xếp thành sáu hàng, chừa một lối đi giữa. BÊN TRÁI là dãy cửa sổ cao rủ rèm vải xám, ngoài lớp kính trời đã tối đen. BÊN PHẢI là mảng tường sơn kem treo một bảng tin nút bần dán kín giấy thông báo, kế đó là cửa thoát hiểm sơn trắng. SAU LƯNG là hai cánh cửa gỗ kép mở ra sảnh và một tủ thép xếp ghế gấp. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Đèn LED trắng trung tính dịu từ trần chiếu đều toàn phòng, thêm một dãy đèn tường vàng nhạt dọc tường phải; không u tối, không moody, không low-key, không cháy trắng, độ tương phản trung bình và bóng đổ mềm. Thảm nỉ xám-xanh, tường kem, gỗ sồi sáng, thép ghế xám nguội. Tổng thể sáng sủa, sạch sẽ, ngăn nắp tới mức lạnh lùng — phải KHÁC HẲN bóng tối gỗ ám vàng-xanh chật chội của nội cảnh kho dụng cụ ban đêm ở cụm sau.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_CLUBHOUSE_NIGHT_v1.png"
+        },
+        {
+          "id": "REF_BG_SHED_NIGHT",
+          "label": "BỐI CẢNH — Bên trong kho dụng cụ nhà Marcus Holloway (một giờ sáng)",
+          "desc": "Bối cảnh gốc của cụm 2 — kho gỗ sau vườn Marcus dùng làm kho nhiên liệu thi đấu, nơi Debra mở cửa hông bằng chìa riêng và khuân than đi giữa đêm.",
+          "prompt": "Bối cảnh ở Mỹ. Một kho dụng cụ gỗ tách rời sau vườn một căn nhà ngoại ô, đang được dùng làm kho chứa nhiên liệu nướng thi đấu, giữa đêm khuya khi chủ nhà đã ngủ. Không có người trong khung hình. TRƯỚC MẶT là dãy kệ gỗ thông ba tầng dựng sát tường ván, trên các tầng xếp đứng những bao nhiên liệu giấy kraft nâu đất còn nguyên đai, tầng trên cùng để riêng hai hộp các-tông nhỏ hàng nhập. BÊN TRÁI là bàn thợ gỗ dày kẹp một chiếc ê-tô sắt, phía trên treo bảng đục lỗ gắn cờ-lê, kìm, cưa tay treo theo bóng vẽ sơn trắng. BÊN PHẢI là một cửa hông gỗ hẹp sơn XANH LÁ đã bạc phếch, then chốt đồng thau cũ xỉn, cánh cửa hé mở ra một lối mòn đất hẹp bị dây nhài leo phủ rậm. SAU LƯNG là cửa chính hai cánh đóng then, cạnh đó dựng một lò hun offset bằng thép đen to nặng và một chồng thùng nhựa xếp lồng. Sàn ván gỗ thông cũ rải bụi than đen mịn. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm ngực. Một bóng đèn dây tóc trần treo giữa trần hắt vùng sáng VÀNG ẤM hẹp xuống giữa kho, ánh trăng xanh lạnh tràn thành một vệt hẹp qua khe cửa hông bên phải, hai luồng sáng giao nhau tạo chiều sâu; không tối đen, không moody, vẫn đọc rõ vân gỗ và mặt giấy kraft. Gỗ thông nâu mật, giấy kraft nâu đất, thép ê-tô xám lạnh, sơn cửa xanh lá bạc. Tổng thể ấm, chật và kín — phải KHÁC HẲN ánh LED trắng đều cùng tông kem-xám rộng thoáng của phòng họp ở cụm trước.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_SHED_NIGHT_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Bị dập trước cả phòng họp vì hỏi về mẻ than bị mất",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Marcus đứng dậy giữa phòng họp, đối đầu Debra trên bục chủ tọa",
+          "goc": "Wide establishing two-shot, Marcus Holloway đứng giữa dãy ghế bên phải khung, Debra Kendricks sau bàn chủ tọa bên trái khung, CẢ HAI RÕ MẶT, đã khoá mắt vào nhau",
+          "pose": {
+            "zone": "Lòng phòng họp, hàng ghế thứ ba nhìn chếch lên bục chủ tọa",
+            "who": {
+              "MARCUS": "Đã đứng thẳng dậy khỏi hàng ghế thứ ba, quay hẳn người đối mặt trực tiếp lên bục, ánh mắt khoá chặt vào Debra, cằm giữ thẳng, chưa hề né tránh",
+              "DEBRA": "Đứng sau bàn chủ tọa trên bục thấp, người hơi nghiêng về trước, cằm hất cao, khoé miệng đã nhếch lên khinh miệt"
+            },
+            "dist": "Máy quay đặt cuối phòng cách khoảng tám mét, ngang tầm mắt người đang đứng, bao trọn sáu hàng ghế và bục chủ tọa",
+            "hands": {
+              "MARCUS": "Tay phải nắm hờ mép lưng chiếc ghế hàng trước, tay trái buông thẳng",
+              "DEBRA": "Tay trái tì mép bàn chủ tọa, tay phải kẹp một bảng kẹp hồ sơ ép ngang hông"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy quay cuối phòng ngang tầm mắt cách khoảng tám mét. Marcus Holloway đứng thẳng giữa hàng ghế thứ ba bên phải khung, đã quay hẳn người đối mặt trực tiếp lên bục chủ tọa, ánh mắt khoá chặt vào Debra, cằm giữ thẳng, không né tránh; tay phải nắm hờ mép lưng chiếc ghế hàng trước. Debra Kendricks đứng sau bàn chủ tọa trên bục thấp bên trái khung, người hơi nghiêng về trước, cằm hất cao, khoé miệng nhếch lên khinh miệt, tay trái tì mép bàn, tay phải kẹp một bảng kẹp hồ sơ ép ngang hông. Cả hai rõ mặt. Khoảng ba mươi cư dân ngoại ô ngồi kín các hàng ghế gấp giữa hai người: phần lớn nhìn thẳng lên bục, hai người vừa quay đầu về phía Marcus, một người cúi nhìn xuống đùi; tất cả ngoài nét mềm. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MARCUS_MEETING_FULL",
+              "REF_DEBRA_MEETING_FULL"
+            ],
+            "bg": "REF_BG_CLUBHOUSE_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · OTS qua vai Marcus, cận trung Debra cười phá lên nhạo báng",
+          "goc": "OTS qua vai Marcus Holloway (vai/gáy phải tiền cảnh mờ), Debra Kendricks RÕ MẶT giữa khung",
+          "pose": {
+            "zone": "Nhìn từ hàng ghế thứ ba lên bục chủ tọa",
+            "who": {
+              "DEBRA": "Đứng sau bàn chủ tọa, đầu hơi ngửa ra sau, miệng há bật cười, mắt nheo lại khinh miệt",
+              "MARCUS": "Quay lưng 3/4 về máy, vai phải và một phần gáy chiếm góc dưới phải khung, mờ nét, không thấy mặt"
+            },
+            "dist": "Máy quay cách Debra khoảng hai mét rưỡi, qua vai phải Marcus phía trước ống kính",
+            "hands": {
+              "DEBRA": "Tay phải giơ bảng kẹp hồ sơ lên ngang ngực, tay trái vẫn tì mép bàn",
+              "MARCUS": "Vai và một phần gáy mờ ở tiền cảnh, không thấy rõ tay"
+            }
+          },
+          "prompt": "OTS qua vai Marcus Holloway: vai phải và một phần gáy của Marcus chiếm góc dưới phải khung, mờ nét ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Debra Kendricks RÕ NÉT giữa khung sau bàn chủ tọa, đầu hơi ngửa ra sau, miệng há bật cười lớn, mắt nheo lại đầy khinh miệt, tay phải giơ bảng kẹp hồ sơ lên ngang ngực, tay trái vẫn tì mép bàn. Ánh đèn trần làm nổi rõ gò má cao và nếp cười gằn của bà ta. Hậu cảnh ngay sau lưng Debra là màn chiếu trắng kéo xuống và lá cờ Mỹ trên chân đế, ngoài nét. Không có quần chúng nào lọt vào khung này.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MARCUS_MEETING_FULL",
+              "REF_DEBRA_MEETING_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · OTS ngược trục qua vai Debra, Marcus đứng một mình giữa cả phòng không ai nhìn",
+          "goc": "OTS ngược trục qua vai Debra Kendricks (vai trái tiền cảnh mờ), Marcus Holloway RÕ MẶT đứng giữa khung, cỡ medium wide",
+          "pose": {
+            "zone": "Nhìn từ bục chủ tọa xuống lòng phòng họp",
+            "who": {
+              "MARCUS": "Đứng một mình giữa hàng ghế thứ ba, cằm giữ thẳng, mắt nhìn lên phía bục, quai hàm siết lại",
+              "DEBRA": "Quay lưng về máy, vai trái và một phần tóc vàng chiếm góc dưới trái khung, mờ nét, không thấy mặt"
+            },
+            "dist": "Máy quay đặt ngay mép bục cách Marcus khoảng năm mét, ngang tầm ngực, hơi chếch xuống",
+            "hands": {
+              "MARCUS": "Hai tay buông thẳng hai bên, không còn vịn ghế",
+              "DEBRA": "Vai trái mờ ở tiền cảnh, không thấy rõ tay"
+            }
+          },
+          "prompt": "Medium wide OTS ngược trục nhìn từ mép bục chủ tọa xuống lòng phòng: vai trái và một phần tóc vàng mật của Debra Kendricks chiếm góc dưới trái khung, mờ ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Marcus Holloway RÕ NÉT giữa khung, đứng một mình giữa hàng ghế thứ ba, hai tay buông thẳng, cằm giữ thẳng, mắt nhìn lên phía bục, quai hàm siết lại. Khoảng hai mươi lăm cư dân ngồi kín các hàng ghế quanh anh và KHÔNG một ai quay sang nhìn anh: người cúi nhìn xuống đùi, người nhìn thẳng lên bục, một phụ nữ đang chăm chú nhìn móng tay mình; tất cả ngoài nét mềm. Hậu cảnh sau lưng Marcus là phía cuối phòng: hai cánh cửa gỗ kép mở ra sảnh và tủ thép xếp ghế gấp. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MARCUS_MEETING_FULL",
+              "REF_DEBRA_MEETING_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · Cận trung dirty single Marcus, vẫn ĐANG ĐỨNG, chưa ngồi xuống",
+          "goc": "Medium close-up dirty single, Marcus Holloway RÕ MẶT chính giữa khung, vai một cư dân ngồi hàng trước làm tiền cảnh mờ",
+          "pose": {
+            "zone": "Lối đi bên phải hàng ghế thứ ba, chếch 45 độ so với hướng nhìn của Marcus",
+            "who": {
+              "MARCUS": "VẪN ĐANG ĐỨNG THẲNG, CHƯA ngồi xuống, mắt còn hướng lên phía bục, miệng khép, chưa cười"
+            },
+            "dist": "Máy quay cách Marcus khoảng một mét rưỡi, ngang tầm ngực",
+            "hands": {
+              "MARCUS": "Hai tay buông thẳng hai bên, các ngón khép hờ"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, máy quay đặt trong lối đi bên phải hàng ghế, chếch khoảng bốn mươi lăm độ so với hướng nhìn của Marcus, cách khoảng một mét rưỡi, ngang tầm ngực. Vai và một phần đầu của một cư dân đang ngồi ở hàng ghế trước chiếm góc dưới trái khung, mờ ngoài tiêu điểm, ngồi im. Marcus Holloway RÕ NÉT chính giữa khung, VẪN ĐANG ĐỨNG THẲNG, chưa ngồi xuống, hai tay buông thẳng hai bên, quai hàm siết lại, mắt vẫn hướng lên phía bục, miệng khép, chưa cười. Hậu cảnh sau lưng anh là dãy cửa sổ cao rủ rèm vải xám bên trái phòng, ngoài lớp kính trời tối đen, tất cả ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MARCUS_MEETING_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-04_v2.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Debra một mình trong kho lúc một giờ sáng, đang kéo bao than khỏi kệ",
+          "goc": "Cinematic wide shot nội cảnh kho, Debra Kendricks RÕ MẶT đứng nghiêng trước dãy kệ than, một mình trong khung",
+          "pose": {
+            "zone": "Giữa lòng kho dụng cụ, trước dãy kệ gỗ ba tầng, cửa hông hé mở bên phải",
+            "who": {
+              "DEBRA": "Đứng nghiêng 3/4 trước tầng kệ giữa, lưng hơi cúi, mặt bình thản tự tin, khoé miệng nhếch nhẹ, hoàn toàn không nhìn quanh cảnh giác"
+            },
+            "dist": "Máy quay đặt ở góc trong kho cách khoảng năm mét, ngang tầm ngực",
+            "hands": {
+              "DEBRA": "Tay trái giữ miệng một bao rác nhà thầu màu đen đã phồng một nửa, tay phải vừa kéo một bao than 50 pound khỏi tầng kệ giữa"
+            }
+          },
+          "prompt": "Cinematic wide shot nội cảnh, photorealistic, máy quay ngang tầm ngực cách khoảng năm mét. Debra Kendricks đứng một mình giữa lòng kho, nghiêng 3/4 về phía dãy kệ gỗ ba tầng, lưng hơi cúi; mặt bình thản và tự tin, cằm hơi hất, khoé miệng nhếch nhẹ, hoàn toàn không nhìn quanh cảnh giác. Tay trái bà ta giữ miệng một bao rác nhà thầu màu đen dày đã phồng một nửa, tay phải vừa kéo một bao than giấy kraft 50 pound khỏi tầng kệ giữa, bao vẫn còn nguyên đai. Trên tầng kệ vẫn còn xếp đứng bốn bao than nguyên đai khác. Một chiếc xe đẩy tay bằng thép dựng sẵn ngay bên phải bà ta, bánh chạm sàn ván, CHƯA có bao nào chất lên. Cửa hông gỗ hẹp bên phải hé mở. Không có người nào khác trong khung hình.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_DEBRA_NIGHT_FULL",
+              "REF_PROP_CHARCOAL_BAG"
+            ],
+            "bg": "REF_BG_SHED_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Cận mặt Debra trong kho, lạnh và thoả mãn, mắt dán vào chỗ than",
+          "goc": "Close-up chính diện hơi chếch phải, Debra Kendricks RÕ MẶT chiếm phần lớn khung, một mình",
+          "pose": {
+            "zone": "Giữa lòng kho dụng cụ, sát trước tầng kệ giữa",
+            "who": {
+              "DEBRA": "Mặt lạnh và thoả mãn, cằm hơi hất, khoé miệng nhếch lên đắc thắng, mắt nhìn xuống chỗ than trên kệ chứ không nhìn quanh"
+            },
+            "dist": "Máy quay cách mặt Debra khoảng tám mươi phân, ngang tầm mắt",
+            "hands": {
+              "DEBRA": "Tay trái vẫn giữ miệng bao rác nhà thầu màu đen ngay dưới cằm, mép bao lọt vào góc dưới khung"
+            }
+          },
+          "prompt": "Close-up, cinematic photorealistic, máy quay cách khoảng tám mươi phân, ngang tầm mắt, chếch nhẹ từ bên phải. Góc dưới khung là mép trên một bao than giấy kraft và một thanh đứng của kệ gỗ, cả hai mờ ngoài tiêu điểm, ép máy quay lại thật sát mặt. Debra Kendricks RÕ NÉT chiếm phần lớn khung, mặt lạnh và thoả mãn, cằm hơi hất, khoé miệng nhếch lên đắc thắng, mắt nhìn xuống chỗ than trên kệ chứ không hề nhìn quanh cảnh giác. Tay trái bà ta vẫn giữ miệng bao rác nhà thầu màu đen ngay dưới cằm. Ánh đèn dây tóc trên trần làm nổi rõ gò má cao và ánh mắt thoả mãn. Hậu cảnh sau lưng bà ta là mảng tường ván gỗ tối và bảng đục lỗ treo dụng cụ ở phía trái kho, ngoài nét sâu. Không có người nào khác trong khung hình.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_DEBRA_NIGHT_FULL",
+              "REF_PROP_CHARCOAL_BAG"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-06_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Debra đã ở ngưỡng cửa hông với xe đẩy chất đầy, quay lại liếc dãy kệ lần cuối",
+          "goc": "Medium wide 3/4 từ trong kho nhìn ra cửa hông, Debra Kendricks RÕ MẶT bên phải khung, một mình",
+          "pose": {
+            "zone": "Trong lòng kho → ngưỡng cửa hông bên phải",
+            "who": {
+              "DEBRA": "Đã đứng ở ngưỡng cửa hông, một chân bước ra ngoài, thân trên quay hẳn lại nhìn về phía dãy kệ, khoé miệng nhếch lên đắc thắng"
+            },
+            "dist": "Máy quay đặt trong lòng kho cách khoảng ba mét, ngang tầm ngực, chĩa chếch về cửa hông bên phải",
+            "hands": {
+              "DEBRA": "Hai tay nắm càng chiếc xe đẩy tay đã chất hai bao rác nhà thầu đen căng phồng, xe vẫn đứng yên bên trong ngưỡng cửa, CHƯA đẩy qua cửa"
+            }
+          },
+          "prompt": "Medium wide, cinematic photorealistic, máy quay đặt trong lòng kho cách khoảng ba mét, ngang tầm ngực, chĩa chếch về phía cửa hông bên phải. Tiền cảnh trái là một thanh đứng và mép tầng kệ gỗ còn xếp ba bao than nguyên đai, mờ ngoài tiêu điểm. Debra Kendricks RÕ NÉT bên phải khung, đã đứng ở ngưỡng cửa hông với một chân bước ra ngoài, thân trên quay hẳn lại nhìn về phía dãy kệ, khoé miệng nhếch lên đắc thắng; hai tay nắm càng chiếc xe đẩy tay đã chất hai bao rác nhà thầu màu đen căng phồng, xe vẫn đứng yên bên trong ngưỡng cửa, CHƯA đẩy qua cửa. Hậu cảnh phía sau bà ta qua khung cửa hông hé mở là lối mòn đất hẹp phủ dây nhài leo rậm và khoảng sân sau tối, ngoài nét. Không có người nào khác trong khung hình.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_DEBRA_NIGHT_FULL",
+              "REF_PROP_CHARCOAL_BAG"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "MARCUS: \"Someone's been getting into my shed at night. Taking my charcoal. Every month.\"\nDEBRA: \"Charcoal?\"\nNARRATION: She laughed — loud, ugly, meant for the whole room.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMARCUS — 38-year-old white man, wearing a dark moss-green plaid flannel shirt, standing in the third row of chairs.\nDEBRA — 54-year-old white woman, wearing an ivory-cream blouse under a camel blazer, behind the head table on the riser.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA monthly homeowners association meeting. Marcus is on his feet asking a plain question about theft. Debra treats the question itself as an insult.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:05 Marcus's line. 0:05–0:06 Debra's one-word reply. 0:06–0:10 no dialogue, only Debra's own laughter — reserved for: \"She laughed — loud, ugly, meant for the whole room.\"\n\nDIALOGUE ORDER:\nMARCUS → DEBRA\n\nSHOT 1 (0:00–0:06) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in down the centre aisle. No handheld shake.\n0:00–0:05: Marcus stands squared off toward the riser, chin level, eyes locked on Debra, one hand on the chair back in front of him. He speaks evenly.\nMARCUS — steady, plain, holding his temper: \"Someone's been getting into my shed at night. Taking my charcoal. Every month.\"\n0:05–0:06: Debra tips her chin up a fraction.\nDEBRA — flat, mocking, one word: \"Charcoal?\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER TWO-SHOT FAVOURING DEBRA — VERY SLOW PUSH-IN\nCamera: The push-in tightens on the riser, Debra dominant, Marcus still visible in the rows.\nDebra's head tips back and she laughs out loud, shoulders shaking, pitching it loud enough to carry to the back wall. The seated residents barely shift. No dialogue.\n\nPERFORMANCE:\nMarcus is contained, a man stating a fact. Debra is enjoying herself; the laugh is a performance for the room and never looks defensive.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Marcus speaks, Debra listens silently with her mouth closed. When Debra speaks, Marcus listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue windows: character dialogue only, clear natural American English. Silent window: Debra's laughter and faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Debra finishes: \"Charcoal?\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in.\nSHOT 2 = tighter two-shot favouring Debra, very slow push-in, laughter only.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "DEBRA: \"You're wasting everyone's time over charcoal from that filthy little shack?\"\nMARCUS: \"I'm just asking if anyone—\"\nDEBRA: \"Nobody cares about your shed, Mr. Holloway. Nobody.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nDEBRA — 54-year-old white woman, wearing an ivory-cream blouse under a camel blazer, facing camera behind the head table.\nMARCUS — 38-year-old white man, wearing a dark moss-green plaid flannel shirt, seen only as a blurred right shoulder and the back of his head, completely still, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nDebra turns the question into a public humiliation, then cuts Marcus off mid-sentence. She never stops enjoying herself.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 Debra's line. 0:04–0:06 Marcus's line, spoken off-camera with his back to us. 0:06–0:09 Debra's line. 0:09–0:10 silent hold on Debra.\n\nDIALOGUE ORDER:\nDEBRA → MARCUS → DEBRA\n\nSHOT 1 (0:00–0:06) — OTS ON DEBRA (OVER MARCUS'S SHOULDER) — SLOW PUSH-IN\nCamera: Very slow push-in on Debra. Marcus's blurred shoulder anchors the lower-right foreground and never moves.\n0:00–0:04: The laugh drops into a hard sneer.\nDEBRA — loud, jeering, performing for the crowd: \"You're wasting everyone's time over charcoal from that filthy little shack?\"\n0:04–0:06: Marcus answers from the foreground, back to camera. His face stays out of view and his head does not turn.\nMARCUS — level, still trying: \"I'm just asking if anyone—\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER OTS ON DEBRA — VERY SLOW PUSH-IN\nCamera: The push-in tightens on Debra's face. Marcus's blurred shoulder stays at the frame edge.\nDebra talks straight over him, clipboard raised like a gavel.\nDEBRA — cold, dismissive, absolutely certain: \"Nobody cares about your shed, Mr. Holloway. Nobody.\"\n0:09–0:10: she holds the look.\n\nPERFORMANCE:\nDebra is polished and contemptuous, never once contradicted. Marcus stays completely still and never turns toward the lens.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Marcus's face is never seen; when he speaks his head stays turned away. When Debra speaks, Marcus stays silent and motionless. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue only, clear natural American English. Silent window: faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, the instant Debra cuts across Marcus's unfinished sentence.\n\nCAMERA SUMMARY:\nSHOT 1 = OTS on Debra, slow push-in.\nSHOT 2 = tighter OTS on Debra, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "DEBRA: \"Lock it or lose it. That's not my problem. Sit. Down.\"\nNARRATION: The whole room — silent. Not one person looked at me.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMARCUS — 38-year-old white man, wearing a dark moss-green plaid flannel shirt, standing alone in the third row, fully visible.\nDEBRA — 54-year-old white woman, wearing an ivory-cream blouse under a camel blazer, seen only as a blurred left shoulder and a sweep of blonde hair, completely still, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nDebra shuts the subject down with an order, and the room refuses to look at the man she just ordered to sit.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 Debra's line, spoken from the foreground with her back to us. 0:04–0:10 no dialogue at all — reserved for: \"The whole room — silent. Not one person looked at me.\"\n\nDIALOGUE ORDER:\nDEBRA\n\nSHOT 1 (0:00–0:04) — MEDIUM WIDE OTS ON MARCUS (OVER DEBRA'S SHOULDER) — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static locked-off tripod. Debra's blurred shoulder holds the lower-left foreground and never moves.\nDebra delivers the order from the foreground, back to camera; her face stays out of view. Marcus stays on his feet, jaw tight.\nDEBRA — clipped, final, giving an order: \"Lock it or lose it. That's not my problem. Sit. Down.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER ON MARCUS AMONG THE SEATED ROWS — VERY SLOW PUSH-IN\nCamera: Very slow push-in past Debra's shoulder, tightening on Marcus standing alone among the rows.\nNobody moves. The seated residents keep their eyes down or on the riser; one woman studies her own fingernails. Not one turns toward Marcus. He stands there, breathing once. No dialogue for the full six seconds.\n\nPERFORMANCE:\nMarcus absorbs it without flinching and without appealing to anyone. The residents stay neutral — no exaggerated reactions, all soft and out of focus.\n\nLIP SYNC:\nOnly Debra speaks, and only in Shot 1, with her face turned away. In Shot 2 no character speaks and no character moves their lips as if talking. During the silence, mouths remain closed with lips still.\n\nAUDIO:\n0:00–0:04: Debra's dialogue only, clear natural American English. 0:04–0:10: no dialogue, faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after the word \"Down.\" lands.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide OTS on Marcus over Debra's shoulder, static.\nSHOT 2 = tighter on Marcus among the seated rows, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "NARRATION: I sat down. And I smiled.\nNARRATION: Because she wasn't just dismissing me. She was the one with the key to my shed.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMARCUS — 38-year-old white man, wearing a dark moss-green plaid flannel shirt, standing in the third row of folding chairs at the start of the clip.\nA seated resident — blurred in foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nMarcus obeys the order and sits — and the moment he is down, a small controlled smile arrives. Not a beaten man sitting down. A man who already knows something the woman on the riser does not.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 no dialogue — reserved for: \"I sat down. And I smiled.\" 0:03–0:10 no dialogue — reserved for: \"Because she wasn't just dismissing me. She was the one with the key to my shed.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:03) — MEDIUM CLOSE-UP DIRTY SINGLE ON MARCUS — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static locked-off tripod at chest height, angled about forty-five degrees off his eyeline. The blurred shoulder of the seated resident holds the lower-left foreground and never moves.\nMarcus is on his feet at the start. He lowers himself into the folding chair behind him in one unhurried, controlled movement, eyes still on the riser the whole way down. Mouth closed. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — CLOSE-UP ON MARCUS, NOW SEATED — VERY SLOW PUSH-IN\nCamera: Very slow push-in onto his face, smooth and restrained.\nSeated now, he lets out a slow breath. The corner of his mouth lifts into a small, private, entirely controlled smile and stays there for the rest of the clip. His eyes never leave the riser. No dialogue for the full seven seconds.\n\nPERFORMANCE:\nThe smile is quiet and dangerous, not smug and not wide — a man banking something. Nothing theatrical, no head shake, no eye roll. The blurred resident in the foreground stays completely still.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue at any point. Faint room ambience only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, the instant Marcus settles into the chair.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up dirty single, static, Marcus sits down.\nSHOT 2 = close-up on the seated Marcus, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: She was the one taking my charcoal in the dead of night.\nNARRATION: She just didn't know what I'd put on those shelves for her next visit.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nDEBRA — 54-year-old white woman, wearing an all-black athletic jacket, alone inside the shed, working the shelves.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nOne thirty in the morning inside Marcus's tool shed. Debra works the charcoal shelf with the calm efficiency of someone who has done this every month for years — no hesitation, no glancing over her shoulder, no flashlight.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:05 no dialogue — reserved for: \"She was the one taking my charcoal in the dead of night.\" 0:05–0:10 no dialogue — reserved for: \"She just didn't know what I'd put on those shelves for her next visit.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE SHOT OF THE SHED INTERIOR — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the shelving. Controlled movement. No handheld shake.\nDebra pulls the kraft-paper charcoal bag the rest of the way off the middle shelf, takes its weight without effort, and drops it into the black contractor sack held open in her left hand. The sack sags and settles. She does not look around once. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER ON THE MIDDLE SHELF AND HER REACHING HAND — VERY SLOW PUSH-IN\nCamera: The push-in tightens on the row of remaining kraft-paper bags standing on the middle shelf, Debra's hand and forearm entering from frame right.\nHer hand comes back into the shelf and closes on the next bag along the row. The four remaining bags sit there in the lamplight, seams still sewn shut, exactly as they were left for her. She takes hold and the clip ends there. No dialogue for the full five seconds.\n\nPERFORMANCE:\nEverything about her is unhurried and practised. No fear, no guilt, no caution — this is routine to her.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Her mouth remains closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue at any point. Faint night ambience and the dry rustle of the paper bag only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, the moment the charcoal bag hits the bottom of the black sack.\n\nCAMERA SUMMARY:\nSHOT 1 = wide shed interior, slow push-in, silent action.\nSHOT 2 = tighter on the middle shelf and her hand, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: You are NOT ready for what comes next.\nNARRATION: Have you ever watched someone light a match on their own downfall without knowing it",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nDEBRA — 54-year-old white woman, wearing an all-black athletic jacket, alone inside the shed, close on her face.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA long hold on the face of a woman who is completely certain she is getting away with it, at the exact moment she is loading her own ruin into a garbage sack. She never suspects a thing, and the clip never lets her suspect it.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 no dialogue — reserved for: \"You are NOT ready for what comes next.\" 0:03–0:10 no dialogue — reserved for: \"Have you ever watched someone light a match on their own downfall without knowing it\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:03) — CLOSE-UP ON DEBRA — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static locked-off tripod, close on her face, the blurred bag edge and shelf upright holding the lower frame.\nHer eyes stay down on the charcoal. The corner of her mouth is already lifted. She breathes out slowly, entirely satisfied with herself, and does not look around. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER CLOSE-UP ON DEBRA — VERY SLOW PUSH-IN\nCamera: Very slow push-in, tightening further on her face.\nShe gathers the neck of the black sack in her left hand, cinches it closed with a short twist, and takes its full weight as she lifts — the effort registering only as a small tightening at her jaw. The satisfied smile widens as the weight comes up. Her eyes stay level and calm. She still never looks around. No dialogue for the full seven seconds.\n\nPERFORMANCE:\nCold, composed, triumphant. Absolutely no fear, no hesitation, no guilt, no glance over the shoulder. Natural human eyes only, calm and steady. She must read as a woman who believes she is untouchable.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Her mouth remains closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue at any point. Faint night ambience and the rustle of the plastic sack only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, just as her hand starts to gather the neck of the sack.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Debra, static, silent.\nSHOT 2 = tighter close-up on Debra, very slow push-in, she cinches and lifts the sack.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: — because you are about to.\nNARRATION: Drop a comment, smash that like, and let me take you back to where this whole thing started.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nDEBRA — 54-year-old white woman, wearing an all-black athletic jacket, alone in the shed doorway with a loaded hand dolly.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe last look back. Two hundred pounds of another man's charcoal on her dolly, one more month of getting away with it, and she takes a final satisfied glance at the shelves before she wheels it out into the dark.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:02 no dialogue — reserved for: \"— because you are about to.\" 0:02–0:10 no dialogue — reserved for: \"Drop a comment, smash that like, and let me take you back to where this whole thing started.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — MEDIUM WIDE TOWARD THE SIDE DOOR — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static locked-off tripod inside the shed, the blurred shelf upright holding the left foreground.\nDebra holds the loaded dolly steady in the doorway, body already half outside, upper body still turned back toward the shelves. Her eyes travel once along the remaining bags and the smile lifts a fraction further. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER ON THE DOORWAY — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the open side door. The camera stays inside the shed the whole time and never follows her out.\nShe turns her head forward, tips the dolly back onto its wheels and pushes it over the threshold, walking out through the side door and off the right edge of frame. The doorway is left standing open on the dark path outside, the remaining bags still on the shelf in the foreground. No dialogue for the full six seconds.\n\nPERFORMANCE:\nUnhurried and pleased with herself to the very last frame. No caution, no backward glance after she turns, no sign that anything is wrong.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Her mouth remains closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue at any point. Faint night ambience and the roll of the dolly wheels on the plank floor only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the moment she turns her head forward toward the door.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide toward the side door, static, last look back.\nSHOT 2 = tighter on the doorway, very slow push-in, she wheels the dolly out of frame.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

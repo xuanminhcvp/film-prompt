@@ -106,14 +106,32 @@ Dòng `goc` trả lời câu hỏi *"Khung này quay bằng góc gì, có ai, n�
 ## 5. Chia thoại và thời lượng
 
 ### 5.1 Mốc `dur`
-- Mặc định dùng mốc 15s (`dur: 15`) — chủ yếu nhất. Dạng 3 shot con, 2 hard cut.
-- Số ít trường hợp rất hiếm dùng mốc 10s (`dur: 10`), không quá 10% tổng số shot toàn phim. Dạng 2 shot con, 1 hard cut.
+- **`dur` KHÔNG được chọn trước. Gom thoại xong, đếm chữ, rồi số từ quyết định `dur`** — vì giây thoại = số từ ÷ 3 (§5.2), nên chọn mốc trước rồi nhét chữ vào sau chắc chắn sinh ra quãng chết cuối clip. Chủ yếu vẫn là video 15s nhé.
+- `dur: 15` (3 shot con, 2 hard cut) khi nhóm thoại rơi vào **39–42 từ**.
+- `dur: 10` (2 shot con, 1 hard cut) khi nhóm thoại rơi vào **24–29 từ**.
+- **KHÔNG có trần tỷ lệ cho `dur: 10`.** Số clip 10 giây là hệ quả của kịch bản, không phải hạn ngạch. Ép một nhóm 24–29 từ thành clip 15 giây để giữ hạn ngạch chính là cách tạo ra thời gian chết.
 - **Tuyệt đối không dùng mốc 6s** hoặc các con số lẻ khác.
 
 ### 5.2 Tốc độ và mật độ thoại
-- Con số 3.0 từ/giây vừa là trần chống nhồi (trần cứng tối đa 42 từ cho clip 15s để chừa 1s biên an toàn 14s; tối đa 28 từ cho clip 10s), vừa là thước đo sàn chống loãng.
-- **Mật độ thoại**: đa số shot phải lấp 13–14s thoại trong clip 15s (≈39–42 từ). Chỉ số ít shot thật sự cần đất diễn cảm xúc mới hạ xuống 8–10s (≈24–28 từ). Thoại mỏng hơn nữa thì clip rỗng, toàn quãng chết — phải gộp thêm thoại của shot kế vào, đừng để một câu 3–8 từ đứng riêng một clip 15s.
-- Ba biên phải tự đếm: **sàn từng shot** (≥8s thoại cho clip 15s ≈ 24 từ) · **trần từng shot** (42 từ cho 15s, 28 từ cho 10s) · **mật độ toàn phim** (≥65% shot thoại lấp ≥13s ≈ 39 từ).
+- **3,0 từ/giây là HẰNG SỐ QUY ĐỔI, không phải trần cũng không phải sàn.** Giây thoại của một shot = số từ ÷ 3. Model đọc đúng tốc độ này, nên số từ quyết định thẳng độ dài phần có tiếng của clip; phần còn lại là quãng chết.
+
+- **Chỉ có HAI dải số từ hợp lệ cho một shot thoại:**
+
+  | `dur` | số từ | giây thoại | biên an toàn |
+  |---|---|---|---|
+  | 10 | **24 – 29** | 8,0 – 9,7s | 0,3 – 2,0s |
+  | 15 | **39 – 42** | 13,0 – 14,0s | 1,0 – 2,0s |
+
+- ⛔ **VÙNG CẤM 30–38 TỪ.** Quá nhiều cho clip 10 giây, quá ít cho clip 15 giây. Nhóm thoại rơi vào đây bắt buộc phải xử lý, KHÔNG được để nguyên:
+  1. **Gộp thêm** lượt thoại kế tiếp cho đủ 39 từ, hoặc
+  2. **Nhả bớt** lượt thoại cuối sang shot sau cho tụt về ≤29 từ.
+  Cắt vào giữa vùng cấm là lỗi đắt nhất của cả quy trình: mỗi clip thừa 4–6 giây, không ngưỡng tầm scene nào bắt được, và chỉ lộ ra khi đã render.
+
+- **Dưới 24 từ thì không đứng riêng một clip được** — gộp vào shot liền kề.
+
+- **Nhịp không thoại được miễn trừ hoàn toàn** khỏi mọi ngưỡng ở mục này: nó không có thoại nên độ dài do hình quyết định (`10-nhip-lang.md`).
+
+- **Khi một cụm không có cách chia nào hợp lệ** (thường vì cụm quá ngắn hoặc kẹt giữa hai dòng thoại dài), thứ tự ưu tiên là: (1) dịch ranh giới cụm nếu thế trận cho phép · (2) cho một shot chạm 43–45 từ (clip 15s, biên 0–0,7s) · (3) cuối cùng mới chấp nhận một shot 30–38 từ, và bắt buộc ghi lý do vào `notes` của shot đó. Không được im lặng để nguyên.
 - *Bộ luật cũ từng có song song hai con số: **42 từ** và **45 từ** (bản ở phần prompt video). Đã thống nhất về **42**.*
 
 ### 5.3 Cắt theo phản ứng
@@ -143,10 +161,9 @@ SF là khung đầu clip, nên phải lấy trạng thái kết thúc của clip
 
 **Đếm được — đếm trên bảng shot, ghi số ra rồi đối chiếu:**
 - [ ] Mọi shot có `dur` là **15** hoặc **10**; không 6s, không số lẻ.
-- [ ] Shot `dur=10` chiếm **≤10%** tổng số shot toàn phim.
-- [ ] Không shot nào vượt **42 từ** (clip 15s) / **28 từ** (clip 10s).
-- [ ] Không shot thoại nào dưới **24 từ** (sàn 8s cho clip 15s) — dưới thì gộp thoại shot kế vào.
-- [ ] **≥65%** shot thoại lấp ≥13s (≈39 từ) — tính trên toàn phim.
+- [ ] **100%** shot thoại nằm trong đúng một trong hai dải: `dur=10` → 24–29 từ · `dur=15` → 39–42 từ.
+- [ ] **Không shot nào** rơi vào vùng cấm 30–38 từ, và không shot nào dưới 24 từ.
+- [ ] `dur` của mọi shot khớp với số từ của chính nó (không có clip 15s mang 24–29 từ).
 - [ ] Tái sử dụng SF **20–25%** tổng số shot (scene đảo góc 2 người có thể 30–40%).
 - [ ] Trong số shot dùng lại: OTS + cận đơn **≤60%**, two-shot + master **≥40%**.
 - [ ] Góc rộng **20–25%** · đặc tả **~2%** · cận/trung **40–50%** · góc đôi **20–30%**.

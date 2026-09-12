@@ -1,0 +1,892 @@
+{
+  "film": "SHORT-HAROLD--CHIEC-VUONG-MIEN-GIAY",
+  "kind": "short",
+  "updated_at": "2026-09-11 14:54:52",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "THẺ THAM CHIẾU — nhân vật · đạo cụ · địa điểm",
+      "sfs": [
+        {
+          "id": "REF_HAROLD_CARDIGAN_FULL",
+          "label": "★ HAROLD WHITFIELD — áo len cardigan (bữa tối sinh nhật 82)",
+          "desc": "Nam chính, 82 tuổi, tỷ phú. Vợ mất 5 năm, con gái không nói chuyện 8 năm. THẺ NEO NHÂN DẠNG (Short không tạo portrait riêng). Mặt phải đọc ra: một người từng quen ra lệnh, nay đã thôi chờ ai nhớ tới mình — trầm, tỉnh, không cay nghiệt, không thảm hại.\nDùng: COLD · S20 · S22 · S23\nĐồng phục: HAROLD-CARDIGAN (neo)",
+          "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: người đàn ông da trắng 82 tuổi, cao và gầy, lưng còn thẳng. Tóc bạc trắng hoàn toàn, dày, chải ngược ra sau gọn gàng. Khuôn mặt dài, gò má cao, hốc mắt sâu, mắt xám xanh nhạt, lông mày bạc thưa, cạo râu sạch. Da có hao mòn thật của tuổi 82: nếp nhăn sâu ở trán và khoé mắt, da mu bàn tay mỏng thấy gân, đồi mồi nhạt — đây là dấu tuổi sinh học, KHÔNG phải làm xấu. Miệng khép tự nhiên, KHÔNG cười. Ánh nhìn tỉnh, chắc, hơi xa.\nTrang phục: áo len cardigan dệt kim sợi to màu XÁM TAUPE (xám ngả nâu ấm), cài hai khuy giữa, hai túi vá phía trước, cổ chữ V; bên trong là sơ mi cotton màu KEM TRẮNG cài kín cúc, cổ mềm. Quần âu len màu XÁM THAN, ống thẳng, có ly. Thắt lưng da nâu sẫm bản nhỏ. Giày lười da đen.\nKhông đeo kính, không đồng hồ, không nhẫn, không trang sức nào khác.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt, không mảng tối.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BENNETT_UNIFORM_FULL",
+          "label": "★ BENNETT UNDERWOOD — đồng phục bảo trì toà Ashford",
+          "desc": "Thợ bảo trì của toà nhà, khoảng 36 tuổi, bố đơn thân của Lily. Hôm nay phá luật khi dẫn con lên tầng penthouse. THẺ NEO NHÂN DẠNG. Mặt phải đọc ra: người quen làm việc bằng tay, lễ độ nhưng không khúm núm, và đang hơi lo vì biết mình đang phạm quy.\nDùng: S20 · S22 · S23\nĐồng phục: ASHFORD-BAO-TRI (neo)",
+          "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: người đàn ông Mỹ gốc Phi 36 tuổi, da nâu trung, vai rộng, vóc chắc. Tóc đen cắt sát, râu quai nón đen tỉa gọn đều. Gương mặt ưa nhìn, khoẻ mạnh, gò má vuông, mắt nâu sẫm nhìn thẳng, miệng khép tự nhiên KHÔNG cười. Da có kết cấu thật, lỗ chân lông nhìn rõ. Không hốc hác, không quầng thâm.\nTrang phục: áo sơ mi bảo trì vải bông dày màu XANH NAVY SẪM, dài tay, cài kín cúc, hai túi ngực có nắp. Trên ngực có HAI miếng thêu chữ trắng trên nền navy, viền trắng, đọc rõ: miếng bên trái khung hình thêu chữ \"ASHFORD\", miếng bên phải khung hình thêu chữ \"UNDERWOOD\". Quần vải bạt màu XÁM TRUNG, ống thẳng, có túi hộp bên đùi. Thắt lưng da đen bản to khoá kim loại. Bao đồ nghề da nâu sẫm treo ở hông PHẢI, trong có một cái kìm và hai cây tua vít cán vàng. Giày bảo hộ da đen mũi tròn, đế dày.\nKhông đeo đồng hồ, không nhẫn, không dây chuyền.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt, không mảng tối.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_LILY_DRESS_FULL",
+          "label": "★ LILY UNDERWOOD — 6 tuổi, váy hoa nền kem",
+          "desc": "Con gái Bennett, 6 tuổi. Tự làm vương miện giấy ở trường và để dành cho một người cần nó. THẺ NEO NHÂN DẠNG. Mặt phải đọc ra: một đứa trẻ tự tin một cách hồn nhiên, không sợ người lớn lạ.\nDùng: S20 · S22 · S23\nĐồng phục: LILY-VAY-HOA (neo)",
+          "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: bé gái Mỹ gốc Phi 6 tuổi, da nâu sáng, mặt bầu tròn, má đầy, mắt nâu to, hàm răng sữa đều, đang mỉm cười nhẹ tự nhiên. Tóc tết cornrow thành nhiều bím nhỏ chạy ra sau, đuôi bím thả xuống hai bên vai, gắn HẠT NHỰA NHIỀU MÀU (hồng, vàng, xanh lá, xanh dương) ở cuối bím. Da có kết cấu thật, khoẻ mạnh, hồng hào.\nTrang phục: váy liền thân vải cotton nền KEM in hoa nhí nhiều màu (hồng phấn, vàng nhạt, lá xanh), tay phồng ngắn, viền ren trắng ở cổ, một nơ vải HỒNG PHẤN nhỏ đính lệch bên ngực trái, chân váy xoè dài quá đầu gối. Tất cổ ngắn màu trắng có diềm ren. Giày búp bê da màu kem, quai ngang có khuy.\nVòng tay hạt nhựa nhiều màu ở cổ tay PHẢI — trang sức duy nhất. Cổ tay trái để trống.\nQuần áo che kín người đầy đủ và chỉnh tề, tuyệt đối không hở hang.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt, không mảng tối.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_VICTORIA_SUIT_FULL",
+          "label": "★ VICTORIA PRESCOTT — vest đen, đến để lấy chữ ký",
+          "desc": "Con gái Harold, 44 tuổi. Tám năm không bước vào căn hộ này. Hôm nay đến vì một chữ ký, không vì sinh nhật. THẺ NEO NHÂN DẠNG. Mặt phải đọc ra: người quen kiểm soát, đang giữ mặt phẳng để không lộ ra thứ nằm dưới sự nghi ngờ.\nDùng: S22 · S23\nĐồng phục: VICTORIA-VEST-DEN (neo)",
+          "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: người phụ nữ da trắng 44 tuổi, dáng cao, gầy, đứng thẳng. Tóc nâu sẫm dài ngang vai, rẽ ngôi lệch, sấy suôn, ép gọn. Khuôn mặt thanh, gò má cao, sống mũi thẳng, mắt xanh xám, lông mày nâu tỉa gọn, môi mỏng tô son nude nhạt, miệng khép KHÔNG cười. Nếp nhăn nhỏ ở khoé mắt đúng tuổi 44. Gương mặt ưa nhìn, khoẻ mạnh, không hốc hác.\nTrang phục: bộ vest nữ len màu ĐEN TUYỀN — áo blazer một khuy, ve áo nhọn, dáng ôm eo; bên trong là áo lụa màu TRẮNG NGÀ cổ tròn, không hoạ tiết. Quần âu đen ống đứng có ly, dài chấm mu bàn chân. Giày cao gót mũi nhọn da đen.\nĐồng hồ mặt tròn nhỏ dây da đen ở cổ tay TRÁI và một nhẫn trơn mảnh ở ngón áp út tay phải — đó là toàn bộ trang sức. Không hoa tai, không dây chuyền.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt, không mảng tối.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_NORA_BLAZER_FULL",
+          "label": "★ NORA STANTON — quản lý toà nhà Ashford",
+          "desc": "Quản lý toà nhà, khoảng 52 tuổi. Sáng nay đã nhắc nhở Bennett một lần. THẺ NEO NHÂN DẠNG. Mặt phải đọc ra: người làm đúng quy trình, mệt mỏi vì phải làm điều mình không muốn — không đắc thắng, không hằn học.\nDùng: S23\nĐồng phục: ASHFORD-QUAN-LY (neo)",
+          "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: người phụ nữ Mỹ gốc Latin 52 tuổi, tầm thước, dáng chắc. Tóc đen pha vài sợi bạc, búi thấp gọn sau gáy. Khuôn mặt tròn đầy, da nâu ô liu có kết cấu thật, mắt nâu sẫm, lông mày đen dày tự nhiên, miệng khép tự nhiên KHÔNG cười. Nếp nhăn cười ở khoé mắt đúng tuổi 52. Gương mặt ưa nhìn, khoẻ mạnh, không hốc hác.\nTrang phục: blazer vải màu ĐỎ BOÓC-ĐÔ (burgundy) hai khuy, dáng thẳng; bên trong là sơ mi cotton TRẮNG cài kín cúc. Chân váy bút chì màu xám than dài quá gối. Giày bệt da đen mũi tròn.\nĐeo dây đeo thẻ nhân viên màu xám than quanh cổ, đầu dây có một thẻ nhựa trắng úp mặt sau ra ngoài nên KHÔNG đọc được chữ gì. Hoa tai bi vàng nhỏ — trang sức duy nhất ngoài dây thẻ.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt, không mảng tối.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_NORA_BLAZER_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_CROWN",
+          "label": "Vương miện giấy Lily tự làm ở trường",
+          "desc": "Đạo cụ trung tâm của cả phim — vật trao tay, gieo ở S20 và trả ở S22/S23. Trạng thái duy nhất: đã làm xong, còn nguyên, chưa ai đội.\nDùng: S20 · S22 · S23",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ ngang tầm mặt bàn.\nMột chiếc vương miện giấy trẻ con tự làm: cắt từ bìa giấy thủ công màu VÀNG CHANH, uốn thành vòng tròn khép kín, mối nối dán bằng một mẩu BĂNG DÍNH TRONG dán vụng, nhìn thấy rõ nếp nhăn của băng dính. Mép trên cắt thành năm chóp nhọn hình răng cưa, đường cắt không đều nhau — rõ ràng là tay trẻ con cắt. Mặt ngoài phết keo rồi rắc KIM TUYẾN VÀNG, keo khô để lại vệt bóng loang lổ, kim tuyến rơi vãi vài hạt quanh chân vương miện. Trên thân vương miện có bốn viên \"ngọc\" vẽ bằng SÁP MÀU ĐỎ hình thoi, tô đậm nhạt không đều.\nChữ viết tay bằng sáp màu ĐỎ chạy quanh thân, nét chữ trẻ con to nhỏ không đều, đọc chính xác: \"HAPPY BIRTHDAY\" — viết hoa toàn bộ, chữ HAPPY ở trên, chữ BIRTHDAY ở dưới. Không có chữ nào khác.\nĐặt đứng trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_CUPCAKE_BOX",
+          "label": "Hộp bánh giấy trắng buộc dây đay — trạng thái ĐÓNG (chưa mở)",
+          "desc": "Hộp Lily cầm khi đến cửa. Đây là trạng thái ĐẦU TIÊN kịch bản dùng: còn đóng, còn buộc dây. Cuối S23 hộp đã rỗng và mở nắp — trạng thái đó tả trực tiếp trong SF, không tạo thẻ riêng.\nDùng: S20 · S22 · S23",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ ngang tầm mặt bàn.\nMột hộp bánh giấy bìa vuông màu TRẮNG NGÀ, cạnh khoảng mười lăm centimet, nắp còn ĐÓNG KÍN. Giữa nắp có một ô cửa sổ vuông dán màng nhựa trong, nhìn qua chỉ thấy tối mờ bên trong, KHÔNG nhìn rõ được thứ gì bên trong. Hộp được buộc chéo hai vòng bằng DÂY ĐAY nâu mộc, thắt một cái nơ đơn giản ngay giữa nắp, hai đầu dây thừa buông ra ngoài. Giấy hộp có vài nếp gấp mềm ở góc do được cầm đi đường.\nTrên hộp KHÔNG có chữ, KHÔNG có logo, KHÔNG có tem nhãn nào.\nĐặt trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_CUPCAKE",
+          "label": "Bánh cupcake một cây nến — trạng thái nến CHƯA thắp",
+          "desc": "Món Lily mang tới, được gọi tên trong thoại ở cả S20 và S23. Trạng thái gốc: nến còn nguyên, CHƯA thắp — đúng lúc đầu tiên kịch bản dùng nó.\nDùng: S20 · S22 · S23",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ ngang tầm mặt bàn.\nMột chiếc bánh cupcake nhỏ do trẻ con làm cùng người lớn ở nhà, không phải bánh tiệm: đế bánh nướng màu nâu vàng nở hơi lệch, đặt trong giấy xếp nếp màu TRẮNG có chấm bi hồng nhạt. Kem bơ màu HỒNG PHẤN được phết bằng thìa chứ không bắt bằng đui, mặt kem gồ ghề không đều, một bên dày một bên mỏng. Rắc cốm đường nhiều màu lộn xộn, vài hạt rơi ra giấy lót.\nCắm thẳng giữa bánh đúng MỘT cây nến sinh nhật sọc xoắn TRẮNG–XANH DƯƠNG, bấc nến còn trắng nguyên, CHƯA hề được thắp, KHÔNG có lửa, KHÔNG có khói, KHÔNG có vệt sáp chảy.\nĐặt trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_CUPCAKE_v1.png"
+        },
+        {
+          "id": "REF_PROP_CARDS_YELLOW_NOTE",
+          "label": "Xấp thiệp sinh nhật đã bóc + tờ ghi chú vàng (chữ phải đọc được)",
+          "desc": "Đạo cụ chở toàn bộ ý của COLD OPEN: mọi chữ ký đều là chữ IN, và tờ giấy vàng nói thẳng rằng đây chỉ là thư xã giao thường niên. Chữ trên tờ vàng BẮT BUỘC đọc được.\nDùng: COLD",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ hơi cao hơn mặt bàn một chút, KHÔNG chụp thẳng từ trên đỉnh xuống.\nMột xấp khoảng mười tấm thiệp sinh nhật đã được bóc ra, xếp chồng hơi lệch nhau thành bậc thang nên thấy được mép của nhiều tấm. Thiệp giấy dày màu kem và trắng ngà, in hoa văn nhã nhặn màu xanh navy và vàng đồng, kiểu thiệp doanh nghiệp. Tấm trên cùng mở ra, bên trong in dòng chúc và một chữ ký được IN SẴN bằng mực xanh navy — nét chữ ký đều tăm tắp, rõ ràng là chữ in chứ không phải viết tay. Vài phong bì đã rạch mép nằm lệch dưới xấp thiệp.\nĐặt trên cùng, hơi lệch sang một bên, là một tờ GIẤY NHỚ MÀU VÀNG CHANH vuông nhỏ, trên đó có dòng chữ đánh máy màu đen, sắc nét, đọc chính xác và đủ lớn để đọc được: \"Per Edmund, annual courtesy mailing\". Không có chữ nào khác trên tờ giấy vàng.\nĐặt trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_CARDS_YELLOW_NOTE_v1.png"
+        },
+        {
+          "id": "REF_PROP_FOLDER",
+          "label": "Bìa hồ sơ pháp lý Victoria để lại trên bàn — trạng thái ĐÓNG",
+          "desc": "Vật đối trọng với chiếc cupcake trong câu thoại chốt của Harold ở S23. Trạng thái gốc: đóng, chưa ký, đúng như lúc Victoria để lại trên bàn trước khi Harold mở ra.\nDùng: S22 · S23",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ ngang tầm mặt bàn.\nMột bìa hồ sơ luật màu XANH NAVY SẪM bằng giấy bồi cứng, khổ giấy A4 đứng, nắp ĐÓNG KÍN, mép bìa còn sắc và phẳng, không quăn. Góc dưới bên phải bìa dập nổi chìm một dòng chữ nhỏ màu vàng đồng, đọc chính xác: \"PRESCOTT & HALE\" — không có chữ nào khác trên bìa, không logo hình vẽ. Kẹp ở mép trên bìa, thò ra ngoài khoảng hai centimet, là một dải GIẤY NHỚ MÀU HỒNG mỏng đánh dấu chỗ cần ký; trên dải giấy hồng KHÔNG có chữ. Bên cạnh bìa đặt sẵn một cây bút máy đen nắp đậy, thân trơn, không nhãn hiệu.\nĐặt trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_FOLDER_v1.png"
+        },
+        {
+          "id": "REF_PROP_BADGE",
+          "label": "Thẻ nhân viên toà Ashford của Bennett",
+          "desc": "Vật bị lấy đi ở cuối S23 — cái giá của việc mang cupcake lên. Được gọi thẳng tên trong thoại (\"Your badge\"). Có ảnh mặt Bennett in trên thẻ nên phải đính thẻ neo của Bennett.\nDùng: S20 · S23",
+          "prompt": "Ảnh tham chiếu đạo cụ, photorealistic, KHUNG DỌC 9:16, góc 3/4 từ ngang tầm mặt bàn.\nMột thẻ nhân viên nhựa cứng khổ đứng, nền TRẮNG NGÀ, viền trên là một dải màu XANH NAVY. Trên dải navy in chữ trắng đọc chính xác: \"ASHFORD\". Bên dưới, phía trái thẻ, là một ô ảnh chân dung nhỏ in trên thẻ: đúng khuôn mặt người đàn ông Mỹ gốc Phi 36 tuổi ở ảnh tham chiếu — tóc đen cắt sát, râu quai nón tỉa gọn — chụp bán thân chính diện trên nền xanh nhạt, mặc SƠ MI NAVY của đồng phục bảo trì, mặt nghiêm, không cười. Bên phải ô ảnh in chữ đen hai dòng, đọc chính xác: dòng trên \"B. UNDERWOOD\", dòng dưới \"MAINTENANCE\". Mặt thẻ có vài vết xước nhỏ và một góc sờn nhẹ vì dùng lâu. Kẹp thẻ kim loại ở mép trên.\nKhông có chữ nào khác ngoài ba dòng đã nêu.\nĐặt trên mặt bàn gỗ sồi màu mật ong nhẵn, trung tính, để lấy mốc tỉ lệ và bóng đổ mềm.\nẢnh chỉ có đúng món đồ này, KHÔNG có người, KHÔNG có bàn tay nào trong khung.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_BENNETT_UNIFORM_FULL"
+            ],
+            "bg": null
+          },
+          "picked": "REF_PROP_BADGE_v1.png"
+        },
+        {
+          "id": "REF_BG_PENTHOUSE_DINING_NIGHT",
+          "label": "THẺ ĐỊA ĐIỂM · Phòng ăn penthouse Ashford — BAN ĐÊM, đèn bật hết",
+          "desc": "Bối cảnh duy nhất của COLD OPEN, S20, S22, S23. Quy hoạch 360° tính từ máy đặt ở ĐẦU NAM (phía khu sofa) chĩa dọc thân bàn về ĐẦU BẮC: đầu bắc là chỗ ngồi của Harold, tường kính thành phố ban đêm nằm bên TRÁI, lò sưởi đá cẩm thạch bên PHẢI, CỬA CHÍNH bằng gỗ óc chó nằm trên tường phải phía sau lò sưởi. Trần cao có đèn chùm pha lê treo giữa thân bàn.\n⚠️ Đèn phải bật hết công suất, phòng SÁNG RÕ MẶT — cảnh có trẻ em (KHI-CO-TRE-EM.md §1). Đêm chỉ nằm ở ngoài ô kính, không nằm trong phòng.\nDùng: COLD · S20 · S22 · S23",
+          "prompt": "Bối cảnh ở Mỹ. Phòng ăn penthouse đang dùng cho đúng một bữa tối duy nhất trong đêm — bàn dài mười bốn ghế nhưng chỉ một đầu được dọn.\nphotorealistic, điện ảnh nhưng hiện thực, cinematic vertical wide shot, ống kính 24mm, máy ngang tầm mắt người đứng, đặt ở đầu NAM (sát khu sofa) chĩa dọc thân bàn về đầu BẮC, để bàn chạy từ đáy khung vào sâu trong khung.\nGiữa khung: bàn ăn gỗ óc chó nguyên tấm, mặt đánh bóng phản chiếu, mười bốn ghế bọc da nâu xám hai bên. Sàn đá cẩm thạch trắng vân xám bóng, dưới bàn thảm len dày xám khói. TRÁI: vách kính kịch trần, rèm voan kem hai mép, ngoài kính là thành phố đêm với hàng chục cao ốc lấm tấm cửa sổ vàng trên nền trời xanh mực. PHẢI: lò sưởi ốp đá cẩm thạch trắng vân xám đang cháy lửa cam, bệ lò có hai chân nến đồng và một khung ảnh nhỏ, trên treo tranh trừu tượng xám xanh; xa hơn cùng tường đó là CỬA CHÍNH một cánh gỗ óc chó sẫm tay nắm đồng. Đầu BẮC sau đầu bàn là khu sofa vải kem và một ghế bành da nâu.\nSáng: đèn chùm pha lê nhiều tầng giữa thân bàn bật ấm, hắt trần LED vàng viền trần, đèn âm trần rọi sàn, lửa lò sưởi hắt cam nửa phải phòng. Phòng SÁNG RÕ, tương phản trung bình, bóng đổ mềm. Không u tối, không moody, không low-key, không cháy trắng.\nTông: vàng ấm bên trong chọi xanh mực ngoài kính.\nKHÔNG có người trong phòng. Mọi bề mặt có thể mang chữ để trơn: không chữ, không logo, không nhãn hiệu.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_PENTHOUSE_DINING_NIGHT_v1.png"
+        },
+        {
+          "id": "REF_BG_ASHFORD_LOBBY_DESK_NIGHT",
+          "label": "THẺ ĐỊA ĐIỂM · Bàn quản lý sảnh toà Ashford — BAN ĐÊM",
+          "desc": "Chỉ dùng cho đúng một clip: bản sao thoại O.S của Nora khi nghe điện thoại nội bộ (7-bang-shot.md §5.4). Máy đặt phía sảnh chờ, chĩa vào bàn quản lý; sau lưng bàn là tường ốp gỗ và bảng chìa khoá.\nDùng: S23",
+          "prompt": "Bối cảnh ở Mỹ. Quầy quản lý ở sảnh một toà chung cư cao cấp vào ca đêm — nơi một người vẫn còn ngồi trực sau giờ làm.\nphotorealistic, điện ảnh nhưng hiện thực, cinematic vertical medium wide shot, ống kính 35mm, máy ngang tầm mắt người ngồi, đặt ở phía sảnh chờ chĩa thẳng vào bàn.\nChính giữa khung, ở dải dưới, là mặt bàn quản lý bằng gỗ óc chó sẫm, trên bàn có một máy điện thoại bàn màu đen kiểu nội bộ nhiều phím, một sổ trực bìa cứng đang mở, một cây bút, một cốc sứ trắng và một đèn bàn thân đồng chao xanh lá đang bật. Sau lưng bàn, ở dải giữa và dải trên, là bức tường ốp gỗ óc chó có gắn một bảng treo chìa khoá bằng kim loại với nhiều móc nhỏ, và một chiếc đồng hồ treo tường mặt tròn viền đồng. Bên trái lùi sâu là một phần cửa thang máy bằng thép xước.\nNguồn sáng: đèn bàn chao xanh hắt vàng ấm lên mặt bàn, đèn âm trần rọi mềm xuống tường gỗ, một vệt sáng lạnh từ phía thang máy. Sáng rõ, tương phản trung bình, bóng đổ mềm. Không u tối, không moody, không low-key.\nTrong khung KHÔNG có người. Mọi bề mặt có thể mang chữ (sổ trực, bảng chìa khoá, cốc, cửa thang máy) đều để trơn, không chữ, không logo, không nhãn hiệu.\nKHUNG DỌC 9:16",
+          "status": "proposed",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_ASHFORD_LOBBY_DESK_NIGHT_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "S20",
+      "name": "SCENE 20 — THE PENTHOUSE DOOR",
+      "sfs": [
+        {
+          "id": "SF-S20-M1-MASTER",
+          "label": "[S20] Master 2 · Cửa mở, Bennett và Lily ở ngưỡng cửa, Harold quay người trên ghế — Vertical Wide",
+          "goc": "Vertical Wide establishing, HAROLD ngồi ở đáy khung · LILY dải giữa · BENNETT sau Lily, CẢ BA RÕ MẶT, xếp so le theo chiều sâu",
+          "pose": {
+            "zone": "Phòng ăn penthouse, máy ở đầu bàn phía bắc chĩa về CỬA CHÍNH trên tường phải",
+            "who": {
+              "HAROLD": "Ngồi trên ghế đầu bàn, đã xoay người và vặn vai sang phải để nhìn ra cửa, chưa đứng dậy, lông mày nhíu vì bị quấy rầy",
+              "LILY": "Đứng ở ngưỡng cửa, trước bố nửa bước, hai tay ôm hộp bánh trước ngực, cằm hơi ngẩng, nhìn thẳng về phía Harold",
+              "BENNETT": "Đứng sau Lily nửa bước, một tay đặt hờ lên vai con, tay kia buông; nhìn về phía Harold, vai hơi thu lại"
+            },
+            "dist": "Máy cách Harold khoảng một mét rưỡi, cách khung cửa khoảng sáu mét, ngang tầm mắt người đứng, không tilt",
+            "hands": {
+              "HAROLD": "Tay phải bám thành ghế để giữ thế xoay, tay trái còn đặt trên mặt bàn",
+              "LILY": "Hai tay ôm hộp bánh giấy trắng buộc dây đay, nắp còn ĐÓNG, chưa mở; chiếc vương miện giấy lồng ở cổ tay TRÁI như một chiếc vòng",
+              "BENNETT": "Tay phải đặt hờ lên vai trái của Lily, tay trái buông thẳng dọc hông"
+            }
+          },
+          "prompt": "Cinematic vertical wide establishing, photorealistic, ống kính 28mm, máy ngang tầm mắt người đứng ở đầu bàn phía bắc, chĩa về cửa chính bên tường phải. Trục sâu: Harold ngồi gần máy nhất ở đáy khung, Lily ở dải giữa, Bennett sau Lily nên đầu anh cao hơn trong khung, sau cùng là CỬA CHÍNH mở toang với hành lang sáng ở dải trên.\nHarold ngồi ở ghế đầu bàn ngay đáy khung, đã xoay người vặn vai sang phải nhìn ra cửa, CHƯA đứng dậy. Lông mày nhíu, miệng khép, cằm hất nhẹ — bị quấy rầy giữa bữa, mệt chứ không gay gắt. Tay phải bám thành ghế, tay trái còn trên mặt bàn.\nLily đứng ở dải giữa ngay trong ngưỡng cửa, hai tay ôm hộp bánh giấy TRẮNG buộc dây đay ngang ngực, nắp còn ĐÓNG. Cằm hơi ngẩng, mắt nhìn thẳng Harold, môi hé một nụ cười chưa kịp nói. Chiếc vương miện giấy bìa VÀNG CHANH rắc kim tuyến được LỒNG VÀO CỔ TAY TRÁI của Lily như một chiếc vòng, thấy rõ trong khung, chưa ai chạm tới.\nBennett đứng sau Lily nửa bước ở dải trên, tay phải đặt hờ lên vai trái con, vai hơi thu lại, mắt nhìn Harold — biết mình đang phạm quy và đang chờ bị đuổi.\nĐỉnh khung là khung cửa gỗ mở toang và hành lang sáng; đáy khung là mặt bàn bóng, đĩa sứ, ly nước và lưng ghế da ngoài nét, thùng rác đồng dưới sàn. Phòng sáng rõ dưới đèn chùm và hắt trần vàng, lò sưởi cháy cam bên phải, vách kính đêm bên trái; bóng đổ mềm, đọc rõ mặt cả ba. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_PROP_CUPCAKE_BOX",
+              "REF_PROP_CROWN"
+            ],
+            "bg": "REF_BG_PENTHOUSE_DINING_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-S20-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S20-02",
+          "label": "[S20] S02 · Medium Wide dọc — Harold hỏi ai gửi tới, Lily ôm hộp bánh",
+          "goc": "Medium Wide dọc, HAROLD vai và mặt nghiêng ở đáy khung · LILY dải giữa · BENNETT sau Lily, CẢ BA RÕ MẶT",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy tiến gần hơn một mét theo trục sâu",
+            "who": {
+              "HAROLD": "Vẫn ngồi xoay người, mặt nghiêng ba phần tư về phía cửa, mắt đã hạ xuống hộp bánh trong tay Lily",
+              "LILY": "Đứng yên, hai tay vẫn ôm hộp, đã nhích nửa bước vào trong phòng",
+              "BENNETT": "Đứng sau Lily, cằm hạ nhẹ, mắt nhìn Harold"
+            },
+            "dist": "Máy cách Harold khoảng một mét, cách Lily khoảng ba mét, ngang tầm mắt người đứng",
+            "hands": {
+              "HAROLD": "Hai tay đặt trên đùi, đã rời khỏi thành ghế",
+              "LILY": "Hai tay vẫn ôm hộp bánh nắp ĐÓNG, ngón tay bấu nhẹ vào mép hộp; vương miện giấy vẫn lồng ở cổ tay TRÁI",
+              "BENNETT": "Hai tay buông thẳng hai bên, không còn chạm vào vai con"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 35mm, máy ngang tầm mắt người đứng, tiến gần Master một mét trên cùng trục sâu. Trục sâu: Harold ngồi gần máy nhất ở đáy khung, Lily dải giữa, Bennett sau Lily nên đầu cao hơn trong khung, sau cùng là CỬA CHÍNH mở toang, hành lang sáng ở dải trên.\nHarold ở đáy khung, mặt nghiêng ba phần tư, mắt ĐÃ HẠ XUỐNG hộp bánh trong tay Lily — cái nhìn của người vừa nhận ra thứ mình thấy không khớp thứ mình chờ. Hàm hơi siết, một cái nuốt khan chạy dọc cổ.\nLily ở dải giữa, đã nhích nửa bước vào phòng, hai tay vẫn ôm hộp bánh nắp ĐÓNG, ngón tay bấu mép hộp, nhìn thẳng Harold không né. Chiếc vương miện giấy vàng kim tuyến vẫn lồng ở cổ tay TRÁI của bé như một chiếc vòng.\nBennett ở dải trên ngay sau con, cằm hạ nhẹ, hai tay buông thẳng hai bên hông — thế đứng của người đang cố chiếm ít chỗ nhất có thể.\nĐỉnh khung còn thấy mép trên khung cửa mở; đáy khung là mép bàn ngoài nét. Phòng sáng rõ, bóng đổ mềm, đọc rõ mặt cả ba. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_PROP_CUPCAKE_BOX",
+              "REF_PROP_CROWN"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-02_v1.png"
+        },
+        {
+          "id": "SF-S20-03",
+          "label": "[S20] S03 · Dirty Single Lily — hộp đã mở, cupcake một cây nến chưa thắp",
+          "goc": "Dirty Single, LILY RÕ MẶT ở dải giữa · HAROLD chỉ còn vai và gáy ở đáy khung, out nét",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy hạ xuống ngang tầm mắt Lily",
+            "who": {
+              "LILY": "Đứng chính giữa dải giữa khung, đã mở nắp hộp và nâng hộp lên ngang ngực mình để khoe cái bánh, mắt nhìn lên Harold",
+              "HAROLD": "Chỉ còn vai phải và một phần gáy ở đáy khung, out nét, không thấy mặt",
+              "BENNETT": "Ngoài nón quan sát, không có trong khung"
+            },
+            "dist": "Máy cách Lily khoảng một mét hai, hạ xuống NGANG TẦM MẮT CỦA LILY, không chếch ngược lên",
+            "hands": {
+              "LILY": "Hai tay nâng hộp bánh đã MỞ NẮP ngang ngực mình, cupcake nằm trong hộp, nến chưa thắp; vương miện giấy lồng ở cổ tay TRÁI",
+              "HAROLD": "Ngoài khung"
+            }
+          },
+          "prompt": "Dirty single dọc, photorealistic, ống kính 50mm, máy hạ xuống ngang tầm mắt của Lily và giữ ngang — KHÔNG chếch ngược lên, không thấy hõm dưới cằm hay lỗ mũi ai.\nLily chiếm dải giữa khung, RÕ MẶT và đủ lớn để đọc từng đường ngũ quan: mắt nâu to mở, chân mày nhướn lên, miệng đang hé kể — một đứa trẻ đang giải thích chuyện hệ trọng.\nHai tay bé nâng hộp bánh giấy trắng ĐÃ MỞ NẮP ngang ngực mình, nghiêng nhẹ về phía máy: bên trong là chiếc cupcake kem hồng phấn phết bằng thìa, cắm đúng MỘT cây nến sọc xoắn trắng–xanh dương, bấc còn trắng nguyên, CHƯA thắp, KHÔNG có lửa và KHÔNG có khói. Chiếc vương miện giấy vàng kim tuyến vẫn lồng ở cổ tay TRÁI của bé như một chiếc vòng.\nĐáy khung là vai phải và một phần gáy Harold trong cardigan xám taupe, ngoài nét, KHÔNG thấy mặt. Đỉnh khung là khoảng tường và một góc khung cửa gỗ, ngoài nét. Chỉ một dáng mờ duy nhất ở lớp sau và không thêm ai khác.\nSáng rõ, tương phản trung bình, mặt bé đủ sáng, không mảng tối gắt.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_LILY_DRESS_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CUPCAKE_BOX",
+              "REF_PROP_CUPCAKE",
+              "REF_PROP_CROWN"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-03_v1.png"
+        },
+        {
+          "id": "SF-S20-04",
+          "label": "[S20] S04 · Medium Wide dọc, trục lệch — Lily nói bố kể, Harold nghe",
+          "goc": "Medium Wide dọc, LILY dải giữa · BENNETT sau Lily · HAROLD mặt nghiêng ở đáy khung, CẢ BA RÕ MẶT",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy dịch sang trái khoảng bốn mươi độ so với Master, vẫn cùng một bên trục",
+            "who": {
+              "LILY": "Đứng dải giữa, đã hạ hộp bánh xuống ngang eo, mặt quay lên nhìn Harold",
+              "BENNETT": "Đứng sau Lily, mặt hơi cúi, mắt nhìn xuống đỉnh đầu con",
+              "HAROLD": "Ngồi ở đáy khung, mặt nghiêng ba phần tư, mắt khoá vào mặt Lily"
+            },
+            "dist": "Máy cách Lily khoảng hai mét, ngang tầm mắt người đứng, lệch trái bốn mươi độ so với Master",
+            "hands": {
+              "LILY": "Hai tay cầm hộp bánh đã mở hạ xuống ngang eo; vương miện giấy còn lồng ở cổ tay TRÁI, ngón tay phải vừa móc vào vành nhưng CHƯA rút ra",
+              "BENNETT": "Tay phải lại đặt lên vai trái Lily",
+              "HAROLD": "Hai tay đan vào nhau đặt trên đùi"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 35mm, máy ngang tầm mắt người đứng, dịch TRÁI bốn mươi độ so với Master, vẫn cùng một bên trục hành động. Trục sâu: Harold ở đáy khung, Lily dải giữa, Bennett sau Lily nên đầu cao hơn, sau cùng là CỬA CHÍNH mở toang với hành lang sáng ở dải trên.\nLily ở dải giữa, RÕ MẶT, đã hạ hộp bánh đã mở xuống ngang eo, mặt quay lên nhìn Harold, miệng đang kể, mắt không rời ông. Chiếc vương miện giấy vàng kim tuyến vẫn lồng ở cổ tay TRÁI của bé như một chiếc vòng. Ngón tay phải của bé vừa móc vào vành vương miện nhưng CHƯA rút ra khỏi cổ tay.\nBennett ở dải trên ngay sau con, RÕ MẶT, mặt hơi cúi, mắt nhìn xuống đỉnh đầu Lily, tay phải đặt lên vai trái bé.\nHarold ở đáy khung, RÕ MẶT ở góc nghiêng ba phần tư, mắt khoá vào mặt Lily; hai tay đan trên đùi, khớp ngón siết một nhịp rồi buông — mặt đang phải giữ, không trơ.\nĐỉnh khung là khung cửa mở; đáy khung là mép bàn ngoài nét. Phòng sáng rõ, bóng đổ mềm, đọc rõ mặt cả ba. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CUPCAKE_BOX",
+              "REF_PROP_CROWN"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-04_v1.png"
+        },
+        {
+          "id": "SF-S20-05",
+          "label": "[S20] S05 · Dirty Single Harold — câu \"Nobody makes me anything\"",
+          "goc": "Dirty Single, HAROLD RÕ MẶT ở dải giữa · LILY chỉ còn đỉnh đầu và bím tóc ở đáy khung, out nét",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy vòng sang phía sau lưng Lily, hạ thấp hơn tầm mắt Harold một chút",
+            "who": {
+              "HAROLD": "Ngồi trên ghế, mặt hướng xuống chếch về phía Lily, RÕ MẶT chính diện ba phần tư",
+              "LILY": "Chỉ còn đỉnh đầu và hai bím tóc gắn hạt ở đáy khung, out nét, không thấy mặt",
+              "BENNETT": "Ngoài nón quan sát, không có trong khung"
+            },
+            "dist": "Máy cách Harold khoảng chín mươi centimet, đặt CHỈ HƠI THẤP hơn tầm mắt ông, gần như ngang tầm mắt",
+            "hands": {
+              "HAROLD": "Hai tay vẫn đan trên đùi, ngón cái miết vào mu bàn tay kia",
+              "LILY": "Ngoài khung"
+            }
+          },
+          "prompt": "Dirty single dọc, photorealistic, ống kính 50mm, ống kính CHỈ HƠI THẤP hơn tầm mắt Harold, gần như ngang tầm mắt — KHÔNG chếch ngược lên, không thấy hõm dưới cằm hay lỗ mũi, không thấy trần nhà chiếm hậu cảnh.\nHarold chiếm dải giữa khung, RÕ MẶT, mặt hướng xuống chếch về phía Lily. Mặt ông đủ lớn để đọc từng nếp nhăn: mí dưới hơi nặng, cánh mũi phập phồng một nhịp, hàm siết ở khớp rồi giãn ra, một cái nuốt khan chạy dọc cổ. Mắt ông ngân ngấn nước và mi mắt hơi ướt vì xúc động. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má.\nHai tay ông đan trên đùi, ngón cái miết vào mu bàn tay kia.\nĐáy khung là đỉnh đầu và hai bím tóc gắn hạt nhiều màu của Lily, ngoài nét, KHÔNG thấy mặt bé. Đỉnh khung là vách kính đêm với đèn thành phố nhoè và một phần đèn chùm ấm. Chỉ một dáng mờ duy nhất ở tiền cảnh, không thêm ai khác.\nPhòng sáng rõ, mặt ông đủ sáng.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_LILY_DRESS_FULL"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-05_v1.png"
+        },
+        {
+          "id": "SF-S20-06",
+          "label": "[S20] S06 · Medium Wide dọc — Lily chìa vương miện giấy, Harold CHƯA cầm (trạng thái chờ)",
+          "goc": "Medium Wide dọc, LILY dải giữa · BENNETT sau Lily · HAROLD ở đáy khung, CẢ BA RÕ MẶT, chưa ai chạm vào vương miện của người kia",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy trở về gần trục Master, tiến sát hơn",
+            "who": {
+              "LILY": "Đứng dải giữa, hai tay chìa chiếc vương miện giấy về phía Harold, tay duỗi thẳng",
+              "BENNETT": "Đứng sau Lily, mắt nhìn chiếc vương miện trong tay con",
+              "HAROLD": "Ngồi ở đáy khung, đã hơi nhoài người về phía trước, mắt khoá vào chiếc vương miện, hai tay CHƯA đưa ra"
+            },
+            "dist": "Máy cách Lily khoảng một mét tám, ngang tầm mắt người đứng, lệch phải ba mươi độ so với S04",
+            "hands": {
+              "LILY": "Hai tay nâng chiếc vương miện giấy vàng kim tuyến bằng cả hai bàn tay, chìa thẳng về phía Harold",
+              "BENNETT": "Hộp bánh đã mở nay nằm trong tay anh, giữ ngang eo",
+              "HAROLD": "Hai tay vẫn trên đùi, CHƯA đưa ra đón, chưa chạm vào vương miện"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 35mm, máy ngang tầm mắt người đứng, lệch PHẢI ba mươi độ so với khung trước, vẫn cùng một bên trục. Trục sâu: Harold ngồi gần máy nhất ở đáy khung, Lily dải giữa, Bennett sau Lily nên đầu cao hơn trong khung, sau cùng là CỬA CHÍNH mở toang, hành lang sáng ở dải trên.\nLily ở dải giữa, RÕ MẶT, hai tay nâng chiếc vương miện giấy bìa VÀNG CHANH rắc kim tuyến, chữ sáp đỏ \"HAPPY BIRTHDAY\" quanh thân. Bé chìa thẳng về phía Harold, hai tay duỗi hết cỡ, mặt nghiêm túc như đang trao một việc quan trọng.\nBennett ở dải trên sau lưng con, RÕ MẶT, hộp bánh đã mở trong tay giữ ngang eo, mắt nhìn chiếc vương miện chứ không nhìn Harold.\nHarold ở đáy khung, RÕ MẶT, đã hơi nhoài người về trước, mắt khoá vào chiếc vương miện; hai tay vẫn trên đùi, CHƯA đưa ra đón, CHƯA chạm vào vương miện — giữa hai người còn khoảng trống rõ ràng.\nĐáy khung có mép bàn ngoài nét. Phòng sáng rõ, bóng đổ mềm, đọc rõ mặt cả ba. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_CUPCAKE_BOX"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-06_v1.png"
+        },
+        {
+          "id": "SF-S20-07",
+          "label": "[S20] S07 · Medium Wide dọc — Harold ĐÃ đội vương miện, mời hai bố con ngồi",
+          "goc": "Medium Wide dọc, HAROLD RÕ MẶT ở đáy khung đã đội vương miện · LILY RÕ MẶT dải giữa · BENNETT RÕ MẶT dải trên sau Lily",
+          "pose": {
+            "zone": "Cùng cụm cửa chính, máy tiến sát Harold, hai bố con lùi sâu trong khung",
+            "who": {
+              "HAROLD": "Ngồi trên ghế ở đáy khung, ĐÃ đội chiếc vương miện giấy trên đầu, mặt ngẩng lên nhìn hai bố con",
+              "LILY": "Đứng dải giữa, hai tay buông, đang nhìn chiếc vương miện trên đầu Harold",
+              "BENNETT": "Đứng sau Lily ở dải trên, tay cầm hộp bánh, chưa nhúc nhích"
+            },
+            "dist": "Máy cách Harold khoảng bảy mươi centimet, ngang tầm mắt ngồi của ông, cùng trục với S06",
+            "hands": {
+              "HAROLD": "Tay phải vừa rời khỏi vành vương miện, còn lơ lửng ngang thái dương và RUN NHẸ; tay trái bám thành ghế",
+              "LILY": "Hai tay buông thẳng hai bên",
+              "BENNETT": "Hai tay giữ hộp bánh đã mở ngang eo"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 40mm, máy ngang tầm mắt ngồi của Harold, cách bảy mươi centimet, cùng trục với khung trước.\nHarold chiếm đáy khung, RÕ MẶT và gần máy nhất, ĐÃ ĐỘI chiếc vương miện giấy vàng kim tuyến trên mái tóc bạc — vành giấy hơi lệch một bên vì tay ông không vững. Tay phải vừa rời vành vương miện, còn lơ lửng ngang thái dương và RUN NHẸ thấy rõ; tay trái bám thành ghế. Mặt ngẩng lên nhìn hai bố con, khoé miệng kéo lệch một bên, mí dưới ướt — đang cố giữ mà không giữ nổi. Mắt là mắt người thật bình thường, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má.\nLily ở dải giữa lùi sâu ba bước, RÕ MẶT, hai tay buông thẳng, ngước nhìn chiếc vương miện, miệng hé cười.\nBennett ở dải trên ngay sau con, giữ hộp bánh đã mở ngang eo.\nĐỉnh khung là khung cửa mở; đáy khung là mép bàn ngoài nét. Phòng sáng rõ, bóng đổ mềm, đọc rõ mặt cả ba. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_CUPCAKE_BOX"
+            ],
+            "bg": "SF-S20-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S20-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S20-01",
+          "sf": "SF-S20-M1-MASTER",
+          "dur": 10,
+          "text": "HAROLD: \"The door is open. What is it now? The faucet again?\"\nLILY: \"Happy birthday.\"\nBENNETT: \"This is my daughter, Lily. She wanted to meet you, sir.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated at the head of the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing in the middle distance.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing half a step behind Lily.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character. Nobody else is in the apartment.\n\nSCENE:\nAn old man expects the building's maintenance man about a faucet. What is standing in his doorway is a small girl holding a cake box, and her father behind her.\n\nDIALOGUE ORDER:\nHAROLD -> LILY -> BENNETT\n\nSHOT 1 (0:00-0:05) — VERTICAL WIDE DOWN THE ROOM — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the open doorway. No shake.\nThe TAUPE CARDIGAN man stays seated and twists further round in his chair, one hand on the chair back, not bothering to stand.\nHAROLD — weary, gruff: \"The door is open. What is it now? The faucet again?\"\nAs he finishes, his eyes travel down and land on the cake box the child is holding. His eyebrows go up a fraction and he stops mid-breath.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER ON THE DOORWAY, SAME ANGLE — STATIC\nCamera: Static locked-off, same angle, framed tighter on the two in the doorway.\nThe CREAM FLORAL DRESS girl lifts her chin and speaks straight at him, hugging the closed box.\nLILY — bright, matter-of-fact: \"Happy birthday.\"\nBrief dramatic pause. The NAVY SHIRT man puts a hand back on his daughter's shoulder and takes one small step into the doorway before answering.\nBENNETT — flustered, respectful: \"This is my daughter, Lily. She wanted to meet you, sir.\"\n\nPERFORMANCE:\nHarold's rudeness is tiredness, never anger — he speaks before he looks. Bennett says his daughter's name like an apology.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Clear natural American English voices. No ambience, no music, no narrator, no sound effects, no subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"The faucet again?\"\n\nCAMERA SUMMARY:\nSHOT 1 = vertical wide down the room, slow push-in.\nSHOT 2 = tighter on the doorway, static.",
+          "status": "draft",
+          "vpicked": "V-S20-01_v1.mp4"
+        },
+        {
+          "id": "V-S20-02",
+          "sf": "SF-S20-02",
+          "dur": 10,
+          "text": "HAROLD: \"Who sent you?\"\nBENNETT: \"No one, sir.\"\nHAROLD: \"People do not just show up at my door with — is that a cupcake?\"\nLILY: \"With a candle. I only had one candle,\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated at the head of the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing in the middle distance.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing half a step behind Lily.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character. Nobody else is in the apartment.\n\nSCENE:\nA rich man's first instinct is that somebody arranged this. The answer is that nobody did, and the thing in the child's hands is a cupcake.\n\nDIALOGUE ORDER:\nHAROLD -> BENNETT -> HAROLD -> LILY\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE, STACKED IN DEPTH — SLOW PUSH-IN\nCamera: Very slow push-in along the same depth axis. No shake.\nThe TAUPE CARDIGAN man's hands come off the chair and settle on his knees. He does not smile.\nHAROLD — dismissive: \"Who sent you?\"\nThe NAVY SHIRT man's hands drop straight to his sides.\nBENNETT — quiet, reluctant: \"No one, sir.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME AXIS, TIGHTER — STATIC\nCamera: Static locked-off, same axis, framed tighter so the girl fills the middle band.\nThe TAUPE CARDIGAN man starts a sentence he has said many times and abandons it halfway, because his eyes have gone to the box.\nHAROLD — bewildered: \"People do not just show up at my door with — is that a cupcake?\"\nThe CREAM FLORAL DRESS girl immediately unties the twine, lifts the lid off and turns the box toward him so he can see inside.\nLILY — eager: \"With a candle. I only had one candle,\"\n\nPERFORMANCE:\nHarold's suspicion is a reflex, not cruelty; the break in his sentence is the first crack in it. Lily answers a question nobody asked her, the way six-year-olds do.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Clear natural American English voices. No ambience, no music, no narrator, no sound effects, no subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Bennett finishes: \"No one, sir.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide stacked in depth, slow push-in.\nSHOT 2 = same axis tighter, static.",
+          "status": "draft",
+          "vpicked": "V-S20-02_v1.mp4"
+        },
+        {
+          "id": "V-S20-03",
+          "sf": "SF-S20-03",
+          "dur": 10,
+          "text": "LILY: \"so you have to pretend it is eighty-two.\"\nHAROLD: \"How did you know?\"\nLILY: \"My daddy told me it was your birthday. He said nobody remembered.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing facing him.\n\nKeep exactly these two characters in frame. Do not add, remove, replace, duplicate or transform any character, and do not bring a third face into frame.\n\nSCENE:\nThe child explains her single candle, and then says the sentence that takes the floor out from under him: somebody told her nobody remembered.\n\nDIALOGUE ORDER:\nLILY -> HAROLD -> LILY\n\nSHOT 1 (0:00-0:05) — DIRTY SINGLE ON LILY, HER EYE LEVEL — STATIC\nCamera: Static locked-off at the child's eye level, never tilted up. Harold is only an out-of-focus shoulder along the bottom edge; his face is never shown in this video.\nThe CREAM FLORAL DRESS girl holds the open box up at her own chest and tips it a little further toward him so the single unlit candle is unmistakable.\nLILY — earnest: \"so you have to pretend it is eighty-two.\"\nOff camera at the bottom of frame, the TAUPE CARDIGAN man's shoulder goes still.\nHAROLD — quiet, off his own face: \"How did you know?\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME SETUP, SLOW PUSH-IN ON LILY\nCamera: Very slow push-in on the girl, same angle and same eye level.\nBrief dramatic pause. She lowers the box to her waist, and answers the way a child repeats something an adult said at home, without understanding what it costs.\nLILY — simple, unguarded: \"My daddy told me it was your birthday. He said nobody remembered.\"\nThe out-of-focus shoulder at the bottom of frame does not move at all.\n\nPERFORMANCE:\nLily is reporting a fact, not offering pity — that is exactly what makes it land. Keep her voice light and even.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Harold speaks, Lily listens silently with her mouth closed. When Lily speaks, Harold listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Clear natural American English voices. No ambience, no music, no narrator, no sound effects, no subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"How did you know?\"\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single on Lily at her eye level, static.\nSHOT 2 = same setup, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S20-03_v1.mp4"
+        },
+        {
+          "id": "V-S20-04",
+          "sf": "SF-S20-04",
+          "dur": 10,
+          "text": "HAROLD: \"And you thought a cupcake would fix that?\"\nLILY: \"I also made you a crown. Everybody deserves a crown on their birthday.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated at the head of the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing in the middle distance.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing half a step behind Lily.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character. Nobody else is in the apartment.\n\nSCENE:\nHe tries sarcasm to get his footing back. She answers it by taking a paper crown off her own wrist.\n\nDIALOGUE ORDER:\nHAROLD -> LILY\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE, CAMERA SWUNG LEFT — STATIC\nCamera: Static locked-off, swung about forty degrees left of the master, same side of the line.\nThe TAUPE CARDIGAN man's interlocked hands tighten once on his knee and release.\nHAROLD — gruff, tired: \"And you thought a cupcake would fix that?\"\nBrief dramatic pause. The CREAM FLORAL DRESS girl does not look away and does not flinch; she hands the open cake box sideways to the NAVY SHIRT man behind her without breaking eye contact.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME ANGLE, TIGHTER ON THE GIRL — SLOW PUSH-IN\nCamera: Slow push-in on the girl, same angle.\nBoth her hands now free, she slides the gold paper crown off her own left wrist and holds it in front of her with two hands, the way you carry something breakable.\nLILY — bright, certain: \"I also made you a crown. Everybody deserves a crown on their birthday.\"\nThe NAVY SHIRT man behind her looks down at the crown and swallows. He says nothing.\n\nPERFORMANCE:\nHarold's sarcasm is armour and it does not work on a six-year-old. Lily treats the crown as a serious object, not a toy — that seriousness is what disarms him.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Clear natural American English voices. No ambience, no music, no narrator, no sound effects, no subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: The instant the girl hands the cake box back to her father.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide swung left, static.\nSHOT 2 = same angle tighter on the girl, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S20-04_v1.mp4"
+        },
+        {
+          "id": "V-S20-05",
+          "sf": "SF-S20-05",
+          "dur": 10,
+          "text": "HAROLD: \"Nobody makes me anything. Not anymore.\"\nLILY: \"I know. That is why.\"\nHAROLD: \"That is why what?\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated, filling the middle band of frame.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids. Only the top of her head and her braids are visible along the bottom edge, out of focus. Her face is never shown in this video.\n\nKeep exactly these two characters. Do not add, remove, replace, duplicate or transform any character. Do not cut to the girl's face and do not bring a third person into frame.\n\nSCENE:\nThe old man says the thing he has never said out loud, and a child answers it in six words.\n\nDIALOGUE ORDER:\nHAROLD -> LILY -> HAROLD\n\nSHOT 1 (0:00-0:05) — DIRTY SINGLE ON HAROLD — STATIC\nCamera: Static locked-off, lens only slightly BELOW his eye line, almost level. Never tilted up: no under-chin hollow, no nostrils, no ceiling filling the background.\nThe TAUPE CARDIGAN man looks down at the crown being held out to him, off camera at the bottom of frame. His thumb works across the back of his other hand.\nHAROLD — quiet, weary: \"Nobody makes me anything. Not anymore.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME SETUP, SLOW PUSH-IN — RACK FOCUS HOLDS HIM\nCamera: Slow push-in on his face, same angle and same height. The blurred braids at the bottom edge stay blurred throughout.\nThe girl answers from off camera, her voice coming from the bottom of frame.\nLILY — matter-of-fact: \"I know. That is why.\"\nBrief dramatic pause. His eyes come up off the crown and search for her face. His jaw shifts at the hinge, his nostrils flare once, and his eyes brim with tears he does not let fall.\nHAROLD — unsteady: \"That is why what?\"\n\nPERFORMANCE:\nThis is the crack, not the collapse — he must fight it and lose slowly. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Harold speaks, the girl off camera is silent. Her face is never shown, so her line is heard, not lip-synced. During silent pauses, his mouth remains closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"Not anymore.\"\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single on Harold, static, near eye level.\nSHOT 2 = same setup, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S20-05_v1.mp4"
+        },
+        {
+          "id": "V-S20-06",
+          "sf": "SF-S20-06",
+          "dur": 10,
+          "text": "LILY: \"That is why I made you one.\"\nLILY: \"It looks good on you. You look like a real king. Kings sit at tables with people.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated at the head of the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing in the middle distance.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing half a step behind Lily.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character. Nobody else is in the apartment.\n\nSCENE:\nThe crown changes hands and goes onto his head. His hands are not steady. The child tells him what a king is for.\n\nDIALOGUE ORDER:\nLILY -> LILY\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE, SWUNG RIGHT — STATIC\nCamera: Static locked-off, swung about thirty degrees right of the previous setup, same side of the line.\nThe CREAM FLORAL DRESS girl holds the gold paper crown out at full stretch. There is clear air between her hands and his.\nLILY — gentle, certain: \"That is why I made you one.\"\nThe TAUPE CARDIGAN man reaches out, takes the crown from her with both hands, and lifts it to his own head. His hands shake visibly as he settles it on his white hair, slightly crooked.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER, SAME ANGLE — SLOW PUSH-IN\nCamera: Slow push-in, same angle, tighter on the seated man wearing the crown.\nBrief dramatic pause. He sits there in a child's paper crown and does not take it off. The girl looks up at him and reports what she sees.\nLILY — delighted: \"It looks good on you. You look like a real king. Kings sit at tables with people.\"\nThe NAVY SHIRT man behind her lowers his eyes to the floor.\n\nPERFORMANCE:\nThe shaking hands do the work — no weeping. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Clear natural American English voices. No ambience, no music, no narrator, no sound effects, no subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: The instant the crown settles on his head.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide swung right, static.\nSHOT 2 = tighter same angle, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S20-06_v1.mp4"
+        },
+        {
+          "id": "V-S20-07",
+          "sf": "SF-S20-07",
+          "dur": 10,
+          "text": "HAROLD: \"Sit down. Both of you. You are making the room nervous.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, seated at the head of the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, beaded braids, standing in the middle distance.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing half a step behind Lily.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character. Nobody else is in the apartment.\n\nSCENE:\nA man who has eaten alone at a fourteen-seat table for five years invites a maintenance worker and his daughter to sit at it.\n\nDIALOGUE ORDER:\nHAROLD\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE, HAROLD NEAREST CAMERA — STATIC\nCamera: Static locked-off at his seated eye level, seventy centimetres away, same axis as before.\nThe TAUPE CARDIGAN man sits wearing the crooked gold paper crown. His right hand comes down from the brim, still unsteady, and lands on the table. He looks past the camera at the two of them, then taps the table twice with two fingers — the gesture of a man who has spent his life telling people where to sit.\nHAROLD — gruff, covering: \"Sit down. Both of you. You are making the room nervous.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME ANGLE, SLIGHTLY WIDER — STATIC\nCamera: Static locked-off, same angle, opened slightly to take in the nearest chairs.\nBrief dramatic pause. Nobody moves for a beat. Then the NAVY SHIRT man sets the open cake box down on the table and pulls out a chair for his daughter; the CREAM FLORAL DRESS girl climbs onto it and her feet do not reach the floor. The old man watches the empty chair beside him stop being empty, and his mouth tightens as he looks away toward the window.\n\nPERFORMANCE:\nHis order is affection with the label scraped off — he cannot say thank you, so he gives a command. The look away at the end is the whole scene.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"You are making the room nervous.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide at seated eye level, static.\nSHOT 2 = same angle slightly wider, static.",
+          "status": "draft",
+          "vpicked": "V-S20-07_v1.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S22",
+      "name": "SCENE 22 — THE INTERRUPTION",
+      "sfs": [
+        {
+          "id": "SF-S22-M1-MASTER",
+          "label": "[S22] Master 3 · Victoria bước vào, ba người đã ngồi quanh đầu bàn — Vertical Wide",
+          "goc": "Vertical Wide establishing, HAROLD đáy khung đội vương miện · LILY dải giữa · BENNETT sau Lily · VICTORIA dải trên ở lối vào, CẢ BỐN RÕ MẶT",
+          "pose": {
+            "zone": "Phòng ăn penthouse, máy ở phía vách kính bên trái, đặt gần đầu bàn và chĩa chéo dọc thân bàn về lối vào phía nam",
+            "who": {
+              "HAROLD": "Ngồi ở ghế đầu bàn ngay đáy khung, ĐANG ĐỘI vương miện giấy, quay mặt về phía Victoria",
+              "LILY": "Ngồi trên ghế kế bên Harold, chân không chạm sàn, quay đầu nhìn về phía Victoria",
+              "BENNETT": "Ngồi ghế kế Lily, đã nhổm nửa người lên khỏi ghế theo phản xạ khi thấy người lạ",
+              "VICTORIA": "Vừa dừng lại ở lối vào phòng ăn, xa nhất trong khung, một tay còn nắm quai túi, mắt quét khắp bàn"
+            },
+            "dist": "Máy cách Harold khoảng một mét, cách Victoria khoảng bảy mét, ngang tầm mắt người đứng, không tilt",
+            "hands": {
+              "HAROLD": "Hai tay đặt trên mặt bàn hai bên đĩa",
+              "LILY": "Hai tay đặt trên đùi",
+              "BENNETT": "Một tay chống mép bàn để nhổm lên",
+              "VICTORIA": "Tay phải nắm quai túi xách, tay trái buông thẳng"
+            }
+          },
+          "prompt": "Cinematic vertical wide establishing, photorealistic, 24mm, máy ngang tầm mắt người đứng, đặt phía vách kính bên trái gần đầu bàn, chĩa chéo dọc thân bàn về lối vào phía nam. Trục sâu: Harold ở đầu bàn gần máy nhất tại đáy khung, Lily kế bên ở dải giữa, Bennett sau Lily nên đầu cao hơn, Victoria xa nhất ở dải trên nơi lối vào.\nHarold ngồi ở đầu bàn ngay đáy khung, ĐANG ĐỘI chiếc vương miện giấy vàng kim tuyến hơi lệch trên tóc bạc, mặt quay về phía Victoria, khoé miệng còn giữ nguyên nét vui vừa có.\nLily ngồi ghế kế bên ở dải giữa, chân không chạm sàn, quay đầu nhìn về phía người lạ, hai tay trên đùi.\nBennett ngồi ghế kế Lily, đã nhổm nửa người lên khỏi ghế theo phản xạ, một tay chống mép bàn — người biết mình không thuộc về chỗ này.\nVictoria đứng xa nhất ở dải trên nơi lối vào, vest ĐEN, vừa dừng bước, tay phải nắm quai túi, mắt quét khắp mặt bàn. Mặt cô không giận: chân mày nhíu một nhịp, môi hé rồi khép — vẻ của người vừa bước vào nhầm căn phòng.\nTrên bàn: bìa hồ sơ luật XANH NAVY còn ĐÓNG với dải giấy nhớ hồng thò ra, trước mặt Harold; cạnh đó là hộp bánh giấy trắng đã mở và RỖNG. Trên tủ thấp gỗ óc chó sát tường phải cạnh cửa chính có một máy điện thoại nội bộ màu đen, chưa ai chạm tới.\nĐỉnh khung là trần cao và đèn chùm pha lê; đáy khung là mặt bàn bóng ngoài nét. Phòng sáng rõ dưới đèn chùm, bóng đổ mềm, đọc rõ mặt cả bốn. Trong căn hộ không có ai khác.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_VICTORIA_SUIT_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_FOLDER"
+            ],
+            "bg": "REF_BG_PENTHOUSE_DINING_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-S22-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S22-02",
+          "label": "[S22] S02 · Stacked Two-Shot — Victoria đã tiến sát bàn, Harold đội vương miện ở lớp sau",
+          "goc": "Stacked Two-Shot, VICTORIA RÕ MẶT ở dải dưới đứng cạnh bàn · HAROLD RÕ MẶT lùi sâu ở dải giữa, đội vương miện",
+          "pose": {
+            "zone": "Cùng cụm bàn ăn, Victoria đã đi dọc bàn xuống gần máy hơn Harold, máy giữ nguyên phía vách kính",
+            "who": {
+              "VICTORIA": "Đứng cạnh mép bàn ở dải dưới, gần máy nhất, nghiêng ba phần tư, mắt khoá vào chiếc vương miện trên đầu cha",
+              "HAROLD": "Vẫn ngồi ở đầu bàn, lùi sâu hơn trong khung ở dải giữa, ngẩng mặt nhìn lên Victoria",
+              "LILY": "Ngoài nón quan sát",
+              "BENNETT": "Ngoài nón quan sát"
+            },
+            "dist": "Máy cách Victoria khoảng tám mươi centimet, cách Harold khoảng hai mét rưỡi, ngang tầm mắt người đứng",
+            "hands": {
+              "VICTORIA": "Hai tay buông thẳng, quai túi đã tuột khỏi vai xuống khuỷu tay",
+              "HAROLD": "Hai tay đặt trên mặt bàn, một ngón gõ nhẹ xuống mặt gỗ"
+            }
+          },
+          "prompt": "Stacked two-shot dọc, photorealistic, 40mm, máy ngang tầm mắt người đứng, giữ nguyên phía vách kính.\nVictoria chiếm dải dưới khung, gần máy nhất, RÕ MẶT ở góc nghiêng ba phần tư, vest đen. Mắt cô khoá vào chiếc vương miện giấy trên đầu cha chứ không nhìn vào mắt ông. Mặt cô KHÔNG giận: cằm hạ xuống nửa phân, một cái nuốt khan, mí mắt chớp nhanh hai nhịp rồi cô quay mặt đi nửa độ — thứ đang chạy qua mặt cô gần với ghen tị hơn là tức. Hai tay buông thẳng, quai túi đã tuột xuống khuỷu.\nHarold lùi sâu hơn ở dải giữa, RÕ MẶT, vẫn ngồi ở đầu bàn, ĐANG ĐỘI vương miện giấy, ngẩng mặt nhìn lên con gái, hai tay trên mặt bàn, một ngón gõ nhẹ xuống mặt gỗ.\nGiữa hai người là mặt bàn bóng chạy hút vào trong với bìa hồ sơ XANH NAVY còn đóng nằm giữa họ.\nĐỉnh khung là đèn chùm pha lê và trần cao; đáy khung là mép bàn và lưng ghế da ngoài nét. Phòng sáng rõ, bóng đổ mềm. Trong căn hộ không có ai khác trong nón quan sát này.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_VICTORIA_SUIT_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_FOLDER"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S22-02_v2.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S22-01",
+          "sf": "SF-S22-M1-MASTER",
+          "dur": 10,
+          "text": "VICTORIA: \"Father. What is this?\"\nHAROLD: \"A birthday party. You are welcome to stay.\"\nVICTORIA: \"Who are these people?\"\nHAROLD: \"This is Bennett. He fixes things in the building.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, TAUPE-GRAY CARDIGAN, wearing a crooked gold paper crown, seated at the head of the table nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, seated beside him.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, seated beyond her.\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing furthest away at the room entrance.\n\nKeep exactly these four characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nA daughter who has not been in this apartment for eight years walks in expecting her father alone with an unsigned folder. She finds a party of three and a paper crown.\n\nDIALOGUE ORDER:\nVICTORIA -> HAROLD -> VICTORIA -> HAROLD\n\nSHOT 1 (0:00-0:05) — VERTICAL WIDE DOWN THE TABLE — STATIC\nCamera: Static locked-off, angled down the length of the table. No shake.\nThe BLACK SUIT woman stops in the entrance, her bag strap still in her fist, and takes in the table one seat at a time.\nVICTORIA — bewildered: \"Father. What is this?\"\nThe TAUPE CARDIGAN man does not take off the crown. He lays both hands flat on the table.\nHAROLD — dry, unbothered: \"A birthday party. You are welcome to stay.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME ANGLE, SLOW PUSH-IN DOWN THE TABLE\nCamera: Very slow push-in along the same axis.\nThe BLACK SUIT woman lets the bag strap slide off her shoulder to her elbow and takes two steps in.\nVICTORIA — flustered: \"Who are these people?\"\nThe NAVY SHIRT man half rises from his chair; the old man lifts one hand off the table to wave him back down, without looking at him.\nHAROLD — plain, almost proud: \"This is Bennett. He fixes things in the building.\"\n\nPERFORMANCE:\nVictoria is disoriented rather than offended — she keeps checking the crown and looking away from it. Harold introduces a maintenance worker the way other men introduce a guest of honour.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one speaks, the others listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"You are welcome to stay.\"\n\nCAMERA SUMMARY:\nSHOT 1 = vertical wide down the table, static.\nSHOT 2 = same angle, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S22-01_v1.mp4"
+        },
+        {
+          "id": "V-S22-02",
+          "sf": "SF-S22-02",
+          "dur": 10,
+          "text": "HAROLD: \"This is Lily. She makes crowns.\"\nVICTORIA: \"You do not know these people.\"\nHAROLD: \"I did not know the lawyers you sent either. At least these two brought cake.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing beside the table, nearest camera.\nHAROLD — 82-year-old white man, TAUPE-GRAY CARDIGAN, wearing a crooked gold paper crown, seated further down the table.\n\nKeep exactly these two characters in frame. Do not add, remove, replace, duplicate or transform any character, and do not bring a third face into frame.\n\nSCENE:\nHe tells his daughter, without raising his voice, that strangers treated him better than she did.\n\nDIALOGUE ORDER:\nHAROLD -> VICTORIA -> HAROLD\n\nSHOT 1 (0:00-0:05) — STACKED TWO-SHOT, VICTORIA NEAREST — STATIC\nCamera: Static locked-off at standing eye level, the woman in the lower band, her father deeper in frame.\nThe TAUPE CARDIGAN man tips his head an inch toward the empty chair beside him.\nHAROLD — warm, matter-of-fact: \"This is Lily. She makes crowns.\"\nThe BLACK SUIT woman's eyes go to the crown again and drop to the navy folder lying between them.\nVICTORIA — careful, quiet: \"You do not know these people.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME AXIS, TIGHTER ON HAROLD — SLOW PUSH-IN\nCamera: Slow push-in past the woman's shoulder onto her father, same axis. She stays in the lower band, still readable.\nBrief dramatic pause. He puts two fingers on the closed navy folder and slides it a few centimetres away from himself before he answers.\nHAROLD — level, unhurried: \"I did not know the lawyers you sent either. At least these two brought cake.\"\nHer jaw sets. She does not answer. She looks at the folder he just pushed away.\n\nPERFORMANCE:\nHarold is not scoring a point, he is stating a fact, which is worse. Victoria takes it in the face and refuses to show it — one swallow, one blink too many.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Harold speaks, Victoria listens silently with her mouth closed. When Victoria speaks, Harold listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Victoria finishes: \"You do not know these people.\"\n\nCAMERA SUMMARY:\nSHOT 1 = stacked two-shot, Victoria nearest, static.\nSHOT 2 = same axis tighter on Harold, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S22-02_v1.mp4"
+        }
+      ]
+    },
+    {
+      "id": "S23",
+      "name": "SCENE 23 — THE ACCUSATION",
+      "sfs": [
+        {
+          "id": "SF-S23-01",
+          "label": "[S23] S01 · Stacked Two-Shot — Victoria đứng tra hỏi, Bennett ngồi ở lớp sau",
+          "goc": "Stacked Two-Shot, VICTORIA RÕ MẶT ở dải dưới đứng cạnh bàn · BENNETT RÕ MẶT lùi sâu ở dải giữa, đang ngồi",
+          "pose": {
+            "zone": "Cụm bàn ăn, máy phía vách kính, Victoria đã đi tới ngang chỗ Bennett ngồi",
+            "who": {
+              "VICTORIA": "Đứng cạnh mép bàn ở dải dưới, gần máy nhất, nghiêng ba phần tư, mắt khoá vào mặt Bennett",
+              "BENNETT": "Ngồi trên ghế lùi sâu ở dải giữa, đã quay hẳn người lên nhìn Victoria, lưng thẳng",
+              "LILY": "Ngoài nón quan sát",
+              "HAROLD": "Ngoài nón quan sát"
+            },
+            "dist": "Máy cách Victoria khoảng tám mươi centimet, cách Bennett khoảng hai mét, ngang tầm mắt người đứng",
+            "hands": {
+              "VICTORIA": "Hai tay buông thẳng, các ngón tay phải khép lại rồi mở ra một nhịp",
+              "BENNETT": "Hai tay đặt ngửa trên đùi, lòng bàn tay để mở"
+            }
+          },
+          "prompt": "Stacked two-shot dọc, photorealistic, 40mm, máy ngang tầm mắt người đứng, giữ nguyên phía vách kính.\nVictoria chiếm dải dưới khung, gần máy nhất, RÕ MẶT ở góc nghiêng ba phần tư, vest đen, mắt khoá vào mặt Bennett. Mặt cô giữ phẳng và lịch sự một cách khó chịu: chân mày nhướn nửa phân, khoé miệng kéo ngang, các ngón tay phải khép lại rồi mở ra một nhịp bên hông — cô đang xử lý anh như một khoản chi cần làm rõ.\nBennett lùi sâu ở dải giữa, RÕ MẶT, vẫn ngồi trên ghế nhưng đã quay hẳn người lên nhìn cô, lưng thẳng, hai tay đặt NGỬA trên đùi với lòng bàn tay để mở — thế của người không giấu gì. Hàm anh siết ở khớp, một cái nuốt khan chạy dọc cổ.\nGiữa hai người là mặt bàn bóng với bìa hồ sơ XANH NAVY còn đóng và hộp bánh giấy trắng đã mở và RỖNG. Trên tủ thấp gỗ óc chó sát tường phải có máy điện thoại nội bộ màu đen, chưa ai chạm tới.\nĐỉnh khung là đèn chùm pha lê và trần cao; đáy khung là mép bàn và lưng ghế da ngoài nét. Phòng sáng rõ, bóng đổ mềm.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_VICTORIA_SUIT_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_PROP_FOLDER",
+              "REF_PROP_CUPCAKE_BOX"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-01_v1.png"
+        },
+        {
+          "id": "SF-S23-02",
+          "label": "[S23] S02 · SOLO FRAME — Victoria cầm ống nghe điện thoại nội bộ, MỘT MÌNH trong khung",
+          "goc": "Medium Close-Up dọc, VICTORIA RÕ MẶT MỘT MÌNH, KHÔNG có main cast nào khác trong khung",
+          "pose": {
+            "zone": "Cụm bàn ăn, Victoria đã đi tới tủ thấp sát tường phải cạnh cửa chính",
+            "who": {
+              "VICTORIA": "Đứng quay lưng lại bàn, nghiêng người về phía tủ thấp, ống nghe đã áp vào tai trái, mắt nhìn xuống mặt tủ"
+            },
+            "dist": "Máy cách Victoria khoảng một mét, ngang tầm mắt cô, đặt phía tường phải",
+            "hands": {
+              "VICTORIA": "Tay trái cầm ống nghe áp vào tai, tay phải tì lên mặt tủ, các ngón bấu xuống mặt gỗ"
+            }
+          },
+          "prompt": "Medium close-up dọc, photorealistic, 50mm, máy ngang tầm mắt Victoria, cách một mét, đặt phía tường phải.\nVictoria chiếm dải giữa khung, RÕ MẶT, vest đen, đứng quay lưng lại phía bàn ăn và nghiêng người về tủ thấp gỗ óc chó. Ống nghe của máy điện thoại nội bộ màu đen ĐÃ áp vào tai TRÁI cô, dây xoắn buông xuống. Tay phải cô tì lên mặt tủ, các ngón bấu xuống mặt gỗ đến trắng khớp.\nMặt cô không gào, không đanh: mắt nhìn xuống mặt tủ chứ không nhìn ai, hàm siết ở khớp, một cái nuốt khan, chân mày kéo lại gần nhau — người đang làm một việc mình biết là quá tay nhưng vẫn làm.\nĐáy khung là mặt tủ thấp với thân máy điện thoại và một khay đựng chìa khoá bằng đồng. Đỉnh khung là mảng tường sơn kem và mép dưới của bức tranh trừu tượng, ngoài nét.\nTRONG KHUNG KHÔNG CÓ AI KHÁC: không vai, không gáy, không bóng người mờ ở lớp sau, không hình phản chiếu của ai trên mặt kính hay mặt gỗ. Phòng sáng rõ, bóng đổ mềm.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_VICTORIA_SUIT_FULL"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-02_v1.png"
+        },
+        {
+          "id": "SF-S23-M2-MASTER",
+          "label": "[S23] Master 4 · SOLO FRAME — Nora ở bàn quản lý sảnh, nghe máy (BẢN SAO thoại O.S)",
+          "goc": "Vertical Wide dọc, NORA RÕ MẶT MỘT MÌNH ở bàn quản lý, KHÔNG có ai khác trong khung",
+          "pose": {
+            "zone": "Sảnh toà Ashford, bàn quản lý, ca đêm; máy đặt phía sảnh chờ chĩa thẳng vào bàn",
+            "who": {
+              "NORA": "Ngồi sau bàn quản lý, hơi nghiêng người về trước, ống nghe áp vào tai phải, mắt nhìn xuống sổ trực đang mở"
+            },
+            "dist": "Máy cách Nora khoảng hai mét, ngang tầm mắt người ngồi, không tilt",
+            "hands": {
+              "NORA": "Tay phải cầm ống nghe áp tai, tay trái đặt lên trang sổ trực đang mở, một ngón chặn dòng"
+            }
+          },
+          "prompt": "Cinematic vertical wide, photorealistic, 35mm, máy ngang tầm mắt người ngồi, đặt phía sảnh chờ chĩa thẳng vào bàn quản lý.\nNora Stanton 52 tuổi, blazer ĐỎ BOÓC-ĐÔ ngoài sơ mi trắng, dây đeo thẻ xám than quanh cổ, ngồi sau bàn ở dải giữa khung, RÕ MẶT. Cô hơi nghiêng người về trước, ống nghe của máy điện thoại bàn màu đen áp vào tai PHẢI, tay trái đặt lên trang sổ trực đang mở với một ngón chặn giữa dòng.\nMặt cô mệt và miễn cưỡng: mí mắt nặng, môi mím lại, một hơi thở dài thấy được ở vai — người sắp phải làm đúng quy trình cho một việc mình không muốn làm. Không đắc thắng, không hằn học.\nĐáy khung là mặt bàn gỗ óc chó với sổ trực, cây bút, cốc sứ trắng và đèn bàn thân đồng chao xanh đang bật. Đỉnh khung là tường ốp gỗ óc chó với bảng treo chìa khoá kim loại và đồng hồ mặt tròn viền đồng; bên trái lùi sâu là một phần cửa thang máy thép xước.\nTRONG KHUNG KHÔNG CÓ AI KHÁC: không vai, không gáy, không bóng người mờ, không hình phản chiếu của ai trên cửa thang máy. Sáng rõ, bóng đổ mềm. Không chữ, không logo trên mọi bề mặt.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_NORA_BLAZER_FULL"
+            ],
+            "bg": "REF_BG_ASHFORD_LOBBY_DESK_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-S23-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-S23-04",
+          "label": "[S23] S04 · Medium Wide dọc — Victoria buông con số hai tỷ, hai bố con nghe",
+          "goc": "Medium Wide dọc, VICTORIA RÕ MẶT ở dải dưới đứng · LILY RÕ MẶT dải giữa đang ngồi · BENNETT RÕ MẶT dải trên đang ngồi",
+          "pose": {
+            "zone": "Cụm bàn ăn, Victoria đã quay lại từ tủ điện thoại và đứng cạnh bàn, hai bố con vẫn ngồi",
+            "who": {
+              "VICTORIA": "Đứng cạnh mép bàn ở dải dưới, ống nghe vừa gác, người quay về phía hai bố con",
+              "LILY": "Ngồi trên ghế ở dải giữa, hai tay ôm hộp bánh giấy trắng đã mở và RỖNG vào lòng, ngước nhìn lên",
+              "BENNETT": "Ngồi ghế phía sau Lily ở dải trên, đã quay người lên nhìn Victoria"
+            },
+            "dist": "Máy cách Victoria khoảng một mét, cách Bennett khoảng hai mét rưỡi, ngang tầm mắt người đứng",
+            "hands": {
+              "VICTORIA": "Tay phải chỉ về phía bìa hồ sơ xanh navy trên bàn, tay trái buông",
+              "LILY": "Hai tay ôm hộp bánh rỗng vào lòng, ngón tay bấu mép hộp",
+              "BENNETT": "Hai tay đặt ngửa trên đùi"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 35mm, máy ngang tầm mắt người đứng, phía vách kính, lệch phải ba mươi độ so với khung trước.\nVictoria ở dải dưới gần máy nhất, RÕ MẶT, vest đen, vừa gác ống nghe và quay người về phía hai bố con. Tay phải cô chỉ về phía bìa hồ sơ XANH NAVY trên bàn. Mặt cô giữ phẳng, giọng đọc ra một con số chứ không phải một lời buộc tội: cằm hất nửa phân, mắt liếc nhanh sang bìa hồ sơ rồi trở lại.\nLily ngồi ở dải giữa, RÕ MẶT, hai tay ôm hộp bánh giấy trắng đã mở và RỖNG vào lòng, ngón tay bấu mép hộp, ngước nhìn lên người lớn, môi hé — một đứa trẻ đang cố hiểu chuyện gì đang xảy ra.\nBennett ngồi ở dải trên phía sau con, RÕ MẶT, đã quay người lên nhìn Victoria, hai tay đặt ngửa trên đùi. Chân mày anh nhíu lại vì thật sự không hiểu cô đang nói về cái gì.\nĐỉnh khung là đèn chùm pha lê và trần cao; đáy khung là mặt bàn bóng với bìa hồ sơ ngoài nét. Phòng sáng rõ, bóng đổ mềm, đọc rõ mặt cả ba.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_VICTORIA_SUIT_FULL",
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_PROP_FOLDER"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-04_v1.png"
+        },
+        {
+          "id": "SF-S23-05",
+          "label": "[S23] S05 · Stacked Two-Shot — Bennett nói về chiếc cupcake, Harold ở lớp sau đội vương miện",
+          "goc": "Stacked Two-Shot, BENNETT RÕ MẶT ở dải dưới đã đứng dậy · HAROLD RÕ MẶT lùi sâu ở dải giữa, đội vương miện",
+          "pose": {
+            "zone": "Cụm bàn ăn, máy vòng về phía đầu bàn, Bennett đã đứng dậy khỏi ghế",
+            "who": {
+              "BENNETT": "Đã đứng dậy khỏi ghế, ở dải dưới gần máy nhất, nghiêng ba phần tư, mặt hướng về Victoria ngoài khung",
+              "HAROLD": "Vẫn ngồi ở đầu bàn lùi sâu ở dải giữa, ĐANG ĐỘI vương miện giấy, mặt ngẩng lên",
+              "VICTORIA": "Ngoài nón quan sát",
+              "LILY": "Ngoài nón quan sát"
+            },
+            "dist": "Máy cách Bennett khoảng chín mươi centimet, cách Harold khoảng hai mét, ngang tầm mắt người đứng",
+            "hands": {
+              "BENNETT": "Hai tay buông thẳng hai bên hông, lòng bàn tay hướng ra trước",
+              "HAROLD": "Tay phải đặt lên bìa hồ sơ xanh navy trên bàn, tay trái đặt cạnh hộp bánh rỗng"
+            }
+          },
+          "prompt": "Stacked two-shot dọc, photorealistic, 40mm, máy ngang tầm mắt người đứng, phía vách kính.\nBennett chiếm dải dưới khung, gần máy nhất, RÕ MẶT ở góc nghiêng ba phần tư, sơ mi bảo trì XANH NAVY. Anh đã đứng dậy khỏi ghế, mặt hướng về phía Victoria ở ngoài khung, hai tay buông thẳng hai bên hông với lòng bàn tay hướng ra trước. Hàm siết ở khớp, cánh mũi phập phồng một nhịp, mắt không né — người đang phải giải thích một điều lẽ ra không cần giải thích.\nHarold lùi sâu ở dải giữa, RÕ MẶT, vẫn ngồi ở đầu bàn và ĐANG ĐỘI vương miện giấy vàng kim tuyến. Tay phải ông đặt lên bìa hồ sơ XANH NAVY, tay trái đặt cạnh hộp bánh giấy trắng đã rỗng. Mặt ông ngẩng lên, mắt đi từ bìa hồ sơ sang hộp bánh rồi dừng lại.\nĐỉnh khung là đèn chùm pha lê và trần cao; đáy khung là mép bàn ngoài nét. Phòng sáng rõ, bóng đổ mềm.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_FOLDER",
+              "REF_PROP_CUPCAKE_BOX"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-05_v1.png"
+        },
+        {
+          "id": "SF-S23-06",
+          "label": "[S23] S06 · SOLO FRAME — Harold cận, đội vương miện, MỘT MÌNH trong khung",
+          "goc": "Close-Up dọc, HAROLD RÕ MẶT MỘT MÌNH, KHÔNG có main cast nào khác trong khung",
+          "pose": {
+            "zone": "Cụm bàn ăn, đầu bàn phía bắc, máy tiến sát Harold",
+            "who": {
+              "HAROLD": "Ngồi ở đầu bàn, ĐANG ĐỘI vương miện giấy, mặt hướng ra ngoài khung về phía bên phải nơi Victoria đứng"
+            },
+            "dist": "Máy cách Harold khoảng sáu mươi centimet, đặt CHỈ HƠI THẤP hơn tầm mắt ông, gần như ngang tầm mắt",
+            "hands": {
+              "HAROLD": "Tay phải đặt trên bìa hồ sơ xanh navy, tay trái đặt trên hộp bánh giấy rỗng, hai vật cách nhau một gang tay"
+            }
+          },
+          "prompt": "Close-up dọc, photorealistic, 65mm, ống kính CHỈ HƠI THẤP hơn tầm mắt Harold, gần như ngang tầm mắt — KHÔNG chếch ngược lên, không thấy hõm dưới cằm hay lỗ mũi.\nHarold chiếm dải giữa khung, RÕ MẶT đủ lớn để đọc từng nếp nhăn, ĐANG ĐỘI vương miện giấy vàng kim tuyến hơi lệch trên tóc bạc. Mặt ông hướng ra ngoài khung về phía BÊN PHẢI, đúng chỗ Victoria đang đứng cạnh bàn. Mắt ngân ngấn nước, mi hơi ướt; hàm siết ở khớp rồi giãn, một cái nuốt khan, cánh mũi phập phồng. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má.\nĐáy khung là mặt bàn bóng: tay phải ông trên bìa hồ sơ XANH NAVY, tay trái trên hộp bánh giấy trắng đã rỗng, hai vật cách nhau một gang tay. Đỉnh khung là vách kính đêm nhoè đèn thành phố.\nTRONG KHUNG KHÔNG CÓ AI KHÁC: không vai, không gáy, không bóng người mờ ở lớp sau, không hình phản chiếu của ai. Phòng sáng rõ, mặt ông đủ sáng.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CROWN",
+              "REF_PROP_FOLDER",
+              "REF_PROP_CUPCAKE_BOX"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-06_v1.png"
+        },
+        {
+          "id": "SF-S23-07",
+          "label": "[S23] S07 · Dirty Single Victoria — không còn gì để đáp, với lấy thứ quyền lực cuối cùng",
+          "goc": "Dirty Single, VICTORIA RÕ MẶT ở dải giữa · HAROLD chỉ còn vai và một phần vành vương miện ở đáy khung, out nét",
+          "pose": {
+            "zone": "Cụm bàn ăn, máy vòng qua sau vai Harold, hạ xuống ngang tầm mắt Victoria",
+            "who": {
+              "VICTORIA": "Đứng cạnh bàn, RÕ MẶT chính diện ba phần tư, mắt nhìn xuống cha",
+              "HAROLD": "Chỉ còn vai phải và một phần vành vương miện giấy ở đáy khung, out nét, không thấy mặt",
+              "LILY": "Ngoài nón quan sát",
+              "BENNETT": "Ngoài nón quan sát"
+            },
+            "dist": "Máy cách Victoria khoảng tám mươi centimet, ngang tầm mắt cô",
+            "hands": {
+              "VICTORIA": "Hai tay buông thẳng, bàn tay phải nắm lại rồi mở ra",
+              "HAROLD": "Ngoài khung"
+            }
+          },
+          "prompt": "Dirty single dọc, photorealistic, 50mm, máy ngang tầm mắt Victoria, vòng qua sau vai Harold.\nVictoria chiếm dải giữa khung, RÕ MẶT và đủ lớn để đọc từng đường ngũ quan, vest đen, mắt nhìn xuống cha ở tiền cảnh. Mặt cô đang vỡ ra chứ không đanh lại: khoé miệng giật một nhịp rồi bị kéo phẳng lại, mí mắt chớp nhanh ba lần, một cái nuốt khan, hơi thở ra bằng mũi nghe được. Mắt cô ngân ngấn nước. Mắt là mắt người thật bình thường, chỉ có nước mắt và da ướt; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má. Bàn tay phải cô nắm lại rồi mở ra bên hông.\nĐáy khung là vai phải Harold trong cardigan xám taupe cùng một phần vành vương miện giấy vàng, ngoài nét, KHÔNG thấy mặt ông. Đỉnh khung là đèn chùm pha lê ấm và trần cao, ngoài nét. Chỉ một dáng mờ duy nhất ở tiền cảnh, không thêm ai khác. Phòng sáng rõ, mặt cô đủ sáng.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_VICTORIA_SUIT_FULL",
+              "REF_HAROLD_CARDIGAN_FULL",
+              "REF_PROP_CROWN"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-07_v1.png"
+        },
+        {
+          "id": "SF-S23-08",
+          "label": "[S23] S08 · Medium Wide dọc — Nora đã lên tới nơi, Bennett CẦM SẴN thẻ chưa đưa (trạng thái chờ)",
+          "goc": "Medium Wide dọc, LILY RÕ MẶT ở dải dưới đang ngồi · BENNETT RÕ MẶT dải giữa đang đứng · NORA RÕ MẶT dải trên ở lối vào",
+          "pose": {
+            "zone": "Cụm bàn ăn, máy phía vách kính chĩa về lối vào; Nora đã đi từ sảnh lên và đứng ở lối vào phòng ăn",
+            "who": {
+              "LILY": "Ngồi trên ghế ở dải dưới gần máy nhất, vẫn ôm hộp bánh giấy rỗng vào lòng, ngước nhìn lên bố",
+              "BENNETT": "Đứng ở dải giữa cạnh ghế con, quay về phía Nora, đầu hơi cúi",
+              "NORA": "Đứng ở dải trên nơi lối vào, đã dừng bước, một tay hơi đưa ra phía trước nhưng lòng bàn tay CHƯA ngửa hẳn",
+              "HAROLD": "Ngoài nón quan sát",
+              "VICTORIA": "Ngoài nón quan sát"
+            },
+            "dist": "Máy cách Lily khoảng một mét, cách Nora khoảng năm mét, ngang tầm mắt người đứng",
+            "hands": {
+              "LILY": "Hai tay ôm hộp bánh giấy trắng đã mở và rỗng vào lòng",
+              "BENNETT": "Tay phải ĐÃ CẦM SẴN chiếc thẻ nhân viên nhựa, để xuôi ngang đùi, CHƯA đưa về phía Nora; tay trái buông",
+              "NORA": "Tay phải hơi đưa ra phía trước ngang eo, lòng bàn tay CHƯA ngửa hẳn, chưa chạm vào ai"
+            }
+          },
+          "prompt": "Medium wide dọc, photorealistic, 35mm, máy ngang tầm mắt, phía vách kính chĩa về lối vào.\nLily ngồi ở dải dưới gần máy nhất, RÕ MẶT, ôm hộp bánh giấy trắng đã mở và RỖNG vào lòng, ngước nhìn lên bố, môi hé, chân mày nhướn — đứa trẻ đang thấy chuyện xấu xảy ra mà chưa gọi được tên nó.\nBennett đứng ở dải giữa cạnh ghế con, RÕ MẶT, đầu hơi cúi, quay về phía Nora. Tay phải anh ĐÃ CẦM SẴN chiếc thẻ nhân viên nhựa nền trắng ngà viền navy in ảnh anh, để xuôi ngang đùi, CHƯA đưa về phía Nora. Vai xuôi xuống một nhịp.\nNora đứng ở dải trên nơi lối vào, RÕ MẶT, blazer ĐỎ BOÓC-ĐÔ, đã dừng bước. Tay phải hơi đưa ra ngang eo nhưng lòng bàn tay CHƯA ngửa hẳn, chưa chạm vào ai. Mặt mệt và miễn cưỡng, môi mím, mắt hạ xuống khỏi mặt Bennett — không đắc thắng, không hằn học.\nGiữa Bennett và Nora còn khoảng trống rõ ràng chừng hai mét; hai người KHÔNG chạm vào nhau.\nĐỉnh khung là lối vào và một phần khung cửa chính; đáy khung là mặt bàn bóng ngoài nét. Phòng sáng rõ, đọc rõ mặt cả ba.\nKHUNG DỌC 9:16",
+          "refs": {
+            "chars": [
+              "REF_LILY_DRESS_FULL",
+              "REF_BENNETT_UNIFORM_FULL",
+              "REF_NORA_BLAZER_FULL",
+              "REF_PROP_BADGE"
+            ],
+            "bg": "SF-S22-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-S23-08_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-S23-01",
+          "sf": "SF-S23-01",
+          "dur": 10,
+          "text": "VICTORIA: \"Mr. Underwood. How much did my father promise you?\"\nBENNETT: \"Nothing. He does not know my name.\"\nVICTORIA: \"He just said your name.\"\nBENNETT: \"He learned it twenty minutes ago.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing beside the table, nearest camera.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, seated deeper in frame, turned up toward her.\n\nKeep exactly these two characters in frame. Do not add, remove, replace, duplicate or transform any character, and do not bring a third face into frame.\n\nSCENE:\nShe has decided what this is before she asks. He answers with the only thing he has, which is the truth, and it makes him look worse.\n\nDIALOGUE ORDER:\nVICTORIA -> BENNETT -> VICTORIA -> BENNETT\n\nSHOT 1 (0:00-0:05) — STACKED TWO-SHOT, VICTORIA NEAREST — STATIC\nCamera: Static locked-off at standing eye level. No shake.\nThe BLACK SUIT woman's right hand closes and opens once at her hip.\nVICTORIA — level, dismissive: \"Mr. Underwood. How much did my father promise you?\"\nThe NAVY SHIRT man turns his palms up on his knees where she can see them.\nBENNETT — steady, quiet: \"Nothing. He does not know my name.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME AXIS, TIGHTER — SLOW PUSH-IN ON BENNETT\nCamera: Slow push-in past her shoulder onto the seated man, same axis. She stays readable in the lower band.\nShe tips her head half a degree, the way someone does when they think they have caught you.\nVICTORIA — flat: \"He just said your name.\"\nBrief dramatic pause. He looks at the floor once, then back up at her, and gives her the answer that helps him least.\nBENNETT — tired, honest: \"He learned it twenty minutes ago.\"\n\nPERFORMANCE:\nVictoria audits him, she never raises her voice — the cruelty is in the calm. Bennett keeps his hands visible the entire time, a man who has been suspected before.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Victoria speaks, Bennett listens silently with his mouth closed. When Bennett speaks, Victoria listens silently with her mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Bennett finishes: \"He does not know my name.\"\n\nCAMERA SUMMARY:\nSHOT 1 = stacked two-shot, Victoria nearest, static.\nSHOT 2 = same axis tighter on Bennett, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-01_v1.mp4"
+        },
+        {
+          "id": "V-S23-02",
+          "sf": "SF-S23-02",
+          "dur": 10,
+          "text": "VICTORIA: \"Ms. Stanton. The penthouse. Now.\"\nNORA (O.S, qua điện thoại): \"Underwood?\"\nVICTORIA: \"Is he allowed up here with a child?\"\nNORA (O.S, qua điện thoại): \"No, ma'am. I gave him fifteen minutes.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing at a low walnut cabinet with a black house phone handset already against her left ear.\n\nKeep exactly this character. Do not add, invent, or reveal any second person — not a face, not a shoulder, not a hand, not a reflection, not a silhouette.\nNo one enters or leaves the frame.\n\nThe second voice in this scene is a phone voice only. It is never seen and never enters the frame.\n\nSCENE:\nShe stops arguing and starts making a call instead. The building manager answers, and the man at the table has already lost.\n\nDIALOGUE ORDER:\nVICTORIA -> PHONE VOICE -> VICTORIA -> PHONE VOICE\n\nSHOT 1 (0:00-0:05) — MEDIUM CLOSE-UP ON VICTORIA — STATIC\nCamera: Static locked-off at her eye level. No shake.\nThe BLACK SUIT woman keeps her back to the table. Her right hand presses flat on the cabinet, fingers whitening at the knuckle.\nVICTORIA — clipped, businesslike: \"Ms. Stanton. The penthouse. Now.\"\nA woman's voice comes out of the handset, thin and small.\nPHONE VOICE (off screen, never shown): \"Underwood?\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER ON HER FACE — SLOW PUSH-IN\nCamera: Slow push-in on her face, same angle and same height.\nHer eyes stay down on the cabinet top. She does not look back at the table while she says it.\nVICTORIA — quiet, deliberate: \"Is he allowed up here with a child?\"\nBrief dramatic pause. The phone voice answers and her jaw sets as she listens.\nPHONE VOICE (off screen, never shown): \"No, ma'am. I gave him fifteen minutes.\"\n\nPERFORMANCE:\nShe is not enjoying this and she does it anyway — that is the whole performance. Keep the voice low and even; the tell is her hand on the cabinet, not her face.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. The phone voice is heard, never lip-synced and never shown. During silent pauses and while she listens, her mouth remains closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after the phone voice says: \"Underwood?\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Victoria, static.\nSHOT 2 = tighter on her face, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-02_v1.mp4"
+        },
+        {
+          "id": "V-S23-03",
+          "sf": "SF-S23-M2-MASTER",
+          "dur": 10,
+          "text": "BẢN SAO thoại O.S (7-bang-shot.md §5.4) — quay riêng để lấy chuẩn giọng Nora:\nNORA: \"Underwood?\"\nNORA: \"No, ma'am. I gave him fifteen minutes.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nNORA — 52-year-old Latina woman, BURGUNDY BLAZER over a white shirt, a charcoal lanyard around her neck, seated behind the lobby management desk with a black desk-phone handset at her right ear.\n\nKeep exactly this character.\nOnly ONE character appears in this entire video.\nDo not add, invent, or reveal any second person — not a face, not a shoulder, not a hand, not a reflection, not a silhouette.\nNo one enters or leaves the frame.\n\nSCENE:\nThe same phone call, seen from the other end. The night manager takes a call she does not want and answers it exactly by the book.\n\nDIALOGUE ORDER:\nNORA -> NORA\n\nSHOT 1 (0:00-0:05) — VERTICAL WIDE ON THE DESK — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the desk. No shake.\nThe BURGUNDY BLAZER woman is already holding the handset to her ear, one finger holding her place in the open logbook. She listens, and her finger comes off the page.\nNORA — weary, wary: \"Underwood?\"\nBrief dramatic pause. She sits back a few centimetres and closes her eyes for one beat.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER ON HER — STATIC\nCamera: Static locked-off, same angle, framed tighter on her face and the handset.\nShe pulls the logbook toward her, looks down at a line already written there, and gives the answer she is required to give.\nNORA — reluctant, flat: \"No, ma'am. I gave him fifteen minutes.\"\nHer free hand flattens the page, then stays there. She does not hang up.\n\nPERFORMANCE:\nShe answers procedure with procedure, but the closed eyes and the slow hand say she already knows what this call is going to cost somebody.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. During silent pauses, her mouth remains closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Nora finishes: \"Underwood?\"\n\nCAMERA SUMMARY:\nSHOT 1 = vertical wide on the desk, very slow push-in.\nSHOT 2 = tighter on her face, static.",
+          "status": "draft",
+          "vpicked": "V-S23-03_v1.mp4"
+        },
+        {
+          "id": "V-S23-04",
+          "sf": "SF-S23-04",
+          "dur": 10,
+          "text": "VICTORIA: \"He used them on an eighty-two-year-old man who is about to sign over control of two billion dollars.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing beside the table, nearest camera.\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, seated, holding an empty white cake box.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, seated behind her, turned up toward Victoria.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nShe says the number out loud for the first time. The man she is accusing has no idea what she is talking about, and his daughter is holding an empty cake box.\n\nDIALOGUE ORDER:\nVICTORIA\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE, STACKED IN DEPTH — STATIC\nCamera: Static locked-off at standing eye level, swung thirty degrees right of the previous setup.\nThe BLACK SUIT woman sets the handset down without looking at it and turns back to the table. Her right hand comes up and points at the closed navy folder lying in front of her father.\nVICTORIA — controlled, businesslike: \"He used them on an eighty-two-year-old man who is about to sign over control of two billion dollars.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME ANGLE, TIGHTER ON THE TWO SEATED — SLOW PUSH-IN\nCamera: Slow push-in past her onto the seated father and daughter, same angle. She stays readable in the lower band.\nBrief dramatic pause, held long. The NAVY SHIRT man's eyebrows draw together; he looks at the folder, then at her, and shakes his head once — he genuinely does not know what she means. The CREAM FLORAL DRESS girl pulls the empty cake box tighter against her chest and looks up at her father's face instead of at the woman.\n\nPERFORMANCE:\nVictoria states a number, not an insult — she believes she is being reasonable. Bennett's confusion must be visible and slow; he is hearing the figure for the first time.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Victoria finishes: \"two billion dollars.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide stacked in depth, static.\nSHOT 2 = same angle tighter on the seated pair, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-04_v1.mp4"
+        },
+        {
+          "id": "V-S23-05",
+          "sf": "SF-S23-05",
+          "dur": 10,
+          "text": "BENNETT: \"I came here with a cupcake, ma'am. My daughter baked it last night.\"\nHAROLD: \"I see two people who brought me a cupcake.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing, nearest camera.\nHAROLD — 82-year-old white man, TAUPE-GRAY CARDIGAN, wearing a crooked gold paper crown, seated deeper in frame at the head of the table.\n\nKeep exactly these two characters in frame. Do not add, remove, replace, duplicate or transform any character, and do not bring a third face into frame.\n\nSCENE:\nHe defends himself with the smallest fact he owns. The old man answers by counting what is on his table.\n\nDIALOGUE ORDER:\nBENNETT -> HAROLD\n\nSHOT 1 (0:00-0:05) — STACKED TWO-SHOT, BENNETT NEAREST — STATIC\nCamera: Static locked-off at standing eye level.\nThe NAVY SHIRT man stands up out of his chair and keeps both hands open at his sides where everyone can see them. He speaks toward the woman off camera, not to the old man.\nBENNETT — steady, weary: \"I came here with a cupcake, ma'am. My daughter baked it last night.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME AXIS, TIGHTER ON HAROLD — SLOW PUSH-IN\nCamera: Slow push-in past the standing man onto the seated old man, same axis. Bennett stays readable in the lower band.\nBrief dramatic pause. The TAUPE CARDIGAN man puts his right hand flat on the closed navy folder and his left hand flat on the empty white cake box, one on each side of his plate, and looks at them both.\nHAROLD — calm, unhurried: \"I see two people who brought me a cupcake.\"\n\nPERFORMANCE:\nBennett's dignity is in his open hands, never in his volume. Harold is not scolding anyone; he is doing arithmetic out loud, which is worse for the person it lands on.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Bennett speaks, Harold listens silently with his mouth closed. When Harold speaks, Bennett listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Bennett finishes: \"baked it last night.\"\n\nCAMERA SUMMARY:\nSHOT 1 = stacked two-shot, Bennett nearest, static.\nSHOT 2 = same axis tighter on Harold, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-05_v1.mp4"
+        },
+        {
+          "id": "V-S23-06",
+          "sf": "SF-S23-06",
+          "dur": 10,
+          "text": "HAROLD: \"And I see my daughter who brought me a folder.\"\nHAROLD: \"Both of you came to my door today. Only one of you remembered what day it is.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHAROLD — 82-year-old white man, silver-white hair, TAUPE-GRAY CARDIGAN, wearing a crooked gold paper crown, seated at the head of the table.\n\nKeep exactly this character.\nOnly ONE character appears in this entire video.\nDo not add, invent, or reveal any second person — not a face, not a shoulder, not a hand, not a reflection, not a silhouette.\nNo one enters or leaves the frame.\n\nSCENE:\nThe second half of the sentence, and then the one that ends the argument. He is talking to his daughter, who is standing off camera to the right.\n\nDIALOGUE ORDER:\nHAROLD -> HAROLD\n\nSHOT 1 (0:00-0:05) — CLOSE-UP, NEAR EYE LEVEL — STATIC\nCamera: Static locked-off, lens only slightly BELOW his eye line, almost level. Never tilted up: no under-chin hollow, no nostrils, no ceiling in the background.\nThe TAUPE CARDIGAN man is looking off frame right, where his daughter is standing. His right hand taps the closed navy folder twice.\nHAROLD — level, quiet: \"And I see my daughter who brought me a folder.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME ANGLE, TIGHTER — VERY SLOW PUSH-IN\nCamera: Very slow push-in, same angle and same height.\nBrief dramatic pause, held long. He keeps his eyes off frame right the whole time. His jaw works once at the hinge, his nostrils flare, and his eyes brim with tears he does not let fall.\nHAROLD — steady, worn: \"Both of you came to my door today. Only one of you remembered what day it is.\"\nHe does not look away and he does not soften it.\n\nPERFORMANCE:\nNo anger and no self-pity — he says it the way you read out a result. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. During silent pauses, his mouth remains closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"brought me a folder.\"\n\nCAMERA SUMMARY:\nSHOT 1 = close-up near eye level, static.\nSHOT 2 = same angle tighter, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-06_v1.mp4"
+        },
+        {
+          "id": "V-S23-07",
+          "sf": "SF-S23-07",
+          "dur": 10,
+          "text": "VICTORIA: \"That is not fair.\"\nHAROLD: \"No. It is not.\"\nVICTORIA: \"Get him out.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVICTORIA — 44-year-old white woman, BLACK SUIT, standing beside the table, filling the middle band of frame.\nHAROLD — 82-year-old white man, TAUPE-GRAY CARDIGAN, wearing a gold paper crown. Only his shoulder and the edge of the crown are visible along the bottom edge, out of focus. His face is never shown in this video.\n\nKeep exactly these two characters. Do not add, remove, replace, duplicate or transform any character. Do not cut to his face and do not bring a third person into frame.\n\nSCENE:\nShe tells the truth for one second, he agrees with her, and then she reaches for the only power she has left.\n\nDIALOGUE ORDER:\nVICTORIA -> HAROLD -> VICTORIA\n\nSHOT 1 (0:00-0:05) — DIRTY SINGLE ON VICTORIA — STATIC\nCamera: Static locked-off at her eye level, shot across her father's out-of-focus shoulder.\nThe BLACK SUIT woman looks down at him. Her mouth opens before she has decided what to say, and the sentence comes out smaller than she meant it to.\nVICTORIA — unsteady: \"That is not fair.\"\nBrief dramatic pause. The old man answers from off camera at the bottom of frame, without moving.\nHAROLD — quiet, off his own face: \"No. It is not.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — SAME SETUP, VERY SLOW PUSH-IN\nCamera: Very slow push-in on her face, same angle. The blurred shoulder and crown at the bottom edge stay blurred throughout.\nHeavy silence. Nobody in the room moves. Her eyes brim and she blinks it back hard, twice. She turns her head away from him toward the entrance, and speaks to somebody standing there instead of to him.\nVICTORIA — flat, final: \"Get him out.\"\nHer right hand closes into a fist and stays closed.\n\nPERFORMANCE:\nThe first line is the only honest thing she says all night; the last one is what she does because she cannot answer him. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Tears and wet skin only.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Harold's face is never shown, so his line is heard, not lip-synced. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: Immediately after Harold finishes: \"No. It is not.\"\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single on Victoria, static.\nSHOT 2 = same setup, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-07_v1.mp4"
+        },
+        {
+          "id": "V-S23-08",
+          "sf": "SF-S23-08",
+          "dur": 10,
+          "text": "NORA: \"Underwood. Your badge.\"\nLILY: \"Daddy. Did we do something bad?\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for appearance, wardrobe, layout, lighting, props and spatial relationships.\n\nVERTICAL 9:16 VIDEO. Keep the full vertical frame of the reference image. Do not crop, letterbox, pillarbox, or reframe to widescreen.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nLILY — 6-year-old Black girl, CREAM FLORAL DRESS, seated nearest camera, holding an empty white cake box.\nBENNETT — 36-year-old Black man, NAVY MAINTENANCE SHIRT, standing beside her chair, an employee badge already in his right hand.\nNORA — 52-year-old Latina woman, BURGUNDY BLAZER, standing furthest away at the room entrance.\n\nKeep exactly these three characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nA man loses his job for bringing a cupcake upstairs, and his daughter asks the question nobody in the room is willing to answer.\n\nDIALOGUE ORDER:\nNORA -> LILY\n\nSHOT 1 (0:00-0:05) — MEDIUM WIDE TOWARD THE ENTRANCE — STATIC\nCamera: Static locked-off at standing eye level, looking down the room toward the entrance.\nThe BURGUNDY BLAZER woman turns her right hand over so the palm is finally open, and holds it there. She does not step closer.\nNORA — reluctant, weary: \"Underwood. Your badge.\"\nThe NAVY SHIRT man raises the badge that is already in his hand, crosses the two metres between them, and puts it in her palm. Her fingers close over it. Neither of them says anything else.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) — TIGHTER ON LILY — SLOW PUSH-IN\nCamera: Slow push-in on the seated girl, same angle. The two adults stay readable behind her.\nBrief dramatic pause, held long. Nobody moves. The CREAM FLORAL DRESS girl looks up from the empty cake box in her lap to her father's back, and asks.\nLILY — small, uncertain: \"Daddy. Did we do something bad?\"\nHer father's shoulders go still. He does not turn around. Nobody answers her, and the shot holds on her face until the end.\n\nPERFORMANCE:\nKeep every adult quiet and slow — no scolding, no raised voices, nobody handles the child. The whole ending rests on the question being left hanging.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. Whenever one of the three speaks, the other two listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nCharacter dialogue ONLY. Natural American English voices. No ambience, music, narrator, sound effects or subtitles.\n\nEDITING:\nExactly TWO shots, exactly ONE hard cut.\nCUT 1: The instant the badge lands in Nora's open palm.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide toward the entrance, static.\nSHOT 2 = tighter on Lily, slow push-in.",
+          "status": "draft",
+          "vpicked": "V-S23-08_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

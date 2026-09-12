@@ -1,0 +1,355 @@
+{
+  "film": "SIMEON — VÁN CỜ MƯỜI CHÍN NƯỚC",
+  "kind": "phim",
+  "updated_at": "2026-09-10 16:09:49",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_SIMEON_WAITER_FULL",
+          "label": "★ SIMEON TROWBRIDGE — VEST BỒI BÀN MƯỢN (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. Con trai của bà lao công Idella, 19 tuổi, thần đồng cờ vua đã bỏ thi đấu 5 năm, đang chạy bàn ca phụ trong gala. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: trẻ, tỉnh táo, kìm nén, ánh mắt chắc và sáng, tuyệt đối không hốc hác.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Chàng trai Mỹ gốc Phi 19 tuổi, da nâu trung ấm có kết cấu thật với lỗ chân lông nhìn rõ, gương mặt trẻ và ưa nhìn, xương gò má cao vừa, quai hàm gọn, mũi thẳng, môi đầy vừa phải khép tự nhiên không cười, mắt nâu sẫm to và sáng, ánh nhìn tỉnh, ấm, chắc. Tóc xoăn tự nhiên cắt ngắn sát đều, đường chân tóc gọn. Vóc người cao gầy, vai còn hẹp kiểu thiếu niên mới lớn, lưng thẳng. Áo sơ mi TRẮNG cổ bẻ cài kín toàn bộ cúc, cổ tay áo hơi rộng so với cổ tay; ngoài khoác GILÊ BỒI BÀN MÀU XÁM THAN, vải đã bạc nhẹ và sờn ở mép cổ, RỘNG HƠN NGƯỜI MỘT SỐ nên xệ và phồng ở hai bả vai, cài kín cúc, được giặt cẩn thận, phẳng phiu. Cà vạt bản nhỏ màu đen thắt gọn. Quần âu đen ống đứng. Giày da đen mũi tròn đã cũ, da nứt chân chim ở nếp gập mũi, được đánh xi cẩn thận. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_SIMEON_WAITER_FULL_v1.png"
+        },
+        {
+          "id": "REF_KINGSLEY_HOST_FULL",
+          "label": "★ KINGSLEY RAVENEL — CHỦ NHÀ FARROWGATE (thẻ neo nhân dạng)",
+          "desc": "Phản diện chính. Chủ nền tảng dạy cờ 900.000 người theo dõi, chủ nhân Farrowgate Hall, 31 tuổi. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: đẹp mã, quen được phục tùng, khinh miệt lạnh lùng, luôn diễn cho ống kính.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng 31 tuổi, da sáng mịn có kết cấu thật, gương mặt đẹp mã và khoẻ mạnh, quai hàm vuông sắc, cằm chẻ nhẹ, mũi thẳng cao, môi mỏng khép chặt hơi trề xuống một bên, mắt xám xanh sắc và lạnh, lông mày đậm gọn. Tóc nâu sẫm cắt ngắn hai bên, phần đỉnh dài hơn vuốt ngược ra sau bằng sáp bóng, không một sợi lệch. Râu cạo nhẵn hoàn toàn. Vóc người cao, vai rộng, thân hình tập gym cân đối. Bộ vest ba mảnh may đo màu XANH NAVY ĐẬM, vải len mịn còn nếp là sắc, khuy cài một hột, ve áo hẹp; bên trong áo sơ mi trắng tinh cài kín toàn bộ cúc, KHÔNG thắt cà vạt, cổ áo mở đúng một khuy trên cùng. Khăn cài túi ngực bằng lụa trắng gấp thẳng. Quần âu cùng bộ ống đứng, giày da nâu hạt dẻ đánh bóng loáng. Đồng hồ mặt tròn dây da nâu đeo ở cổ tay TRÁI. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_KINGSLEY_HOST_FULL_v1.png"
+        },
+        {
+          "id": "REF_DELAFIELD_DONOR_FULL",
+          "label": "★ HARMON DELAFIELD — NHÀ TÀI TRỢ SAU MƯỜI MỘT VÁN THUA (thẻ neo nhân dạng)",
+          "desc": "Nhà tài trợ lớn nhất của gala, 56 tuổi, vừa thua liên tiếp mười một ván trước đại kiện tướng nên đã cởi áo khoác. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: tự phụ đang bị bóc trần, đỏ bừng vì nhục, mắt vẫn hằn học.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng 56 tuổi, da sáng ửng hồng ở gò má và cổ, nếp nhăn ngang trán và khoé mắt rõ, cằm bạnh, mũi to thẳng, môi dày khép chặt, mắt nâu sẫm nhỏ dưới lông mày hoa râm rậm. Tóc BẠC TRẮNG như bạc, dày, chải ngôi lệch gọn gàng về bên phải. Cạo râu nhẵn. Vóc người tầm thước, vai dày, bụng dày kiểu đàn ông có tuổi ăn uống đầy đủ. KHÔNG mặc áo khoác ngoài. Áo sơ mi vải cotton mịn màu XANH BỘT NHẠT cài kín toàn bộ cúc trừ khuy cổ trên cùng để mở, hai ống tay xắn gọn hai vòng lên tới dưới khuỷu tay, thân áo hơi nhàu ngang eo vì ngồi lâu. Cà vạt lụa màu ĐỎ RƯỢU VANG có hoa văn chìm, nút thắt đã bị nới lỏng và kéo lệch sang trái. Quần âu xám than có nếp là, thắt lưng da đen khoá bạc, giày da đen buộc dây đánh bóng. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_DELAFIELD_DONOR_FULL_v1.png"
+        },
+        {
+          "id": "REF_VOLSTAD_GM_FULL",
+          "label": "★ ANDERS VOLSTAD — ĐẠI KIỆN TƯỚNG ĂN LƯƠNG (thẻ neo nhân dạng)",
+          "desc": "Đại kiện tướng được Kingsley trả lương giữ ghế bất bại ba năm, 34 tuổi, gốc Bắc Âu. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: mệt mỏi của người thắng quá dễ, tỉnh táo nghề nghiệp, không khinh người.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng gốc Bắc Âu 34 tuổi, da sáng nhạt có kết cấu thật, gương mặt gầy và cân đối, gò má cao rõ, quai hàm dài, mũi thẳng mảnh, môi mỏng khép tự nhiên không cười, mắt xanh nhạt trũng nhẹ dưới lông mày sáng màu, ánh nhìn tỉnh và hơi uể oải. Tóc vàng tro cắt ngắn gọn, rẽ ngôi bên trái. Râu lún phún hai ngày chưa cạo, màu sáng. Vóc người cao gầy, vai xuôi, lưng hơi khom kiểu người ngồi bàn nhiều năm. Áo len dệt kim màu ĐEN TRƠN cổ tròn, không hoa văn, không logo, vải mềm hơi xù nhẹ ở khuỷu tay, ống tay kéo tới cổ tay; bên trong lộ cổ áo phông đen. Quần âu xám than ống suông đã hơi nhàu, giày da đen đế bằng cũ và mòn gót. Không đeo trang sức. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_VOLSTAD_GM_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_BLACK_ROOK",
+          "label": "Quân xe đen bàn cờ số mười một — vật Kingsley giật khỏi bàn để cược",
+          "desc": "Quân xe đen trên ván cờ Delafield bỏ dở. Kingsley giật nó khỏi bàn để tước lợi thế của Simeon rồi bỏ vào túi áo — vật trao tay chủ chốt và là hiện thân của lời cược năm triệu.\nTrạng thái ảnh gốc: còn đứng trên ô cờ, CHƯA bị nhấc lên.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm mặt bàn, không có người và không có bàn tay trong khung. Một quân xe (rook) cờ vua bằng gỗ mun ĐEN NHÁNH kiểu Staunton chuẩn giải đấu, cao khoảng bảy phân, đế tròn nặng bọc nỉ, thân trụ tiện vòng, đỉnh xẻ bốn rãnh lỗ châu mai vuông vức. Bề mặt gỗ đánh bóng mờ, thấy rõ vân gỗ tối và vài vết xước nhỏ do dùng lâu ở mép đỉnh. Quân xe ĐANG ĐỨNG THẲNG trên một ô cờ màu sáng của bàn cờ gỗ walnut khảm ô sáng-tối, mặt bàn cờ chiếm toàn bộ nền dưới khung và cho mốc tỉ lệ: quân xe cao khoảng hai phần ba chiều rộng một ô cờ nhân đôi. Cạnh nó, lùi về sau và ngoài nét, là chân đế của một quân tốt trắng, đủ để so sánh kích thước. Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm và ngắn hắt về bên phải đế quân, làm nổi rõ đường tiện thân trụ và bốn rãnh trên đỉnh.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_BLACK_ROOK_v1.png"
+        },
+        {
+          "id": "REF_BG_FARROWGATE_HALL_DAY",
+          "label": "BỐI CẢNH — Sảnh chính Farrowgate Hall trong gala cờ vua (chiều tháng Chín)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — sảnh mái vòm kính nơi diễn ra toàn bộ màn sỉ nhục và lời cược năm triệu đô.",
+          "prompt": "Bối cảnh ở Mỹ. Sảnh chính một dinh thự tư nhân đang được dùng làm sàn thi đấu cờ vua của một gala từ thiện có phát trực tiếp, giữa chiều. Không có người trong khung hình. TRƯỚC MẶT là bàn dài gỗ óc chó phủ khăn lanh trắng, trên đó xếp bốn bàn cờ walnut khảm ô sáng-tối với quân gỗ nặng, mỗi bàn kèm một đồng hồ cờ analog vỏ gỗ; bàn cờ đầu bên phải đang dở dang, quân nằm rải không đối xứng, ghế trước nó bị đẩy lệch, ba bàn còn lại quân đã xếp lại ngay ngắn ghế đẩy sát bàn chờ lượt mới. BÊN TRÁI là cầu thang đá tay vịn sắt uốn đen, phía trên treo băng-rôn vải trắng chữ đen đánh vần chính xác \"THE CHAMPION'S TABLE\"; chân cầu thang có một màn hình trình chiếu đứng đang sáng. BÊN PHẢI là dãy cửa sổ vòm cao, bốn ghế cùng giá nhạc của một bộ tứ tấu đàn dây, và đài rượu champagne ba tầng thuỷ tinh. SAU LƯNG là hàng cột đá tròn, một thanh chắn đồng thau đánh bóng ngăn khu phục vụ, cửa dịch vụ gỗ sẫm dẫn vào bếp, và dãy bàn báo chí có dây thừng chắn. Trên đầu là mái vòm kính lớn. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Nắng trắng đổ thẳng xuống qua mái vòm kính cộng đèn chùm pha lê bật trắng đều khắp trần; sáng sủa, đang hoạt động bình thường, không u tối, không moody, không cháy trắng, bóng đổ mềm và ngắn. Đá sàn kem nhạt, khăn bàn trắng, gỗ óc chó nâu ấm, đồng thau vàng nhạt. Tổng thể sáng, sạch, giàu có và lạnh.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_FARROWGATE_HALL_DAY_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Cậu bồi bàn bị tước quân xe và lời cược năm triệu đô",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Kingsley gõ bàn cờ Delafield bỏ dở, Simeon đã đối mặt trực diện",
+          "goc": "Wide establishing shot, Simeon Trowbridge trái khung và Kingsley Ravenel phải khung CẢ HAI RÕ MẶT khoá mắt vào nhau; Harmon Delafield ngồi RÕ MẶT cạnh bàn cờ, Anders Volstad ngồi RÕ MẶT phía đối diện bàn dài",
+          "pose": {
+            "zone": "Khoảng sàn đá trước đầu phải bàn dài, cạnh bàn cờ thứ mười một",
+            "who": {
+              "SIMEON": "Đứng thẳng bên trái khung, đã quay hẳn người đối mặt trực tiếp với Kingsley, ánh mắt khoá chặt vào Kingsley, chưa hề né tránh, cằm giữ thẳng",
+              "KINGSLEY": "Đứng bên phải khung cách ba bước, người nghiêng về phía bàn cờ, cằm hất cao, khoé miệng trề xuống khinh miệt, mắt khoá vào Simeon",
+              "DELAFIELD": "Ngồi trên ghế kê lệch cạnh bàn cờ thứ mười một, xoay nửa người về phía hai người, mặt đỏ bừng, mắt hằn học ngước lên",
+              "VOLSTAD": "Ngồi phía đối diện bàn dài sau bàn cờ, lưng hơi khom, ngẩng mặt nhìn sang, lông mày cau lại"
+            },
+            "dist": "Máy quay cách khoảng tám mét, bao trọn đầu phải bàn dài, cả bốn người và vòng cung khách phía sau",
+            "hands": {
+              "SIMEON": "Hai tay buông thẳng hai bên, các ngón hơi khép",
+              "KINGSLEY": "Bàn tay phải đã đặt úp lên mép bàn cờ thứ mười một nhưng CHƯA gõ xuống, tay trái buông thẳng",
+              "DELAFIELD": "Hai tay bấu vào hai bên mép ghế",
+              "VOLSTAD": "Tay phải đặt trên mặt bàn cạnh đồng hồ cờ vỏ gỗ, chưa chạm vào nó"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy ngang tầm mắt cách khoảng tám mét, bao trọn đầu phải chiếc bàn dài phủ khăn lanh trắng. Simeon Trowbridge đứng bên trái khung trên nền sàn đá kem, đã quay hẳn người đối mặt trực tiếp với Kingsley Ravenel, ánh mắt khoá chặt vào ông ta, cằm giữ thẳng, hai tay buông thẳng hai bên. Kingsley Ravenel đứng bên phải khung cách ba bước, người nghiêng về phía bàn cờ, cằm hất cao, khoé miệng trề xuống khinh miệt; bàn tay phải ông ta đã đặt úp lên mép bàn cờ thứ mười một nhưng CHƯA gõ xuống, tay trái buông thẳng. Harmon Delafield ngồi trên chiếc ghế kê lệch cạnh bàn cờ đó, xoay nửa người về phía hai người, mặt đỏ bừng, hai tay bấu vào mép ghế. Anders Volstad ngồi phía đối diện bàn dài sau bàn cờ, lưng hơi khom, ngẩng mặt nhìn sang, lông mày cau lại, tay phải đặt cạnh chiếc đồng hồ cờ vỏ gỗ. Cả bốn người rõ mặt. Phía sau họ khoảng năm mươi khách mời trong đồ vải lanh và lụa đứng quây thành vòng cung rộng, phần lớn đã ngừng trò chuyện và quay đầu nhìn về phía bàn cờ, vài người giơ điện thoại lên quay; một phụ nữ mặc vest xám cầm camera gimbal trên lòng bàn tay đứng lệch bên phải. Xa hơn bên trái là cầu thang đá với băng-rôn vải trắng chữ đen. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_SIMEON_WAITER_FULL",
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_DELAFIELD_DONOR_FULL",
+              "REF_VOLSTAD_GM_FULL"
+            ],
+            "bg": "REF_BG_FARROWGATE_HALL_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Medium Wide bốn người, Simeon sắp lên tiếng, Delafield đỏ mặt bên bàn cờ",
+          "goc": "Medium Wide 3-4 shot cắt ngang đùi, Simeon Trowbridge trái khung và Kingsley Ravenel phải khung CẢ HAI RÕ MẶT; Harmon Delafield ngồi RÕ MẶT ở lớp sau giữa khung, Anders Volstad ngồi RÕ MẶT sau bàn cờ",
+          "pose": {
+            "zone": "Khoảng sàn đá trước đầu phải bàn dài, cạnh bàn cờ thứ mười một",
+            "who": {
+              "SIMEON": "Đứng quay hẳn người đối mặt Kingsley, cằm thẳng, miệng khép, mắt khoá vào ông ta, chưa hề né tránh",
+              "KINGSLEY": "Đứng đối diện, cằm hất cao, mắt nheo lại nhìn Simeon, miệng khép",
+              "DELAFIELD": "Ngồi trên ghế ở lớp sau giữa hai người, mặt đỏ bừng, mắt ngước lên nhìn Simeon",
+              "VOLSTAD": "Ngồi phía đối diện bàn dài sau bàn cờ, mặt ngẩng nhìn sang, lông mày cau"
+            },
+            "dist": "Máy quay cách khoảng bốn mét rưỡi, ngang tầm ngực, chếch nhẹ từ phía khu phục vụ",
+            "hands": {
+              "SIMEON": "Hai tay buông thẳng hai bên",
+              "KINGSLEY": "Bàn tay phải còn đặt trên mép bàn cờ thứ mười một, tay trái buông thẳng",
+              "DELAFIELD": "Hai tay bấu vào mép ghế",
+              "VOLSTAD": "Tay phải để cạnh đồng hồ cờ vỏ gỗ, CHƯA chạm vào nó"
+            }
+          },
+          "prompt": "Medium wide shot cắt ngang đùi, máy ngang tầm ngực cách khoảng bốn mét rưỡi, chếch nhẹ từ phía khu phục vụ. Simeon Trowbridge bên trái khung, người quay hẳn đối mặt Kingsley Ravenel, cằm thẳng, miệng khép, mắt khoá vào ông ta, hai tay buông thẳng. Kingsley Ravenel bên phải khung, cằm hất cao, mắt nheo lại nhìn cậu, bàn tay phải còn đặt trên mép bàn cờ thứ mười một. Harmon Delafield ngồi trên ghế ở lớp sau giữa hai người, rõ mặt, đỏ bừng, mắt ngước lên nhìn Simeon, hai tay bấu vào mép ghế. Anders Volstad ngồi rõ mặt phía đối diện bàn dài sau bàn cờ, lông mày cau, tay phải để cạnh chiếc đồng hồ cờ vỏ gỗ nhưng CHƯA chạm vào nó. Cả bốn người rõ mặt, tách nhau bằng khoảng trống rõ ràng. Hậu cảnh sau lưng họ là hàng cột đá tròn và thanh chắn đồng thau ngăn khu phục vụ, cùng một lớp khách mời đứng nhìn sang, ngoài nét. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_SIMEON_WAITER_FULL",
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_DELAFIELD_DONOR_FULL",
+              "REF_VOLSTAD_GM_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · MCU dirty single qua vai Simeon, Kingsley gằn mặt, tay chưa giơ chỉ",
+          "goc": "Medium Close-Up dirty single, Kingsley Ravenel RÕ MẶT giữa khung; vai phải và gáy Simeon Trowbridge mờ ở góc dưới trái tiền cảnh; Harmon Delafield ngồi mờ ở lớp sau",
+          "pose": {
+            "zone": "Khoảng sàn đá trước đầu phải bàn dài, cạnh bàn cờ thứ mười một",
+            "who": {
+              "KINGSLEY": "Đứng đối diện, mặt gằn lại, hàm bạnh, mắt khoá vào mặt Simeon, khoé miệng trề xuống",
+              "SIMEON": "Quay lưng 3/4 về máy, vai phải và một phần gáy chiếm góc dưới trái khung, mờ nét, đứng hoàn toàn im",
+              "DELAFIELD": "Ngồi trên ghế ở lớp sau xa hơn, mờ nét, mặt đỏ ngước nhìn về hướng này"
+            },
+            "dist": "Máy quay cách Kingsley khoảng một mét tám, nhìn qua vai phải Simeon ở tiền cảnh",
+            "hands": {
+              "KINGSLEY": "Cánh tay phải còn thả dọc thân, CHƯA giơ lên chỉ vào ai; tay trái buông thẳng",
+              "SIMEON": "Không thấy tay trong khung",
+              "DELAFIELD": "Hai tay mờ trên mép ghế"
+            }
+          },
+          "prompt": "Medium close-up dirty single, máy ngang tầm mắt cách Kingsley Ravenel khoảng một mét tám, nhìn qua vai phải Simeon Trowbridge. Vai phải và một phần gáy Simeon chiếm góc dưới trái khung, mờ nét ngoài tiêu điểm, đứng hoàn toàn im. Kingsley Ravenel RÕ NÉT giữa khung, mặt gằn lại, hàm bạnh, mắt xám xanh nheo lại khoá vào mặt Simeon, khoé miệng trề xuống; cánh tay phải ông ta còn thả dọc thân, CHƯA giơ lên chỉ vào ai, tay trái buông thẳng. Nắng trắng từ mái vòm đổ thẳng xuống làm nổi rõ quai hàm và nếp là của ve áo vest. Ở lớp sau xa hơn, Harmon Delafield ngồi trên ghế, mờ nét, mặt đỏ ngước nhìn về hướng này. Hậu cảnh sau lưng Kingsley là hướng cầu thang đá tay vịn sắt uốn với tấm băng-rôn vải trắng chữ đen treo phía trên, cùng một dáng khách mờ đứng cạnh, tất cả ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_SIMEON_WAITER_FULL",
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_DELAFIELD_DONOR_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Kingsley đã bước sát mặt Simeon, ngón tay vừa chạm quân xe đen",
+          "goc": "Wide two-shot chĩa dọc bàn dài, Simeon Trowbridge trái khung và Kingsley Ravenel phải khung, CẢ HAI RÕ MẶT, đối mặt cách nhau chưa đầy một bước chân",
+          "pose": {
+            "zone": "Đầu phải bàn dài; máy dời sang đầu bàn phía đông, chĩa dọc theo mặt bàn về hướng cầu thang",
+            "who": {
+              "SIMEON": "Đứng nguyên tại chỗ không lùi nửa bước, người quay hẳn đối mặt Kingsley, mắt khoá vào ông ta, quai hàm siết lại",
+              "KINGSLEY": "Đã bước sát tới trước mặt Simeon, người hơi nghiêng tới, cằm hất cao, mắt khoá vào mắt Simeon"
+            },
+            "dist": "Máy quay đặt tại đầu bàn phía đông, ngang tầm ngực, cách hai người khoảng năm mét, lấy mặt bàn cờ thứ mười một ở tiền cảnh dưới khung",
+            "hands": {
+              "SIMEON": "Hai tay buông thẳng tự nhiên hai bên, các ngón hơi cong theo dáng nghỉ, KHÔNG nắm chặt",
+              "KINGSLEY": "Bàn tay phải vươn xuống tiền cảnh, ngón trỏ vừa chạm vào thân quân xe đen trên bàn cờ nhưng CHƯA nhấc nó lên; tay trái buông thẳng"
+            }
+          },
+          "prompt": "Wide two-shot, cinematic photorealistic, máy đặt tại đầu bàn dài phía đông chĩa dọc theo mặt bàn, ngang tầm ngực, cách hai người khoảng năm mét. Dải khăn lanh trắng và bàn cờ walnut thứ mười một chiếm tiền cảnh dưới khung; quân xe đen vẫn ĐANG ĐỨNG trên ô cờ, chưa bị nhấc lên. Simeon Trowbridge bên trái khung đứng nguyên tại chỗ, không lùi nửa bước, người quay hẳn đối mặt Kingsley Ravenel, mắt khoá vào ông ta, quai hàm siết lại; hai tay buông thẳng tự nhiên hai bên, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Kingsley Ravenel bên phải khung đã bước sát tới trước mặt cậu, chỉ còn cách chưa đầy một bước chân, người hơi nghiêng tới, cằm hất cao, mắt khoá vào mắt Simeon; bàn tay phải ông ta vươn xuống tiền cảnh, ngón trỏ vừa chạm vào thân quân xe đen nhưng CHƯA nhấc nó lên, tay trái buông thẳng. Cả hai rõ mặt. Hậu cảnh sau lưng hai người là hướng cầu thang đá tay vịn sắt uốn với tấm băng-rôn vải trắng chữ đen treo phía trên, và một vòng cung dày khách mời cùng nhân viên phục vụ chen nhau nhìn về phía họ, nhiều người giơ điện thoại lên quay, một phụ nữ mặc vest xám cầm camera gimbal đứng lệch bên trái; lớp người này ngoài nét. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_SIMEON_WAITER_FULL",
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_PROP_BLACK_ROOK"
+            ],
+            "bg": "REF_BG_FARROWGATE_HALL_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · MCU sau vai phải Simeon, mặt nghiêng siết hàm, các ống kính chĩa vào lưng",
+          "goc": "Medium Close-Up từ chếch sau vai phải Simeon Trowbridge, mặt nghiêng 3/4 của Simeon RÕ NÉT; Kingsley Ravenel đứng đối diện ở lớp sau, mờ nét",
+          "pose": {
+            "zone": "Đầu phải bàn dài; máy đứng lẫn trong lớp người phía khu phục vụ, sau lưng Simeon",
+            "who": {
+              "SIMEON": "Đứng quay lưng 3/4 về máy, đầu nghiêng đủ để thấy rõ cạnh mặt, yết hầu và quai hàm siết lại; mắt khoá thẳng về phía Kingsley, không cúi xuống",
+              "KINGSLEY": "Đứng đối diện Simeon ở lớp sau theo chiều sâu, mờ nét, cằm hất cao"
+            },
+            "dist": "Máy quay cách vai phải Simeon khoảng một mét, ngang tầm vai",
+            "hands": {
+              "SIMEON": "Bàn tay phải siết chặt thành nắm bên hông phải, gân cổ tay nổi rõ; tay trái buông thẳng",
+              "KINGSLEY": "Tay phải cầm quân xe đen giơ ngang ngực, mờ nét"
+            }
+          },
+          "prompt": "Medium close-up từ chếch sau vai phải, máy đứng lẫn trong lớp người phía sau Simeon Trowbridge, cách vai cậu khoảng một mét, ngang tầm vai. Lưng và vai phải Simeon chiếm phần lớn khung; đầu cậu nghiêng đủ để thấy rõ cạnh mặt, yết hầu và quai hàm đang siết lại, mắt khoá thẳng về phía trước, không cúi xuống. Bàn tay phải cậu siết chặt thành nắm bên hông phải, gân cổ tay nổi rõ. Kingsley Ravenel đứng đối diện ở lớp sau theo chiều sâu, mờ nét, cằm hất cao, tay phải cầm quân xe đen giơ ngang ngực. Ngay hai bên rìa tiền cảnh, sát sau lưng Simeon, là những bàn tay đang giơ điện thoại lên quay và một ống kính camera gimbal đen, tất cả mờ nét, tất cả chĩa thẳng vào lưng cậu. Hậu cảnh xa hơn là mép bàn dài phủ khăn lanh trắng, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_SIMEON_WAITER_FULL",
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_PROP_BLACK_ROOK"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-06_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Low Angle MCU, Kingsley giơ quân xe đen lên đắc thắng dưới mái vòm kính",
+          "goc": "Low-Angle Medium Close-Up, Kingsley Ravenel RÕ MẶT chiếm giữa khung, giơ quân xe đen lên cao; không có nhân vật chính nào khác trong khung",
+          "pose": {
+            "zone": "Đầu phải bàn dài; máy hạ xuống ngang mặt bàn cờ, chếch lên phía Kingsley",
+            "who": {
+              "KINGSLEY": "Đứng thẳng, đầu hơi ngửa ra sau, cằm hất cao, khoé miệng nhếch lên đắc thắng, mắt nheo lại lạnh lùng nhìn xuống"
+            },
+            "dist": "Máy quay đặt thấp ngang tầm mặt bàn, chếch lên khoảng ba mươi độ, cách Kingsley khoảng một mét rưỡi",
+            "hands": {
+              "KINGSLEY": "Tay phải kẹp quân xe đen giữa ngón cái và ngón trỏ, giơ cao ngang tầm mắt và xoay hờ; tay trái chống hông"
+            }
+          },
+          "prompt": "Low angle medium close-up, máy đặt thấp ngang tầm mặt bàn và chếch lên khoảng ba mươi độ, cách Kingsley Ravenel khoảng một mét rưỡi. Kingsley Ravenel RÕ NÉT chiếm giữa khung, nhìn từ dưới lên nên dáng đổ lớn và áp đảo; đầu hơi ngửa ra sau, cằm hất cao, khoé miệng nhếch lên đắc thắng, mắt xám xanh nheo lại lạnh lùng nhìn xuống. Tay phải ông ta kẹp quân xe đen giữa ngón cái và ngón trỏ, giơ cao ngang tầm mắt và xoay hờ như cầm một thứ vừa nhặt dưới cống; bốn rãnh trên đỉnh quân xe hướng rõ về phía ống kính, không bị bàn tay che khuất. Tay trái chống hông. Ở rìa dưới trái khung là đỉnh đầu và một bên vai của một khách mời mờ nét đứng sát máy. Hậu cảnh sau lưng và phía trên Kingsley là trần sảnh: mái vòm kính lớn tràn nắng trắng và một chùm đèn pha lê, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_KINGSLEY_HOST_FULL",
+              "REF_PROP_BLACK_ROOK"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "KINGSLEY: \"Shut your mouth, black servant! Nobody in this room can save that position!\"\nNARRATION: Kingsley rapped the board Delafield had abandoned, triumphant.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Standing at frame left.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Standing at frame right beside the chess table.\nDELAFIELD — 56-year-old white man with silver hair, wearing a powder-blue shirt, seated.\nVOLSTAD — 34-year-old white man, wearing a black sweater, seated across the long table.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKingsley throws the insult across the abandoned board. Simeon is already squared off with him and does not look away.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:05 Kingsley's line. 0:05–0:08 silent, reserved for: \"Kingsley rapped the board Delafield had abandoned, triumphant.\" 0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nKINGSLEY\n\nSHOT 1 (0:00–0:05) — WIDE ESTABLISHING TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the two men.\nSimeon faces Kingsley head-on, chin level, eyes locked. Delafield stays hunched in his chair, face flushed. Volstad looks up from the board.\nKINGSLEY — furious, openly contemptuous: \"Shut your mouth, black servant! Nobody in this room can save that position!\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER WIDE ON THE BOARD END OF THE TABLE — STATIC\nCamera: Static locked-off camera on a fixed tripod, closer on Kingsley and the board, Simeon still in frame at left.\n0:05–0:08: his right hand raps twice on the edge of the board, hard and pleased with itself; his chin lifts. Silent.\n0:08–0:10: he holds the sneer, hand flat on the board. Simeon has not moved. Silent.\n\nPERFORMANCE:\nKingsley is triumphant and entitled, performing for the room. Simeon stays contained, jaw level, no flinch.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Kingsley speaks, Simeon, Delafield and Volstad listen silently with their mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00–0:05: Kingsley's dialogue only, clear natural American English. 0:05–0:10: no dialogue, faint hall ambience and the knock of knuckles on wood — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Kingsley finishes: \"...save that position!\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide establishing two-shot, slow push-in.\nSHOT 2 = tighter wide on the board end, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "SIMEON: \"That game can still be won!\"\nNARRATION: Simeon looked him straight in the eye.\nNARRATION: The hall erupted. Two hundred guests howled. Delafield flushed. Volstad frowned at his clock.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Standing at frame left.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Standing at frame right.\nDELAFIELD — 56-year-old white man with silver hair, wearing a powder-blue shirt, seated.\nVOLSTAD — 34-year-old white man, wearing a black sweater, seated across the long table.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nSimeon says the one sentence nobody expected, and the hall comes apart around him. He does not break eye contact.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:02 Simeon's line. 0:02–0:04 silent, reserved for: \"Simeon looked him straight in the eye.\" 0:04–0:10 silent, reserved for: \"The hall erupted. Two hundred guests howled. Delafield flushed. Volstad frowned at his clock.\"\n\nDIALOGUE ORDER:\nSIMEON\n\nSHOT 1 (0:00–0:04) — MEDIUM WIDE FOUR-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in across the group.\n0:00–0:02: Simeon speaks without raising his voice, eyes never leaving Kingsley.\nSIMEON — level, quiet, certain: \"That game can still be won!\"\n0:02–0:04: he holds the look, chin steady, mouth closed. Kingsley's eyes narrow. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER FRAMING HOLDING DELAFIELD AND VOLSTAD — SUBTLE LATERAL DOLLY\nCamera: Very slow lateral drift, keeping the seated men and the edge of Kingsley in frame.\n0:04–0:07: the guests behind them break into loud laughter, heads thrown back. Delafield's face darkens to a deep flush and he stares up at Simeon.\n0:07–0:10: Volstad's frown deepens and his eyes drop to the wooden chess clock beside him. No dialogue.\n\nPERFORMANCE:\nSimeon is calm, not defiant. Delafield's humiliation is written on his face. Volstad is the only one taking the sentence seriously.\n\nLIP SYNC:\nOnly Simeon moves his lips, and only in Shot 1. Kingsley, Delafield and Volstad keep their mouths closed throughout. In Shot 2 no character speaks and no lips move as if talking.\n\nAUDIO:\n0:00–0:02: Simeon's dialogue, clear natural American English. 0:02–0:10: no dialogue, crowd laughter and hall ambience only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, on the first swell of the crowd's laughter.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide four-shot, slow push-in.\nSHOT 2 = tighter framing on the seated men, subtle lateral dolly.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: Kingsley pointed.\nKINGSLEY: \"Who do you think you are? A brainless houseboy running his mouth?\"\nSIMEON: \"I only said black still has a way to win, sir.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Facing camera, sharp in focus.\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Seen only as a blurred right shoulder and the back of his head in the lower-left foreground, completely still, face never visible.\nDELAFIELD — 56-year-old white man, powder-blue shirt, seated, blurred far in the background.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKingsley points at the boy in the borrowed waistcoat and names him for the room. Simeon answers without heat.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:01 silent, reserved for: \"Kingsley pointed.\" 0:01–0:06 Kingsley's line. 0:06–0:10 Simeon's line, off the blurred foreground shoulder.\n\nDIALOGUE ORDER:\nKINGSLEY → SIMEON\n\nSHOT 1 (0:00–0:06) — OTS MEDIUM CLOSE-UP ON KINGSLEY — SLOW PUSH-IN\nCamera: Very slow push-in on Kingsley's face. Simeon's blurred shoulder anchors the lower-left foreground, still.\n0:00–0:01: his right arm comes up and his index finger levels at Simeon. Silent.\nKINGSLEY — jeering, pitched loud for the room: \"Who do you think you are? A brainless houseboy running his mouth?\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER OTS ON KINGSLEY — VERY SLOW PUSH-IN\nCamera: The push-in tightens on Kingsley's face. Simeon stays at the frame edge, back to camera, face never shown.\nHis voice comes from the foreground while the camera holds on Kingsley, whose sneer stiffens as the answer lands.\nSIMEON — respectful, steady, off the blurred foreground shoulder: \"I only said black still has a way to win, sir.\"\n\nPERFORMANCE:\nKingsley enjoys the pointing; he performs cruelty for an audience. Simeon never moves or raises his voice.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. When Kingsley speaks, Simeon stays silent with his back to camera. When Simeon speaks, Kingsley listens with his mouth closed and Simeon never turns toward camera. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00–0:01: no dialogue, hall ambience — leave clean for narrator dub. 0:01–0:10: dialogue only, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, right after Kingsley finishes: \"...running his mouth?\"\n\nCAMERA SUMMARY:\nSHOT 1 = OTS medium close-up on Kingsley, slow push-in.\nSHOT 2 = tighter OTS on Kingsley, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "KINGSLEY: \"Fine. You say it can be won? Then win this chess and take five million!\"\nNARRATION: He stepped closer, his voice cold.\nKINGSLEY: \"But there's a condition. Nineteen moves. Not one more.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Standing at frame left.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Standing at frame right.\nDELAFIELD — 56-year-old white man with silver hair, wearing a powder-blue shirt, seated.\nVOLSTAD — 34-year-old white man, wearing a black sweater, seated across the long table.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKingsley turns the boy's sentence into a public wager, announces the money, then closes the distance and drops his voice to set the trap.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:05 Kingsley's first line. 0:05–0:07 silent, reserved for: \"He stepped closer, his voice cold.\" 0:07–0:10 Kingsley's second line.\n\nDIALOGUE ORDER:\nKINGSLEY\n\nSHOT 1 (0:00–0:05) — MEDIUM WIDE FOUR-SHOT — STATIC\nCamera: Static locked-off camera on a fixed tripod, holding the group and the table edge.\nKingsley opens both arms wide and pitches the words out over the guests rather than at Simeon. Delafield's head comes up. Volstad goes still.\nKINGSLEY — loud, contemptuous showman: \"Fine. You say it can be won? Then win this chess and take five million!\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER TWO-SHOT ON KINGSLEY AND SIMEON — VERY SLOW PUSH-IN\nCamera: Very slow push-in, tightening on the two men as the distance between them closes.\n0:05–0:07: he lowers his arms and takes two unhurried steps until he is directly in front of Simeon, who does not give ground. Silent.\n0:07–0:10: he speaks quietly now, close to Simeon's face.\nKINGSLEY — cold, quiet, precise: \"But there's a condition. Nineteen moves. Not one more.\"\n\nPERFORMANCE:\nThe shift from public showman to private threat is the whole clip. Kingsley never loses the raised chin. Simeon does not move.\n\nLIP SYNC:\nOnly Kingsley moves his lips. No overlapping dialogue. Simeon, Delafield and Volstad listen silently with their mouths closed throughout. During the silent step-in, mouths remain closed with lips still.\n\nAUDIO:\n0:00–0:05 and 0:07–0:10: Kingsley's dialogue, clear natural American English. 0:05–0:07: no dialogue, hall ambience and footsteps only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Kingsley finishes: \"...take five million!\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide four-shot, static.\nSHOT 2 = tighter two-shot, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: He ripped the black rook off the board.\nKINGSLEY: \"And ten minutes. Lose, and you and your mother leave my house tonight.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Standing at frame left.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Standing at frame right, one hand reaching down to the board in the foreground.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nKingsley strips a piece off the dead position to make the wager unwinnable, then names the last condition: the boy's mother.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 silent, reserved for: \"He ripped the black rook off the board.\" 0:04–0:09 Kingsley's line. 0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nKINGSLEY\n\nSHOT 1 (0:00–0:04) — WIDE TWO-SHOT DOWN THE TABLE — STATIC\nCamera: Static locked-off camera on a fixed tripod, the chess board across the lower foreground.\n0:00–0:02: Kingsley's fingers close on the black rook under his hand.\n0:02–0:04: he snatches it up off the square in one hard motion and straightens, holding it out between thumb and forefinger. Simeon's eyes follow the rook up, then drop to the empty square. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER TWO-SHOT — VERY SLOW PUSH-IN\nCamera: Very slow push-in on the two men, the raised rook inside the frame.\nKingsley turns the piece slowly in his fingers while he speaks, entirely satisfied with himself. Simeon is still reading the empty square; his eyes come back up to Kingsley's face on the word \"mother\".\nKINGSLEY — cold, casual, cruel: \"And ten minutes. Lose, and you and your mother leave my house tonight.\"\n0:09–0:10: he holds the look and the rook stays raised. Silent.\n\nPERFORMANCE:\nThe theft is fast and offhand, a man taking something he considers his. Simeon does not reach for it and makes no gesture with his hands: he reads the empty square the way a player reads a position.\n\nLIP SYNC:\nOnly Kingsley moves his lips, and only in Shot 2. Simeon's mouth stays closed throughout. In Shot 1 no character speaks and no lips move as if talking. During silent holds, mouths remain closed with lips still.\n\nAUDIO:\n0:00–0:04: no dialogue, hall ambience and the scrape of wood only — leave clean for narrator dub. 0:04–0:09: Kingsley's dialogue, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the moment the rook clears the board.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot down the table, static.\nSHOT 2 = tighter two-shot, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: Simeon's throat tightened. His jaw clenched. Every lens found his back.\nNARRATION: Beneath the humiliation, something was rising—something that would rewrite this hall's rules forever.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Seen from behind his right shoulder, the side of his face sharp in focus.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Facing him in the background layer, blurred, holding the black rook at chest height.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe humiliation lands on Simeon in front of every camera in the building. He does not look away and does not break.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 silent, reserved for: \"Simeon's throat tightened. His jaw clenched. Every lens found his back.\" 0:04–0:09 silent, reserved for: \"Beneath the humiliation, something was rising—something that would rewrite this hall's rules forever.\" 0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — MEDIUM CLOSE-UP OVER SIMEON'S RIGHT SHOULDER — STATIC\nCamera: Static locked-off camera on a fixed tripod, holding his back, the side of his face and the blurred lenses at the foreground edges.\n0:00–0:02: his throat moves once as he swallows; the muscle along his jaw draws tight and stays tight.\n0:02–0:04: the raised phones and the gimbal lens shift a fraction, all angled at his back. Hold silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER ON THE SIDE OF SIMEON'S FACE — VERY SLOW PUSH-IN\nCamera: Very slow, restrained push-in toward the side of his face.\nHis eyes stay locked forward on Kingsley, unblinking, and something steadies in them rather than breaking. His breathing slows instead of quickening. Hold silent.\n\nPERFORMANCE:\nContained, not cowed. No tears, no theatrics — only a jaw that will not unclench and a stare that does not move. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue anywhere in this clip. Faint hall ambience and distant laughter only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, on the beat after his jaw sets.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up over his right shoulder, static.\nSHOT 2 = tighter on the side of his face, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Have you ever felt that silence right before a room realizes it laughed at the wrong person,",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Alone in frame, shot from below, holding the black rook up at eye level.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe host holds his trophy up under his own glass dome while the room laughs with him. He has never been more certain he has won.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:06 silent, reserved for: \"Have you ever felt that silence right before a room realizes it laughed at the wrong person,\" 0:06–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — LOW-ANGLE MEDIUM CLOSE-UP ON KINGSLEY — STATIC\nCamera: Static locked-off camera on a fixed tripod, low and angled up at him. No shake.\n0:00–0:03: he turns the rook slowly between thumb and forefinger, letting the whole room see it, chin high.\n0:03–0:05: his mouth pulls into a satisfied sneer and his shoulders shake once with the laugh coming from the guests around him. Hold silent of dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER LOW-ANGLE ON KINGSLEY'S FACE — VERY SLOW PUSH-IN\nCamera: Very slow push-in, tightening on his face from below. The raised rook stays at the top edge of frame.\nThe sneer settles into something colder and more pleased. His eyes narrow as they travel down toward Simeon, entirely convinced. Hold the five seconds with no dialogue.\n\nPERFORMANCE:\nPure entitled triumph. No hesitation, no doubt, no crack anywhere in his face. He is a man enjoying a room that agrees with him.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. His mouth moves only for the sneer and the closed-mouth laugh, never as if forming words.\n\nAUDIO:\nNo dialogue anywhere in this clip. Crowd laughter and hall ambience only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, on the peak of his laugh, just as it begins to fall away.\n\nCAMERA SUMMARY:\nSHOT 1 = low-angle medium close-up on Kingsley, static.\nSHOT 2 = tighter low-angle on his face, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, so leave a comment and smash that like button, and let me take you back to where this started.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nSIMEON — 19-year-old Black man, wearing a charcoal-gray waistcoat over a white shirt. Seen from behind his right shoulder, the side of his face sharp in focus, right fist clenched at his hip.\nKINGSLEY — 31-year-old white man, wearing a navy-blue suit. Facing him in the background layer, blurred, holding the black rook.\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe last frame before the story rewinds. The boy every lens is pointed at has already started counting moves nobody else in the room can see.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:08 silent, reserved for: \"because you are about to, so leave a comment and smash that like button, and let me take you back to where this started.\" 0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — MEDIUM CLOSE-UP OVER SIMEON'S RIGHT SHOULDER — SUBTLE LATERAL DOLLY\nCamera: Very slow lateral drift behind his shoulder, keeping his back, the side of his face and the blurred lenses at the frame edges. No shake.\nHis head stays perfectly still. The raised phones behind him crowd a fraction closer. Hold silent of dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER ON HIS CLENCHED RIGHT FIST AT HIS HIP — VERY SLOW PUSH-IN\nCamera: Very slow push-in onto the hand already clenched at his hip, the side of his jaw held at the top of frame.\n0:04–0:07: the fist draws tighter, tendons standing out across the back of the hand.\n0:07–0:10: the fingers ease open, unhurried, deliberate, like a man setting down one thing so he can pick up another. Hold silent.\n\nPERFORMANCE:\nQuiet, controlled, gathering. Nothing performative — the change is all in a hand and a jaw. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still for the entire clip.\n\nAUDIO:\nNo dialogue anywhere in this clip. Faint hall ambience and distant laughter only — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, as the drift settles and the frame moves down onto his hand.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up over his right shoulder, subtle lateral dolly.\nSHOT 2 = tighter on his clenched fist, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-08_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

@@ -41,10 +41,14 @@ Cách quét kịch bản để biết cần dựng những scene nào: `1-kich-b
   "id": "REF", // Hoặc "HOOK", "S0", "S1", "S2"
   "name": "REF — nhân vật · đạo cụ · bối cảnh", // Hoặc "S1 — Tên cảnh"
   "sfs": [
-    // ... Chứa các mảng Object của Start Frame (SF)
+    // ... Chứa các mảng Object của Start Frame (SF, ảnh tĩnh) — khuôn ở §2.3/2.4
+  ],
+  "shots": [
+    // ... Chứa các mảng Object của Video Shot — khuôn ở §2.5. Scene REF để mảng này RỖNG.
   ]
 }
 ```
+⚠️ **`shots` là mảng bắt buộc trên MỌI scene, kể cả scene `REF`** (để rỗng `[]`). Phần mềm UI Board đọc cả hai mảng `sfs` và `shots` song song — thiếu `shots` trên một scene sẽ làm UI hiển thị sai.
 
 ### 2.3 Cấp SF — dành cho khung REF
 Sử dụng cho các thẻ nhân vật, đạo cụ, bối cảnh (bên trong scene `REF`).
@@ -124,9 +128,31 @@ Sử dụng cho các shot phim thực tế (S1, S2...). Mọi tham chiếu nhân
     ],
     "bg": "REF_BG_BOI_CANH"
   },
-  "status": "draft"
+  "status": "draft",
+  "picked": "" // App tự điền tên file ảnh khi user chốt; luôn khai key này dù rỗng
 }
 ```
+
+### 2.5 Cấp Shot — mảng `shots` của mỗi scene (video)
+Mỗi scene (trừ `REF`, luôn để `[]`) còn có mảng `shots` riêng — chứa **object video hoàn chỉnh**, khác hẳn mảng `sfs` (ảnh tĩnh). Đây là dữ liệu cấp cho Grok/AI video, không phải cấp cho AI ảnh.
+
+⚠️ **Mảng này KHÔNG được bỏ trống với scene có nội dung** — thiếu `text` là lỗi thường gặp nhất, làm ô "Lời thoại / hành động trong kịch bản" trên UI Board hiện trống trơn dù ảnh và prompt video đã đủ.
+
+```json
+{
+  "id": "V-S1-01",
+  "sf": "SF-S1-01",
+  "dur": 10,
+  "text": "AUDREY: \"Câu thoại nguyên văn...\"\nNARRATION: Câu văn kể nguyên văn (nếu có), giữ ĐÚNG thứ tự xuất hiện trong kịch bản gốc — không đảo Thoại/Narration cho \"nghe xuôi hơn\".",
+  "prompt": "Prompt video đầy đủ theo form chuẩn (→ 11-prompt-video.md)",
+  "status": "draft",
+  "vpicked": "" // App tự điền tên file video khi user chốt; luôn khai key này dù rỗng
+}
+```
+
+- **`text`**: nguyên văn dòng thoại/hành động của kịch bản mà đúng clip này bao phủ. Bắt buộc nội dung thật (không được để trống hay bịa), định dạng `SPEAKER: "..."` hoặc `NARRATION: ...`, mỗi dòng một lượt. Luật giữ đúng thứ tự và cách chia dòng dài: `1-kich-ban.md` §2.2.
+- **`sf`**: trỏ về đúng 1 `id` trong mảng `sfs` của CHÍNH scene đó — đây là ảnh neo duy nhất cho toàn bộ video (10s hoặc 6s, cả 2 shot con). Không video nào được neo vào 2 ảnh.
+- Field `picked`/`vpicked` do app tự quản lý (điền hậu kỳ khi user chốt ảnh/video) — Claude luôn khai key với giá trị `""`, không tự bịa tên file.
 
 ---
 
@@ -141,6 +167,8 @@ Sử dụng cho các shot phim thực tế (S1, S2...). Mọi tham chiếu nhân
 | Shot video thoại | `V-S<scene>-<stt>` — tức `V-<Cảnh>-<Số>` | `V-S1-01` · `V-S1-02` · `V-S1-03` · `V-S1-05` |
 | SF nhịp không thoại | `SF-S<scene>-<stt>-B<thứ_tự_nhịp>` | `SF-S1-04-B1` · `SF-S2-05-B1` |
 | Shot video nhịp | `V-S<scene>-<stt>-B<thứ_tự_nhịp>` | `V-S1-04-B1` · `V-S2-05-B1` · `V-S1-08-B2` |
+
+**Chèn shot vào board ĐÃ có media chốt** (VD tách một clip thành 2 clip 6s — `7-bang-shot.md` §5.2b): shot mới lấy mã của shot liền trước + hậu tố chữ hoa `B`, `C`… dính liền số, KHÔNG gạch nối: `SF-HOOK-03B` · `V-HOOK-03B`. Không đánh lại số các shot phía sau, vì file ảnh/video đã chốt (`assets/`, `versions/`, `videos/`, trường `picked`/`vpicked`) mang tên theo mã cũ. Hậu tố này xếp đúng sau `03` và trước `04` khi sắp xếp theo tên file. Board còn đang dựng, chưa có media → đánh số liên tiếp bình thường.
 
 ⛔ **Nhịp không thoại bắt buộc có số thứ tự shot trước rồi mới đến `B`.** Tuyệt đối không đặt dạng `V-S1-B1` thiếu số thứ tự shot, vì sẽ làm file video bị dồn xuống đáy khi sắp xếp file theo tên.
 
@@ -167,10 +195,10 @@ Thẻ Portrait  ←── refs.chars ── Thẻ Full Body  ←── refs.char
 - Người đang ở trong phòng mà nằm trong nón quan sát thì phải có ref — kể cả khi họ chỉ là vai/gáy tiền cảnh hay một dáng mờ ở lớp sau. Gạt một người đang đứng ngay đó là bắt model dựng lại căn phòng thiếu họ.
 - **Tối đa 4 nhân vật chính có ref / SF (tối đa 8 thẻ ref nhân vật).** Thẻ Master SF neo bối cảnh phụ được miễn trừ hoàn toàn khỏi trần này. Nếu >4 nhân vật chính: 1. Cắt người → 2. Tách 2 khung → 3. Ưu tiên 4 người có thoại/gần nhất, số còn lại là quần chúng mờ.
 
-### 5.2 Tái sử dụng SF — ghi vào dữ liệu thế nào
-- Shot đối thoại lặp góc (chuỗi A-B-A-B): ô `sf` của shot trỏ **trực tiếp về `id` của SF cũ** (VD: `"sf": "SF-S1-01"`).
-- **Không tạo thêm object SF trùng lặp trong mảng `sfs` của scene.**
-- *Khi nào được phép tái sử dụng*: `7-bang-shot.md` §Tái sử dụng SF.
+### 5.2 Không tái sử dụng SF — ghi vào dữ liệu thế nào
+- **Mỗi shot trỏ về một `id` SF riêng.** Trong một scene, số mã `sf` khác nhau phải **bằng đúng** số phần tử của mảng `shots`. Tuyệt đối không có hai shot cùng giá trị `sf`.
+- Mạch thoại lặp góc (chuỗi A-B-A-B) vẫn sinh SF mới cho từng lượt, đặt mã tiếp theo theo thứ tự thời gian.
+- *Luật đầy đủ và cách làm SF mới khác SF cũ*: `7-bang-shot.md` §1.1.
 
 ## 6. Nguyên lý chung của mọi thẻ REF
 1. **Tham chiếu bằng ảnh, không bằng chữ:** trực quan cần giống thì phải đính ảnh vào `refs.chars` / `refs.bg`.
@@ -195,21 +223,24 @@ Thẻ Portrait  ←── refs.chars ── Thẻ Full Body  ←── refs.char
 **Dòng kết thúc bắt buộc: Prompt của mọi Thẻ Địa Điểm (`REF_BG_*`) và mọi Start Frame (`SF-*` trong `sfs[]`, bao gồm cả Master SF và SF thường)** bắt buộc kết thúc bằng dòng `KHUNG NGANG 16:9` ở dòng cuối cùng của prompt.
 
 ## 9. Quy tắc vận hành JSON
-- **Cấm tự ý xóa key:** phần mềm đọc giao diện JSON Board sẽ bị sập (crash) nếu thiếu các key như `status`, `refs`, `chars`, `bg`. Dù giá trị rỗng hoặc null, phải giữ đúng khung mẫu bên trên.
+- **Cấm tự ý xóa key:** phần mềm đọc giao diện JSON Board sẽ bị sập (crash) hoặc hiện trống trên UI nếu thiếu các key như `status`, `refs`, `chars`, `bg`, `picked` (mọi `sfs`), `text`/`vpicked` (mọi `shots`). Dù giá trị rỗng hoặc null, phải giữ đúng khung mẫu bên trên. Riêng `text` không được để rỗng — đây là nội dung thật (nguyên văn thoại/narration), không phải field app tự điền.
 - Khi user yêu cầu "Tạo một dự án mới", in ra khung JSON chuẩn với Scene `REF` trống để user xác nhận, hoặc lưu tự động vào file `sf-board.json`.
 
 ## 10. Kiểm tra
 
 **Đếm được:**
-- [ ] Mọi thẻ/shot có `id` đúng cú pháp ở §3 — đặc biệt nhịp phải là `-B<n>` **sau** số thứ tự shot, không phải `V-S1-B1`.
+- [ ] Mọi thẻ/shot có `id` đúng cú pháp ở §3 — đặc biệt nhịp phải là `-B<n>` **sau** số thứ tự shot, không phải `V-S1-B1`; shot chèn vào board đã có media dùng hậu tố dính liền (`V-HOOK-03B`), không đánh lại số.
 - [ ] Mọi SF trong `sfs` xếp đúng thứ tự thời gian; không Master nào bị gom lên đầu.
+- [ ] Mọi `shots` xếp đúng thứ tự thời gian, khớp với thứ tự các SF mà chúng trỏ tới.
+- [ ] Số mã `sf` khác nhau **bằng đúng** số shot của scene (§5.2).
 - [ ] Mỗi SF có **≤4 nhân vật chính** và **≤8 thẻ ref nhân vật** (thẻ neo bối cảnh phụ không tính).
 - [ ] Prompt thẻ địa điểm / Master SF **≤1.400 ký tự**; SF thường **<1.000 ký tự**.
 - [ ] Mọi `REF_BG_*` và mọi `SF-*` kết thúc bằng đúng dòng `KHUNG NGANG 16:9`.
 - [ ] Mọi thẻ `_FULL` có dòng `Dùng: S… · S…` ở cuối `desc`.
-- [ ] Không thẻ nào thiếu key `status` / `refs` / `chars` / `bg`.
+- [ ] Không thẻ nào thiếu key `status` / `refs` / `chars` / `bg` / `picked`; không shot nào thiếu key `text` / `vpicked`.
+- [ ] Mọi `shot.text` có nội dung thật, đúng nguyên văn và đúng thứ tự Thoại/Narration như kịch bản gốc (không đảo thứ tự — luật đầy đủ: `1-kich-ban.md` §2.2).
 
 **Phải đọc mới thấy:**
 - [ ] Mọi SF thường trỏ `refs.bg` về đúng Master SF của cụm mình, không trỏ thẳng thẻ địa điểm.
-- [ ] Không SF nào mồ côi (không shot nào trỏ tới) và không SF nào bị sinh trùng thay vì dùng lại.
+- [ ] Không SF nào mồ côi (không shot nào trỏ tới), và không hai shot nào dùng chung một giá trị `sf` (§5.2).
 - [ ] Mọi người lọt nón quan sát đều có ref; không ai trong prompt mà vắng ở `pose`/`goc`.

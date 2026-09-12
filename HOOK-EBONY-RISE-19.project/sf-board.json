@@ -1,0 +1,413 @@
+{
+  "film": "EBONY RISE 19 — GRANT VÀ MƯỜI LĂM TÁCH CÀ PHÊ (CEO YELLED BLACK MAN TO GET COFFEE FOR THE MEETING)",
+  "kind": "phim",
+  "updated_at": "2026-09-11 16:39:53",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_GRANT_POLO_FULL",
+          "label": "★ GRANT FLETCHER — ÁO POLO XÁM NHẠT BƯỚC VÀO PHÒNG HỌP B (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. 43 tuổi, người sáng lập và chủ sở hữu duy nhất Pinnacle Equity Partners — 'The Quiet Billionaire' của Forbes — vừa mua lại Sterling & Associates hai tuần trước. Cố tình ăn mặc như một người không ai để ý (polo xám, kaki, sneaker) để xem công ty vận hành thế nào khi không ai diễn cho ông chủ xem. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, râu, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: điềm tĩnh, kiên nhẫn, đang quan sát; bị dồn nhưng không cam chịu và không hằn học — ánh mắt của người đã học cách chờ.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da đen Mỹ 43 tuổi, da nâu sẫm có kết cấu thật với lỗ chân lông nhìn rõ, gò má cao, sống mũi rộng thẳng, quai hàm gọn chắc, mắt nâu đen nhìn tỉnh, sâu và chắc, miệng khép tự nhiên KHÔNG cười. Tóc đen cắt sát đầu gọn gàng, râu quai nón tỉa rất ngắn và đều. Vóc người cao vừa, vai thẳng, thân gọn khoẻ. Áo polo cotton pique màu XÁM NHẠT, cổ bẻ phẳng, cài đủ hai cúc ở nẹp cổ, tay ngắn, vừa vặn và phẳng phiu, mặt áo trơn không logo và không chữ. Quần kaki màu be cát ống đứng còn nếp, thắt lưng da nâu bản mảnh. Giày sneaker da trắng trơn đế trắng, sạch, mặt giày trơn không logo và không chữ, nhãn hư cấu. Không đeo trang sức. Nền màu trơn be ấm nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_CARTER_SUIT_FULL",
+          "label": "★ CARTER HOLLOWAY — VEST XÁM THAN, CÀ VẠT XANH COBALT, GHIM BẠC (thẻ neo nhân dạng)",
+          "desc": "Phản diện. 56 tuổi, điều hành văn phòng Atlanta của Sterling & Associates mười hai năm, tiền cũ vùng Buckhead, hội viên câu lạc bộ đồng quê. Chính người đã ký bán công ty ở trang bốn mươi mốt mà không buồn tìm hiểu ai là người mua. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, chắc chắn tuyệt đối mình là chủ căn phòng, khinh miệt một cách lịch sự.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 56 tuổi, da sáng rám nắng nhẹ kiểu người chơi golf, có kết cấu thật với lỗ chân lông và nếp nhăn khoé mắt tự nhiên, gò má cao, sống mũi thẳng, cằm vuông, mắt xanh xám sắc, môi mỏng, miệng khép tự nhiên KHÔNG cười. Tóc nâu điểm bạc hai bên thái dương, chải hất ra sau gọn bóng, cạo râu nhẵn. Vóc người cao, vai rộng, bụng hơi đầy nhưng đứng thẳng. Bộ vest hai cúc màu XÁM THAN đậm may đo vừa vặn, phẳng phiu, cài cúc trên; sơ mi TRẮNG tinh cổ cứng; cà vạt lụa màu XANH COBALT sáng thắt nút gọn, kẹp một chiếc ghim cà vạt bạc dạng thanh ngang giữa ngực. Quần âu xám than cùng bộ, giày oxford da đen bóng. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_GUARD_A_UNIFORM_FULL",
+          "label": "★ BẢO VỆ A — ĐỒNG PHỤC AN NINH ĐEN (thẻ neo nhân dạng · neo đồng phục)",
+          "desc": "Bảo vệ toà nhà thứ nhất, 47 tuổi, được gọi lên tầng hai mươi hai để lôi Grant ra ngoài; giữ cánh tay PHẢI của Grant. Kiểu người đã làm việc này nhiều lần và sẽ còn làm: tay thạo, mặt nghề — không thù ghét, không thương xót. Thẻ neo nhân dạng + neo đồng phục cho cả nhóm bảo vệ.\nĐồng phục: SECURITY (neo)\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 47 tuổi, vóc to đậm, vai dày, cổ bạnh; da hồng hào có kết cấu thật với lỗ chân lông nhìn rõ, mặt vuông, mũi to hơi gồ, mắt nâu nhạt, miệng khép thẳng KHÔNG cười. Tóc nâu xám cắt húi cua sát đầu, cạo râu nhẵn. Đồng phục an ninh: áo sơ mi dài tay màu ĐEN có cầu vai, cài kín toàn bộ cúc, phẳng phiu; ngực trái gắn một huy hiệu kim loại bạc hình khiên trơn; ngực phải thêu chữ in hoa màu trắng rõ nét, đánh vần chính xác \"SECURITY\". Thắt lưng công vụ da đen kẹp một bộ đàm đen bên hông phải. Quần kaki đen ống đứng, giày bốt da đen buộc dây. Đồng phục của một công ty an ninh hư cấu, không logo khác. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_GUARD_B_UNIFORM_FULL",
+          "label": "★ BẢO VỆ B — ĐỒNG PHỤC AN NINH ĐEN (thẻ neo nhân dạng)",
+          "desc": "Bảo vệ toà nhà thứ hai, 33 tuổi, đi cùng Bảo vệ A; giữ cánh tay TRÁI của Grant. Làm theo lệnh, không hỏi. Thẻ neo nhân dạng riêng (mặt khác hẳn Bảo vệ A); chỉ lấy bộ đồng phục từ thẻ neo đồng phục của Bảo vệ A.\nĐồng phục: SECURITY\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Lấy ĐÚNG 100% bộ đồng phục an ninh đen của ảnh tham chiếu (áo đen cầu vai, huy hiệu bạc ngực trái, chữ thêu trắng \"SECURITY\" ngực phải, thắt lưng công vụ có bộ đàm, quần kaki đen, bốt đen) — KHÔNG lấy khuôn mặt hay vóc dáng của người trong ảnh tham chiếu. Người đàn ông gốc Latin Mỹ 33 tuổi, vóc người cao, gầy gọn, vai thẳng; da nâu sáng ô liu có kết cấu thật với lỗ chân lông nhìn rõ, mặt thon, gò má rõ, lông mày đen rậm, mắt nâu đen, miệng khép KHÔNG cười. Tóc đen cắt fade hai bên, phía trên để ngắn chải gọn, cạo râu nhẵn. Áo cài kín toàn bộ cúc, phẳng phiu. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_GUARD_A_UNIFORM_FULL"
+            ],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_LAPTOP_BAG",
+          "label": "Túi laptop da nâu sẫm, khoá đồng thau trầy xước — túi duy nhất Grant mang theo",
+          "desc": "Thứ duy nhất Grant mang vào toà nhà Sterling: không cặp, không vest, chỉ chiếc túi laptop khoá trầy. Trong Hook nó rơi xuống sàn đá khi bảo vệ tóm tay anh; cuối phim anh nhặt lại đúng chiếc túi này bước ra khỏi phòng họp — vật gieo-trả. Trạng thái ảnh gốc: túi ĐÓNG, khoá cài, như lúc Grant đeo trên vai bước vào phòng họp.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ trên chếch xuống nhẹ, không có người và không có bàn tay trong khung. Một chiếc túi đeo vai đựng laptop bằng da bò màu NÂU SẪM, dáng chữ nhật dẹt rộng cỡ một laptop mười lăm inch, khoảng bốn mươi phân, đặt nằm trên một mặt bàn gỗ sồi trơn màu sáng. Túi đang ĐÓNG: nắp da gập phủ xuống mặt trước, cài bằng MỘT khoá kim loại đồng thau ở giữa nắp. Mặt khoá TRẦY XƯỚC nhiều vết nhỏ lộ màu kim loại sáng bên dưới lớp đồng xỉn — chi tiết này phải thấy rõ nét. Da mòn nhẹ và sẫm màu ở góc và mép nắp, nhưng sạch và được lau chăm chút. Quai đeo da bản vừa gập nằm vắt trên nóc túi, khoen đồng thau cùng màu khoá. Mặt túi trơn hoàn toàn, không logo và không chữ, nhãn hư cấu. Ánh sáng studio dịu đều chếch từ trên bên trái, bóng đổ mềm ngắn dưới đáy túi, làm nổi rõ vân da và các vết xước trên khoá.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_CONFERENCE_B_DAY",
+          "label": "BỐI CẢNH — Phòng họp B tầng 22, Sterling & Associates, Atlanta (cuối buổi sáng)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — phòng họp cấp lãnh đạo nơi mười lăm giám đốc ngồi chờ cuộc họp thâu tóm, Carter chủ trì, Grant bước vào và bị bảo vệ lôi đi. Set-dressing lấy từ cả kịch bản: bàn sồi dài, ghế lưng cao, màn chiếu (sau này hiện hồ sơ SEC), bình nước thuỷ tinh, tủ thấp, vách kính nhìn ra hành lang đá cẩm thạch nơi Brooke đứng quay phim.",
+          "prompt": "Bối cảnh ở Mỹ. Phòng họp B tầng hai mươi hai của một công ty bất động sản thương mại ở trung tâm Atlanta, vừa bày xong cho cuộc họp thâu tóm cấp lãnh đạo cuối buổi sáng, chưa ai vào. Không có người trong khung hình. GIỮA PHÒNG: bàn họp dài gỗ sồi mật bóng, mười sáu ghế lưng cao bọc da đen, ghế đầu bàn phía trước để trống; trên bàn cách quãng các bình nước thuỷ tinh và ly. TRƯỚC MẶT: tường ốp gỗ óc chó treo màn chiếu điện kéo xuống đang tắt, mặt trắng trơn; ngay dưới là tủ thấp gỗ óc chó đặt một điện thoại bàn đen. BÊN TRÁI: vách kính suốt chiều dài phòng nhìn ra hành lang lát đá, một cửa kính khung thép sát đầu bàn; dọc vách kính là dải sàn đá cẩm thạch trắng vân xám bóng rộng chừng hai mét, phần còn lại trải thảm xám xanh than. BÊN PHẢI: dãy cửa sổ kính kịch trần nhìn ra các toà tháp kính Midtown Atlanta dưới nắng. SAU LƯNG: tường ốp gỗ sồi gắn hàng chữ đồng thau nổi, đánh vần chính xác \"STERLING & ASSOCIATES\" — tên công ty hư cấu. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Nắng cuối buổi sáng trắng ấm tràn từ cửa sổ bên phải, cộng đèn LED âm trần trắng trung tính chiếu đều; không u tối, không moody, không cháy trắng, tương phản trung bình, bóng đổ mềm. Gỗ sồi mật, da đen, đá trắng vân xám, kính trong. Tổng thể sáng, sạch, đắt tiền và lạnh lùng — phải KHÁC HẲN ánh sớm xanh-xám tĩnh lặng của căn hộ Manhattan ở phần sau phim.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Bị quát đi pha mười lăm tách cà phê rồi bị bảo vệ lôi khỏi phòng họp",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Carter quát từ đầu bàn, Grant đứng ngay trong cửa kính, 15 giám đốc ngồi dọc bàn",
+          "goc": "Wide establishing shot nhìn dọc thân bàn, Carter Holloway bên phải khung ở đầu bàn, Grant Fletcher bên trái khung ngay trong cửa kính, CẢ HAI RÕ MẶT, đã khoá mắt vào nhau",
+          "pose": {
+            "zone": "Cuối bàn họp → đầu bàn (màn chiếu), cửa kính phía trái",
+            "who": {
+              "CARTER": "Đứng ở đầu bàn cạnh màn chiếu, thân hướng sang trái, tay phải chỉ thẳng vào Grant, miệng há quát, mắt liếc dọc dãy ghế xem cả bàn có đang xem không",
+              "GRANT": "Đứng ngay trong cửa kính trên dải sàn đá, đã quay hẳn người đối mặt trực tiếp Carter, ánh mắt khoá chặt vào Carter, chưa hề né tránh, vai vuông, cằm ngang"
+            },
+            "dist": "Máy đặt sau ghế cuối bàn, ngang tầm mắt người đứng, cách đầu bàn khoảng chín mét",
+            "hands": {
+              "CARTER": "Tay phải chỉ thẳng về phía Grant, tay trái buông cạnh hông",
+              "GRANT": "Tay trái đặt hờ trên quai túi laptop ở vai trái, tay phải buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy đặt sau ghế cuối bàn, ngang tầm mắt người đứng, cách đầu bàn khoảng chín mét, nhìn dọc thân bàn lên phía màn chiếu. Mười lăm giám đốc nam, phần lớn da trắng, bốn mươi đến sáu mươi lăm tuổi, vest xanh navy, xám và đen, ngồi kín hai bên bàn và ghế cuối bàn (vai và gáy người ngồi ghế cuối mờ ở tiền cảnh dưới khung); ghế đầu bàn vẫn trống. Họ đã dừng hẳn việc — bút còn cầm dở, ly nước dừng giữa chừng — và xoay nửa người trong ghế, hướng mắt lên đầu bàn. Ở đầu bàn bên phải khung, Carter Holloway đứng cạnh màn chiếu và tủ thấp, tay phải chỉ thẳng vào Grant, miệng há quát, mắt liếc dọc dãy ghế như để chắc cả bàn đang xem. Bên trái khung, Grant Fletcher đứng ngay trong cửa kính trên dải sàn đá, đã quay hẳn người đối mặt Carter, mắt khoá chặt vào hắn, vai vuông, cằm ngang; túi laptop da nâu đeo vai trái, tay trái đặt hờ trên quai, tay phải buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt. Hai người cách nhau khoảng ba mét, cả hai rõ mặt. Qua vách kính sau lưng Grant là hành lang lát đá. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_CARTER_SUIT_FULL",
+              "REF_PROP_LAPTOP_BAG"
+            ],
+            "bg": "REF_BG_CONFERENCE_B_DAY"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Two-shot nghiêng ngang tele dọc thân bàn — Grant sắp nói, Carter nhìn từ giày lên mặt",
+          "goc": "Medium two-shot nghiêng ngang, Grant Fletcher bên trái khung, Carter Holloway bên phải khung, CẢ HAI RÕ MẶT 3/4 hướng vào nhau",
+          "pose": {
+            "zone": "Cuối bàn nhìn dọc thân bàn lên đầu bàn (ống tele, gần hơn hẳn Master)",
+            "who": {
+              "GRANT": "Đứng trước cửa kính trên dải sàn đá, quay hẳn người đối mặt Carter, cằm ngang, môi khép, hàm dưới hơi căng như vừa nuốt khan trước khi nói",
+              "CARTER": "Đứng thẳng cạnh màn chiếu, hai tay buông, mắt lướt từ đôi sneaker lên áo polo rồi mới tới mặt Grant, khoé miệng đã nhếch"
+            },
+            "dist": "Máy đặt ở cuối bàn ngang tầm mắt người đứng, ống tele 85mm, cách hai người khoảng tám mét",
+            "hands": {
+              "GRANT": "Tay trái đặt hờ trên quai túi laptop da nâu ở vai trái, tay phải buông tự nhiên, không nắm chặt",
+              "CARTER": "Hai tay buông hai bên, bàn tay thả lỏng"
+            }
+          },
+          "prompt": "Medium two-shot nghiêng ngang, cinematic photorealistic, máy đặt ở cuối bàn ngang tầm mắt người đứng, ống tele 85mm nhìn dọc thân bàn lên đầu bàn, gần hơn hẳn góc Master. Grant Fletcher bên trái khung trước cửa kính, trên dải sàn đá, quay hẳn người đối mặt Carter, cằm ngang, môi khép, hàm dưới hơi căng như vừa nuốt khan trước khi nói; tay trái đặt hờ trên quai túi laptop da nâu ở vai trái. Carter Holloway bên phải khung cạnh màn chiếu, đứng thẳng, hai tay buông, mắt đang lướt từ đôi sneaker lên áo polo rồi mới tới mặt Grant, khoé miệng đã nhếch. Cả hai rõ mặt, nghiêng 3/4 về phía nhau, cách chừng ba mét. Tiền cảnh hai bên mép dưới là vai và gáy bốn giám đốc ngồi gần đầu bàn, mờ nét, còn ngồi thẳng lưng, đã xoay hẳn người nhìn hai người. Hậu cảnh là màn chiếu đang tắt và tủ thấp sau lưng Carter, vách kính và hành lang sau lưng Grant.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_CARTER_SUIT_FULL",
+              "REF_PROP_LAPTOP_BAG"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Dirty single qua vai phải Grant — Carter quay sang hỏi cả bàn, tay chưa đập bàn",
+          "goc": "Medium dirty single qua vai phải Grant Fletcher (vai/gáy mờ tiền cảnh mép trái), Carter Holloway RÕ MẶT, cỡ ngang hông",
+          "pose": {
+            "zone": "Cửa kính phía đầu bàn → góc đầu bàn và dãy cửa sổ",
+            "who": {
+              "CARTER": "Đứng ở góc đầu bàn, thân vẫn hướng về Grant nhưng đầu đã xoay sang dãy ghế bên phải khung, lông mày nhướng, miệng mở như hỏi cả bàn một câu đùa",
+              "GRANT": "Quay lưng 3/4 về máy, vai phải và một phần gáy chiếm mép trái khung, mờ nét, không thấy mặt"
+            },
+            "dist": "Máy đặt ngay sau vai phải Grant cạnh cửa kính, ngang tầm mắt, cách Carter khoảng hai mét rưỡi",
+            "hands": {
+              "CARTER": "Tay phải buông, bàn tay treo ngay trên mép bàn gỗ sồi, CHƯA chạm mặt bàn; tay trái buông cạnh hông",
+              "GRANT": "Vai và gáy mờ ở tiền cảnh, không thấy tay"
+            }
+          },
+          "prompt": "Medium dirty single qua vai phải Grant, cinematic photorealistic, máy đặt ngay sau vai phải Grant cạnh cửa kính, ngang tầm mắt, cách Carter khoảng hai mét rưỡi. Vai phải áo polo xám nhạt và một phần gáy của Grant Fletcher chiếm mép trái khung, mờ ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Carter Holloway RÕ NÉT, cỡ ngang hông, đứng ở góc đầu bàn, thân vẫn hướng về Grant nhưng đầu đã xoay sang dãy ghế bên phải khung, lông mày nhướng, miệng mở như đang hỏi cả bàn một câu đùa; bàn tay phải treo ngay trên mép bàn gỗ sồi, CHƯA chạm mặt bàn. Bên phải khung, ba giám đốc gần nhất ngồi hai bên bàn, ngoài nét mềm, đã dừng việc và quay hẳn người về phía Carter: một người ngả lưng khoanh tay, hai người nhếch mép cười. Hậu cảnh sau lưng Carter là dãy cửa sổ kịch trần bên phải phòng với các toà tháp kính Midtown dưới nắng, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_CARTER_SUIT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · MCU Carter rướn qua bàn, lòng bàn tay còn áp trên mặt bàn sau cú đập",
+          "goc": "Medium close-up clean single Carter Holloway RÕ MẶT chính giữa khung, người rướn qua góc bàn, mắt nhìn ra ngoài mép trái khung về phía Grant",
+          "pose": {
+            "zone": "Góc đầu bàn, máy lệch ~35° về phía màn chiếu so với trục góc qua vai S03",
+            "who": {
+              "CARTER": "Người rướn về trước qua góc bàn, vai trái hạ, mắt nhìn chếch ra ngoài mép trái khung về phía Grant, khoé miệng nhếch một nửa, vẻ thích thú như đang thẩm định một món đồ"
+            },
+            "dist": "Máy cách Carter khoảng một mét hai, ngang tầm mắt hắn, chỉ hơi thấp hơn một chút, không tilt lên",
+            "hands": {
+              "CARTER": "Lòng bàn tay phải áp phẳng trên mặt bàn gỗ sồi ngay sau cú đập, tay trái buông"
+            }
+          },
+          "prompt": "Medium close-up, cinematic photorealistic, máy ngang tầm mắt Carter khi hắn cúi người, CHỈ HƠI THẤP hơn tầm mắt một chút — KHÔNG chếch ngược lên, không thấy hõm dưới cằm hay lỗ mũi — lệch khoảng ba mươi lăm độ về phía màn chiếu so với góc qua vai trước, cách khoảng một mét hai. Góc dưới trái khung là mép bàn gỗ sồi và một bình nước thuỷ tinh, mờ ngoài tiêu điểm, ép máy lại gần. Carter Holloway RÕ NÉT chính giữa khung, người rướn về trước, lòng bàn tay phải áp phẳng trên mặt bàn, vai trái hạ, mắt nhìn chếch ra ngoài mép trái khung về phía Grant, khoé miệng nhếch lên một nửa, vẻ thích thú như đang thẩm định một món đồ; cà vạt xanh cobalt buông thẳng, ghim bạc bắt sáng. Sau lưng hắn, hai giám đốc ngồi ngoài nét, đã quay hẳn người về phía hắn, một người cười nửa miệng. Hậu cảnh là mảng cửa sổ kịch trần ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_CARTER_SUIT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · Two-shot 3/4 từ lối đi vách kính — Grant siết hàm, Carter đứng cạnh điện thoại bàn chưa nhấc",
+          "goc": "Medium two-shot 3/4, Grant Fletcher bên trái khung (nghiêng ngang), Carter Holloway bên phải khung (3/4 chính diện) cạnh tủ thấp, CẢ HAI RÕ MẶT",
+          "pose": {
+            "zone": "Lối đi dọc vách kính phía cuối bàn → góc đầu bàn và tủ thấp dưới màn chiếu",
+            "who": {
+              "GRANT": "Đứng yên trên dải sàn đá, không bước tới, nghiêng ngang về phía Carter, quai hàm siết chặt thấy cơ gồ ở khớp hàm, mắt khoá vào Carter",
+              "CARTER": "Đã đứng thẳng lại ở đầu bàn, người xoay nửa về tủ thấp sau lưng, cằm hất, lông mày nhướng, liếc về dãy ghế"
+            },
+            "dist": "Máy trong lối đi dọc vách kính, ngang tầm mắt, chếch ~45° so với trục bàn, cách hai người khoảng bốn mét",
+            "hands": {
+              "GRANT": "Túi laptop vẫn trên vai trái, tay trái đặt hờ ở quai, tay phải buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt",
+              "CARTER": "Tay phải buông cách chiếc điện thoại bàn đen trên tủ chừng hai gang tay, CHƯA cầm lên; tay trái buông"
+            }
+          },
+          "prompt": "Medium two-shot 3/4, cinematic photorealistic, máy đặt trong lối đi dọc vách kính phía cuối bàn, ngang tầm mắt, chếch khoảng bốn mươi lăm độ so với trục bàn, cách hai người khoảng bốn mét. Grant Fletcher bên trái khung trên dải sàn đá, nghiêng ngang về phía Carter, đứng yên không bước tới, quai hàm siết chặt thấy rõ cơ gồ ở khớp hàm, mắt khoá vào Carter; túi laptop da nâu vẫn trên vai trái, tay phải buông, các ngón hơi cong, không nắm chặt. Carter Holloway bên phải khung đã đứng thẳng lại ở đầu bàn, người xoay nửa về tủ thấp sau lưng, tay phải buông cách chiếc điện thoại bàn đen trên tủ chừng hai gang tay, CHƯA cầm lên; cằm hất, lông mày nhướng, liếc về dãy ghế. Giữa hai người là khoảng trống rõ ràng. Trung cảnh bên phải là năm giám đốc ngồi dọc bàn, ngoài nét, đã dừng hẳn việc, quay hẳn người nhìn hai người. Hậu cảnh sau lưng Carter là màn chiếu đang tắt và tủ thấp gỗ óc chó.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_CARTER_SUIT_FULL",
+              "REF_PROP_LAPTOP_BAG"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Hai bảo vệ vừa vào kẹp hai bên Grant ở cửa kính, CHƯA chạm tay — Carter khoanh tay ở đầu bàn",
+          "goc": "Cinematic wide shot chéo từ phía cửa sổ, Grant Fletcher ở cửa kính giữa Bảo vệ A (bên phải Grant) và Bảo vệ B (bên trái Grant), Carter Holloway ở đầu bàn bên phải khung, CẢ BỐN RÕ MẶT",
+          "pose": {
+            "zone": "Sát dãy cửa sổ ngang giữa thân bàn → góc đầu bàn phía cửa kính",
+            "who": {
+              "GRANT": "Đứng yên ngay trong cửa kính trên dải sàn đá, mặt vẫn hướng về Carter, túi laptop còn trên vai trái nhưng quai đã tuột xuống bắp tay",
+              "BAO_VE_A": "Đứng bên phải Grant, cách vai anh chừng tám mươi phân, mặt nghề không cảm xúc, hai tay hơi nâng trước người",
+              "BAO_VE_B": "Đứng bên trái Grant, cách vai anh chừng tám mươi phân, hai tay hơi nâng trước người",
+              "CARTER": "Đứng ở đầu bàn cạnh màn chiếu và tủ thấp, hai tay khoanh trước ngực, cằm hất, đầu hơi nghiêng về dãy ghế như chia sẻ trò vui"
+            },
+            "dist": "Máy ngang tầm mắt người đứng, sát cửa sổ ngang giữa bàn, cách cửa kính khoảng tám mét",
+            "hands": {
+              "GRANT": "Tay trái đặt hờ ở quai túi đang tuột, tay phải buông, không nắm chặt",
+              "BAO_VE_A": "Hai tay hơi nâng trước người, CHƯA chạm Grant",
+              "BAO_VE_B": "Hai tay hơi nâng trước người, CHƯA chạm Grant",
+              "CARTER": "Khoanh tay trước ngực"
+            }
+          },
+          "prompt": "Cinematic wide shot, photorealistic, máy ngang tầm mắt người đứng, đặt sát dãy cửa sổ ngang giữa thân bàn, cách cửa kính khoảng tám mét, nhìn chéo về góc đầu bàn phía cửa. Grant Fletcher đứng yên ngay trong cửa kính trên dải sàn đá cẩm thạch, mặt vẫn hướng về Carter, túi laptop da nâu còn trên vai trái nhưng quai đã tuột xuống bắp tay. Hai bảo vệ đồng phục đen vừa bước vào kẹp hai bên: Bảo vệ A bên phải Grant, Bảo vệ B bên trái, mỗi người cách vai Grant chừng tám mươi phân, hai tay hơi nâng trước người, CHƯA chạm Grant — giữa họ và Grant là khoảng trống rõ ràng, không ai nắm tay ai. Carter Holloway đứng ở đầu bàn cạnh màn chiếu bên phải khung, khoanh tay, cằm hất, đầu hơi nghiêng về dãy ghế như chia sẻ trò vui. Mười lăm giám đốc ngồi hai bên bàn ở trung cảnh, đã dừng hẳn việc, quay hẳn người nhìn về cửa kính, vài người nhếch mép, một người ngả lưng khoanh tay; tiền cảnh dưới khung là tựa ghế da của hai người gần máy, mờ nét. Qua vách kính, xa xa hai nhân viên văn phòng dừng bước nhìn vào. Cả bốn người rõ mặt. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_GUARD_A_UNIFORM_FULL",
+              "REF_GUARD_B_UNIFORM_FULL",
+              "REF_CARTER_SUIT_FULL",
+              "REF_PROP_LAPTOP_BAG"
+            ],
+            "bg": "REF_BG_CONFERENCE_B_DAY"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · MCU Carter chỉnh nút cà vạt, quay sang các giám đốc, KHÔNG còn nhìn Grant — Grant và hai bảo vệ mờ lớp sau",
+          "goc": "Medium close-up Carter Holloway RÕ MẶT nửa phải khung; lớp sau trước vách kính: Grant Fletcher giữa Bảo vệ A và Bảo vệ B, cả ba nhỏ, ngoài nét",
+          "pose": {
+            "zone": "Phía cửa sổ cạnh đầu bàn → Carter, lớp sau là cửa kính",
+            "who": {
+              "CARTER": "Thân quay chếch về dãy ghế bên trái khung, không còn nhìn Grant, khoé miệng nhếch hẳn, mắt hướng về các giám đốc như chờ họ cười theo",
+              "GRANT": "Lớp sau cách chừng ba mét trước vách kính, đứng giữa hai bảo vệ, ngoài nét, mặt vẫn hướng về Carter",
+              "BAO_VE_A": "Lớp sau, đứng sát bên phải Grant, ngoài nét",
+              "BAO_VE_B": "Lớp sau, đứng sát bên trái Grant, ngoài nét"
+            },
+            "dist": "Máy cách Carter khoảng một mét rưỡi, ngang tầm mắt, chỉ hơi thấp hơn một chút, không tilt lên",
+            "hands": {
+              "CARTER": "Hai ngón tay phải kẹp nút cà vạt xanh cobalt như sắp chỉnh lại, tay trái buông",
+              "GRANT": "Lớp sau mờ, không thấy rõ tay"
+            }
+          },
+          "prompt": "Medium close-up, cinematic photorealistic, máy đặt phía cửa sổ ngay cạnh đầu bàn, ngang tầm mắt, CHỈ HƠI THẤP hơn tầm mắt Carter một chút — KHÔNG chếch ngược lên — cách hắn khoảng một mét rưỡi. Carter Holloway RÕ NÉT ở nửa phải khung, thân quay chếch về dãy ghế bên trái khung, KHÔNG còn nhìn Grant nữa; hai ngón tay phải kẹp nút cà vạt xanh cobalt như sắp chỉnh lại, ghim bạc bắt sáng, khoé miệng nhếch hẳn lên, mắt hướng về các giám đốc như chờ họ cười theo. Lớp sau ở nửa trái khung, cách chừng ba mét, trước vách kính: Grant Fletcher đứng giữa hai bảo vệ đồng phục đen đứng sát hai bên, cả ba nhỏ và ngoài nét, mặt Grant vẫn hướng về Carter; chiếc túi laptop da nâu nằm trên sàn đá dưới chân anh. Góc dưới trái khung là đỉnh tựa một ghế da đen và vai một giám đốc đang ngồi, mờ nét, quay hẳn người về phía Carter. Sau cùng, qua vách kính là hành lang lát đá ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_CARTER_SUIT_FULL",
+              "REF_GRANT_POLO_FULL",
+              "REF_GUARD_A_UNIFORM_FULL",
+              "REF_GUARD_B_UNIFORM_FULL",
+              "REF_PROP_LAPTOP_BAG"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-08",
+          "label": "[HOOK] S08 · MCU dirty single Grant qua vai trái Carter — bị kẹp giữa hai bảo vệ, mắt vẫn khoá vào Carter",
+          "goc": "Medium close-up dirty single qua vai trái Carter Holloway (vai/gáy mờ tiền cảnh mép phải), Grant Fletcher RÕ MẶT giữa khung hơi lệch trái, vai áo đen của Bảo vệ A và Bảo vệ B mờ sát hai bên vai Grant",
+          "pose": {
+            "zone": "Góc đầu bàn sau lưng Carter → cửa kính và hành lang",
+            "who": {
+              "GRANT": "Đứng giữa hai bảo vệ, mắt khoá chặt vào Carter ngay bên phải ống kính, cằm ngang, mạch máu bên cổ phập nhẹ, gương mặt sống, đang phải giữ",
+              "CARTER": "Quay lưng 3/4 về máy, vai trái và một phần gáy chiếm mép phải khung, mờ nét, không thấy mặt",
+              "BAO_VE_A": "Vai áo đen lọt khung sát bên phải vai Grant, mờ nét",
+              "BAO_VE_B": "Vai áo đen lọt khung sát bên trái vai Grant, mờ nét"
+            },
+            "dist": "Máy đặt sau vai trái Carter ở góc đầu bàn, ngang tầm mắt, cách Grant khoảng một mét tám",
+            "hands": {
+              "GRANT": "Nằm ngoài khung",
+              "BAO_VE_A": "Nằm ngoài khung",
+              "BAO_VE_B": "Nằm ngoài khung"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, máy đặt sau vai trái Carter ở góc đầu bàn, ngang tầm mắt, cách Grant khoảng một mét tám. Vai trái áo vest xám than và một phần gáy tóc điểm bạc của Carter Holloway chiếm mép phải khung, mờ ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Grant Fletcher RÕ NÉT giữa khung hơi lệch trái, cỡ ngang ngực, mắt khoá chặt vào Carter ngay bên phải ống kính, cằm ngang, mạch máu bên cổ phập nhẹ; gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Sát hai bên vai Grant, vai áo đồng phục đen của hai bảo vệ lọt vào khung, mờ nét, tay họ và tay Grant đều nằm ngoài khung. Hậu cảnh sau lưng Grant là vách kính bên trái phòng và hành lang lát đá, xa xa một nhân viên văn phòng dừng bước nhìn vào, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_POLO_FULL",
+              "REF_CARTER_SUIT_FULL",
+              "REF_GUARD_A_UNIFORM_FULL",
+              "REF_GUARD_B_UNIFORM_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "CARTER: \"Hey. Hey! You—you filthy Black guy—where do you think you're going?\"\nNARRATION: A Black man in a polo shirt walked into the conference room. Fifteen executives turned.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, standing at the head of the table beside the screen, frame right.\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, standing just inside the glass door on the marble strip, frame left. He is the ONLY man in a polo in the room.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA boardroom, fifteen executives seated. The man in the charcoal suit shouts at the man in the gray polo who has just walked in, and makes sure the whole table is watching him do it.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:05 Carter's line. 0:05–0:10 no dialogue — reserved for: \"A Black man in a polo shirt walked into the conference room. Fifteen executives turned.\"\n\nDIALOGUE ORDER:\nCARTER\n\nSHOT 1 (0:00–0:05) — WIDE ESTABLISHING SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in down the length of the table. No handheld shake.\nThe charcoal-suit man thrusts his right arm out, finger aimed at the gray-polo man, and flicks his eyes along the seated rows to be sure they are watching before he finishes.\nCARTER (charcoal suit, frame right) — loud, sharp, calling out an intruder in his own building: \"Hey. Hey! You—you filthy Black guy—where do you think you're going?\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER WIDE FAVOURING GRANT AT THE DOOR — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the glass door; Carter stays visible at frame right.\nDown both sides of the table, heads swing from the charcoal suit to the gray polo. Grant does not step back. He draws one slow breath in through his nose and holds it, chest lifted, eyes locked on Carter. No dialogue.\n\nPERFORMANCE:\nCarter performs the insult for his audience, not for Grant. Grant's restraint must read as effort, never as blankness; his face stays alive.\n\nLIP SYNC:\nOnly Carter speaks, only in Shot 1. When Carter speaks, Grant listens silently with his mouth closed. In Shot 2 no character moves their lips as if talking.\n\nAUDIO:\nShot 1: Carter's dialogue only, clear natural American English. Shot 2: faint room sound only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Carter finishes: \"where do you think you're going?\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide establishing shot, slow push-in.\nSHOT 2 = tighter wide favouring Grant, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Chairs scraped as they leaned back.\nGRANT: \"I'm here for the meeting. I was invited.\"\nNARRATION: Carter Holloway stared — then laughed.\nCARTER: \"The acquisition meeting? You?\"\nNARRATION: He glanced around the table.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, standing by the glass door, frame left. The ONLY man in a polo.\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, standing beside the screen at the head of the table, frame right.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGrant calmly says why he is here. Carter inspects him like merchandise, laughs, and hands the joke to the table.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:02 no dialogue — reserved for: \"Chairs scraped as they leaned back.\" 0:02–0:05 Grant's line. 0:05–0:07 no dialogue — reserved for: \"Carter Holloway stared — then laughed.\" 0:07–0:09 Carter's line. 0:09–0:10 no dialogue — reserved for: \"He glanced around the table.\"\n\nDIALOGUE ORDER:\nGRANT → CARTER\n\nSHOT 1 (0:00–0:05) — MEDIUM PROFILE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in along the table; blurred executive shoulders frame the lower edges.\n0:00–0:02: The foreground executives lean back in their chairs to watch. Grant swallows once, a small dry movement in his throat.\n0:02–0:05: GRANT (gray polo, frame left) — quiet, level, polite: \"I'm here for the meeting. I was invited.\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER TWO-SHOT FAVOURING CARTER — VERY SLOW PUSH-IN\nCamera: Tightens toward Carter; Grant stays at frame left.\n0:05–0:07: Carter's eyes travel down to the sneakers, up over the polo, and only last to the face. Then one short, incredulous laugh.\n0:07–0:09: CARTER (charcoal suit, frame right) — amused, theatrical, as if told a joke: \"The acquisition meeting? You?\"\n0:09–0:10: He glances along the table, inviting the executives in. Grant presses his lips together for one beat, eyes still on Carter.\n\nPERFORMANCE:\nCarter inspects Grant like merchandise; the laugh is for the room. Grant stays courteous — restraint, not blankness.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. When Grant speaks, Carter's mouth stays closed; when Carter speaks, Grant's mouth stays closed.\n\nAUDIO:\nDialogue: clear natural American English. Silent windows: chair creaks, Carter's laugh, faint room sound — clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Grant finishes: \"I was invited.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium profile two-shot, slow push-in.\nSHOT 2 = tighter two-shot on Carter, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "CARTER: \"Anyone invite this guy?\"\nNARRATION: Heads shook. Smirks everywhere.\nCARTER: \"People like you don't belong here. Never will.\"\nGRANT: \"I have every right to—\"\nCARTER: \"Right?\"\nNARRATION: Carter slammed the table.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, facing camera at the head of the table.\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, seen only as a blurred right shoulder and back of the head at frame left, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nCarter polls the table for laughs, tells Grant he doesn't belong, cuts him off, and slams the table.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:02 Carter's question. 0:02–0:03 no dialogue — reserved for: \"Heads shook. Smirks everywhere.\" 0:03–0:06 Carter's line. 0:06–0:08 Grant's line, back to camera. 0:08–0:09 Carter's one word. 0:09–0:10 no dialogue — reserved for: \"Carter slammed the table.\"\n\nDIALOGUE ORDER:\nCARTER → GRANT → CARTER\n\nSHOT 1 (0:00–0:06) — MEDIUM DIRTY SINGLE ON CARTER OVER GRANT'S SHOULDER — SLOW PUSH-IN\nCamera: Very slow push-in; Grant's blurred shoulder holds the left edge.\n0:00–0:02: Carter turns to the seated executives at frame right, eyebrows up, like a host asking the dinner table. CARTER (charcoal suit) — warm, theatrical: \"Anyone invite this guy?\"\n0:02–0:03: Heads shake along the table; smirks spread.\n0:03–0:06: He turns back to Grant, still smiling. CARTER — light, almost pleasant: \"People like you don't belong here. Never will.\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER DIRTY SINGLE ON CARTER — VERY SLOW PUSH-IN\n0:06–0:08: GRANT (gray polo, foreground, head never turns) — level: \"I have every right to—\" While he speaks, Carter's mouth stays shut, jaw set.\n0:08–0:09: Carter cuts across him, the smile gone. CARTER: \"Right?\"\n0:09–0:10: His right palm comes down flat and hard on the oak table. The water glasses jump. The executives do not flinch.\n\nPERFORMANCE:\nCarter plays to his audience; the slam is a show of ownership.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Grant's face is never seen; while he speaks, Carter's lips stay closed.\n\nAUDIO:\nDialogue in clear natural American English, plus one palm slam on the table. Silent windows: faint room sound, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Carter finishes: \"Never will.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Carter, slow push-in.\nSHOT 2 = tighter on Carter, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "CARTER: \"The only right you have is to be useful. Get coffee for the meeting. Fifteen cups. That's the job for people like you — serving people like us.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, leaning over the corner of the table, palm flat on the oak, facing camera. The man he addresses stands just off frame left.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nCarter hands down Grant's \"place\" in an easy, pleasant voice, the way a host assigns seats, then turns the last half of it into a gift for his executives.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:05 Carter's first half. 0:05–0:10 Carter's second half, then a short silent hold.\n\nDIALOGUE ORDER:\nCARTER\n\nSHOT 1 (0:00–0:05) — MEDIUM CLOSE-UP ON CARTER, EYE LEVEL, NO UPWARD TILT — SLOW PUSH-IN\nCamera: Very slow push-in. Lens stays level, just under his eye line; never tilts up.\nPalm still flat on the table from the slam, he leans in toward the man just off frame left, head tilted a few degrees as if pricing him.\nCARTER (charcoal suit) — soft, pleasant, almost kind: \"The only right you have is to be useful. Get coffee for the meeting.\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER MEDIUM CLOSE-UP ON CARTER — SUBTLE LATERAL DRIFT\nCamera: Very slight lateral drift; face stays the focus.\nHe straightens a few inches and turns his head to the seated executives, his open palm sweeping toward the table on the final words, throwing the line to them, not to Grant. A small satisfied nod.\nCARTER — easy, generous, as if handing out a gift: \"Fifteen cups. That's the job for people like you — serving people like us.\"\nThe two executives behind him smile back.\n\nPERFORMANCE:\nThe cruelty is delivered pleasantly, never shouted; the audience must see he considers this nothing. The executives stay soft and seated.\n\nLIP SYNC:\nOnly Carter speaks. The background executives never move their lips as if talking. During pauses, his mouth stays closed.\n\nAUDIO:\nCarter's dialogue only, clear natural American English. Faint room sound. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Carter finishes: \"Get coffee for the meeting.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Carter, level lens, slow push-in.\nSHOT 2 = tighter medium close-up on Carter, subtle lateral drift.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "NARRATION: Silence. Fifteen men watching.\nNARRATION: Grant Fletcher gritted his teeth.\nGRANT: \"I'm not going anywhere.\"\nNARRATION: Carter picked up the phone.\nCARTER: \"Security. Now.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, standing on the marble strip, frame left. The ONLY man in a polo.\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, at the head of the table beside the low credenza with a black desk phone, frame right.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe room goes silent. The gray-polo man refuses to leave. The charcoal-suit man calls security as casually as ordering room service.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:03 no dialogue — reserved for: \"Silence. Fifteen men watching.\" and \"Grant Fletcher gritted his teeth.\" 0:03–0:05 Grant's line. 0:05–0:07 no dialogue — reserved for: \"Carter picked up the phone.\" 0:07–0:09 Carter's line. 0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nGRANT → CARTER\n\nSHOT 1 (0:00–0:05) — MEDIUM 3/4 TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in toward Grant.\n0:00–0:03: Nobody at the table moves. Grant's jaw clamps, the muscle standing out at the hinge; his nostrils flare once as he holds the breath down.\n0:03–0:05: GRANT (gray polo, frame left) — low, steady, final: \"I'm not going anywhere.\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER TWO-SHOT FAVOURING CARTER — VERY SLOW PUSH-IN\nCamera: Tightens toward Carter; Grant stays at frame left.\n0:05–0:07: Without hurry, Carter lifts the receiver of the black desk phone from the credenza, eyebrows raised at the table as if to say: you see?\n0:07–0:09: CARTER (charcoal suit, frame right) — flat, bored, an errand: \"Security. Now.\"\n0:09–0:10: Receiver at his ear, he looks back at Grant with a faint smile.\n\nPERFORMANCE:\nGrant's refusal costs him visible effort, never blankness. Carter is enjoying how little effort this takes.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Grant speaks, Carter listens with his mouth closed. When Carter speaks, Grant listens with his mouth closed.\n\nAUDIO:\nDialogue windows: character dialogue only, clear natural American English. Silent windows: faint room sound — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Grant finishes: \"I'm not going anywhere.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium 3/4 two-shot, slow push-in.\nSHOT 2 = tighter two-shot favouring Carter, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Two guards grabbed his arms. His laptop bag hit marble. Not one face showed sympathy.\nNARRATION: What happened next changed everything.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, just inside the glass door. The ONLY man in a polo.\nGUARD A — 47-year-old heavyset white man, wearing a BLACK security uniform, at Grant's right.\nGUARD B — 33-year-old lean Latino man, wearing a BLACK security uniform, at Grant's left.\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, arms folded at the head of the table, frame right.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe two BLACK-uniformed guards grip the arms of the LIGHT-GRAY-polo man. ONE WAY ONLY, never reversed: black uniforms grip, the gray polo is gripped. He does not resist. His brown leather bag drops to the marble. Nobody at the table shows sympathy.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:04 no dialogue — reserved for: \"Two guards grabbed his arms. His laptop bag hit marble.\" 0:04–0:10 no dialogue — reserved for: \"Not one face showed sympathy. What happened next changed everything.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — WIDE SHOT — SLOW PUSH-IN\nCamera: Very slow push-in toward the glass door.\nThe two black-uniformed guards each close a hand around one upper arm of the gray-polo man. Only the guards' hands move; the gray-polo man never grips back and his hands never rise against them. The bag strap slides down his left arm; his left fingers close on it for an instant, then open on purpose; the brown bag drops flat onto the marble.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER WIDE TOWARD CARTER — VERY SLOW PUSH-IN\nCamera: Slow push-in; the group at the door stays in frame.\nDown the table nobody moves to help. One executive leans back and folds his arms; another smirks at his neighbour. Carter, arms still folded, turns his head to the table and back, sharing it with them, one mouth corner lifting. Held between the black uniforms, Grant keeps his eyes on Carter.\n\nPERFORMANCE:\nThe guards are routine, not angry. Grant's stillness is a choice, not defeat.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking.\n\nAUDIO:\nNo dialogue. Only the soft thud of the bag on marble and faint room sound, clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant the bag lands on the marble.\n\nCAMERA SUMMARY:\nSHOT 1 = wide, slow push-in.\nSHOT 2 = tighter wide toward Carter, very slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Have you ever watched a powerful man's arrogance collapse in real time —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nCARTER — 56-year-old white man, wearing a CHARCOAL suit with a bright COBALT-BLUE tie, medium close-up in the right half of frame, sharp.\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, far background before the glass wall, small, out of focus, completely still like a statue.\nGUARD A and GUARD B — two men in BLACK security uniforms flanking Grant in the far background, out of focus, completely still like statues.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nIn his own mind Carter has already won. He stops looking at Grant and turns to his executives to collect the applause.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:05 no dialogue — reserved for: \"Have you ever watched a powerful man's arrogance collapse in real time —\" 0:05–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM CLOSE-UP ON CARTER, EYE LEVEL, NO UPWARD TILT — SLOW PUSH-IN\nCamera: Very slow push-in; lens level, just under his eye line.\nWith two fingers he tugs the knot of his cobalt tie snug and runs his thumb down over the silver pin, chin lifting. His eyes go to the executives at frame left, checking they are watching.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — CLOSE-UP ON CARTER — VERY SLOW PUSH-IN\nCamera: Very slow push-in; background stays soft.\nA short breath of a laugh through his nose. He gives the table a small nod, like a man who has just closed a deal, and does not look back toward the door at all. The figures in the background stay blurred and unmoving.\n\nPERFORMANCE:\nPeak arrogance, performed for the room; nothing cracks yet. Background figures never sharpen or become the subject.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking.\n\nAUDIO:\nNo dialogue. Faint room sound only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, just after his eyes settle on the executives.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Carter, level lens, slow push-in.\nSHOT 2 = close-up on Carter, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-08",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, so drop a comment, hit that like, and let me take you back to where it all started.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 43-year-old Black man, wearing a LIGHT GRAY polo, medium close-up at frame centre, sharp, held between two guards.\nCARTER — 56-year-old white man, wearing a CHARCOAL suit, seen only as a blurred left shoulder and back of the head at frame right, blurred in foreground, completely still like a statue, face never visible.\nGUARD A and GUARD B — BLACK security uniforms, only their shoulders visible close beside Grant's shoulders, blurred, completely still like statues.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nHeld between two guards, Grant looks at the man who just had him thrown out. Not anger. Measurement. He is not beaten; he is waiting.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:08 no dialogue — reserved for: \"because you are about to, so drop a comment, hit that like, and let me take you back to where it all started.\" 0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM CLOSE-UP DIRTY SINGLE ON GRANT OVER CARTER'S SHOULDER — SLOW PUSH-IN\nCamera: Very slow push-in. Carter's blurred shoulder holds the right edge and never moves.\nGrant's eyes stay locked on Carter just right of the lens. A pulse beats at the side of his neck. He lets a long breath out, slowly.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — CLOSE-UP ON GRANT — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward his eyes.\nHis eyes close for one beat, then open again, steadier, still on Carter. The corners of his mouth settle — not a smile, a decision.\n\nPERFORMANCE:\nRestraint, not blankness: the audience must see what it costs him to stay this calm, and sense he has not even started. The face must never go slack or empty.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking.\n\nAUDIO:\nNo dialogue. Faint room sound only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, just after his long exhale ends.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up dirty single on Grant, slow push-in.\nSHOT 2 = close-up on Grant, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        }
+      ]
+    }
+  ]
+}

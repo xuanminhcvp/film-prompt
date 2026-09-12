@@ -1,0 +1,585 @@
+{
+  "film": "AUDREY — CÔ DÂU LÀ THƯỢNG NGHỊ SĨ",
+  "kind": "phim",
+  "updated_at": "2026-09-09 16:25:12",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_AUDREY_PORTRAIT",
+          "label": "★ AUDREY BENNETT (đã chốt — ảnh user dán)",
+          "desc": "Cô dâu, khoảng 36 tuổi. Nữ chính, chủ nhà — sau này lộ ra là Thượng nghị sĩ Mỹ đại diện bang Virginia. Mặt phải đọc ra: điềm tĩnh, kiên định, không dễ bị khiêu khích, quen đứng trước áp lực.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI là góc CHÍNH DIỆN nhìn thẳng vào ống kính; nửa PHẢI là góc NGANG (profile 90 độ) nhìn về phía bên phải khung hình. Cùng một khuôn mặt. Nền màu trơn be nhạt. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Cả hai nửa chỉ lấy NGANG CỔ TRỞ LÊN, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Không chữ, không khung viền, không đường kẻ chia giữa hai nửa. Nhân vật: phụ nữ Mỹ gốc Phi khoảng 36 tuổi, da nâu sẫm ấm, tóc đen tự nhiên búi gọn cao để lộ cổ và tai, gò má cao, sống mũi thẳng, ánh nhìn tỉnh táo và chắc chắn, thần thái điềm tĩnh của người quen đứng trước áp lực, gương mặt ưa nhìn, khoẻ mạnh, không hốc hác.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_AUDREY_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_AUDREY_WEDDING_FULL",
+          "label": "AUDREY BENNETT — ÁO CƯỚI REN NGÀ",
+          "desc": "Trang phục cưới, xuất hiện xuyên suốt toàn bộ Hook — khuyên tai ngọc trai giọt theo đúng kịch bản gốc.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Gương mặt giống ảnh portrait tham chiếu, không tả lại ngũ quan. Áo cưới ren ngà (ivory lace) ôm nhẹ phần thân trên, tay áo ren dài qua khuỷu tay, chân váy ren xoè nhẹ chấm sàn, hoa văn ren tinh xảo, cổ áo kín đáo không hở ngực. Khuyên tai ngọc trai nhỏ dạng giọt (pearl-drop) ở cả hai bên tai — không đeo thêm trang sức nào khác. Tóc búi cao gọn như ảnh portrait, không đội voan che mặt. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng đều dịu từ hai bên, không đổ bóng gắt lên vải ren để nhìn rõ hoa văn thêu.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_AUDREY_WEDDING_FULL_v1.png"
+        },
+        {
+          "id": "REF_MEREDITH_PORTRAIT",
+          "label": "★ MEREDITH COLLIER (đã chốt — ảnh user dán)",
+          "desc": "Hàng xóm da trắng, khoảng 58 tuổi. Nữ phản diện, sống đối diện nhà Audrey 22 năm. Mặt phải đọc ra: cay nghiệt, tự mãn, khinh miệt kìm nén, tin chắc vào vị thế của mình.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI là góc CHÍNH DIỆN nhìn thẳng vào ống kính; nửa PHẢI là góc NGANG (profile 90 độ) nhìn về phía bên phải khung hình. Cùng một khuôn mặt. Nền màu trơn be nhạt. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Cả hai nửa chỉ lấy NGANG CỔ TRỞ LÊN, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Không chữ, không khung viền, không đường kẻ chia giữa hai nửa. Nhân vật: phụ nữ da trắng khoảng 58 tuổi, tóc vàng nhạt pha bạc cắt ngắn ngang vai được chải chỉnh tề, gò má hơi hóp, nếp nhăn khoé mắt và khoé miệng tự nhiên theo tuổi tác, ánh nhìn sắc và lạnh, thần thái người phụ nữ trung lưu tự tin thái quá về vị thế xã hội của mình, gương mặt khoẻ mạnh, không tự ý thêm khiếm khuyết ngoài kịch bản.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_MEREDITH_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_MEREDITH_CONFRONT_FULL",
+          "label": "MEREDITH COLLIER — TRANG PHỤC XÔNG VÀO TIỆC CƯỚI",
+          "desc": "Trang phục lúc băng qua đường sang đối chất tại tiệc cưới — đúng theo mô tả kịch bản gốc.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân. Gương mặt giống ảnh portrait tham chiếu, không tả lại ngũ quan. Quần vải linen màu be được ủi phẳng phiu, áo sơ mi lụa màu kem cài kín cúc, tổng thể gọn gàng tinh tươm kiểu trung lưu ngoại ô, được giặt ủi cẩn thận. Khuyên tai ngọc trai nhỏ dạng tròn ở cả hai bên tai — trang sức duy nhất. Giày lười da màu be nhạt. Dáng đứng ưỡn cằm lên, vai hơi ưỡn ra sau, hai tay nắm nhẹ hai bên, thần thái hung hăng chủ động gây sự. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng đều dịu từ hai bên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_MEREDITH_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_MEREDITH_CONFRONT_FULL_v1.png"
+        },
+        {
+          "id": "REF_BG_BACKYARD_RECEPTION_DAY",
+          "label": "BỐI CẢNH — Sân sau tiệc cưới, 14 Briarcliff Drive (ban ngày)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — sân sau nhà Audrey, nơi diễn ra toàn bộ tiệc cưới và cuộc đối đầu.",
+          "prompt": "Bối cảnh ở Mỹ. Sân sau rộng đã dựng trọn cho tiệc cưới ngoài trời, giữa buổi chiều muộn tháng Sáu, lễ đã xong, đang là tiệc đứng. Cỏ cắt tỉa gọn, tường đá phủ dây thường xuân bao ba phía. TRƯỚC MẶT là mái vòm cưới phủ hoa nhài trắng, hai bên là hàng ghế gấp trắng xếp nửa vầng trăng đã trống người. TRÁI là dãy bàn tiệc phủ khăn trắng bày khay bạc và bánh cưới ba tầng, sát đó là bàn tráng miệng riêng còn vài ly champagne dang dở. PHẢI là ban nhạc jazz mộc (trumpet, contrabass, piano, trống) trên bục gỗ thấp, sau lưng ban nhạc là hàng bụi boxwood xén vuông. SAU LƯNG, đối diện mái vòm, là cổng gỗ sơn trắng rộng mở dẫn ra lối xe trước nhà — lối duy nhất vào sân, hai trụ đá cùng chất liệu tường bao; xa hơn ngoài cổng thấy một phần lối xe rải sỏi và mép hàng bụi hồng phía đông. Khoảng 150 khách mời, chủ yếu người Mỹ gốc Phi, phụ nữ đội mũ vành rộng và mặc váy lụa, đàn ông mặc suit may đo, đứng rải rác trò chuyện trên cỏ, ly champagne trên tay. Photorealistic, điện ảnh nhưng hiện thực, ống kính 35mm, nắng chiều muộn vàng ấm chiếu xiên, đổ bóng dài mềm, không cháy trắng, không u tối. Tường đá xám ấm, khăn bàn trắng tinh, hoa hồng trắng và hoa nhài làm điểm nhấn tươi sáng. Tổng thể ấm áp, sang trọng, rộn ràng — khác hẳn căng thẳng sắp ập tới. Không có đạo cụ di động ngoài vật cố định của bàn tiệc.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_BACKYARD_RECEPTION_DAY_v1.png"
+        },
+        {
+          "id": "REF_DESMOND_PORTRAIT",
+          "label": "★ DESMOND ELLIS (chồng chưa cưới của Audrey)",
+          "desc": "Chồng chưa cưới của Audrey, khoảng 38 tuổi. Bác sĩ phẫu thuật, cựu quân nhân từng phục vụ tại Afghanistan. Mặt phải đọc ra: điềm tĩnh, vững chãi, ấm áp, luôn đứng cạnh bảo vệ mà không cần lấn át.",
+          "prompt": "Ảnh chân dung tham chiếu nhân vật, photorealistic, chất điện ảnh, KHUNG NGANG 16:9, da có kết cấu thật với lỗ chân lông nhìn rõ, nét căng. MỘT ẢNH DUY NHẤT chia hai nửa, CÙNG MỘT NGƯỜI: nửa TRÁI là góc CHÍNH DIỆN nhìn thẳng vào ống kính; nửa PHẢI là góc NGANG (profile 90 độ) nhìn về phía bên phải khung hình. Cùng một khuôn mặt. Nền màu trơn be nhạt. Ánh sáng studio dịu, đều trên mặt, KHÔNG mảng tối gắt. Cả hai nửa chỉ lấy NGANG CỔ TRỞ LÊN, không lấy thân/ quần áo. Miệng khép tự nhiên, KHÔNG cười. Không chữ, không khung viền, không đường kẻ chia giữa hai nửa. Nhân vật: người đàn ông Mỹ gốc Phi khoảng 38 tuổi, da nâu sẫm, tóc đen cắt ngắn gọn gàng kiểu nhà binh, quai hàm vuông, ánh nhìn điềm tĩnh và ấm áp, thần thái vững chãi của người từng trải chiến trường rồi trở thành bác sĩ, gương mặt ưa nhìn, khoẻ mạnh, không hốc hác.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_DESMOND_PORTRAIT_v1.png"
+        },
+        {
+          "id": "REF_DESMOND_MOVEIN_FULL",
+          "label": "DESMOND ELLIS — TRANG PHỤC NGÀY NHẬN NHÀ (8 tháng trước đám cưới)",
+          "desc": "Trang phục ngày ký nhận nhà 14 Briarcliff Drive, tám tháng trước đám cưới.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Gương mặt giống ảnh portrait tham chiếu, không tả lại ngũ quan. Áo polo màu xanh navy trơn, quần kaki màu be được ủi phẳng, giày thể thao da màu nâu sạch sẽ, tổng thể gọn gàng phong cách cuối tuần thoải mái nhưng chỉn chu. Đồng hồ thể thao dây da nâu ở cổ tay trái, không đeo trang sức nào khác. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng đều dịu từ hai bên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_DESMOND_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_DESMOND_MOVEIN_FULL_v1.png"
+        },
+        {
+          "id": "REF_AUDREY_MOVEIN_FULL",
+          "label": "AUDREY BENNETT — TRANG PHỤC NGÀY NHẬN NHÀ (8 tháng trước đám cưới)",
+          "desc": "Trang phục ngày ký nhận nhà 14 Briarcliff Drive, tám tháng trước đám cưới — khuyên tai ngọc trai giọt giữ nguyên làm dấu riêng.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên. Gương mặt giống ảnh portrait tham chiếu, không tả lại ngũ quan. Áo sơ mi lụa màu kem cài kín cúc, quần âu ống suông màu be nhạt, giày lười da màu nâu nhạt, tổng thể thanh lịch nhưng thoải mái kiểu ngày ký hợp đồng nhà. Khuyên tai ngọc trai nhỏ dạng giọt như ảnh cưới, đồng hồ mặt tròn dây da mỏng ở cổ tay trái — hai trang sức duy nhất. Tóc búi gọn như ảnh portrait. Nền trơn xám nhạt kiểu phòng chụp, ánh sáng đều dịu từ hai bên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT"
+            ],
+            "bg": null
+          },
+          "picked": "REF_AUDREY_MOVEIN_FULL_v1.png"
+        },
+        {
+          "id": "REF_BG_HOUSE_EXTERIOR_DAY",
+          "label": "BỐI CẢNH — Mặt tiền 14 Briarcliff Drive (ban ngày)",
+          "desc": "Bối cảnh gốc thứ hai của Hook — mặt tiền dinh thự và con đường Briarcliff Estates, dùng cho đoạn backstory ngôi nhà.",
+          "prompt": "Bối cảnh ở Mỹ. Mặt tiền một dinh thự phong cách Georgian phục dựng, đứng trên khu đất ba mẫu chăm chút kỹ lưỡng, cỏ cắt tỉa phẳng mịn. TRƯỚC MẶT là ngôi nhà đá hai tầng đối xứng, tường đá xám ấm phủ dây thường xuân leo kín một phần, mái ngói dốc sẫm màu, cửa chính gỗ sơn trắng ở giữa có mái hiên nhỏ đón vào. TRÁI là hàng cây boxwood xén vuông vức chạy dọc lối đi bộ dẫn ra cổng. PHẢI, dọc theo cạnh đông khu đất, là vườn hồng đang nở rộ được chăm sóc kỹ, hàng rào thấp gỗ sơn trắng bao quanh luống hồng. SAU LƯNG (nhìn từ nhà ra) là con đường rợp bóng cây cổ thụ hai bên, mặt đường nhựa sạch, vài chiếc sedan và SUV đời mới đỗ gọn trong lối xe riêng của các dinh thự lân cận, thấp thoáng mái vài biệt thự khác cùng phong cách sang trọng dọc phố. Không có người trong khung hình. Photorealistic, điện ảnh nhưng hiện thực, ống kính 35mm, nắng ban ngày dịu đều, bầu trời xanh nhạt ít mây, bóng đổ mềm dưới tán cây, không cháy trắng, không u tối. Tường đá xám ấm, dây thường xuân xanh đậm, mái ngói nâu sẫm, cỏ xanh mướt. Tổng thể sang trọng, yên tĩnh, ổn định — khác hẳn không khí rộn ràng của tiệc cưới sau nhà.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_HOUSE_EXTERIOR_DAY_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Cô dâu bị hàng xóm gọi 911 giữa tiệc cưới",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Meredith xông vào giữa tiệc, đối đầu Audrey ở bàn tráng miệng",
+          "goc": "Wide establishing, Meredith trái khung đang bước tới, Audrey giữa/phải đã quay hẳn người đối mặt trực tiếp, CẢ HAI KHOÁ ÁNH MẮT VÀO NHAU, RÕ MẶT CẢ HAI",
+          "pose": {
+            "zone": "Bàn tráng miệng, giữa sân tiệc",
+            "who": {
+              "MEREDITH": "Đang bước nhanh về phía Audrey, mặt cau có, tay phải đã rút điện thoại cầm sẵn",
+              "AUDREY": "Đứng cạnh bàn tráng miệng, tay phải cầm ly champagne, đã quay hẳn người đối mặt trực tiếp với Meredith, ánh mắt khoá chặt vào Meredith, chưa hề né tránh"
+            },
+            "dist": "Máy quay cách khoảng 6 mét, bao trọn khoảng sân giữa hai người",
+            "hands": {
+              "MEREDITH": "Tay phải đã cầm điện thoại, tay trái buông thẳng",
+              "AUDREY": "Tay phải cầm ly champagne ngang ngực, tay trái buông tự nhiên"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy quay ngang tầm mắt cách khoảng sáu mét. Meredith Collier bước nhanh vào khung từ bên trái, mặt cau có đầy khinh miệt, tay phải đã cầm sẵn điện thoại, sải chân dứt khoát cắt ngang đám khách mời đang đứng trò chuyện. Audrey Bennett đứng ở giữa khung cạnh bàn tráng miệng, tay phải cầm ly champagne ngang ngực, đã quay hẳn người đối mặt trực tiếp với Meredith đang tiến lại, ánh mắt khoá chặt vào Meredith, cằm giữ thẳng, không né tránh. Khách mời phía sau hai người đứng thành từng nhóm rải rác, một vài người gần nhất đã ngừng trò chuyện, quay đầu nhìn về phía Meredith. Ban nhạc jazz phía xa bên phải vẫn đang chơi. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "REF_BG_BACKYARD_RECEPTION_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v4.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Medium Two-Shot, Audrey và Meredith đối diện nhau ở bàn tráng miệng",
+          "goc": "Medium Two-Shot, Audrey trái khung và Meredith phải khung, CẢ HAI RÕ MẶT, đối diện nhau ngang tầm mắt",
+          "pose": {
+            "zone": "Bàn tráng miệng, giữa sân tiệc",
+            "who": {
+              "AUDREY": "Đứng thẳng bên trái khung, vừa đặt ly champagne xuống bàn, nhìn thẳng vào mắt Meredith",
+              "MEREDITH": "Đứng đối diện bên phải khung, cách khoảng 1.2 mét, RÕ MẶT, ánh mắt gay gắt nhìn lại, tay phải đã cầm sẵn điện thoại buông xuôi theo hông"
+            },
+            "dist": "Máy quay cách cả hai khoảng 2.5 mét, ngang tầm mắt, đặt giữa hai người",
+            "hands": {
+              "AUDREY": "Tay phải vừa đặt ly champagne xuống mặt bàn, tay trái buông thẳng",
+              "MEREDITH": "Tay phải đã cầm sẵn điện thoại, buông xuôi dọc hông, chưa giơ lên; tay trái buông thẳng"
+            }
+          },
+          "prompt": "Medium Two-Shot, cinematic photorealistic, máy quay ngang tầm mắt đặt giữa hai người, cách khoảng 2.5 mét. Audrey Bennett đứng bên trái khung, vừa đặt ly champagne xuống mặt bàn tráng miệng, ánh mắt điềm tĩnh nhìn thẳng sang Meredith, cằm không hạ xuống. Meredith Collier đứng đối diện bên phải khung, cách khoảng 1.2 mét, RÕ MẶT, ánh mắt gay gắt nhìn lại, tay phải đã cầm sẵn điện thoại buông xuôi dọc hông, dáng đứng căng thẳng. Cả hai đều rõ nét, khoảng trống rõ ràng giữa hai người. Phía sau là một phần bàn tiệc; vài khách mời gần nhất đã ngừng trò chuyện, đứng yên quay đầu nhìn về phía hai người, ngoài nét, không nhìn camera. Ánh sáng chiều muộn vàng ấm chiếu đều lên cả hai mặt.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v4.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · OTS qua vai Audrey, cận Meredith giơ điện thoại đe doạ",
+          "goc": "OTS qua vai Audrey (vai/gáy phải tiền cảnh mờ), Meredith RÕ MẶT ở giữa khung",
+          "pose": {
+            "zone": "Bàn tráng miệng, giữa sân tiệc",
+            "who": {
+              "MEREDITH": "Đứng đối diện, giơ điện thoại lên ngang vai, vẻ mặt thách thức",
+              "AUDREY": "Đứng quay lưng 3/4, vai phải chiếm góc dưới phải khung, mờ nét"
+            },
+            "dist": "Máy quay cách Meredith khoảng 2 mét, qua vai Audrey phía trước ống kính",
+            "hands": {
+              "MEREDITH": "Tay phải giơ điện thoại lên ngang vai, màn hình quay ra ngoài, tay trái chống hông",
+              "AUDREY": "Vai và một phần gáy mờ ở tiền cảnh, không thấy rõ tay"
+            }
+          },
+          "prompt": "OTS qua vai Audrey Bennett, vai phải và một phần gáy của Audrey chiếm góc dưới phải khung, mờ nét ngoài tiêu điểm. Meredith Collier RÕ NÉT ở giữa khung, tay phải giơ điện thoại lên ngang vai như đang thách thức, tay trái chống hông, khoé miệng nhếch lên đầy khiêu khích. Phía sau Meredith là một phần sân cỏ và vài khách mời đứng sững lại nhìn về phía hai người, ngoài nét. Ánh sáng chiều muộn vàng ấm chiếu lên một bên mặt Meredith, làm rõ nét cau có.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v2.png"
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · Medium Wide, Meredith gọi 911 rồi cười khiêu khích, Audrey rõ nét phía sau",
+          "goc": "Medium Wide, Meredith RÕ MẶT giữa khung đang gọi điện, Audrey RÕ NÉT đứng phía sau lệch trái, CẢ HAI TRONG KHUNG",
+          "pose": {
+            "zone": "Bàn tráng miệng, giữa sân tiệc",
+            "who": {
+              "MEREDITH": "Đứng giữa khung, điện thoại áp sát tai phải, tay trái chống hông, ánh mắt nhìn về phía Audrey",
+              "AUDREY": "Đứng cách khoảng 2 mét phía sau lệch trái, dáng thẳng bất động, hai tay buông tự nhiên"
+            },
+            "dist": "Máy quay lùi ra khoảng 4 mét, thấy từ đùi trở lên của cả hai",
+            "hands": {
+              "MEREDITH": "Tay phải áp điện thoại vào tai, tay trái chống hông",
+              "AUDREY": "Hai tay buông thẳng hai bên, bất động"
+            }
+          },
+          "prompt": "Medium Wide Shot, cinematic photorealistic, máy quay lùi ra khoảng 4 mét, thấy từ đùi trở lên. Meredith Collier đứng giữa khung, điện thoại áp sát tai phải, tay trái chống hông, ánh mắt sắc lạnh nhìn về phía Audrey. Audrey Bennett đứng cách đó khoảng hai mét, phía sau lệch trái khung, RÕ NÉT dù nhỏ hơn trong khung, dáng đứng thẳng bất động, hai tay buông tự nhiên, không có vẻ sợ hãi. Một phần bàn tráng miệng phía xa hai bên; vài khách mời đứng sững lại, quay đầu dõi theo Meredith đang gọi điện, ngoài nét, không nhìn camera. Ánh sáng chiều muộn vàng ấm chiếu đều lên cả hai, da mặt Meredith có kết cấu thật, nếp nhăn khoé mắt hằn rõ khi bà ta khẽ nhếch một nụ cười lạnh.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_WEDDING_FULL",
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-04_v3.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Sáu cảnh sát tràn qua cổng vào sân sau",
+          "goc": "Wide, cổng chính giữa khung, Meredith RÕ MẶT tiền cảnh phải",
+          "pose": {
+            "zone": "Cổng chính dẫn vào sân sau",
+            "who": {
+              "MEREDITH": "Đứng gần cổng, tay phải vẫn cầm điện thoại, vẻ mặt còn đắc thắng nhưng ánh mắt bắt đầu dao động"
+            },
+            "dist": "Máy quay đặt giữa sân, cách cổng khoảng 8 mét, bao trọn cổng và một phần sân",
+            "hands": {
+              "MEREDITH": "Tay phải vẫn cầm điện thoại, tay trái buông thẳng"
+            }
+          },
+          "prompt": "Wide shot, cinematic photorealistic, máy quay đặt giữa sân nhìn thẳng về phía cổng gỗ trắng — đúng vị trí cổng đã khai ở Thẻ Địa Điểm tham chiếu, giữ nguyên 100% kiến trúc cổng và hai trụ đá. Sáu cảnh sát mặc đồng phục xanh sẫm, áo giáp ngoài, đang bước nhanh qua cổng tràn vào sân, dàn hàng ngang, tay đặt hờ lên thắt lưng công cụ, vẻ mặt nghiêm nghị cảnh giác. Meredith Collier đứng ở tiền cảnh bên phải, RÕ MẶT, tay phải vẫn cầm điện thoại, khoé miệng còn giữ nét đắc thắng nhưng ánh mắt đã hơi dao động. Phía xa bên trái, đám đông khách mời đứng rải rác quay đầu nhìn về phía cổng, ngoài nét mờ, không nhìn camera. Ánh sáng chiều muộn vàng nhạt dần, không khí căng thẳng.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "REF_BG_BACKYARD_RECEPTION_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v4.png"
+        },
+        {
+          "id": "SF-HOOK-15",
+          "label": "[HOOK] S15 · Góc đảo ngược từ gần cổng nhìn vào sân, cảnh sát bước ngang tiền cảnh, Meredith vẫn lạnh lùng đắc thắng",
+          "goc": "Reverse angle, cảnh sát mờ tiền cảnh trái, Meredith RÕ MẶT giữa khung phía xa hơn, vẻ mặt lạnh lùng khinh miệt đắc thắng",
+          "pose": {
+            "zone": "Gần cổng, nhìn ngược vào trong sân",
+            "who": {
+              "MEREDITH": "Đứng giữa khung, cách máy khoảng 4 mét, tay phải vẫn cầm điện thoại, cằm hất cao, khoé miệng nhếch cười lạnh, ánh mắt quét ngang đám đông đầy khinh miệt, không hề nao núng trước cảnh sát"
+            },
+            "dist": "Máy quay đặt sát cổng, quay ngược vào sân, cách Meredith khoảng 4 mét",
+            "hands": {
+              "MEREDITH": "Tay phải vẫn cầm điện thoại, tay trái buông thẳng"
+            }
+          },
+          "prompt": "Reverse angle, cinematic photorealistic, ống kính 35mm, máy quay đặt sát cổng gỗ trắng, quay ngược vào trong sân — góc hoàn toàn khác so với Master (đặt giữa sân nhìn ra cổng). Hai cảnh sát mặc đồng phục xanh sẫm bước ngang qua rất gần tiền cảnh bên trái, lưng và vai chiếm một phần khung, hơi ngoài tiêu điểm. Meredith Collier đứng giữa khung phía xa hơn, RÕ MẶT, cách máy khoảng 4 mét, tay phải vẫn cầm điện thoại, cằm hất cao đầy tự mãn, khoé miệng nhếch lên thành nụ cười lạnh và khinh miệt, ánh mắt quét ngang đám khách mời như đang tận hưởng quyền lực của chính mình, hoàn toàn không nao núng trước sáu cảnh sát vừa ập vào. Phía sau Meredith là một phần sân cỏ và hàng ghế cưới đã bỏ trống, mờ xa. Nắng chiều muộn vàng nhạt dần, không khí căng thẳng.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-15_v2.png"
+        },
+        {
+          "id": "SF-HOOK-16",
+          "label": "[HOOK] S16 · Cận 3/4 nghiêng khuôn mặt Meredith, lạnh lùng khinh miệt, chưa hề nao núng",
+          "goc": "Close-up 3/4 góc nghiêng, chỉ một mình Meredith RÕ NÉT, vẻ mặt lạnh lùng khinh miệt",
+          "pose": {
+            "zone": "Gần cổng, trong sân",
+            "who": {
+              "MEREDITH": "RÕ NÉT chiếm gần trọn khung, khoé miệng nhếch cười lạnh, ánh mắt sắc và khinh miệt, tay phải cầm điện thoại buông thẳng đầy tự tin"
+            },
+            "dist": "Máy quay cách Meredith khoảng 1.5 mét, góc chếch 45 độ",
+            "hands": {
+              "MEREDITH": "Tay phải siết chặt điện thoại sát ngực, tay trái buông thẳng"
+            }
+          },
+          "prompt": "Close-up góc 3/4 nghiêng 45 độ, cinematic photorealistic, máy quay cách Meredith khoảng 1.5 mét — góc hoàn toàn khác so với Master và với SF-HOOK-15. Meredith Collier RÕ NÉT chiếm gần trọn khung, khoé miệng nhếch lên thành nụ cười lạnh, đầy khinh miệt, ánh mắt sắc lẹm nhìn xa xăm ra phía đám đông như đang phán xét, tay phải cầm điện thoại buông thẳng đầy tự tin, không một chút nao núng. Hậu cảnh là một mảng sân cỏ mờ và một dáng cảnh sát ngoài nét ngay sát vai trái Meredith. Nắng chiều muộn hắt nhẹ một bên mặt, làm rõ nếp nhăn khinh miệt quanh khoé miệng.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MEREDITH_PORTRAIT",
+              "REF_MEREDITH_CONFRONT_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-16_v2.png"
+        },
+        {
+          "id": "SF-HOOK-M3-MASTER",
+          "label": "[HOOK] Master 3 · Mặt tiền 14 Briarcliff Drive, không người",
+          "goc": "Wide establishing, toàn bộ mặt tiền dinh thự và một phần con đường, KHÔNG CÓ NGƯỜI",
+          "pose": {
+            "zone": "Mặt tiền 14 Briarcliff Drive",
+            "who": {},
+            "dist": "Máy quay cách khoảng 12 mét, đối diện chính giữa mặt tiền",
+            "hands": {}
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, ống kính 35mm, máy quay đặt chính giữa lối đi bộ trước nhà, cách mặt tiền khoảng 12 mét, ngang tầm mắt. Toàn bộ dinh thự đá hai tầng phong cách Georgian phục dựng hiện rõ trong khung, tường đá xám ấm phủ dây thường xuân, cửa chính gỗ trắng ở giữa, hàng boxwood xén vuông hai bên lối đi. Một góc vườn hồng thấp thoáng bên phải khung. Con đường rợp bóng cây phía sau máy quay không hiện trong khung này. Không có người trong khung hình. Nắng ban ngày dịu đều, bầu trời xanh nhạt, bóng cây đổ mềm trên cỏ.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [],
+            "bg": "REF_BG_HOUSE_EXTERIOR_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M3-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-10",
+          "label": "[HOOK] S10 · Cận chi tiết tường đá dây thường xuân, hàng boxwood và vườn hồng, không người",
+          "goc": "Cận chi tiết kiến trúc, KHÔNG CÓ NGƯỜI",
+          "pose": {
+            "zone": "Mặt tiền 14 Briarcliff Drive",
+            "who": {},
+            "dist": "Máy quay cách khoảng 2 mét, chếch vào góc tường và vườn hồng",
+            "hands": {}
+          },
+          "prompt": "Cận cảnh chi tiết kiến trúc, cinematic photorealistic, giữ nguyên 100% mặt tiền và vật liệu của ảnh Master tham chiếu, chỉ đổi vị trí máy quay lại gần. Nửa trái khung là một đoạn tường đá xám phủ dây thường xuân leo dày, từng phiến đá lộ vân rõ. Nửa phải khung là luống hồng đang nở dọc hàng rào gỗ trắng thấp, cánh hồng đỏ và hồng phấn xen kẽ, lá xanh đậm còn đọng vài giọt sương sớm. Không có người trong khung hình. Nắng dịu chiếu xiên làm nổi kết cấu đá và cánh hoa.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [],
+            "bg": "SF-HOOK-M3-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-10_v1.png"
+        },
+        {
+          "id": "SF-HOOK-11",
+          "label": "[HOOK] S11 · Con đường Briarcliff Estates rợp bóng cây, các dinh thự lân cận, không người",
+          "goc": "Wide, con đường và dãy dinh thự lân cận, KHÔNG CÓ NGƯỜI",
+          "pose": {
+            "zone": "Con đường Briarcliff Estates",
+            "who": {},
+            "dist": "Máy quay đứng giữa lòng đường, cách khoảng 15 mét nhìn dọc phố",
+            "hands": {}
+          },
+          "prompt": "Wide shot, cinematic photorealistic, ống kính 35mm, máy quay đứng giữa con đường rợp bóng cây cổ thụ hai bên, nhìn dọc theo chiều phố. Mặt đường nhựa sạch không vạch kẻ, vài chiếc sedan và SUV đời mới màu trung tính đỗ gọn trong lối xe riêng của các dinh thự hai bên. Thấp thoáng qua tán cây là mái ngói và tường đá của ba, bốn dinh thự khác cùng phong cách cổ điển sang trọng, khoảng sân trước mỗi nhà đều rộng rãi, cỏ cắt tỉa. Không có người, không có xe đang di chuyển trên đường. Nắng ban ngày dịu, bóng lá cây đổ loang trên mặt đường.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [],
+            "bg": "SF-HOOK-M3-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-11_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M4-MASTER",
+          "label": "[HOOK] Master 4 · Audrey và Desmond đứng trước cửa nhà ngày nhận chìa khóa (8 tháng trước cưới)",
+          "goc": "Wide, Audrey trái và Desmond phải, CẢ HAI RÕ MẶT, đứng trước cửa chính",
+          "pose": {
+            "zone": "Trước cửa chính 14 Briarcliff Drive",
+            "who": {
+              "AUDREY": "Đứng bên trái, ngước nhìn lên mặt tiền ngôi nhà, biểu cảm xúc động nhẹ",
+              "DESMOND": "Đứng bên phải cạnh Audrey, tay phải cầm chùm chìa khóa đồng sáng giơ ngang eo, nhìn sang Audrey mỉm cười ấm áp"
+            },
+            "dist": "Máy quay cách khoảng 6 mét, đối diện cả hai và cửa chính phía sau",
+            "hands": {
+              "AUDREY": "Hai tay đan nhẹ trước bụng",
+              "DESMOND": "Tay phải cầm chùm chìa khóa đồng sáng, tay trái buông tự nhiên"
+            }
+          },
+          "prompt": "Wide shot, cinematic photorealistic, máy quay cách khoảng 6 mét, ngang tầm mắt, đối diện cửa chính. Audrey Bennett đứng bên trái, mặc áo sơ mi lụa kem và quần âu be nhạt, ngước nhìn lên mặt tiền dinh thự đá phủ dây thường xuân, biểu cảm xúc động nhẹ, mắt sáng. Desmond Ellis đứng bên phải cạnh cô, mặc áo polo navy và quần kaki, tay phải cầm một chùm chìa khóa đồng sáng giơ ngang eo, quay sang nhìn Audrey với nụ cười ấm áp. Cửa chính gỗ trắng và mặt tiền đá phủ thường xuân hiện phía sau hai người, đúng theo ảnh Thẻ Địa Điểm tham chiếu. Không có ai khác trong khung. Nắng ban ngày dịu đều chiếu lên cả hai gương mặt, giữ skin tone tự nhiên.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_MOVEIN_FULL",
+              "REF_DESMOND_PORTRAIT",
+              "REF_DESMOND_MOVEIN_FULL"
+            ],
+            "bg": "REF_BG_HOUSE_EXTERIOR_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M4-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-14",
+          "label": "[HOOK] S14 · Cận tay Desmond trao chìa khóa cho Audrey trước cửa nhà",
+          "goc": "Medium Two-Shot cận, Audrey trái và Desmond phải, CẢ HAI RÕ MẶT, tập trung vào tay và chùm chìa khóa",
+          "pose": {
+            "zone": "Trước cửa chính 14 Briarcliff Drive",
+            "who": {
+              "AUDREY": "Đứng bên trái, tay phải vừa chạm vào chùm chìa khóa Desmond đưa tới, mỉm cười nhẹ",
+              "DESMOND": "Đứng bên phải, tay phải đưa chùm chìa khóa về phía Audrey, nhìn cô trìu mến"
+            },
+            "dist": "Máy quay cách khoảng 2 mét, tập trung khung ngực trở lên",
+            "hands": {
+              "AUDREY": "Tay phải vừa chạm vào chùm chìa khóa, tay trái buông tự nhiên",
+              "DESMOND": "Tay phải đưa chùm chìa khóa đồng sáng về phía Audrey, tay trái buông tự nhiên"
+            }
+          },
+          "prompt": "Medium Two-Shot, cinematic photorealistic, máy quay cách khoảng 2 mét, khung từ ngực trở lên. Audrey Bennett bên trái, tay phải vừa chạm vào chùm chìa khóa đồng sáng mà Desmond Ellis đưa tới, khoé miệng cười nhẹ xúc động. Desmond bên phải, tay phải đưa chùm chìa khóa về phía Audrey, nhìn cô trìu mến. Cửa chính gỗ trắng và tường đá phủ thường xuân mờ phía sau, ngoài tiêu điểm nhẹ. Không có ai khác trong khung. Nắng ban ngày dịu chiếu đều lên cả hai gương mặt.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_AUDREY_PORTRAIT",
+              "REF_AUDREY_MOVEIN_FULL",
+              "REF_DESMOND_PORTRAIT",
+              "REF_DESMOND_MOVEIN_FULL"
+            ],
+            "bg": "SF-HOOK-M4-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-14_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "MEREDITH: \"This damn Black wedding is driving the whole street insane.\"\nNARRATION: Meredith Collier's face twisted with disgust, standing in the middle of a reception she was never invited to.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nAUDREY — 36-year-old Black woman, wearing an ivory lace wedding gown, holding a champagne glass near a dessert table.\nMEREDITH — 58-year-old white woman, wearing beige linen pants and a cream blouse, phone already in her right hand, walking briskly into frame.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nFrom the first frame, Audrey is already facing Meredith head-on, holding her gaze as Meredith bears down on her and spits her opening line directly in her face.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 SHOT 1, Meredith's line fills this window.\n0:04–0:10 SHOT 2, fully silent, reserved for: \"Meredith Collier's face twisted with disgust, standing in the middle of a reception she was never invited to.\"\n\nDIALOGUE ORDER:\nMEREDITH\n\nSHOT 1 (0:00–0:04) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward both characters, no handheld shake.\nFrom 0:00, Audrey already stands facing Meredith directly, chin level, holding her stare. Meredith closes the last steps toward her, eyes locked on Audrey's face the entire time, phone still in hand. Nearby guests fall quiet.\nMEREDITH — furious, contemptuous, spoken straight at Audrey: \"This damn Black wedding is driving the whole street insane.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHT TWO-SHOT, FACE TO FACE — STATIC\nCamera: Static, locked-off, close on both faces, standing close, directly facing each other.\nMeredith's face stays twisted with open disgust, eyes fixed on Audrey. Audrey holds the eye contact without flinching, calm, refusing to look away. No dialogue; hold the full six seconds silent.\n\nPERFORMANCE:\nMeredith is rigid with entitled anger, aimed squarely at Audrey. Audrey stays calm and steady, meeting her stare without blinking.\n\nLIP SYNC:\nOnly Meredith speaks, only in Shot 1. Audrey's mouth stays closed throughout. In Shot 2, no character moves their lips.\n\nAUDIO:\n0:00–0:04: Meredith's dialogue, clear American English, sharp. 0:04–0:10: no dialogue, ambient reception only — leave clean for narrator dub. Faint distant jazz under both. No narrator generated. No sound effects beyond ambient. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:04, right after Meredith finishes: \"This damn Black wedding is driving the whole street insane.\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in, dialogue 0:00–0:04, face to face from frame one.\nSHOT 2 = tight two-shot, face to face, static, silent 0:04–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v6.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Audrey Bennett met her eyes.\nAUDREY: \"This is my home, Mrs. Collier. My wedding. On my property.\"\nMEREDITH: \"Your property?\"\nNARRATION: Meredith yanked out her phone.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nAUDREY — 36-year-old Black woman, wearing an ivory lace wedding gown, standing near a dessert table.\nMEREDITH — 58-year-old white woman, wearing beige linen pants and a cream blouse, phone already in her right hand at her side, standing opposite Audrey.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nAudrey holds Meredith's gaze, sets her glass down, and answers plainly. Meredith retorts sharply and snaps the phone already in her hand up to shoulder height.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:02 silent open of Shot 1, reserved for: \"Audrey Bennett met her eyes.\"\n0:02–0:06 Audrey's line fills the rest of Shot 1.\n0:06–0:07 Meredith's line opens Shot 2.\n0:07–0:10 silent close of Shot 2, reserved for: \"Meredith yanked out her phone.\"\n\nDIALOGUE ORDER:\nAUDREY → MEREDITH\n\nSHOT 1 (0:00–0:06) — MEDIUM TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in, both characters visible facing each other, eye level.\n0:00–0:02: Audrey sets her glass down, calm, looks Meredith in the eye. No dialogue yet.\n0:02–0:06: Meredith stands rigid, phone at her side, watching.\nAUDREY — steady, composed: \"This is my home, Mrs. Collier. My wedding. On my property.\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — CLOSE-UP ON MEREDITH — SUBTLE PAN\nCamera: Very slow, restrained pan, tight on Meredith's face and shoulders, phone visible as she raises it.\n0:06–0:07: Meredith's eyes narrow.\nMEREDITH — clipped, indignant: \"Your property?\"\n0:07–0:10: in one sharp motion she snaps the phone up to shoulder height and holds it, silent the rest of the shot.\n\nPERFORMANCE:\nAudrey's voice never rises. Meredith's motion is abrupt, phone snapping up fast, then held steady for the silent close.\n\nLIP SYNC:\nShot 1: Meredith's mouth stays closed while Audrey speaks. Shot 2: Meredith speaks only 0:06–0:07, then mouth stays closed and still.\n\nAUDIO:\n0:00–0:02: no dialogue, ambient only — leave clean for narrator dub. Audrey's dialogue 0:02–0:06, calm. Meredith's dialogue 0:06–0:07, sharp. 0:07–0:10: no dialogue, leave clean for narrator dub. Faint distant jazz throughout. No narrator generated. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:06, right after Audrey finishes: \"This is my home, Mrs. Collier. My wedding. On my property.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot, slow push-in, silent 0:00–0:02 then dialogue.\nSHOT 2 = close-up Meredith, dialogue 0:06–0:07 then silent phone-raise 0:07–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v3.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "MEREDITH: \"Frauds. I'm calling 911 to bust this whole scam of yours.\"\nAUDREY: \"Put the phone down, Mrs. Collier. You don't want to do this.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMEREDITH — 58-year-old white woman, wearing beige linen pants and a cream blouse, holding up a phone at shoulder height.\nAUDREY — 36-year-old Black woman, wearing an ivory lace wedding gown, her back three-quarters to camera, blurred in the foreground, face not visible from this angle.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nMeredith brandishes her phone, threatening to call 911. Audrey, back to camera, answers flatly, warning her to put the phone down.\n\nTIMING:\nFull dialogue, no narration in this clip — no silent gap reserved.\n0:00–0:05 Meredith's line fills Shot 1. 0:05–0:10 Audrey's line fills Shot 2.\n\nDIALOGUE ORDER:\nMEREDITH → AUDREY\n\nSHOT 1 (0:00–0:05) — OTS ON MEREDITH (OVER AUDREY'S SHOULDER) — SLOW PUSH-IN\nCamera: Very slow push-in on Meredith. Audrey's shoulder and the back of her head anchor the blurred right foreground, completely still.\nMeredith holds her phone up at shoulder height, screen out, chin raised in defiance.\nMEREDITH — sneering, aggressive: \"Frauds. I'm calling 911 to bust this whole scam of yours.\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER OTS ON MEREDITH — SLOW PUSH-IN\nCamera: Continues the push-in, tightening on Meredith's face; Audrey's blurred shoulder stays at the frame edge, back still to camera.\nMeredith's sneer falters as she listens. Audrey, still facing away, answers in a low, even voice.\nAUDREY — firm, warning, spoken with her back to camera: \"Put the phone down, Mrs. Collier. You don't want to do this.\"\n\nPERFORMANCE:\nMeredith's phone gesture is sharp, performative. Audrey's refusal to turn around carries as much weight as her words.\n\nLIP SYNC:\nMeredith's lips move only while speaking in Shot 1. In Shot 2, Audrey's line plays as her voice while her face stays turned away; no mouth movement shown. Meredith's mouth stays closed and still.\n\nAUDIO:\nMeredith's dialogue Shot 1, sneering. Audrey's dialogue Shot 2, low and firm, back to camera. Faint distant jazz under both. No narrator. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, right after Meredith finishes: \"Frauds. I'm calling 911 to bust this whole scam of yours.\"\n\nCAMERA SUMMARY:\nSHOT 1 = OTS on Meredith, dialogue 0:00–0:05.\nSHOT 2 = tighter OTS on Meredith, dialogue 0:05–0:10, delivered off-camera by Audrey.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "MEREDITH: \"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"\nNARRATION: She hung up and smiled. Actually smiled.\nMEREDITH: \"The police are coming, sweetheart. Let's see how long you last.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMEREDITH — 58-year-old white woman, wearing a cream blouse, phone pressed to her right ear, standing center frame.\nAUDREY — 36-year-old Black woman, wearing an ivory lace wedding gown, standing a step behind and to the left, in clear focus.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nMeredith files a false report about a \"loud Black wedding,\" hangs up, smiles, then taunts Audrey directly, who watches in silence.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 Meredith's phone-call line fills Shot 1.\n0:04–0:06 silent open of Shot 2, reserved for: \"She hung up and smiled. Actually smiled.\"\n0:06–0:10 Meredith's taunt fills the rest of Shot 2.\n\nDIALOGUE ORDER:\nMEREDITH → MEREDITH\n\nSHOT 1 (0:00–0:04) — MEDIUM WIDE SHOT — VERY SLOW PUSH-IN\nCamera: Very slow, subtle push-in, both Meredith and Audrey visible, thigh-up framing.\nMeredith speaks into the phone, calm, eyes flicking toward Audrey, who stands still behind her, watching in silence.\nMEREDITH — cold, performative: \"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM WIDE SHOT — STATIC\nCamera: Static, locked-off, same thigh-up framing, both characters still visible.\n0:04–0:06: Meredith lowers the phone, ends the call, a slow satisfied smile spreads as she turns toward Audrey — no dialogue.\n0:06–0:10: MEREDITH — mocking, triumphant: \"The police are coming, sweetheart. Let's see how long you last.\"\n\nPERFORMANCE:\nMeredith's phone voice is calm and rehearsed. Her silent smile is small, deliberate, cruel. Audrey stays motionless, watching.\n\nLIP SYNC:\nMeredith's lips move only 0:00–0:04 and 0:06–0:10. During 0:04–0:06 her mouth stays closed while she smiles. Audrey's mouth stays closed throughout.\n\nAUDIO:\nMeredith's dialogue 0:00–0:04, calm and practiced. 0:04–0:06: no dialogue, ambient only — leave clean for narrator dub. Meredith's dialogue 0:06–0:10, mocking. Faint distant jazz under all. No narrator generated. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:04, right after Meredith finishes: \"911? There's a loud Black wedding at 14 Briarcliff Drive. I feel threatened.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide shot, very slow push-in, dialogue 0:00–0:04.\nSHOT 2 = medium wide shot, static, silent smile 0:04–0:06, taunt 0:06–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Audrey's hands didn't shake. Her chin didn't drop. A hundred and fifty guests held their breath. Within minutes, six officers flooded that backyard.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nAUDREY — 36-year-old Black woman, wearing an ivory lace wedding gown, standing perfectly still near the dessert table.\nMEREDITH — 58-year-old white woman, wearing beige linen pants and a cream blouse, phone in hand at her side, standing opposite Audrey, completely still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nNo dialogue. Audrey stands unshaken, chin level, hands steady, holding Meredith's gaze. Meredith stands rigid and silent, phone still in hand.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Audrey's hands didn't shake. Her chin didn't drop. A hundred and fifty guests held their breath.\"\n0:05–0:10 Shot 2, reserved for: \"Within minutes, six officers flooded that backyard.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM TWO-SHOT — STATIC\nCamera: Static, locked-off, both characters visible facing each other, eye level.\nAudrey stands motionless, composed, hands resting loosely, betraying no tremor, holding Meredith's gaze. Meredith stands rigid, phone in hand, watching her. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — CLOSE-UP PUSH-IN ON AUDREY (SAME FRAME) — SLOW PUSH-IN\nCamera: Very slow push-in tightening onto Audrey within the same two-shot frame; Meredith stays visible at the frame's edge, rigid and silent.\nAudrey's steady hands and level chin stay the focus; she does not blink, her composure absolute. Hold the full five seconds silent.\n\nPERFORMANCE:\nAudrey's stillness is deliberate and unshaken. Meredith's stillness is tense, coiled.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Faint distant jazz, noticeably quieter. Subdued ambient murmur. No narrator generated. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as the tension between them peaks.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot, static, both visible, silent 0:00–0:05.\nSHOT 2 = close-up push-in on Audrey, same frame, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: But Meredith Collier had no idea who she'd just called the cops on. And what happened next — nobody in that neighborhood will ever forget.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMEREDITH — 58-year-old white woman, wearing a cream blouse, holding a phone, standing near the gate.\n\nKeep exactly this character throughout the video. Do not add, remove, replace, duplicate, or transform any character.\nSix uniformed police officers in dark navy uniforms with visible body armor enter through the gate in the background; treat as background figures, not principal characters — no dialogue or close framing for them.\n\nSCENE:\nSix officers flood into the backyard through the front gate, fanning out. Meredith stands near the gate, her triumphant expression starting to falter.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"But Meredith Collier had no idea who she'd just called the cops on.\"\n0:05–0:10 Shot 2, reserved for: \"And what happened next — nobody in that neighborhood will ever forget.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE SHOT OF THE GATE — SLOW PUSH-IN\nCamera: Very slow push-in toward the gate, full width of the entrance in frame.\nSix officers stream through the open gate in a loose line, scanning the yard, hands near their belts. Meredith stands at the right edge of frame, phone in hand, watching, composure still intact. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — MEDIUM CLOSE-UP ON MEREDITH — VERY SLOW PUSH-IN\nCamera: Very slow, subtle push-in on Meredith's face.\nMeredith's triumphant smile begins to falter almost imperceptibly as she glances between the officers and the silent crowd, a flicker of uncertainty crossing her eyes. Hold the full five seconds silent.\n\nPERFORMANCE:\nOfficers move with brisk, businesslike purpose, not aggression. Meredith's composure holds on the surface, but doubt is unmistakable.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Distant crowd murmurs and footsteps on grass, no music. No narrator generated. No sound effects beyond ambient footsteps. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as the officers fan out and Meredith's gaze shifts to the crowd.\n\nCAMERA SUMMARY:\nSHOT 1 = wide shot of the gate, slow push-in, silent 0:00–0:05.\nSHOT 2 = medium close-up Meredith, very slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-15",
+          "dur": 10,
+          "text": "NARRATION: Have you ever watched someone's racism explode right back in their face so hard it destroyed everything they ever had — their career, their marriage, their whole life —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMEREDITH — 58-year-old white woman, wearing a cream blouse, phone still in her right hand, standing mid-yard, cold and smug.\n\nKeep exactly this character throughout the video. Do not add, remove, replace, duplicate, or transform any character.\nTwo police officers walk past close to camera in the blurred left foreground; treat as background figures, no dialogue or close framing.\n\nSCENE:\nReverse angle from near the gate looking back into the yard: officers pass close to camera while Meredith stands further back, chin raised, savoring what she believes is her victory, utterly unbothered by the officers around her.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Have you ever watched someone's racism explode right back in their face so hard it destroyed everything they ever had\"\n0:05–0:10 Shot 2, reserved for: \"— their career, their marriage, their whole life —\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — REVERSE ANGLE, OFFICERS BLURRED FOREGROUND — STATIC\nCamera: Static, locked-off, same reverse framing as the reference image, officers passing blurred in the near foreground.\nOfficers continue past camera; Meredith stands further back, mid-yard, chin lifted, a cold satisfied smirk on her lips as she watches the guests react, phone still gripped like a trophy. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — SAME REVERSE ANGLE, TIGHTER ON MEREDITH — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward Meredith, same reverse angle, officers now mostly out of frame at the edge.\nMeredith's smirk holds firm, her eyes sweeping the crowd with open contempt, utterly convinced she has won. Hold the full five seconds silent.\n\nPERFORMANCE:\nMeredith is cold, self-satisfied, entitled — savoring the moment, not the slightest bit shaken. Officers remain brisk and businesslike, indifferent to her.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Distant crowd murmurs and footsteps on grass, no music. No narrator generated. No sound effects beyond ambient footsteps. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as the camera tightens on Meredith's smirk.\n\nCAMERA SUMMARY:\nSHOT 1 = reverse angle, officers blurred foreground, static, silent 0:00–0:05.\nSHOT 2 = same reverse angle, tighter on Meredith's smirk, very slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-16",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, smash that like, drop a comment, and let me take you all the way back to the beginning.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMEREDITH — 58-year-old white woman, wearing a cream blouse, phone held confidently at her chest, shown in a tight 3/4-angle close-up, cold and contemptuous.\n\nKeep exactly this character throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nA tight 3/4-angle close-up on Meredith's face, her cold, contemptuous smirk unshaken, before the moment lingers and fades toward the story's beginning.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"because you are about to, smash that like, drop a comment,\"\n0:05–0:10 Shot 2, reserved for: \"and let me take you all the way back to the beginning.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — CLOSE-UP, 3/4 ANGLE ON MEREDITH — STATIC\nCamera: Static, locked-off, same tight 3/4-angle framing as the reference image.\nMeredith's cold smirk holds steady, her eyes sharp and contemptuous, phone held confidently at her chest like she owns the moment. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — SAME CLOSE-UP, VERY SLOW PUSH-IN — RACK FOCUS SOFTENS BACKGROUND\nCamera: Very slow push-in, same 3/4 angle, background softening further as focus tightens on her face.\nHer contemptuous smirk lingers, unshaken and self-assured, as the moment holds before fading out toward the story's start. Hold the full five seconds silent.\n\nPERFORMANCE:\nMeredith radiates cold entitlement, savoring the moment, not a flicker of doubt.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Faint distant murmurs, no music. No narrator generated. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as the push-in begins.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up 3/4 angle on Meredith's smirk, static, silent 0:00–0:05.\nSHOT 2 = same close-up, very slow push-in, rack focus, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-08_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-09",
+          "sf": "SF-HOOK-M3-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Because this story didn't start with a 911 call. It started with a house. 14 Briarcliff Drive sat at the end of a tree-lined street in Fairfax County, Virginia.",
+          "prompt": "Use the uploaded reference image as the visual anchor for layout, architecture, lighting, and spatial relationships. No characters appear in this clip.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nNone. This is an empty establishing shot of a house exterior — no characters appear anywhere in this video.\n\nDo not add any character, person, or figure to this scene.\n\nSCENE:\nAn empty establishing view of the restored Georgian estate at 14 Briarcliff Drive, its stone walls and ivy catching the daylight, introducing the house at the center of this story.\n\nTIMING (entire clip is silent — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Because this story didn't start with a 911 call. It started with a house.\"\n0:05–0:10 Shot 2, reserved for: \"14 Briarcliff Drive sat at the end of a tree-lined street in Fairfax County, Virginia.\"\n\nDIALOGUE ORDER:\nNone. No character speaks or appears in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE ESTABLISHING SHOT OF THE HOUSE — STATIC\nCamera: Static, locked-off, full facade of the house centered in frame.\nThe Georgian stone facade sits still in daylight, ivy climbing the walls, boxwood hedges trimmed along the walkway. No movement beyond a light breeze in the leaves. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — WIDE ESTABLISHING SHOT — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward the house's front entrance.\nThe camera drifts slightly closer to the white front door, taking in the quiet, orderly property. Hold the full five seconds silent.\n\nPERFORMANCE:\nNo performance; this is an empty architectural establishing shot.\n\nLIP SYNC:\nNo characters present; not applicable.\n\nAUDIO:\nNo dialogue. Leave fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects beyond ambience. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as the camera begins its push toward the entrance.\n\nCAMERA SUMMARY:\nSHOT 1 = wide establishing shot of the house, static, silent 0:00–0:05.\nSHOT 2 = wide establishing shot, very slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-09_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-10",
+          "sf": "SF-HOOK-10",
+          "dur": 10,
+          "text": "NARRATION: A restored 1920s Georgian estate on three acres of manicured land. Stone walls covered in ivy. Boxwood hedges trimmed to perfection. A rose garden running along the east side that bloomed every May like clockwork.",
+          "prompt": "Use the uploaded reference image as the visual anchor for layout, architecture, lighting, and spatial relationships. No characters appear in this clip.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nNone. This is an empty detail shot of architecture and garden — no characters appear anywhere in this video.\n\nDo not add any character, person, or figure to this scene.\n\nSCENE:\nClose, empty detail shots of the estate's craftsmanship: the ivy-covered stone wall, then the rose garden along the property's east side.\n\nTIMING (entire clip is silent — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"A restored 1920s Georgian estate on three acres of manicured land. Stone walls covered in ivy.\"\n0:05–0:10 Shot 2, reserved for: \"Boxwood hedges trimmed to perfection. A rose garden running along the east side that bloomed every May like clockwork.\"\n\nDIALOGUE ORDER:\nNone. No character speaks or appears in this clip.\n\nSHOT 1 (0:00–0:05) — CLOSE-UP ON THE STONE WALL — STATIC\nCamera: Static, locked-off, close on the ivy-covered stone wall texture.\nThick ivy leaves catch soft daylight against the warm gray stone. No movement beyond leaves stirring faintly. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — CLOSE-UP ON THE ROSE GARDEN — SLOW PAN\nCamera: Very slow lateral pan across the blooming rose bed along the low white fence.\nRed and blush-pink roses in full bloom, dew still clinging to the leaves. Hold the full five seconds silent.\n\nPERFORMANCE:\nNo performance; empty architectural and garden detail shots.\n\nLIP SYNC:\nNo characters present; not applicable.\n\nAUDIO:\nNo dialogue. Leave fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects beyond ambience. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, cutting from the stone wall to the rose garden.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on the stone wall, static, silent 0:00–0:05.\nSHOT 2 = close-up on the rose garden, slow pan, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-10_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-11",
+          "sf": "SF-HOOK-11",
+          "dur": 10,
+          "text": "NARRATION: The neighborhood around it — Briarcliff Estates — was the kind of place where homes started at $2.4 million and everyone knew what car their neighbors drove.",
+          "prompt": "Use the uploaded reference image as the visual anchor for layout, architecture, lighting, and spatial relationships. No characters appear in this clip.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nNone. This is an empty street establishing shot — no characters appear anywhere in this video.\n\nDo not add any character, person, or figure to this scene.\n\nSCENE:\nAn empty view down the tree-lined street of Briarcliff Estates, showing the scale and polish of the neighboring properties.\n\nTIMING (entire clip is silent — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"The neighborhood around it — Briarcliff Estates — was the kind of place where homes started at $2.4 million\"\n0:05–0:10 Shot 2, reserved for: \"and everyone knew what car their neighbors drove.\"\n\nDIALOGUE ORDER:\nNone. No character speaks or appears in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE SHOT OF THE STREET — STATIC\nCamera: Static, locked-off, looking down the tree-lined street.\nMature trees arch over the clean asphalt, newer sedans and SUVs parked neatly in the driveways of neighboring estates. No people, no moving traffic. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — WIDE SHOT OF THE STREET — VERY SLOW PUSH-IN\nCamera: Very slow push-in continuing down the street.\nThe camera drifts slowly forward, passing glimpses of neighboring rooftops and stone walls through the trees. Hold the full five seconds silent.\n\nPERFORMANCE:\nNo performance; empty street establishing shot.\n\nLIP SYNC:\nNo characters present; not applicable.\n\nAUDIO:\nNo dialogue. Leave fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects beyond ambience. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, continuing the push down the street.\n\nCAMERA SUMMARY:\nSHOT 1 = wide shot of the street, static, silent 0:00–0:05.\nSHOT 2 = wide shot of the street, very slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-11_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-12",
+          "sf": "SF-HOOK-11",
+          "dur": 10,
+          "text": "NARRATION: Old money lived next to new money, but they all had one thing in common. They were white. Every single family on that street. For decades.",
+          "prompt": "Use the uploaded reference image as the visual anchor for layout, architecture, lighting, and spatial relationships. No characters appear in this clip.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nNone. This is an empty street shot — no characters appear anywhere in this video.\n\nDo not add any character, person, or figure to this scene.\n\nSCENE:\nThe camera continues down the same quiet street, empty and still, as the narration establishes the neighborhood's decades-long homogeneity — conveyed through narration alone, not through any depicted figures.\n\nTIMING (entire clip is silent — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Old money lived next to new money, but they all had one thing in common. They were white.\"\n0:05–0:10 Shot 2, reserved for: \"Every single family on that street. For decades.\"\n\nDIALOGUE ORDER:\nNone. No character speaks or appears in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE SHOT OF THE STREET — STATIC\nCamera: Static, locked-off, continuing the same street view.\nThe street remains quiet and empty, grand homes visible through the trees on both sides. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — WIDE SHOT TOWARD A GRANDER HOUSE — VERY SLOW PUSH-IN\nCamera: Very slow push-in toward one of the larger, older homes further down the street.\nThe camera settles on an older, established mansion further along, its stone facade weathered but stately. Hold the full five seconds silent.\n\nPERFORMANCE:\nNo performance; empty street shot.\n\nLIP SYNC:\nNo characters present; not applicable.\n\nAUDIO:\nNo dialogue. Leave fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects beyond ambience. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, pushing toward the older mansion further down the street.\n\nCAMERA SUMMARY:\nSHOT 1 = wide shot of the street, static, silent 0:00–0:05.\nSHOT 2 = wide shot toward a grander house, very slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-12_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-13",
+          "sf": "SF-HOOK-M4-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Until eight months ago, when Audrey Bennett and her fiancé Desmond Ellis purchased 14 Briarcliff Drive through an LLC for $3.1 million.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nAUDREY — 36-year-old Black woman, wearing a cream silk blouse and beige trousers, standing at the left.\nDESMOND — 38-year-old Black man, wearing a navy polo and khaki pants, standing at the right, holding a set of brass keys.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nEight months before the wedding, Audrey and Desmond stand together in front of their newly purchased home for the first time, taking it in.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Until eight months ago, when Audrey Bennett and her fiancé Desmond Ellis\"\n0:05–0:10 Shot 2, reserved for: \"purchased 14 Briarcliff Drive through an LLC for $3.1 million.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — WIDE TWO-SHOT — STATIC\nCamera: Static, locked-off, both characters visible in front of the house.\nAudrey looks up at the facade, quietly moved. Desmond stands beside her, keys in hand, watching her reaction. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — MEDIUM TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in toward both characters.\nDesmond turns to Audrey with a warm smile; she meets his eyes, both taking in the moment together. Hold the full five seconds silent.\n\nPERFORMANCE:\nQuiet pride and disbelief, understated, no exaggerated celebration.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as Desmond turns toward Audrey.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, static, silent 0:00–0:05.\nSHOT 2 = medium two-shot, slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-13_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-14",
+          "sf": "SF-HOOK-14",
+          "dur": 10,
+          "text": "NARRATION: Cash. No contingencies. No negotiation. They were the first Black family to ever buy on that street.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nAUDREY — 36-year-old Black woman, wearing a cream silk blouse and beige trousers.\nDESMOND — 38-year-old Black man, wearing a navy polo, holding a set of brass keys out toward Audrey.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nDesmond hands Audrey the keys to their new home; she looks up at him, both smiling quietly at the small, decisive gesture.\n\nTIMING (entire clip is silent on dialogue — reserve the full 10 seconds for a narrator track added later in post; no narrator voice generated here):\n0:00–0:05 Shot 1, reserved for: \"Cash. No contingencies. No negotiation.\"\n0:05–0:10 Shot 2, reserved for: \"They were the first Black family to ever buy on that street.\" (visual stays close on the couple; the house itself is not re-shown in this clip)\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:05) — MEDIUM TWO-SHOT, CLOSE ON HANDS — STATIC\nCamera: Static, locked-off, framed from the chest up, keys the visual focus between them.\nAudrey's hand meets the brass keys Desmond offers, both smiling quietly at the small, decisive gesture. Hold the full five seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — MEDIUM CLOSE-UP ON BOTH — SLOW PUSH-IN\nCamera: Very slow push-in, tightening onto both faces, same blurred door and ivy-covered wall softly visible behind them as in Shot 1.\nAudrey looks up from the keys to meet Desmond's eyes, both smiling quietly, still holding the keys together between them. Hold the full five seconds silent.\n\nPERFORMANCE:\nQuiet, understated pride; no exaggerated celebration.\n\nLIP SYNC:\nNo character speaks or moves their lips, in either shot.\n\nAUDIO:\nNo dialogue in either shot — leave both fully clean for narrator dub. Quiet daytime ambience: birdsong, faint breeze. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots. Exactly ONE hard cut.\nCUT 1: At 0:05, as Audrey looks up from the keys to meet Desmond's eyes.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot on hands and keys, static, silent 0:00–0:05.\nSHOT 2 = medium close-up on both faces, slow push-in, silent 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-14_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

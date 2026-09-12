@@ -1,6 +1,6 @@
 ---
 name: skills-hook
-description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF) và prompt video Grok trong sf-board.json của các dự án Hook (HOOK-*.project). Giới hạn tổng thời lượng đúng 2 phút (120 giây), tuyệt đối không dùng nhịp lặng, dù user có gửi cả kịch bản dài (chỉ dùng kịch bản để lấy ngữ cảnh và nhân vật chuẩn).
+description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF) và prompt video Grok trong sf-board.json của các dự án Hook (HOOK-*.project). Mọi clip ở mốc 10 giây, thoại lấp ≥80% mỗi clip (riêng chuỗi thoại ngắn cắt lời qua lại thì tách 2 clip 6 giây); tổng thời lượng suy ra từ số chữ của Hook, tuyệt đối không dùng nhịp lặng, dù user có gửi cả kịch bản dài (chỉ dùng kịch bản để lấy ngữ cảnh và nhân vật chuẩn).
 ---
 
 # Làm phim Hook từ kịch bản
@@ -14,16 +14,14 @@ description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF) và prompt 
 
 | Bước | Việc | Mở file | Xong khi |
 |---|---|---|---|
-| 0 | Đọc kịch bản (lấy ngữ cảnh/nhân vật chuẩn, chốt nội dung đúng 2 phút) | [0-tu-duy-dien-anh.md](references/0-tu-duy-dien-anh.md) · [1-kich-ban.md](references/1-kich-ban.md) | Trích xuất ngữ cảnh/nhân vật & chọn đoạn Hook vừa tròn 2 phút |
-| 1 | Dựng dự án + khung `sf-board.json` | [2-du-lieu-sf-board.md](references/2-du-lieu-sf-board.md) | JSON đủ scene theo mọi heading `##` thuộc 2 phút Hook |
+| 0 | Đọc kịch bản (lấy ngữ cảnh/nhân vật chuẩn, chốt đoạn Hook) | [0-tu-duy-dien-anh.md](references/0-tu-duy-dien-anh.md) · [1-kich-ban.md](references/1-kich-ban.md) | Trích xuất ngữ cảnh/nhân vật & tính số shot từ số chữ của Hook |
+| 1 | Dựng dự án + khung `sf-board.json` | [2-du-lieu-sf-board.md](references/2-du-lieu-sf-board.md) | JSON đủ scene theo mọi heading `##` thuộc đoạn Hook |
 | 2 | Tạo thẻ REF: người · vật · nơi chốn | [3-ref-nhan-vat.md](references/3-ref-nhan-vat.md) · [4-ref-dao-cu.md](references/4-ref-dao-cu.md) · [5-the-dia-diem.md](references/5-the-dia-diem.md) | User duyệt 100% thẻ địa điểm |
 | 3 | Phân rã thế trận → chốt cụm không gian | [6-cum-va-master-sf.md](references/6-cum-va-master-sf.md) | Mỗi cụm có đúng 1 Master SF |
-| 4 | Lập bảng shot chi tiết (đúng 2 phút total) | [7-bang-shot.md](references/7-bang-shot.md) | Bảng shot qua hết §7 Kiểm tra (tổng 120s, 0 nhịp lặng) |
-| 5 | [BỎ CHO HOOK] Không dùng nhịp không thoại | [10-nhip-lang.md](references/10-nhip-lang.md) | Bỏ qua (Hook 0 nhịp lặng) |
+| 4 | Lập bảng shot chi tiết (tính theo số từ) | [7-bang-shot.md](references/7-bang-shot.md) | Bảng shot qua hết §7 Kiểm tra (mọi shot 10s — trừ cặp clip 6s tách từ chuỗi thoại dồn, 0 nhịp lặng) |
 | 6 | Sinh Master SF | [6-cum-va-master-sf.md](references/6-cum-va-master-sf.md) | Mọi Master trỏ `refs.bg` về Thẻ Địa Điểm |
 | 7 | Sinh SF thường | [8-prompt-sf.md](references/8-prompt-sf.md) · [9-quan-chung-nen.md](references/9-quan-chung-nen.md) | Mọi SF trỏ đúng Master của cụm mình |
 | 8 | Viết prompt video | [11-prompt-video.md](references/11-prompt-video.md) | Prompt video qua hết §6 Kiểm tra cuối bước |
-| 9 | [BỎ CHO HOOK] Viết nhạc cho nhịp lặng | [12-nhac-suno.md](references/12-nhac-suno.md) | Bỏ qua (không có nhịp lặng) |
 | ⚠️ | Bất cứ lúc nào khung có trẻ em | [KHI-CO-TRE-EM.md](references/KHI-CO-TRE-EM.md) | — |
 
 ## Bảng chủ quyền — luật nào nằm ở file nào
@@ -32,19 +30,17 @@ description: Viết/sửa prompt ảnh nhân vật, Start Frame (SF) và prompt 
 
 | Khái niệm | File làm chủ |
 |---|---|
-| Triết lý chuyển góc · Drama Flow · vì sao camera AI khác camera thật | `0-tu-duy-dien-anh.md` |
-| Kịch bản gốc · giới hạn 2 phút Hook (kịch bản dài chỉ lấy ngữ cảnh/nhân vật) · thẻ metadata `[BEAT]` · cấm sửa thoại | `1-kich-ban.md` |
-| Schema JSON · mã ID · chuỗi neo `refs` · trần 4 nhân vật · trần ký tự · dòng `KHUNG NGANG 16:9` | `2-du-lieu-sf-board.md` |
+| Triết lý chuyển góc · Drama Flow · vì sao camera AI khác camera thật · nhịp cảm xúc phản diện · đối đầu trực diện từ khung đầu | `0-tu-duy-dien-anh.md` |
+| Kịch bản gốc · giới hạn Hook đếm theo chữ (kịch bản dài chỉ lấy ngữ cảnh/nhân vật) · thẻ metadata `[BEAT]` · cấm sửa thoại · thứ tự Thoại/Narration · tách câu dài quá trần · xử lý khi nối thêm Hook vượt trần 120s | `1-kich-ban.md` |
+| Schema JSON (gồm mảng `shots[]` video) · mã ID · chuỗi neo `refs` · trần 4 nhân vật · trần ký tự · dòng `KHUNG NGANG 16:9` | `2-du-lieu-sf-board.md` |
 | Portrait · full-body · trang phục · mức sống · y phục chức vụ · trang sức | `3-ref-nhan-vat.md` |
 | `REF_PROP_*` — khi nào tạo, chụp thế nào | `4-ref-dao-cu.md` |
 | Thẻ địa điểm · quy hoạch 360° · biến thể giờ · chất ảnh · màu · ánh sáng | `5-the-dia-diem.md` |
 | Cụm không gian · Master SF · khung gối đầu hai cụm | `6-cum-va-master-sf.md` |
-| Danh sách shot · tổng thời lượng 2 phút (120s) · cỡ cảnh · định mức tỉ lệ · dòng `goc` · thời lượng & mật độ thoại · continuity | `7-bang-shot.md` |
-| Prompt SF thường · bố cục · chữ trong khung · hậu cảnh · trạng thái chờ | `8-prompt-sf.md` |
+| Danh sách shot · mọi shot 10s · **chuỗi thoại dồn → tách 2 clip 6s** · cỡ cảnh · định mức tỉ lệ · dòng `goc` · thời lượng & mật độ thoại · continuity · **cấm tái sử dụng ảnh SF (số SF = số shot)** · **người nói phải rõ mặt** | `7-bang-shot.md` |
+| Prompt SF thường · bố cục · chữ trong khung · hậu cảnh · trạng thái chờ · biểu cảm kìm nén trên khung tĩnh | `8-prompt-sf.md` |
 | Quần chúng nền · xe cộ đang chạy · mật độ sinh tồn | `9-quan-chung-nen.md` |
-| Nhịp không thoại — cấm dùng trong Hook (0 nhịp lặng) | `10-nhip-lang.md` |
-| Form prompt video · thang an toàn camera · lip sync · kết clip | `11-prompt-video.md` |
-| Cách viết prompt Suno · 4 vai trò nhạc | `12-nhac-suno.md` |
+| Form prompt video (10s · 6s) · thang an toàn camera · lip sync · kết clip · khối TIMING/không lồng narrator · đồng bộ dòng `CUT 1` · **tầng diễn xuất (hành vi thay tính từ, chống nhân vật bị "đơ")** | `11-prompt-video.md` |
 | An toàn trẻ em · cấm hở hang | `KHI-CO-TRE-EM.md` |
 | Mọi con số đếm được (trần từ, tỉ lệ, định mức) | file luật sở hữu khái niệm đó — **và phải có mặt trong checklist cuối file ấy** |
 
@@ -73,9 +69,7 @@ Luật mới đến thì hỏi: *"khái niệm nào của tôi sở hữu nó?"*
 | Bảng shot | `7-bang-shot.md` §7 |
 | Prompt SF | `8-prompt-sf.md` §7 |
 | Quần chúng nền | `9-quan-chung-nen.md` §6 |
-| Nhịp lặng | `10-nhip-lang.md` §8 |
 | Prompt video | `11-prompt-video.md` §6 |
-| Nhạc | `12-nhac-suno.md` §5 |
 | Khung có trẻ em | `KHI-CO-TRE-EM.md` §3 |
 
 **Hai tầm kiểm — đừng nhầm:**

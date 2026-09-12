@@ -18,6 +18,12 @@
 # bản sao lưu sf-board.json (chỉ có ý nghĩa trên máy đang làm)
 *.json.bak-*
 
+# ── KHO THAM CHIẾU MUSE ─────────────────────────────────────────────────────
+# 349 kịch bản tải về từ sheet MUSE Stories (~15MB text). Là bản sao của nguồn
+# ngoài, không phải chữ do mình viết — tải lại được bất cứ lúc nào từ TITLES.md.
+# Không track: nó làm nặng repo mà không thêm thứ gì cần lưu.
+.claude/skills/skills-kich-ban/kho-muse/
+
 # ── MÔI TRƯỜNG VÀ RÁC ───────────────────────────────────────────────────────
 **/.venv/
 **/__pycache__/

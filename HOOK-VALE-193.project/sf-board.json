@@ -1,0 +1,321 @@
+{
+  "film": "VALE 193 — HAI CHỮ \"TÔI NHẬN\"",
+  "kind": "phim",
+  "updated_at": "2026-09-10 11:46:50",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_MILES_FRONTROW_FULL",
+          "label": "★ MILES TURNER — ÁO SƠ MI ĐI XEM TRẬN ĐẤU (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. 52 tuổi, người sáng tạo ra Turner System, ba mươi năm nay làm bảo vệ ca đêm ở khách sạn casino. Dồn ba tháng lương mua vé hàng ghế đầu. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: điềm tĩnh tuyệt đối, ánh mắt tỉnh và chắc của người từng thắng chín mươi bảy trận liên tiếp, không hốc hác, không cam chịu.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ gốc Phi 52 tuổi, da nâu sẫm ấm có kết cấu thật với lỗ chân lông nhìn rõ, gò má cao, sống mũi thẳng, quai hàm vuông gọn, mắt nâu sẫm nhìn tỉnh và chắc, miệng khép tự nhiên không cười. Tóc xoăn cắt ngắn sát đã muối tiêu bạc đều hai bên thái dương, râu cằm tỉa rất ngắn cũng điểm bạc. Vóc người tầm thước, vai ngang, thân mình gọn và săn chắc kiểu võ sĩ về già, cổ tay và bàn tay to bản dày dặn. Áo sơ mi cổ bẻ màu XANH DA TRỜI NHẠT, vải cotton mỏng đã bạc nhẹ ở cầu vai, được là phẳng phiu kỹ lưỡng còn rõ nếp là dọc tay áo, cài kín toàn bộ cúc kể cả cúc cổ, sơ vin gọn. Quần âu màu xám than cũ, nếp là thẳng, thắt lưng da đen bản nhỏ đã mòn. Giày da đen thấp cổ đánh xi cẩn thận, gót đã mòn vẹt. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_MILES_FRONTROW_FULL_v1.png"
+        },
+        {
+          "id": "REF_VIKTOR_CHAMPION_FULL",
+          "label": "★ VIKTOR GRAVES — TRANG PHỤC THI ĐẤU & ĐAI VÔ ĐỊCH (thẻ neo nhân dạng)",
+          "desc": "Phản diện. 29 tuổi, đương kim vô địch Muay Thai hạng nặng thế giới, 34 trận toàn thắng. Học trò của Nathan Wells — kẻ đã ăn cắp hệ thống của Miles. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: kiêu ngạo quen được tung hô, khinh miệt, chưa từng bị ai nói không.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng 29 tuổi, da sáng hơi ửng đỏ vì vừa khởi động, kết cấu da thật, gò má rộng, quai hàm bạnh vuông, sống mũi thẳng có một nốt gồ nhỏ, mắt xanh xám sắc lạnh, lông mày rậm màu vàng sẫm, môi mỏng khép chặt. Tóc vàng sẫm cắt ngắn, hai bên thái dương cạo sát, phần đỉnh vuốt ngược ra sau. Vóc người rất cao lớn, vai cực rộng, ngực và cơ bụng nổi rõ kiểu võ sĩ đỉnh cao đang vào phom. Mặc áo choàng thi đấu satin màu ĐEN có viền chỉ VÀNG KIM, mở phanh hoàn toàn để lộ ngực trần, tay áo dài đến khuỷu. Quần đùi Muay Thai satin ĐEN có dải hoa văn vàng kim ở cạp và hai bên hông, dài trên gối. Hai bàn tay quấn băng vải trắng đến cổ tay. Chân đi trần. Tay phải cầm một chiếc đai vô địch bản to bằng da đen với mặt đai kim loại mạ vàng chạm nổi hình vương miện, không có chữ nào trên mặt đai. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_VIKTOR_CHAMPION_FULL_v1.png"
+        },
+        {
+          "id": "REF_ELAINE_FRONTROW_FULL",
+          "label": "★ ELAINE TURNER — ÁO LEN ĐI XEM TRẬN ĐẤU (thẻ neo nhân dạng)",
+          "desc": "Con gái Miles, 24 tuổi, sinh viên trường luật, lái xe bốn tiếng tới chỉ vì bố nhờ. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: thông minh, đang cố giữ bình tĩnh nhưng lo cho bố.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Cô gái Mỹ gốc Phi 24 tuổi, da nâu ấm mịn có kết cấu thật, gương mặt trái xoan ưa nhìn, gò má cao, mắt nâu sẫm to và tinh, lông mày dày gọn, môi đầy khép tự nhiên không cười. Tóc xoăn xoắn tự nhiên màu đen, dài ngang vai, buộc lỏng ra sau để vài lọn lòa xòa hai bên thái dương. Đeo kính gọng kim loại mảnh màu vàng đồng, tròng chữ nhật bo góc, kính trong suốt không phản chiếu. Vóc người mảnh, cao trung bình. Áo len cardigan mỏng màu ĐỎ RƯỢU VANG, cài hai cúc giữa, mặc ngoài áo sơ mi lụa màu kem cổ tròn. Quần jeans xanh đen ống đứng, giày da bệt màu nâu hạt dẻ. Đeo một sợi dây chuyền vàng mảnh có mặt tròn nhỏ nằm rõ trên nền áo kem, và một đôi khuyên tai nụ vàng nhỏ. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_ELAINE_FRONTROW_FULL_v1.png"
+        },
+        {
+          "id": "REF_BG_ARENA_NIGHT",
+          "label": "BỐI CẢNH — Nhà thi đấu Grand Fury Championship, đêm chung kết (không người ở hàng ghế đầu)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — nhà thi đấu mười lăm nghìn chỗ nơi Viktor sỉ nhục Miles ngay tại hàng ghế đầu. Cả hai Master SF của Hook đều neo vào thẻ này.",
+          "prompt": "Bối cảnh ở Mỹ. Nhà thi đấu Muay Thai lớn nhất Bắc Mỹ trong đêm chung kết, trước giờ bung chuông — đèn khán đài đã hạ, ánh sáng dồn hết vào võ đài giữa sàn. TRƯỚC MẶT là võ đài vuông kê cao ngang ngực người đứng: mặt bạt XANH CÔ-BAN căng phẳng, ba sợi dây chão bọc nhựa trắng, bốn cột góc bọc đệm đỏ và xanh, váy bạt chân đài xám than trơn không nhãn hiệu. BÊN TRÁI là lối đi bậc thang lên khán đài dưới, một cần cẩu camera truyền hình trên ray, và góc đài bọc đệm đỏ. BÊN PHẢI là bàn trọng tài bấm giờ phủ nỉ đen có chiếc chuông đồng, bàn bình luận, và một hàng phóng viên ảnh quỳ sát chân đài với ống kính dài. SAU LƯNG là dãy ghế nhựa đen của khu VIP hàng đầu, rồi các tầng khán đài dựng đứng chật kín khoảng mười lăm nghìn khán giả đang đứng, trên cao treo cụm bảng điểm bốn mặt và vòm đèn LED ở miệng đường hầm. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Bốn dàn spotlight trắng lạnh từ trần rọi thẳng xuống mặt bạt tạo quầng sáng nóng ranh giới rõ; hàng ghế đầu nhận ánh trắng hắt xuống vừa đủ đọc rõ mặt người; khán đài xa chìm trong lớp tối xanh lam lấm tấm ánh điện thoại. Bạt xanh cô-ban, đệm góc đỏ, dây chão trắng, ghế nhựa đen, lan can kim loại xám lạnh. Tổng thể LẠNH, tương phản cao có kiểm soát, không cháy trắng, không u tối bệt — phải KHÁC HẲN ánh vàng-xám tù túng của hành lang khách sạn casino trong các cảnh sau.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_ARENA_NIGHT_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Nhà vô địch sỉ nhục người đàn ông da đen hàng ghế đầu, không biết đó là thầy của thầy mình",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Viktor nhoài qua dây chão gằn xuống hàng ghế đầu, Miles đã khoá mắt đối mặt",
+          "goc": "Cinematic Wide Two-Shot từ lối đi cạnh hàng ghế đầu, Viktor Graves phải khung trên võ đài, Miles Turner và Elaine Turner trái khung dưới hàng ghế đầu, CẢ BA RÕ MẶT, Miles và Viktor đã khoá mắt vào nhau",
+          "pose": {
+            "zone": "Mép võ đài phía hàng ghế VIP đầu tiên; máy đứng ở lối đi bên trái hàng ghế đầu",
+            "who": {
+              "VIKTOR": "Đứng trên sàn đài, nhoài hẳn người ra ngoài dây chão trên, cằm hất xuống hàng ghế đầu, mặt gằn lại đỏ bừng vì giận, khoé miệng trề khinh miệt",
+              "MILES": "Ngồi hàng ghế đầu, đã quay hẳn người đối mặt trực tiếp lên phía Viktor, ánh mắt khoá chặt vào Viktor, cằm giữ ngang, chưa hề né tránh",
+              "ELAINE": "Ngồi sát bên trái Miles, người hơi cứng lại, mắt ngước nhìn lên Viktor"
+            },
+            "dist": "Máy cách khoảng bảy mét, ngang tầm mắt người đứng, lấy chéo cả mép võ đài bên phải và hàng ghế đầu bên trái",
+            "hands": {
+              "VIKTOR": "Nắm đấm phải siết chặt chiếc đai vô địch vắt qua dây chão trên; tay trái cầm một chai nước nhựa trong đã mở nắp, buông thõng chưa nhấc lên",
+              "MILES": "Hai bàn tay đặt ngay ngắn lên đầu gối",
+              "ELAINE": "Hai bàn tay siết vào nhau đặt trên đùi"
+            }
+          },
+          "prompt": "Cinematic wide two-shot, photorealistic, máy đặt ở lối đi bên trái hàng ghế đầu, ngang tầm mắt người đứng, cách khoảng bảy mét, lấy chéo cả mép võ đài bên phải và hàng ghế đầu bên trái. Viktor Graves ở phần phải khung, đứng trên sàn đài nhoài hẳn người ra ngoài dây chão trên, cằm hất xuống hàng ghế đầu, mặt gằn lại đỏ bừng, khoé miệng trề khinh miệt; nắm đấm phải siết chặt chiếc đai vô địch vắt qua dây chão, tay trái cầm chai nước nhựa trong đã mở nắp, buông thõng. Miles Turner ngồi ở hàng ghế đầu bên trái khung, đã quay hẳn người đối mặt trực tiếp lên phía Viktor, ánh mắt khoá chặt vào Viktor, cằm giữ ngang, hai bàn tay đặt lên đầu gối. Elaine Turner ngồi sát bên trái Miles, người hơi cứng lại, mắt ngước lên Viktor. Hai nhóm tách bạch bởi khoảng trống giữa mép đài và hàng ghế. Miles và Elaine mới chỉ nhận ánh hắt ra từ quầng đèn võ đài, CHƯA có cột spotlight nào rọi trúng họ. Sau lưng hai cha con là các hàng ghế khán đài dưới chật kín khán giả đang đứng, nhiều người giơ điện thoại quay về phía võ đài, vài người ngoái nhìn xuống hàng ghế đầu, tất cả ngoài nét. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL",
+              "REF_ELAINE_FRONTROW_FULL"
+            ],
+            "bg": "REF_BG_ARENA_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · Medium Two-Shot qua dây chão, spotlight trùm lên hai cha con, Viktor gằn xuống",
+          "goc": "Medium Two-Shot qua dây chão, Viktor Graves nửa trên phải khung, Miles Turner nửa dưới giữa khung, Elaine Turner sát bên trái Miles, CẢ BA RÕ MẶT",
+          "pose": {
+            "zone": "Mép võ đài phía hàng ghế đầu; máy chếch bên phải hàng ghế đầu chĩa chéo lên",
+            "who": {
+              "VIKTOR": "Vẫn nhoài người qua dây chão trên, mặt đỏ bừng, quai hàm bạnh, mắt nheo lại khinh miệt, đang gằn giọng xuống",
+              "MILES": "Ngồi trên ghế, ngửa mặt nhìn thẳng lên Viktor, cằm giữ ngang, người không nhúc nhích, đã nằm gọn trong cột đèn spotlight trắng",
+              "ELAINE": "Ngồi sát bên trái Miles, người hơi rướn về trước, mắt ngước nhìn lên Viktor, cùng nằm trong cột spotlight"
+            },
+            "dist": "Máy cách khoảng hai mét rưỡi, đặt ngang tầm ngực Miles, chĩa chéo lên mép đài",
+            "hands": {
+              "VIKTOR": "Nắm đấm phải siết chiếc đai vô địch vắt qua dây chão, tay trái cầm chai nước nhựa trong đã mở nắp buông thõng",
+              "MILES": "Hai bàn tay đặt lên đầu gối",
+              "ELAINE": "Hai bàn tay siết vào nhau đặt trên đùi"
+            }
+          },
+          "prompt": "Medium two-shot qua dây chão, máy chếch bên phải hàng ghế đầu, ngang tầm ngực Miles, cách hai mét rưỡi, chĩa chéo lên. Nửa trên phải khung là Viktor Graves nhoài người qua dây chão trên, mặt đỏ bừng, quai hàm bạnh, mắt nheo khinh miệt, gằn giọng xuống; nắm đấm phải siết đai vô địch vắt qua dây chão, tay trái cầm chai nước nhựa trong đã mở nắp. Nửa dưới giữa khung là Miles Turner ngồi trên ghế, ngửa mặt nhìn thẳng lên Viktor, cằm giữ ngang, hai tay đặt trên đầu gối, không nhúc nhích. Elaine Turner ngồi sát bên trái Miles, rõ mặt, hơi rướn về trước, hai tay siết vào nhau trên đùi, mắt ngước lên Viktor. Cột spotlight trắng gắt từ trần đã trùm lên cả hai cha con, viền sáng rõ trên tóc muối tiêu và vai áo Miles, tách họ khỏi lớp ghế tối phía sau. Sợi dây chão trắng vắt ngang giữa khung chia tách hai bên. Hậu cảnh sau lưng hai cha con là các hàng ghế khán đài dưới với những dáng khán giả đã quay đầu nhìn về phía họ, xoá phông mạnh, ngoài nét. Không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL",
+              "REF_ELAINE_FRONTROW_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Dirty single cận trung Miles ngửa mặt lên, thều thào đúng một câu",
+          "goc": "Dirty Single / Medium Close-Up, Miles Turner RÕ MẶT giữa khung; cẳng tay quấn băng và nắm đấm của Viktor Graves bám dây chão làm tiền cảnh mờ góc trên trái",
+          "pose": {
+            "zone": "Hàng ghế đầu ngay dưới mép võ đài; máy đặt ngay trước mặt Miles",
+            "who": {
+              "MILES": "Ngồi nguyên trên ghế, ngửa mặt nhìn lên, môi hé rất khẽ đang thốt ra một câu rất nhỏ, quai hàm giữ mềm, ánh mắt tỉnh và chắc",
+              "VIKTOR": "Chỉ còn cẳng tay quấn băng, nắm đấm siết dây chão và một mảng vai để trần ở góc trên trái tiền cảnh, mờ ngoài tiêu điểm"
+            },
+            "dist": "Máy cách mặt Miles khoảng một mét hai, ngang tầm mắt anh, hơi chếch lên",
+            "hands": {
+              "MILES": "Hai bàn tay vẫn đặt yên trên đầu gối, ngoài khung dưới",
+              "VIKTOR": "Nắm đấm quấn băng trắng siết chặt sợi dây chão, mờ ở tiền cảnh"
+            }
+          },
+          "prompt": "Medium close-up, máy đặt ngay trước mặt Miles Turner ngang tầm mắt anh, cách khoảng một mét hai, hơi chếch lên. Miles Turner RÕ NÉT giữa khung, ngửa mặt nhìn lên, ánh spotlight trắng gắt rọi thẳng làm nổi rõ kết cấu da và tóc muối tiêu; môi hé rất khẽ đang thốt ra một câu rất nhỏ, quai hàm giữ mềm, ánh mắt tỉnh và chắc, tuyệt đối không hoảng. Cổ áo sơ mi cài kín, thẳng nếp, còn hoàn toàn khô. Góc trên trái tiền cảnh là cẳng tay quấn băng vải trắng cùng nắm đấm của Viktor Graves đang siết sợi dây chão, và một mảng vai để trần, tất cả mờ nhoè ngoài tiêu điểm, ép chặt bố cục vào mặt Miles. Sau lưng Miles chỉ có mảng tối của lưng ghế nhựa đen và duy nhất một dáng khán giả mờ sát sau vai, xoá phông rất mạnh. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Viktor đã ngồi xổm xuống mép đài ngang mặt Miles, chai nước chưa nhấc lên",
+          "goc": "Cinematic Wide Two-Shot hạ trục ngang tầm ghế ngồi, Viktor Graves phải khung ngồi xổm ở mép đài, Miles Turner giữa khung và Elaine Turner trái khung ở hàng ghế đầu, CẢ BA RÕ MẶT",
+          "pose": {
+            "zone": "Mép sàn võ đài sát hàng ghế đầu; máy hạ xuống ngang tầm ghế ngồi ở lối đi bên trái",
+            "who": {
+              "VIKTOR": "Đã ngồi xổm hẳn xuống ở mép sàn đài, mặt hạ xuống ngang tầm mặt Miles qua hai sợi dây chão dưới, mặt gằn lại đắc thắng, khoé miệng nhếch, mắt khoá vào Miles",
+              "MILES": "Ngồi nguyên trên ghế, toàn bộ đầu và thân trên nằm gọn trong khung, mặt ngửa nhìn thẳng vào Viktor, tóc và áo còn hoàn toàn khô",
+              "ELAINE": "Ngồi sát bên trái Miles, người rướn nhẹ về phía trước, mắt nhìn Viktor"
+            },
+            "dist": "Máy cách khoảng năm mét, hạ ngang tầm ghế ngồi, lấy trọn khoảng cách giữa mép võ đài và hàng ghế đầu",
+            "hands": {
+              "VIKTOR": "Chiếc đai vô địch vắt qua đầu gối phải; tay trái cầm chai nước nhựa trong đã mở nắp, hạ ngang hông, CHƯA nhấc lên và CHƯA nghiêng",
+              "MILES": "Hai bàn tay đặt lên đầu gối",
+              "ELAINE": "Hai bàn tay siết vào nhau đặt trên đùi"
+            }
+          },
+          "prompt": "Cinematic wide two-shot, photorealistic, máy hạ xuống ngang tầm ghế ngồi ở lối đi bên trái, cách khoảng năm mét, lấy trọn khoảng cách giữa mép võ đài và hàng ghế đầu. Viktor Graves bên phải khung đã ngồi xổm hẳn xuống ở mép sàn đài, mặt hạ ngang tầm mặt Miles, chỉ cách qua hai sợi dây chão dưới; mặt gằn lại đắc thắng, khoé miệng nhếch, mắt khoá vào Miles. Chiếc đai vô địch vắt qua đầu gối phải anh ta; tay trái cầm chai nước nhựa trong đã mở nắp, hạ ngang hông, CHƯA nhấc lên và CHƯA nghiêng. Miles Turner ngồi ở hàng ghế đầu giữa khung, TOÀN BỘ đầu, mặt và thân trên nằm gọn trong khung không sát mép; mặt ngửa nhìn thẳng vào Viktor, tóc và áo còn hoàn toàn khô, cổ áo thẳng nếp. Elaine Turner ngồi sát bên trái Miles, hai bàn tay siết vào nhau trên đùi, mắt nhìn Viktor. Cột spotlight trắng gắt trùm lên cả hai cha con. Sau lưng ba người là các hàng ghế khán đài dưới chật kín khán giả đang đứng dồn về phía trước, nhiều người giơ điện thoại quay, tất cả ngoài nét. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL",
+              "REF_ELAINE_FRONTROW_FULL"
+            ],
+            "bg": "REF_BG_ARENA_NIGHT"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Cận mặt Miles ướt đẫm nước, hơi thở đổi nhịp trước hai chữ TÔI NHẬN",
+          "goc": "Close-Up / Dirty Single, Miles Turner RÕ MẶT chiếm gần trọn khung; đầu gối và cẳng tay quấn băng của Viktor Graves làm tiền cảnh mờ mép phải",
+          "pose": {
+            "zone": "Hàng ghế đầu ngay dưới mép võ đài; máy đặt ngay trước mặt Miles",
+            "who": {
+              "MILES": "Ngồi nguyên trên ghế, mặt và tóc ướt đẫm nước, hai mắt mở nhìn thẳng lên Viktor, không chớp, lồng ngực nâng lên rất chậm và sâu",
+              "VIKTOR": "Chỉ còn đầu gối và cẳng tay quấn băng ở mép phải tiền cảnh, mờ ngoài tiêu điểm"
+            },
+            "dist": "Máy cách mặt Miles khoảng chín mươi phân, ngang tầm mắt anh",
+            "hands": {
+              "MILES": "Bàn tay phải vừa vuốt xong qua mặt, còn để hờ ngang cằm, các ngón ướt",
+              "VIKTOR": "Cẳng tay quấn băng trắng tì lên đầu gối, mờ ở tiền cảnh"
+            }
+          },
+          "prompt": "Close-up, máy đặt ngay trước mặt Miles Turner ngang tầm mắt, cách khoảng chín mươi phân. Mặt Miles Turner chiếm gần trọn khung, RÕ NÉT: tóc muối tiêu bết nước dính xuống trán, nước chảy thành từng vệt xuống thái dương, gò má và quai hàm rồi nhỏ giọt khỏi cằm; cổ áo và cầu vai áo sơ mi ướt sẫm loang rộng. Bàn tay phải anh vừa vuốt xong qua mặt, còn để hờ ngang cằm, các ngón ướt. Hai mắt mở nhìn thẳng lên, tròng mắt tỉnh và chắc, không chớp; lồng ngực nâng lên rất chậm và sâu. Mắt là mắt người thật bình thường, tròng trắng và tròng đen tự nhiên, chỉ có nước chảy trên da; KHÔNG có ánh sáng đỏ phát ra từ mắt, KHÔNG có vệt màu chảy dọc gò má. Mép phải tiền cảnh là đầu gối và cẳng tay quấn băng trắng của Viktor Graves đang ngồi xổm, mờ nhoè ngoài tiêu điểm. Sau lưng Miles chỉ có mảng tối lưng ghế nhựa đen và một dáng khán giả mờ sát sau vai, xoá phông rất mạnh.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-06_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Cận trung Viktor vẫn nhếch mép đắc thắng, chai nước đã rỗng móp trong tay",
+          "goc": "Medium Close-Up / Dirty Single, Viktor Graves RÕ MẶT lệch phải khung; vai áo ướt sẫm và gáy Miles Turner làm tiền cảnh mờ mép trái",
+          "pose": {
+            "zone": "Mép sàn võ đài sát hàng ghế đầu; máy đặt ngang tầm mắt Miles nhìn chéo lên",
+            "who": {
+              "VIKTOR": "Vẫn ngồi xổm ở mép sàn đài, ngực ưỡn ra, cằm hất cao, khoé miệng nhếch thành nụ cười đắc thắng lạnh lùng, mắt nheo lại nhìn xuống, không một nét nao núng",
+              "MILES": "Chỉ còn một mảng vai áo ướt sẫm và gáy tóc muối tiêu ở mép trái tiền cảnh, mờ ngoài tiêu điểm, đứng yên"
+            },
+            "dist": "Máy cách Viktor khoảng một mét ba, ngang tầm mắt Miles, chĩa chéo lên mép đài",
+            "hands": {
+              "VIKTOR": "Tay trái lủng lẳng chiếc chai nhựa trong ĐÃ RỖNG, thành chai móp lại vì bị bóp; đai vô địch vẫn vắt qua đầu gối phải",
+              "MILES": "Không thấy tay trong khung"
+            }
+          },
+          "prompt": "Medium close-up, máy đặt ngang tầm mắt Miles nhìn chéo lên mép đài, cách Viktor khoảng một mét ba. Viktor Graves RÕ NÉT lệch về phải khung, vẫn ngồi xổm ở mép sàn đài, ngực ưỡn ra, cằm hất cao, khoé miệng nhếch thành nụ cười đắc thắng lạnh lùng, mắt nheo lại nhìn xuống; không một nét nao núng nào trên mặt. Tay trái anh ta lủng lẳng chiếc chai nhựa trong ĐÃ RỖNG, thành chai móp lại vì bị bóp; đai vô địch vẫn vắt qua đầu gối phải. Mồ hôi và ánh đèn đài làm bóng vai cùng ngực trần dưới lớp áo choàng satin mở phanh. Mép trái tiền cảnh là một mảng vai áo ướt sẫm và gáy tóc muối tiêu của Miles Turner, mờ nhoè ngoài tiêu điểm, đứng yên. Hậu cảnh sau lưng Viktor là mặt bạt võ đài và cột góc bọc đệm nằm trong quầng đèn trắng gắt, cùng vài dáng người mờ ở góc đài, hoàn toàn ngoài nét. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_MILES_FRONTROW_FULL",
+              "REF_VIKTOR_CHAMPION_FULL"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "VIKTOR: \"You think you're qualified to lecture my master? With those scrawny arms and skeletal legs?\"\nNARRATION: Viktor Graves clenched his belt, knuckles white.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVIKTOR - 29-year-old white man, wearing an open black satin robe with gold trim over a bare chest, championship belt in his right fist, a clear open water bottle in his left hand, leaning out over the ring ropes.\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt, seated in the front row below him, squared to face him.\nELAINE - 24-year-old Black woman, wearing a wine-burgundy cardigan, seated at MILES's left, still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nViktor hurls his insult down at the old man in the front row. Miles never looks away.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 Viktor's line. 0:05-0:08 silent, reserved for: \"Viktor Graves clenched his belt, knuckles white.\" 0:08-0:10 silent hold.\n\nDIALOGUE ORDER:\nVIKTOR\n\nSHOT 1 (0:00-0:05) - WIDE TWO-SHOT - SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward the ring edge. No handheld shake.\nViktor leans further out over the top rope, jabbing his chin down at the front row. Miles sits squared to him, chin level, eyes locked.\nVIKTOR - furious, publicly contemptuous: \"You think you're qualified to lecture my master? With those scrawny arms and skeletal legs?\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER WIDE ON THE RING EDGE - VERY SLOW PUSH-IN\nCamera: The push-in tightens on Viktor.\n0:05-0:08: Viktor's right fist closes on the belt until the knuckles blanch, the leather twisting in his grip. Silent.\n0:08-0:10: he holds the sneer. A hard white spotlight beam begins to swing down off the ring toward the front row. Silent.\n\nPERFORMANCE:\nViktor is loud and entitled, playing to fifteen thousand people. Miles is contained - stillness, not fear. Elaine stays motionless. Background spectators only shift in place; do not build a new crowd.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Viktor speaks, Miles and Elaine listen silently with mouths closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00-0:05: Viktor's dialogue only, clear natural American English, shouted. 0:05-0:10: no dialogue, faint arena ambience - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Viktor finishes: \"...and skeletal legs?\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in.\nSHOT 2 = tighter wide on the ring edge, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Spotlight swept toward the older Black man in the front row. Fifteen thousand heads turned.\nVIKTOR: \"A destitute failure sneaking in to ride my coattails.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVIKTOR - 29-year-old white man, wearing an open black satin robe with gold trim over a bare chest, championship belt in his right fist, a clear open water bottle in his left hand, leaning out over the ring ropes.\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt, seated in the front row below him, squared to face him.\n\nELAINE - 24-year-old Black woman, wearing a wine-burgundy cardigan, seated at MILES's left, still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe spotlight finds Miles and the building turns to look. Viktor names him publicly.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:05 silent for: \"Spotlight swept toward the older Black man in the front row. Fifteen thousand heads turned.\" 0:05-0:08 Viktor's line. 0:08-0:10 silent hold.\n\nDIALOGUE ORDER:\nVIKTOR\n\nSHOT 1 (0:00-0:05) - MEDIUM TWO-SHOT THROUGH THE ROPES - SLOW PUSH-IN\nCamera: Very slow push-in through the white rope line.\nThe hard white spotlight tightens and burns brighter on Miles's face and shoulders. Behind him the blurred rows of spectators turn their heads toward him, wave after wave. Miles keeps his eyes up, does not squint away; Elaine does not move. Viktor holds the sneer above the rope.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER ON VIKTOR - VERY SLOW PUSH-IN\nCamera: The frame tightens on Viktor's face. Miles and Elaine stay in the lower frame, lit and still.\nViktor drops his voice colder, savouring it.\nVIKTOR - cold, dismissive: \"A destitute failure sneaking in to ride my coattails.\"\n0:08-0:10: he lets it sit, chin high. Silent.\n\nPERFORMANCE:\nViktor is enjoying the room. Miles absorbs the light and the stares without a single defensive gesture. Background spectators only turn their heads; do not build a new crowd, keep them blurred.\n\nLIP SYNC:\nOnly Viktor moves his lips, and only in Shot 2. Miles listens silently with his mouth closed throughout. In Shot 1 no character speaks and no lips move. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00-0:05: no dialogue, faint arena ambience - leave clean for narrator dub. 0:05-0:08: Viktor's dialogue, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, the moment the last heads behind Miles finish turning toward him.\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot through the ropes, slow push-in.\nSHOT 2 = tighter on Viktor, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v3.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: Miles looked up. Barely a whisper.\nMILES: \"I only came to watch you demonstrate my techniques.\"\nNARRATION: Boos erupted.\nNARRATION: Viktor, purple with rage, stepped closer.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt, seated in the front row, lit and sharp, looking up.\nVIKTOR - 29-year-old white man, present only as a blurred white-wrapped forearm, fist and bare shoulder in the upper-left foreground, face never visible, gripping the ring rope.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nMiles answers in a voice almost nobody can hear. The building answers with noise, and Viktor presses closer.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:02 silent, reserved for: \"Miles looked up. Barely a whisper.\" 0:02-0:05 Miles's line. 0:05-0:06 silent, reserved for: \"Boos erupted.\" 0:06-0:08 silent, reserved for: \"Viktor, purple with rage, stepped closer.\" 0:08-0:10 silent hold.\n\nDIALOGUE ORDER:\nMILES\n\nSHOT 1 (0:00-0:05) - DIRTY SINGLE MEDIUM CLOSE-UP ON MILES - VERY SLOW PUSH-IN\nCamera: Very slow push-in on Miles's face. The blurred forearm stays anchored in the upper-left foreground.\n0:00-0:02: Miles lifts his chin a fraction, eyes settling on the man above him. Silent.\nMILES - quiet, almost a whisper, no bitterness: \"I only came to watch you demonstrate my techniques.\"\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTER CLOSE-UP ON MILES - STATIC\nCamera: Static locked-off tripod, closer on Miles's face. Viktor's blurred forearm and shoulder stay in the upper-left foreground, never in focus.\n0:05-0:06: Miles's eyes flick a fraction wider as the noise hits him, then settle again. Silent.\n0:06-0:08: the blurred forearm and shoulder press further down into frame as Viktor leans in, crowding the top of the shot. Miles does not lean back. Silent.\n0:08-0:10: he holds absolutely still. Silent.\n\nPERFORMANCE:\nMiles is quiet and unhurried, stating a plain fact. Viktor stays a looming blur; his face is never revealed in this clip.\n\nLIP SYNC:\nOnly Miles moves his lips, and only in Shot 1. Viktor's face is never seen and he does not speak. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:02-0:05: Miles's dialogue only, clear natural American English, very quiet. Other windows: no dialogue, crowd jeering and ambience - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Miles finishes: \"...my techniques.\"\n\nCAMERA SUMMARY:\nSHOT 1 = dirty single medium close-up on Miles, very slow push-in.\nSHOT 2 = tighter close-up on Miles, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v2.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "VIKTOR: \"Then Touch Me, $5M Is Yours!. Let's see a filthy Black man take down the champion.\"\nMILES: \"Didn't come to claim credit. Just to watch.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVIKTOR - 29-year-old white man, wearing an open black satin robe with gold trim over a bare chest, championship belt in his right fist, a clear open water bottle in his left hand, leaning out over the ring ropes.\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt, seated in the front row below him, squared to face him.\n\nELAINE - 24-year-old Black woman, wearing a wine-burgundy cardigan, seated at MILES's left, still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nViktor turns the humiliation into a public wager. Miles refuses the bait.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:06 Viktor's line. 0:06-0:09 Miles's line. 0:09-0:10 silent.\n\nDIALOGUE ORDER:\nVIKTOR -> MILES\n\nSHOT 1 (0:00-0:06) - MEDIUM TWO-SHOT THROUGH THE ROPES - STATIC\nCamera: Static locked-off tripod, the white rope line held across the middle of frame.\nViktor throws the offer out loud enough for the whole lower bowl, slapping the belt against the rope on the last word. Miles keeps his eyes on him.\nVIKTOR - jeering, performing for the crowd: \"Then Touch Me, $5M Is Yours!. Let's see a filthy Black man take down the champion.\"\n\nHARD CUT.\n\nSHOT 2 (0:06-0:10) - TIGHTER TWO-SHOT - VERY SLOW PUSH-IN\nCamera: Very slow push-in, tightening on both faces across the rope.\nMiles answers without raising his voice, chin still level.\nMILES - even, unhurried, no challenge in it: \"Didn't come to claim credit. Just to watch.\"\n0:09-0:10: Viktor's smile drops. He sinks into a low crouch on the ring edge, face level with Miles's. End the clip on that crouch.\n\nPERFORMANCE:\nViktor plays to the room; Miles answers only to Viktor. Elaine never moves. Background spectators only shift in place; do not build a new crowd.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Viktor speaks, Miles and Elaine listen silently with mouths closed. When Miles speaks, Viktor listens with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\n0:00-0:09: character dialogue only, clear natural American English. 0:09-0:10: no dialogue, arena ambience - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Viktor finishes: \"...take down the champion.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot through the ropes, static.\nSHOT 2 = tighter two-shot, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "VIKTOR: \"Stop the chatter — prove it!\"\nNARRATION: Viktor lunged and splashed water onto Miles.\nNARRATION: The arena held its breath.\nNARRATION: Miles wiped his face. Looked at his daughter. Then at Viktor.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVIKTOR - 29-year-old white man, wearing an open black satin robe with gold trim over a bare chest, crouched on the ring edge, belt across his right knee, a clear open water bottle in his left hand.\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt, seated in the front row directly opposite him, fully inside frame.\nELAINE - 24-year-old Black woman, wearing a wine-burgundy cardigan, seated at MILES's left, still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nViktor throws the water in the old man's face. Nobody in the arena moves.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:02 Viktor's line. 0:02-0:04 silent for: \"Viktor lunged and splashed water onto Miles.\" 0:04-0:06 silent for: \"The arena held its breath.\" 0:06-0:10 silent for: \"Miles wiped his face. Looked at his daughter. Then at Viktor.\"\n\nDIALOGUE ORDER:\nVIKTOR\n\nSHOT 1 (0:00-0:04) - WIDE TWO-SHOT AT SEAT LEVEL - STATIC\nCamera: Static locked-off tripod, all three held in view.\nVIKTOR - snarling, out of patience: \"Stop the chatter - prove it!\"\n0:02-0:04: he lunges from the crouch and swings the open bottle, throwing the water full into Miles's face, soaking his hair, forehead and collar. Miles does not flinch and does not raise his hands. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) - TIGHTER WIDE - VERY SLOW PUSH-IN\nCamera: Very slow push-in on the front row, all three still in frame.\n0:04-0:06: nothing moves. Elaine is frozen mid-breath, the blurred rows behind stopped still. Silent.\n0:06-0:10: Miles raises his right hand and wipes slowly down his face. He turns his head to Elaine on his left, holds her eyes a beat, then turns back to Viktor. Silent.\n\nPERFORMANCE:\nViktor's throw is fast and casual. Miles takes it like weather. Elaine's fear reads as stillness. Background spectators only stop and stare; do not build a new crowd.\n\nLIP SYNC:\nOnly Viktor moves his lips, only at 0:00-0:02. Miles and Elaine never speak. In all silent windows, mouths remain closed with lips still.\n\nAUDIO:\n0:00-0:02: Viktor's dialogue, clear natural American English. 0:02-0:10: no dialogue, the wet slap of water and a dropping arena hush only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant the water lands on Miles's face.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot at seat level, static.\nSHOT 2 = tighter wide, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: Breathing shifted — calm, steady, deep. The breath of a bygone era.\nMILES: \"I accept.\"\nNARRATION: Little did Viktor know — this defiance would be something he'd regret forever.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt soaked dark at the collar and shoulders, hair and face streaming with water, seated in the front row.\nVIKTOR - 29-year-old white man, present only as a blurred bare knee and white-wrapped forearm at the right frame edge, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nSomething old changes in the way the soaked man is breathing, and then he says two words.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:04 silent, reserved for: \"Breathing shifted - calm, steady, deep. The breath of a bygone era.\" 0:04-0:05 Miles's line. 0:05-0:10 silent, reserved for: \"Little did Viktor know - this defiance would be something he'd regret forever.\"\n\nDIALOGUE ORDER:\nMILES\n\nSHOT 1 (0:00-0:04) - CLOSE-UP ON MILES - VERY SLOW PUSH-IN\nCamera: Very slow push-in on Miles's face. The blurred knee and forearm stay at the right frame edge, never in focus.\nWater still runs off his jaw. His right hand lowers away from his chin. His chest lifts once, very slowly and very deeply, then settles - the rhythm of his shoulders changes completely. His eyes never leave the man above him. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:04-0:10) - TIGHTER CLOSE-UP ON MILES - STATIC\nCamera: Static locked-off tripod, tight on his eyes and mouth.\nMILES - low, precise, absolutely calm: \"I accept.\"\n0:05-0:10: he holds the look without blinking, jaw relaxed, breathing slow and even. Silent.\n\nPERFORMANCE:\nNo anger, no tremble, no tears. The change is entirely in the breathing and the stillness of the eyes. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Water and wet skin only.\n\nLIP SYNC:\nOnly Miles moves his lips, and only at 0:04-0:05. Viktor's face is never seen and he does not speak. During all silent windows, mouths remain closed with lips still.\n\nAUDIO:\n0:04-0:05: Miles's dialogue, clear natural American English, low and quiet. All other windows: no dialogue, distant arena hush only - leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, on the top of that one deep breath, just before he speaks.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Miles, very slow push-in.\nSHOT 2 = tighter close-up on Miles, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Have you ever watched a man destroy a champion using the exact techniques that champion thought were his own —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nVIKTOR - 29-year-old white man, wearing an open black satin robe with gold trim over a bare chest, crouched on the ring edge, belt across his right knee, an empty crushed plastic bottle dangling from his left hand.\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt soaked dark, present only as a blurred wet shoulder and the back of his head at the left frame edge, face never visible, completely still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe champion has no idea what he has just agreed to. He is still enjoying himself.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:06 silent, reserved for: \"Have you ever watched a man destroy a champion using the exact techniques that champion thought were his own -\" 0:06-0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:06) - MEDIUM CLOSE-UP ON VIKTOR - VERY SLOW PUSH-IN\nCamera: Very slow push-in on Viktor's face from below. Miles's blurred wet shoulder anchors the left frame edge and never comes into focus.\nStill crouched on the ring edge, Viktor lets the sneer spread. He tips his chin higher and rolls the crushed bottle once between his fingers, entirely satisfied with himself. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:06-0:10) - TIGHTER MEDIUM CLOSE-UP ON VIKTOR - STATIC\nCamera: Static locked-off tripod, closer on his eyes and mouth.\nHe holds the same cold, triumphant expression, breathing easily, looking down at the man in front of him. Nothing in his face cracks. Silent.\n\nPERFORMANCE:\nViktor stays at the peak of his arrogance for the whole clip - contemptuous, relaxed, certain he has already won. No doubt, no hesitation, no flicker of worry. Background spectators only shift in place; do not build a new crowd.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Distant arena ambience only - leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, on the moment Viktor tips his chin to its highest point.\n\nCAMERA SUMMARY:\nSHOT 1 = medium close-up on Viktor, very slow push-in.\nSHOT 2 = tighter medium close-up on Viktor, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, drop a comment and hit that like, let me take you back to where it all began.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nMILES - 52-year-old Black man, wearing a pale sky-blue dress shirt soaked dark at the collar and shoulders, hair and face streaming with water, seated in the front row.\nVIKTOR - 29-year-old white man, present only as a blurred bare knee and white-wrapped forearm at the right frame edge, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nHold on the soaked man in the front row. This is where the whole story turns.\n\nTIMING (no narrator generated - reserve clean silent audio for a narrator track added later in post):\n0:00-0:07 silent, reserved for: \"because you are about to, drop a comment and hit that like, let me take you back to where it all began.\" 0:07-0:10 silent hold.\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00-0:05) - CLOSE-UP ON MILES - VERY SLOW PUSH-IN\nCamera: Very slow push-in on Miles's face. The blurred knee and forearm stay at the right frame edge, never in focus.\nHis right hand falls away from his jaw and out of the bottom of frame. Water keeps running down his temple and off his chin. His eyes stay locked upward, unblinking. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:05-0:10) - TIGHTEST CLOSE-UP ON MILES'S EYES AND UPPER FACE - STATIC\nCamera: Static locked-off tripod, framed on the eyes and the bridge of the nose.\nHe does not blink and does not look away. One slow, deep breath lifts and lowers the frame almost imperceptibly. Silent.\n\nPERFORMANCE:\nTotal composure. The face gives nothing away except certainty. Natural human eyes only: no glowing eyes, no colored light on the face, no streaks or marks down the cheeks. Water and wet skin only.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed with lips still throughout.\n\nAUDIO:\nNo dialogue at all. Distant arena ambience only - leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, as his hand finishes clearing the bottom of frame.\n\nCAMERA SUMMARY:\nSHOT 1 = close-up on Miles, very slow push-in.\nSHOT 2 = tightest close-up on Miles's eyes, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-08_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

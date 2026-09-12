@@ -1,0 +1,368 @@
+{
+  "film": "THE FINAL WORD 29 — CÔ LAO CÔNG NHẤC MÁY GỌI TOKYO (EXECUTIVES FREEZE AS FOREIGN CLIENT HANGS UP)",
+  "kind": "phim",
+  "updated_at": "2026-09-11 17:17:56",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_HARPER_UNIFORM_FULL",
+          "label": "★ HARPER BLAKE — ĐỒNG PHỤC LAO CÔNG XANH XÁM BẠC MÀU, KHĂN VÀNG VẮT VAI (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. 33 tuổi, lao công ca đêm tầng ba mươi mốt của Aldridge & Whitmore sáu năm liền, bỏ học ba tháng trước lễ tốt nghiệp trung học sau khi cha — giáo sư ngôn ngữ học Wendell Blake — mất; mười lăm năm tự học bảy thứ tiếng ở thư viện công cộng. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Chiếc khăn lau vàng vắt trên vai TRÁI là thứ Grant giật ra ném vào mặt cô. Mặt phải đọc ra: tỉnh, chắc, học thức lặng lẽ; bị sỉ nhục trước cả phòng nhưng không co lại và không hằn học — người biết mình đúng.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ da đen Mỹ 33 tuổi, da nâu sẫm ấm có kết cấu thật với lỗ chân lông nhìn rõ, gương mặt ưa nhìn khoẻ mạnh, gò má cao, sống mũi thon, môi đầy, mắt nâu đen to nhìn tỉnh và chắc, lông mày gọn tự nhiên, miệng khép tự nhiên KHÔNG cười. Tóc đen xoăn tự nhiên chải gọn ra sau, búi thấp chặt sau gáy, vài sợi tơ mỏng ở chân tóc. Vóc người cao vừa, thon gọn, vai thẳng. Đồng phục lao công: áo tunic cài cúc trước tay ngắn màu XANH XÁM BẠC MÀU (sage green đã phai), cài kín toàn bộ cúc, vải sờn nhẹ ở cổ và mép túi nhưng được giặt cẩn thận và phẳng phiu; túi ngực trái kẹp một cây bút bi đen và một thẻ nhân viên nhựa trắng nhỏ in dòng chữ xanh rõ nét \"FACILITIES\". Một chiếc khăn lau microfiber màu VÀNG CHANH gấp đôi vắt trên vai TRÁI, rủ xuống trước ngực. Quần kaki xám than ống đứng, giày làm việc đế chống trơn màu đen, sạch. Trang sức đúng một món: đôi khuyên tai nụ vàng nhỏ. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_GRANT_SUIT_FULL",
+          "label": "★ GRANT PEMBERTON — VEST BA MẢNH XANH NAVY, KHUY MĂNG SÉT BẠC (thẻ neo nhân dạng)",
+          "desc": "Phản diện. 52 tuổi, Phó Chủ tịch Cấp cao (Senior Vice President) của Aldridge & Whitmore, năm năm làm người gác cổng thưởng, thăng chức và phòng góc cho cả tầng; đang ôm thương vụ hai trăm triệu đô với tập đoàn Takeda — và lặng lẽ ăn tám phần trăm mỗi hợp đồng quốc tế qua công ty ma. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt không cần giấu, hách dịch của kẻ chưa từng bị ai nói không.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 52 tuổi, da sáng hồng có kết cấu thật với lỗ chân lông và nếp nhăn khoé mắt tự nhiên, mặt vuông đầy đặn, sống mũi thẳng hơi to, cằm vuông, mắt xanh nhạt sắc lạnh, môi mỏng, miệng khép tự nhiên KHÔNG cười. Tóc vàng tro điểm bạc hai bên thái dương, chải lệch ngôi gọn bóng, cạo râu nhẵn. Vóc người cao, vai rộng, ngực dày. Bộ vest ba mảnh màu XANH NAVY đậm may đo vừa vặn, phẳng phiu: áo vest cài cúc, gi-lê cùng màu cài kín, sơ mi TRẮNG tinh cổ cứng, cà vạt lụa màu BẠC XÁM thắt nút gọn. Khuy măng sét BẠC hình vuông ở cả hai cổ tay áo sơ mi. Đồng hồ cơ mặt tròn vàng dây da nâu đeo ở cổ tay TRÁI, mặt số trơn không chữ, nhãn hư cấu. Một khăn cài túi trắng gấp phẳng ở túi ngực vest. Quần âu navy cùng bộ, giày oxford da đen bóng. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_ELEANOR_BLAZER_FULL",
+          "label": "★ ELEANOR WHITMORE — BLAZER ĐEN, KÍNH ĐỌC GÀI TRÊN ĐẦU (thẻ neo nhân dạng)",
+          "desc": "Nhà sáng lập và CEO Aldridge & Whitmore, 58 tuổi; ba mươi năm trước là người phụ nữ duy nhất, trẻ nhất trong một phòng họp phố Wall bị giới thiệu là 'trợ lý'. Người duy nhất trong phòng chào Harper mỗi sáng. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Trong Hook bà ngồi bên kia bàn, im lặng nhìn Harper — tính toán. Mặt phải đọc ra: uy quyền không cần lên giọng, sắc sảo, đang đo lường, không để lộ phe.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người phụ nữ da trắng Mỹ 58 tuổi, da sáng được chăm sóc kỹ có kết cấu thật với nếp nhăn khoé mắt và rãnh cười nhẹ tự nhiên, gò má cao thanh, sống mũi thẳng, quai hàm gọn, mắt xám xanh sâu và điềm tĩnh, môi tô son hồng đất nhạt, miệng khép tự nhiên KHÔNG cười. Tóc BẠC TRẮNG ánh bạc cắt bob ngắn ngang cằm, gọn và sắc. Một cặp kính đọc gọng mảnh màu đồi mồi gài ngược trên đỉnh đầu. Vóc người thon, dáng thẳng. Áo blazer ĐEN may đo vừa vặn, phẳng phiu, cài một cúc; bên trong là áo lụa cổ tròn màu đen, cài kín. Quần âu đen ống đứng, giày cao gót thấp mũi nhọn da đen. Trang sức đúng hai món: đôi khuyên tai ngọc trai nụ trắng và một đồng hồ mặt vuông nhỏ dây kim loại vàng ở cổ tay TRÁI, mặt số trơn, nhãn hư cấu. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_EXEC_FULL",
+          "label": "★ GIÁM ĐỐC KHỊT MŨI — VEST XÁM TRO SÁNG, CÀ VẠT ĐỎ RƯỢU (thẻ neo nhân dạng)",
+          "desc": "Một giám đốc cấp dưới của Grant (kịch bản không nêu tên), 44 tuổi, ngồi ngay cạnh Grant ở cuối bàn. Người khịt mũi và buông câu \"Now we've got the help thinking she's gifted.\" để lấy lòng sếp. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: trơn tru, a dua, khoái chí được góp một câu cho sếp cười.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng Mỹ 44 tuổi, da sáng có kết cấu thật với lỗ chân lông nhìn rõ, mặt thon dài, gò má gầy, mũi thẳng hẹp, mắt nâu nhạt hơi híp, môi mỏng, miệng khép tự nhiên KHÔNG cười. Tóc nâu hạt dẻ cắt ngắn hai bên, phía trên vuốt gel dựng nhẹ gọn gàng, cạo râu nhẵn. Vóc người cao vừa, mảnh. Bộ vest hai cúc màu XÁM TRO SÁNG may đo ôm vừa vặn, phẳng phiu; sơ mi XANH DA TRỜI NHẠT, cà vạt lụa màu ĐỎ RƯỢU trơn thắt gọn. Quần âu xám tro cùng bộ, giày loafer da nâu sẫm. Không đeo trang sức. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_MOP_CART",
+          "label": "Xe đẩy lao công hai tầng màu xám — xe của Harper đứng cạnh cô trong góc phòng họp",
+          "desc": "Chiếc xe đẩy dụng cụ Harper kéo ra từ phòng kho mỗi sáng lúc 5:42; trong Hook nó đứng sát bên phải cô ở góc phòng họp, tay cô đặt trên tay đẩy — câu \"Harper's fingers whitened on the cart\" diễn trên chính tay đẩy này. Cuối phim Grant bị đuổi phải đi vòng qua đúng chiếc xe này ngoài hành lang — vật gieo-trả. Trạng thái ảnh gốc: đầy đủ dụng cụ, đứng yên trên sàn như lúc Harper dọn xong phòng họp.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm hông, không có người và không có bàn tay trong khung. Một chiếc xe đẩy lao công thương mại bằng nhựa cứng màu XÁM THAN, khung chữ nhật hai tầng khay, bốn bánh xe cao su đen, đứng vững trên sàn thảm xám xanh của một phòng họp văn phòng. Xe cao ngang hông người lớn, khoảng một mét, dài khoảng một mét hai; đầu xe là tay đẩy dạng thanh ngang bọc nhựa đen. Một bên hông treo túi rác vải vinyl màu vàng sẫm; tầng trên để một bình xịt nhựa trong có cò bóp trắng, một chồng khăn lau gấp và một cuộn túi rác đen; tầng dưới đặt một thùng nhựa nhỏ đựng chai dung dịch. Cắm đứng ở góc xe là cán cây lau nhà bằng nhôm, đầu lau sợi trắng xám úp xuống một xô vắt nước màu vàng đặt sát chân xe. Nhựa xe trầy nhẹ và bạc màu ở mép nhưng sạch sẽ, được lau chăm chút. Mặt xe và xô trơn hoàn toàn, không logo, nhãn hư cấu. Ngay bên cạnh đặt một chiếc ghế họp lưng cao bọc da đen làm mốc tỉ lệ. Ánh sáng dịu đều chếch từ trên bên trái, bóng đổ mềm ngắn dưới bánh xe.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_PROP_RAG",
+          "label": "Khăn lau microfiber vàng chanh — chiếc khăn Grant giật khỏi vai Harper ném vào mặt cô",
+          "desc": "Chiếc khăn lau Harper luôn vắt trên vai trái khi làm việc. Trong Hook Grant giật nó ra ném thẳng vào mặt cô, rồi nó nằm vo trên thảm dưới chân cô; sau cuộc gọi Tokyo cô tự cúi nhặt lại, về sau nhét nó trong túi ngực ngay cả khi ngồi đàm phán — vật gieo-trả. Trạng thái ảnh gốc: gấp đôi gọn, sạch, như lúc còn vắt trên vai.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ trên chếch xuống nhẹ, không có người và không có bàn tay trong khung. Một chiếc khăn lau microfiber màu VÀNG CHANH cỡ khoảng bốn mươi nhân bốn mươi phân, gấp đôi gọn thành hình chữ nhật, đặt nằm trên một mặt bàn gỗ sồi trơn màu sáng. Sợi vải mịn dày có ánh lì đặc trưng của microfiber, mép viền may chỉ cùng màu, vài chỗ xơ nhẹ ở góc vì dùng lâu nhưng khăn sạch, khô và phẳng. Không in chữ, không nhãn. Bên cạnh đặt một cây bút bi đen làm mốc tỉ lệ. Ánh sáng studio dịu đều chếch từ trên bên trái, bóng đổ mềm ngắn dưới mép khăn, làm nổi rõ kết cấu sợi vải.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        },
+        {
+          "id": "REF_BG_BOARDROOM_31_MORNING",
+          "label": "BỐI CẢNH — Phòng họp chính tầng 31, Aldridge & Whitmore, Midtown Manhattan (sáng sớm)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — phòng họp lãnh đạo nơi cuộc gọi video với Tokyo vừa bị Takeda cúp ngang. Harper dọn phòng này cuối cùng mỗi sáng. Set-dressing lấy từ cả kịch bản: hai mươi ghế da, bàn gỗ gụ dài bốn mét, tường kính nhìn xuống Midtown, tủ thấp (credenza), màn hình họp trực tuyến (sau này chiếu Phụ lục D), điện thoại hội nghị giữa bàn, cửa kính ra hành lang lát đá nơi xe đẩy của Harper đậu.",
+          "prompt": "Bối cảnh ở Mỹ. Phòng họp chính tầng ba mươi mốt của một công ty tư vấn thương vụ ở Midtown Manhattan, sáng sớm, vừa bày xong cho một cuộc họp trực tuyến với đối tác nước ngoài, chưa ai vào. Không có người trong khung hình. GIỮA PHÒNG: bàn họp dài gỗ gụ đỏ sẫm bóng, hai mươi ghế lưng cao bọc da đen, giữa bàn một điện thoại hội nghị hình sao màu đen, cách quãng các bình nước thuỷ tinh và ly úp. TRƯỚC MẶT: tường ốp gỗ óc chó gắn một màn hình họp trực tuyến rất lớn đang TẮT, mặt đen bóng, bên dưới là camera hội nghị nhỏ. BÊN TRÁI: tường kính kịch trần suốt chiều dài phòng nhìn xuống các toà tháp Midtown lúc nắng sớm. BÊN PHẢI: tường ốp gỗ óc chó, dọc chân tường là một tủ thấp gỗ óc chó dài; tủ dừng cách góc sau một khoảng trống sàn rộng chừng hai mét. SAU LƯNG: cửa kính mờ hai cánh khung thép mở ra hành lang lát đá cẩm thạch. Sàn trải thảm xám xanh than. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Nắng sớm trắng vàng nhạt tràn xiên từ tường kính bên trái, cộng đèn LED âm trần trắng trung tính chiếu đều; không u tối, không moody, không cháy trắng, tương phản trung bình, bóng đổ mềm. Gỗ gụ đỏ sẫm, da đen, óc chó nâu ấm, thảm xám xanh. Tổng thể sáng, đắt tiền, ngăn nắp và lạnh — phải KHÁC HẲN ánh đèn huỳnh quang vàng xỉn của phòng kho dụng cụ và căn bếp nhỏ ở Flatbush phần sau phim.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": ""
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Cô lao công lên tiếng khi khách Tokyo cúp máy, bị Grant ném giẻ vào mặt",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Màn hình vừa tắt đen, cả bàn còn nhìn màn hình — Harper đứng góc phòng cạnh xe đẩy, sắp lên tiếng",
+          "goc": "Wide establishing shot nhìn chéo dọc thân bàn về góc sau bên phải, Harper Blake RÕ MẶT đứng ở góc phòng bên phải khung, Grant Pemberton RÕ MẶT 3/4 ngồi ghế cuối dãy phải, giám đốc khịt mũi ngồi cạnh Grant, Eleanor Whitmore ngồi ghế cuối dãy trái nghiêng mặt",
+          "pose": {
+            "zone": "Góc trước bên trái (cạnh màn hình, sát tường kính) → góc sau bên phải phòng họp",
+            "who": {
+              "HARPER": "Đứng thẳng ở khoảng sàn trống góc sau bên phải, cạnh đầu tủ thấp, người hướng chéo về cuối bàn, mắt nhìn thẳng Eleanor, môi hé như sắp nói, ngực hơi nâng vì vừa hít vào giữ hơi",
+              "GRANT": "Ngồi ghế cuối dãy phải gần Harper nhất, mặt tái đi, mắt dán vào màn hình đen",
+              "EXEC": "Ngồi ghế kế Grant về phía màn hình, còn nhìn màn hình đen",
+              "ELEANOR": "Ngồi ghế cuối dãy trái chéo bàn với Grant, lưng thẳng, mặt nghiêng về màn hình, kính đọc gài trên tóc"
+            },
+            "dist": "Máy đặt ở góc trước bên trái cạnh màn hình, ngang tầm mắt người đứng, cách góc Harper khoảng tám mét",
+            "hands": {
+              "HARPER": "Tay phải đặt hờ trên tay đẩy xe lao công ở bên phải cô, tay trái buông, các ngón hơi cong theo dáng nghỉ, không nắm chặt; khăn vàng vắt vai trái",
+              "GRANT": "Tay phải cầm cây bút khựng giữa không trung trên mặt bàn, tay trái đặt trên tay vịn ghế",
+              "EXEC": "Hai tay đặt trên bàn phím laptop",
+              "ELEANOR": "Hai tay đặt chồng lên nhau trên mặt bàn"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy ở góc trước bên trái phòng cạnh màn hình, ngang tầm mắt người đứng, nhìn chéo dọc thân bàn về góc sau bên phải, cách khoảng tám mét. Mười giám đốc vest tối màu và một nữ phiên dịch trẻ cầm headset ngồi hai bên bàn trước laptop mở và cốc cà phê, tất cả còn dán mắt vào màn hình đen ngay ngoài khung bên phải máy, không ai nhìn ống kính. Grant Pemberton ngồi ghế cuối dãy phải, mặt tái đi, bút khựng giữa không trung; giám đốc vest xám tro ngồi kế hắn. Eleanor Whitmore ngồi ghế cuối dãy trái, mặt nghiêng. Ở khoảng sàn trống góc sau bên phải, Harper Blake RÕ MẶT đứng thẳng cạnh xe đẩy lao công, người hướng chéo về cuối bàn, mắt nhìn thẳng Eleanor, môi hé sắp nói, ngực hơi nâng vì đang giữ hơi; tay phải đặt hờ trên tay đẩy, tay trái buông, các ngón không nắm chặt; khăn vàng vắt vai trái; một túi rác đen buộc miệng dưới chân xe.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_GRANT_SUIT_FULL",
+              "REF_ELEANOR_BLAZER_FULL",
+              "REF_EXEC_FULL",
+              "REF_PROP_MOP_CART",
+              "REF_PROP_RAG"
+            ],
+            "bg": "REF_BG_BOARDROOM_31_MORNING"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · MCU dirty single qua vai phải Harper — Grant ngồi vặn người trong ghế, mắt lướt đồng phục trước rồi mới tới mặt",
+          "goc": "MCU dirty single qua vai phải Harper Blake (vai/gáy mờ tiền cảnh mép phải), Grant Pemberton RÕ MẶT bên trái khung đang ngồi vặn người, giám đốc khịt mũi mờ lớp sau",
+          "pose": {
+            "zone": "Góc sau bên phải (sau vai Harper) → ghế cuối dãy phải",
+            "who": {
+              "GRANT": "VẪN NGỒI, vặn nửa người trong ghế về phía Harper, mặt đỏ dần lên, mắt đang lướt từ đồng phục lên mặt cô, khoé miệng trễ xuống khinh bỉ",
+              "HARPER": "Quay lưng 3/4 về máy, vai phải và gáy búi tóc mờ mép phải khung, không thấy mặt",
+              "EXEC": "Ngồi ghế kế Grant ở lớp sau, đã quay hẳn sang nhìn Harper, mờ nét"
+            },
+            "dist": "Máy ngay sau vai phải Harper, ngang tầm vai, cách Grant khoảng một mét rưỡi",
+            "hands": {
+              "GRANT": "Tay trái tì tay vịn ghế, đồng hồ vàng lộ ở cổ tay trái; tay phải còn cầm bút, đặt trên mép bàn",
+              "HARPER": "Vai mờ tiền cảnh, không thấy tay",
+              "EXEC": "Hai tay trên mép bàn"
+            }
+          },
+          "prompt": "Medium close-up dirty single, cinematic photorealistic, máy đặt ngay sau vai phải Harper Blake, ngang tầm vai, cách Grant khoảng một mét rưỡi. Vai phải áo xanh xám và gáy búi tóc đen của Harper chiếm mép phải khung, mờ ngoài tiêu điểm, đứng hoàn toàn im, KHÔNG thấy mặt. Grant Pemberton RÕ NÉT bên trái khung, vẫn ngồi, vặn nửa người trong ghế về phía cô, mặt đang đỏ dần lên, mắt lướt từ đồng phục lên mặt cô, khoé miệng trễ xuống khinh bỉ; tay trái tì tay vịn ghế để lộ đồng hồ vàng, tay phải còn cầm bút trên mép bàn. Ở lớp sau ngay cạnh hắn, giám đốc vest xám tro đã quay hẳn sang nhìn, mờ nét. Hậu cảnh là tường kính bên trái phòng với các toà tháp Midtown dưới nắng sớm, ngoài nét sâu.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_GRANT_SUIT_FULL",
+              "REF_EXEC_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Profile two-shot — Grant còn ngồi, sắp đứng bật dậy; khăn vàng còn trên vai trái Harper",
+          "goc": "Medium wide profile two-shot, Grant Pemberton bên trái khung đang ngồi, Harper Blake bên phải khung đứng ở góc, CẢ HAI RÕ MẶT nghiêng 3/4 về nhau, giám đốc khịt mũi và Eleanor Whitmore ngồi lớp sau",
+          "pose": {
+            "zone": "Cửa kính sau lưng phòng → cuối bàn và góc sau bên phải",
+            "who": {
+              "GRANT": "CHƯA đứng, vẫn ngồi ghế cuối dãy phải, thân nhổm về trước, hai bàn tay chống tay vịn như sắp đẩy người dậy, mắt khoá vào Harper",
+              "HARPER": "Đứng ở góc cạnh xe đẩy, đã quay hẳn người đối mặt Grant, ánh mắt khoá vào hắn, chưa hề né, cổ họng vừa nuốt khan",
+              "EXEC": "Ngồi kế ghế Grant, ngả lưng xem, mờ nét lớp sau",
+              "ELEANOR": "Ngồi ghế cuối dãy trái ở lớp sau, mặt hướng về Harper, mờ nét"
+            },
+            "dist": "Máy đặt sát cửa kính sau lưng phòng, ngang tầm ngực, cách hai người khoảng ba mét",
+            "hands": {
+              "GRANT": "Hai bàn tay chống lên hai tay vịn ghế, khuy măng sét bạc lộ ở cổ tay",
+              "HARPER": "Tay phải đặt hờ trên tay đẩy xe, tay trái buông, các ngón hơi cong, không nắm chặt; khăn vàng vẫn vắt trên vai TRÁI, phía gần Grant",
+              "EXEC": "Khoanh tay trước ngực",
+              "ELEANOR": "Hai tay đặt trên mặt bàn"
+            }
+          },
+          "prompt": "Medium wide profile two-shot, cinematic photorealistic, máy đặt sát cửa kính sau lưng phòng, ngang tầm ngực, cách hai người khoảng ba mét. Bên trái khung, Grant Pemberton RÕ NÉT, CHƯA đứng, ngồi ghế cuối dãy phải, thân nhổm về trước, hai bàn tay chống tay vịn như sắp đẩy người dậy, mắt khoá vào Harper, môi mím lại. Bên phải khung, cách hắn chừng một mét rưỡi, Harper Blake RÕ NÉT đứng ở góc cạnh xe đẩy lao công, đã quay hẳn người đối mặt Grant, mắt khoá vào hắn không né, cổ họng vừa nuốt khan; tay phải đặt hờ trên tay đẩy, tay trái buông, các ngón không nắm chặt; khăn vàng vẫn vắt trên vai trái phía gần Grant, thấy trọn trong khung. Lớp sau mờ nét: giám đốc vest xám tro khoanh tay ngả lưng xem; bên kia bàn Eleanor Whitmore ngồi hướng mặt về Harper; vài giám đốc đã quay hẳn người nhìn về góc này.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_SUIT_FULL",
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_EXEC_FULL",
+              "REF_ELEANOR_BLAZER_FULL",
+              "REF_PROP_MOP_CART",
+              "REF_PROP_RAG"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Grant đã đứng sát mặt Harper ở góc phòng, khăn vàng vo trên thảm dưới chân cô, cả bàn quay lại nhìn",
+          "goc": "Wide shot nhìn ngang qua cuối bàn về góc sau bên phải, Grant Pemberton bên trái nhóm đứng nghiêng 3/4 về phía bàn, Harper Blake bên phải đứng ở góc, CẢ HAI RÕ MẶT; giám đốc khịt mũi RÕ MẶT ngồi dãy phải; Eleanor Whitmore vai/gáy mờ tiền cảnh",
+          "pose": {
+            "zone": "Giữa tường kính bên trái → cuối bàn → góc sau bên phải",
+            "who": {
+              "GRANT": "Đã đứng, cách Harper chưa tới một mét, thân hướng về cô nhưng đầu quay nửa về phía bàn như nói cho cả phòng nghe, cằm hất, khoé miệng nhếch",
+              "HARPER": "Đứng yên chỗ cũ cạnh xe đẩy, đối mặt Grant, mắt khoá vào hắn, cánh mũi phập phồng vì nén hơi",
+              "EXEC": "Ngồi ghế dãy phải kế ghế trống của Grant, ngả lưng, mặt 3/4 hướng máy, đầu quay về phía hai người, khoé miệng đã nhếch",
+              "ELEANOR": "Ngồi ghế cuối dãy trái sát tiền cảnh, quay lưng 3/4 về máy, vai và tóc bạc mờ mép phải dưới khung, không thấy mặt"
+            },
+            "dist": "Máy đặt giữa phòng sát tường kính bên trái, ngang tầm mắt người đứng, cách góc Harper khoảng sáu mét",
+            "hands": {
+              "GRANT": "Tay phải buông cạnh hông, tay trái đưa lên ngang ngực đang rút khăn cài túi trắng khỏi túi vest",
+              "HARPER": "Tay phải đặt hờ trên tay đẩy xe, tay trái buông, các ngón hơi cong, không nắm chặt; vai trái không còn khăn",
+              "EXEC": "Một tay đặt trên bàn, tay kia khoanh hờ",
+              "ELEANOR": "Vai mờ tiền cảnh, không thấy tay"
+            }
+          },
+          "prompt": "Wide shot, cinematic photorealistic, máy đặt giữa phòng sát tường kính bên trái, ngang tầm mắt người đứng, nhìn ngang qua cuối bàn về góc sau bên phải, cách khoảng sáu mét. Tiền cảnh mép phải dưới: vai áo đen và tóc bạc của Eleanor Whitmore ngồi ghế cuối dãy trái, mờ nét, KHÔNG thấy mặt. Giữa khung, giám đốc vest xám tro RÕ MẶT ngồi dãy phải cạnh một ghế trống bị đẩy lùi, ngả lưng, đầu quay về góc phòng, khoé miệng đã nhếch. Góc sau bên phải: Grant Pemberton đã đứng, cách Harper chưa tới một mét, thân hướng về cô nhưng đầu quay nửa về phía bàn như nói cho cả phòng nghe, cằm hất, khoé miệng nhếch, tay trái đang rút khăn cài túi trắng. Harper Blake RÕ MẶT đứng yên cạnh xe đẩy, mắt khoá vào hắn, cánh mũi phập phồng vì nén hơi, tay phải đặt hờ trên tay đẩy, các ngón không nắm chặt. Chiếc khăn vàng vo tròn nằm trên thảm ngay dưới chân cô. Các giám đốc khác đã dừng việc, quay hẳn người nhìn về góc này, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_SUIT_FULL",
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_EXEC_FULL",
+              "REF_ELEANOR_BLAZER_FULL",
+              "REF_PROP_MOP_CART",
+              "REF_PROP_RAG"
+            ],
+            "bg": "REF_BG_BOARDROOM_31_MORNING"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-05",
+          "label": "[HOOK] S05 · Medium two-shot 3/4 — Harper sắp mở lời xin, tay đặt trên tay đẩy xe; Grant chỉnh khuy măng sét",
+          "goc": "Medium two-shot 3/4, Grant Pemberton bên trái khung, Harper Blake bên phải khung, CẢ HAI RÕ MẶT 3/4 hướng vào nhau",
+          "pose": {
+            "zone": "Cuối bàn dãy phải (cạnh ghế trống của Grant) → góc sau bên phải",
+            "who": {
+              "HARPER": "Đứng thẳng cạnh xe đẩy, mặt 3/4 hướng máy, mắt ngước khoá vào Grant, môi mím lại một nhịp ngay trước khi nói",
+              "GRANT": "Đứng đối diện cô, mặt nghiêng 3/4, mắt hạ xuống cổ tay mình, dáng chán chường"
+            },
+            "dist": "Máy đặt cạnh ghế trống cuối dãy phải, ngang tầm ngực, cách hai người khoảng hai mét",
+            "hands": {
+              "HARPER": "Tay phải đặt trên thanh tay đẩy xe lao công ở mép phải khung, các ngón còn thả lỏng, chưa siết; tay trái buông, không nắm chặt",
+              "GRANT": "Hai tay đưa lên trước ngực, ngón tay phải đang chỉnh khuy măng sét bạc ở cổ tay trái"
+            }
+          },
+          "prompt": "Medium two-shot 3/4, cinematic photorealistic, máy đặt cạnh ghế trống cuối dãy phải, ngang tầm ngực, cách hai người khoảng hai mét, khung cắt ngang hông. Bên trái khung, Grant Pemberton RÕ NÉT đứng nghiêng 3/4, mắt hạ xuống cổ tay, ngón tay phải đang chỉnh khuy măng sét bạc ở cổ tay trái, dáng chán chường như chuyện không đáng bận tâm. Bên phải khung, Harper Blake RÕ NÉT đứng thẳng cạnh xe đẩy, mặt 3/4 hướng máy, mắt ngước khoá vào Grant, môi mím lại một nhịp ngay trước khi nói. Tay phải cô đặt trên thanh tay đẩy bọc nhựa đen ở mép phải khung, các ngón còn thả lỏng, chưa siết. Gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Hậu cảnh sau lưng hai người là mảng tường ốp gỗ óc chó và đầu tủ thấp bên phải phòng, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_GRANT_SUIT_FULL",
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_PROP_MOP_CART"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · Hai lớp — Eleanor cận 3/4 tiền cảnh bên kia bàn, Harper đứng yên ở góc lớp sau",
+          "goc": "MCU Eleanor Whitmore RÕ MẶT 3/4 tiền cảnh bên trái khung, Harper Blake đứng ở góc lớp sau bên phải khung, Grant Pemberton đứng cạnh cô lớp sau, cả hai lớp sau mờ nhẹ",
+          "pose": {
+            "zone": "Ghế cuối dãy trái (sát tường kính) → chéo bàn → góc sau bên phải",
+            "who": {
+              "ELEANOR": "Ngồi thẳng lưng, mặt 3/4 hướng phải nhìn chéo qua bàn về Harper, mắt hơi nheo lại như đang đo lường, môi khép",
+              "HARPER": "Đứng yên ở góc cạnh xe đẩy, người thẳng, mặt hướng về Grant, hàm siết thấy cơ gồ ở khớp",
+              "GRANT": "Đứng sát trước Harper, nghiêng người về cô, lưng hơi quay về phía bàn"
+            },
+            "dist": "Máy đặt sau vai trái Eleanor chếch ra ngoài, ngang tầm mắt người ngồi, cách Eleanor khoảng một mét; Harper cách máy khoảng năm mét",
+            "hands": {
+              "ELEANOR": "Tay phải đặt trên mép bàn gỗ gụ, ngón trỏ hơi nhấc lên; tay trái đặt phẳng trên bàn",
+              "HARPER": "Tay phải trên tay đẩy xe, tay trái buông, các ngón hơi cong, không nắm chặt",
+              "GRANT": "Hai tay buông cạnh hông"
+            }
+          },
+          "prompt": "Medium close-up hai lớp, cinematic photorealistic, máy đặt chếch sau vai trái Eleanor Whitmore, ngang tầm mắt người ngồi, cách bà khoảng một mét. Tiền cảnh bên trái khung, Eleanor RÕ NÉT, ngồi thẳng lưng ở ghế cuối dãy trái, mặt 3/4 hướng phải nhìn chéo qua bàn, mắt hơi nheo lại như đang đo lường, môi khép, kính đọc gài trên tóc bạc; tay phải đặt trên mép bàn, ngón trỏ hơi nhấc lên. Lớp sau bên phải khung, bên kia góc bàn khoảng năm mét, Harper Blake đứng yên cạnh xe đẩy, người thẳng, hàm siết thấy cơ gồ ở khớp, tay phải trên tay đẩy; Grant Pemberton đứng sát trước cô, nghiêng người về phía cô. Lớp sau mờ nhẹ nhưng vẫn đọc được dáng người. Khăn vàng vo tròn trên thảm dưới chân Harper.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_ELEANOR_BLAZER_FULL",
+              "REF_HARPER_UNIFORM_FULL",
+              "REF_GRANT_SUIT_FULL",
+              "REF_PROP_RAG"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": ""
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "HARPER: \"Ma'am, the foreign client hung up. The interpreter mistranslated. I can fix it.\"\nNARRATION: Every head turned. A Black cleaning lady mop cart beside her, standing in the corner.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, standing in the back-right corner beside a gray cleaning cart, yellow cloth on her left shoulder.\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, seated at the near end of the right side of the table.\nELEANOR — 58-year-old white woman with silver hair, wearing a BLACK blazer, seated at the near end of the left side.\nEXEC — 44-year-old white man, wearing a LIGHT HEATHER-GRAY suit with a burgundy tie, seated beside Grant.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe Tokyo video call has just died; the screen is black and the table is frozen. From the corner, the cleaning woman speaks to the CEO, and the room turns to her.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:05 Harper's line. 0:05–0:10 no dialogue — reserved for: \"Every head turned. A Black cleaning lady mop cart beside her, standing in the corner.\"\n\nDIALOGUE ORDER:\nHARPER\n\nSHOT 1 (0:00–0:05) — WIDE ESTABLISHING SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in down the table toward the corner.\nThe table stays frozen toward the dead screen; the navy-suit man's pen hangs in mid-air. In the corner, the sage-green woman releases the breath she was holding and speaks straight to the silver-haired woman in black, right hand loose on the cart handle.\nHARPER (sage-green uniform) — low, steady, precise: \"Ma'am, the foreign client hung up. The interpreter mistranslated. I can fix it.\"\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER WIDE FAVOURING THE CORNER — VERY SLOW PUSH-IN\nCamera: Very slow push-in; the corner grows.\nHeads turn from the black screen to the corner. The navy-suit man twists round last; his eyes go down the sage-green uniform to the cart first, and only then up to her face. Harper keeps her eyes on the woman in black. No dialogue.\n\nPERFORMANCE:\nHarper's calm must read as effort, never blankness. Executives only turn their heads; no exaggerated reactions.\n\nLIP SYNC:\nOnly Harper speaks, only in Shot 1; all other mouths stay closed. In Shot 2 no one moves their lips.\n\nAUDIO:\nShot 1: Harper only, clear natural American English. Shot 2: faint room sound — clean for narrator dub. No narrator, no music, no subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, immediately after Harper finishes: \"I can fix it.\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide, slow push-in.\nSHOT 2 = tighter wide on the corner, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: She had just spoken into a silence no one dared break.\nGRANT: \"What did you just say, you filthy Black mop girl?\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, seated and twisted around in his chair, frame left, face fully visible.\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, only a blurred right shoulder at the right edge, completely still like a statue, face never visible.\nEXEC — 44-year-old white man, wearing a LIGHT HEATHER-GRAY suit with a burgundy tie, seated just behind Grant, out of focus.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe room holds its breath. The navy-suit man's shock turns to rage, and before he answers he makes sure the table is watching.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:04 no dialogue — reserved for: \"She had just spoken into a silence no one dared break.\" 0:04–0:08 Grant's line. 0:08–0:10 silent hold.\n\nDIALOGUE ORDER:\nGRANT\n\nSHOT 1 (0:00–0:04) — MEDIUM CLOSE-UP DIRTY SINGLE ON GRANT OVER HARPER'S SHOULDER — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static tripod. Harper's blurred shoulder never moves.\nNobody speaks. Colour climbs up the navy-suit man's neck into his face. He does not answer her yet: his eyes slide away from her to the executives along the table — checking that they are all watching — then come back to her, slower, and his lip curls.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER MEDIUM CLOSE-UP ON GRANT — SLOW PUSH-IN\nCamera: Very slow push-in on his face; lens level with his eyes, never tilting up.\nHe jabs the pen in his right hand toward the corner on each hard word, loud enough for the far end of the table.\nGRANT (navy suit) — loud, disgusted, performing for the room: \"What did you just say, you filthy Black mop girl?\"\n0:08–0:10: he holds the look on her, jaw pushed forward, then flicks a half-glance to the gray-suit man beside him, who is already smirking.\n\nPERFORMANCE:\nGrant's insult is a show for his executives, not a private outburst.\n\nLIP SYNC:\nOnly Grant speaks, only in Shot 2; all other mouths stay closed. In Shot 1 no one moves their lips.\n\nAUDIO:\nShot 1: faint room sound — clean for narrator dub. Shot 2: Grant only, clear natural American English. No narrator, no music, no subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant his eyes return from the table to the corner.\n\nCAMERA SUMMARY:\nSHOT 1 = MCU dirty single on Grant, static, silent.\nSHOT 2 = tighter MCU on Grant, slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: Grant Pemberton stood.\nGRANT: \"A dropout like you understands Japanese?\"\nNARRATION: He ripped the rag off her shoulder, threw it at her face.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, seated at the table end, frame left.\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, standing in the corner beside a gray cart, frame right, a yellow cloth on her LEFT shoulder.\nEXEC (light gray suit) and ELEANOR (black blazer, silver hair) — seated in the background, out of focus, completely still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe navy-suit man gets up, mocks her for the table, then humiliates her physically. She does not step back.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:01 no dialogue — reserved for: \"Grant Pemberton stood.\" 0:01–0:04 Grant's line. 0:04–0:10 no dialogue — reserved for: \"He ripped the rag off her shoulder, threw it at her face.\"\n\nDIALOGUE ORDER:\nGRANT\n\nSHOT 1 (0:00–0:04) — MEDIUM WIDE PROFILE TWO-SHOT — STATIC LOCKED-OFF CAMERA ON A FIXED TRIPOD\nCamera: Static tripod.\n0:00–0:01: The navy-suit man shoves up out of his chair and takes one step toward the corner.\n0:01–0:04: He throws the line half toward the table with a short laugh through his nose. The sage-green woman does not move; one dry swallow.\nGRANT (navy suit) — sneering, amused, playing to the room: \"A dropout like you understands Japanese?\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER PROFILE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in; both stay in frame from the waist up.\nONE WAY ONLY: the man in the NAVY suit acts; the woman in SAGE-GREEN never touches him. With two fingers, like lifting something dirty, he plucks the yellow cloth off her left shoulder and flicks it into her face. It drops to the carpet at her feet. Her eyes close for one beat and open again, back on him. She does not step back or raise a hand.\n\nPERFORMANCE:\nGrant enjoys it and wants witnesses. Harper's stillness must show its cost, never go slack or empty.\n\nLIP SYNC:\nOnly Grant speaks, only in Shot 1; all other mouths stay closed. In Shot 2 no one moves their lips.\n\nAUDIO:\nShot 1: Grant only, clear natural American English. Shot 2: faint room sound — clean for narrator dub. No narrator, no music, no subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after Grant finishes: \"understands Japanese?\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide profile two-shot, static.\nSHOT 2 = tighter profile two-shot, slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "GRANT: \"In that ghetto they never taught you not to stick your nose where it doesn't belong, huh?\"\nNARRATION: Silence. One executive snorted.\nEXEC: \"Now we've got the help thinking she's gifted.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, standing close in front of Harper in the corner.\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, standing beside a gray cart; a yellow cloth lies crumpled at her feet.\nEXEC — 44-year-old white man, wearing a LIGHT HEATHER-GRAY suit with a burgundy tie, seated at the table, mid-frame.\nELEANOR (black blazer, silver hair) — only a blurred shoulder in the lower-right foreground, completely still like a statue, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGrant insults her in an easy voice, for the table's benefit. One executive adds a line to please the boss.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:06 Grant's line. 0:06–0:07 no dialogue — reserved for: \"Silence. One executive snorted.\" 0:07–0:10 the executive's line.\n\nDIALOGUE ORDER:\nGRANT → EXEC\n\nSHOT 1 (0:00–0:06) — WIDE SHOT — SLOW PUSH-IN\nCamera: Very slow push-in toward the corner.\nThe navy-suit man wipes the fingertips that touched the cloth on his white pocket square while he talks, head half-turned so the line lands on the table, not on her. Harper's nostrils flare once; her eyes drop to the cloth on the carpet and come straight back up to his face.\nGRANT (navy suit) — light, almost pleasant, as if explaining a rule to a child: \"In that ghetto they never taught you not to stick your nose where it doesn't belong, huh?\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — TIGHTER ON THE GRAY-SUIT EXECUTIVE — SLOW PUSH-IN\nCamera: Very slow push-in toward the seated gray-suit man.\n0:06–0:07: A beat of silence. The gray-suit man snorts, leans back in his chair, and glances toward the navy suit for approval.\nEXEC (gray suit) — smug, amused, playing to the boss: \"Now we've got the help thinking she's gifted.\"\n\nPERFORMANCE:\nCasual cruelty, performed for the room. Harper's restraint must read as effort.\n\nLIP SYNC:\nOnly the current speaker moves their lips. When Grant speaks, the executive listens with mouth closed, and vice versa. Harper never speaks.\n\nAUDIO:\nDialogue in clear natural American English. 0:06–0:07: the snort only — clean for narrator dub. No narrator, no music, no subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Grant finishes: \"where it doesn't belong, huh?\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide, slow push-in.\nSHOT 2 = tighter on the gray-suit executive, slow push-in.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-05",
+          "dur": 10,
+          "text": "HARPER: \"Sir, I really do understand. He's furious. Please — let me try.\"\nGRANT: \"Stubborn little idiot. Get out before I have security drag you out.\"\nNARRATION: Harper's fingers whitened on the cart.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, standing frame left, face in three-quarter.\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, standing frame right beside a gray cart, her right hand on its black handle.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nShe tries once more, for the deal, not for herself. He dismisses her and threatens to have her dragged out.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:04 Harper's line. 0:04–0:08 Grant's line. 0:08–0:10 no dialogue — reserved for: \"Harper's fingers whitened on the cart.\"\n\nDIALOGUE ORDER:\nHARPER → GRANT\n\nSHOT 1 (0:00–0:04) — MEDIUM TWO-SHOT 3/4 FAVOURING HARPER — SLOW PUSH-IN\nCamera: Very slow push-in; both faces stay in frame.\nHer lips press together for one beat, then she speaks up at him, urgent but controlled, eyes never leaving his. Her hand on the cart handle is still loose. He keeps fiddling with his cuff.\nHARPER (sage-green uniform) — low, urgent, respectful, certain: \"Sir, I really do understand. He's furious. Please — let me try.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM TWO-SHOT 3/4 FAVOURING GRANT — SUBTLE LATERAL DRIFT\nCamera: Very slight lateral drift toward Grant; her hand on the cart handle stays in frame at the right edge.\nHe tugs his silver cufflink straight and does not bother to look up until the last words; then his eyes flick to the table, bored.\nGRANT (navy suit) — flat, bored, contemptuous, as if dismissing a waiter: \"Stubborn little idiot. Get out before I have security drag you out.\"\n0:08–0:10: The sage-green woman does not move. Her right hand closes on the cart handle and tightens until the knuckles go pale. Her eyes stay on him.\n\nPERFORMANCE:\nThe tightening hand is the only place her anger shows; the audience must see what it costs her. Grant treats her as beneath notice.\n\nLIP SYNC:\nOnly the current speaker moves their lips. When Harper speaks, Grant listens with mouth closed, and vice versa. In the final silence all mouths stay closed.\n\nAUDIO:\nDialogue in clear natural American English. 0:08–0:10: faint room sound only — clean for narrator dub. No narrator, no music, no subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after Harper finishes: \"Please — let me try.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium two-shot favouring Harper, slow push-in.\nSHOT 2 = medium two-shot favouring Grant, subtle lateral drift.",
+          "status": "draft",
+          "vpicked": ""
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: She didn't move.\nNARRATION: Across the table, the CEO stared at her — calculating.\nNARRATION: Not a single person in that room was ready for what would happen next.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nELEANOR — 58-year-old white woman with silver hair, wearing a BLACK blazer, seated in the left foreground, medium close-up, face in three-quarter, sharp.\nHARPER — 33-year-old Black woman, wearing a faded SAGE-GREEN uniform, standing in the far corner beside a gray cart, background right.\nGRANT — 52-year-old white man, wearing a NAVY three-piece suit, standing close in front of Harper, background right.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe threat hangs in the air. The cleaning woman holds her ground. Across the table, the silver-haired CEO has said nothing — she is weighing the woman in the corner.\n\nTIMING (no narrator generated — silent windows stay clean for a narrator track added in post):\n0:00–0:01 reserved for: \"She didn't move.\" 0:01–0:05 reserved for: \"Across the table, the CEO stared at her — calculating.\" 0:05–0:10 reserved for: \"Not a single person in that room was ready for what would happen next.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:02) — TWO-LAYER MEDIUM SHOT — RACK FOCUS\nCamera: Static; focus racks from Eleanor's shoulder to the corner.\nThe corner sharpens: the sage-green woman stands exactly where she was, spine straight, jaw clenched so the muscle stands out at the hinge. The navy-suit man looms over her. She does not step back.\n\nHARD CUT.\n\nSHOT 2 (0:02–0:10) — MEDIUM CLOSE-UP ON ELEANOR — VERY SLOW PUSH-IN\nCamera: Very slow push-in on Eleanor's face; lens level with her eyes. The corner stays soft behind.\nThe silver-haired woman in black watches without a word. Her eyes narrow a fraction; they move from the cleaning woman to the navy-suit man, measure him, and return to her. Her right index finger taps the mahogany once and stops. Her head tilts by a degree. She is deciding.\n\nPERFORMANCE:\nEleanor is calculating, not cold: the thought must be visible in her eyes. Harper's stillness is effort, never blankness. Background figures never sharpen in Shot 2.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking.\n\nAUDIO:\nNo dialogue. Faint room sound only — clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:02, as soon as Harper is sharp and has not moved.\n\nCAMERA SUMMARY:\nSHOT 1 = two-layer medium shot, rack focus to Harper.\nSHOT 2 = medium close-up on Eleanor, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": ""
+        }
+      ]
+    }
+  ]
+}

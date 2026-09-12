@@ -1,0 +1,343 @@
+{
+  "film": "RAYMOND — ĐÔI GĂNG TRONG BÙN",
+  "kind": "phim",
+  "updated_at": "2026-09-10 09:17:34",
+  "scenes": [
+    {
+      "id": "REF",
+      "name": "REF — nhân vật · đạo cụ · bối cảnh",
+      "sfs": [
+        {
+          "id": "REF_RAYMOND_DRIFTER_FULL",
+          "label": "★ RAYMOND BROOKS — ĐỒ LANG BẠT (thẻ neo nhân dạng)",
+          "desc": "Nhân vật chính. Cựu vô địch bull riding, 45 tuổi, sáu năm lang bạt sau khi vợ mất. Thẻ neo nhân dạng của cả phim: khoá mặt, tóc, râu, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: mệt mỏi vì đường trường nhưng ánh mắt còn tỉnh và chắc, không hốc hác.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông Mỹ gốc Phi 45 tuổi, da nâu sẫm ấm có kết cấu thật, gò má cao, sống mũi thẳng, quai hàm vuông, mắt nâu sẫm nhìn tỉnh và chắc, miệng khép tự nhiên không cười. Râu quai nón để dài rậm đã điểm bạc hai bên mép, tóc xoăn tự nhiên cắt ngắn sát. Vóc người cao, vai rộng, thân gọn săn chắc kiểu vận động viên đã sút cân. Áo flannel kẻ ca-rô XANH CHÀM BẠC MÀU, sờn cổ và sờn khuỷu tay, cài kín toàn bộ cúc, được giặt cẩn thận. Quần jeans xanh sẫm bạc gối, thắt lưng da nâu bản to đã nứt. Ủng cao bồi da nâu mòn gót, mũi ủng quấn băng dính đen. Đeo chéo một túi vải canvas màu ô-liu bạc màu bên vai phải, quai da đã sờn. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt, giữ nguyên skin tone tự nhiên.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_RAYMOND_DRIFTER_FULL_v1.png"
+        },
+        {
+          "id": "REF_GARRETT_RANCHER_FULL",
+          "label": "★ GARRETT CALDWELL — CHỦ TRẠI CALDWELL (thẻ neo nhân dạng)",
+          "desc": "Phản diện. Chủ trại gia súc lớn nhất ba hạt, 65 tuổi, đời thứ ba của dòng họ Caldwell. Thẻ neo nhân dạng: khoá mặt, tóc, vóc dáng và bộ đồ trong cùng một ảnh. Mặt phải đọc ra: quyền uy quen được phục tùng, khinh miệt lạnh lùng, chưa từng bị ai nói không.\nDùng: HOOK",
+          "prompt": "THẺ NEO NHÂN DẠNG + TRANG PHỤC, ảnh tham chiếu photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, cằm hơi hất cao, hai tay thả lỏng hai bên, mặt hướng thẳng ống kính. Khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan. Người đàn ông da trắng 65 tuổi, da rám nắng dày dạn kiểu người làm ngoài trời, nếp nhăn sâu ở khoé mắt và hai bên miệng, lông mày rậm hoa râm, mắt xanh xám sắc lạnh, môi mỏng khép chặt. Tóc bạc trắng cắt gọn phía sau vành mũ. Vóc người cao lớn, vai ngang, bụng hơi dày kiểu đàn ông có tuổi ăn uống đầy đủ. Mũ cao bồi Stetson dạ màu KEM SỮA, vành cong chuẩn, còn mới và sạch. Áo sơ mi phương Tây màu TRẮNG NGÀ phẳng phiu, cúc xà cừ, cài kín toàn bộ cúc, ngoài khoác gilê da bò màu nâu hạt dẻ bóng, may đo vừa vặn. Quần jeans xanh sẫm còn nếp là, thắt lưng da nâu bản to với khoá đồng cỡ lớn, ủng da bò nâu bóng còn mới. Nền màu trơn xám nhạt kiểu phòng chụp, ánh sáng studio dịu đều từ hai bên, không mảng tối gắt.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_GARRETT_RANCHER_FULL_v1.png"
+        },
+        {
+          "id": "REF_PROP_GLOVES",
+          "label": "Đôi găng tay đua bò da nâu của Elena — vật thiêng của Raymond",
+          "desc": "Món quà kỷ niệm một năm ngày cưới của Elena, thứ duy nhất Raymond còn giữ sau sáu năm. Có dòng chữ thêu bên trong ống găng. Bị Caldwell hất xuống bùn — vật trao tay chủ chốt của cả phim.\nTrạng thái ảnh gốc: lúc còn nằm trong túi Raymond, CHƯA dính bùn.\nDùng: HOOK",
+          "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc chụp 3/4 từ ngang tầm, không có người và không có bàn tay trong khung. Một đôi găng tay đua bò tót bằng da bê màu NÂU HẠT DẺ đã cũ, đặt cạnh nhau trên mặt bàn gỗ thông trơn màu trung tính. Da mềm, bề mặt nứt chân chim li ti nhưng được lau dầu bóng nhẹ, không bẩn, không rách. Đường chỉ khâu màu kem còn nguyên vẹn, riêng đường chỉ dọc ngón cái đã sờn tưa vài sợi. Ống găng cứng cao quá cổ tay, có dây da buộc siết và một khoen kim loại xỉn màu. Chiếc bên trái lật hé phần mặt trong của ống găng, để lộ dòng chữ thêu chỉ kem nhỏ, chân phương, đánh vần chính xác: \"RIDE FOR ME. ALWAYS.\" — chữ rõ nét, không nhoè. Ánh sáng studio dịu đều từ trên chếch trái, bóng đổ mềm ngắn dưới găng, làm nổi rõ vân da và nếp gấp. CHƯA có bùn đất dính trên găng.",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_PROP_GLOVES_v1.png"
+        },
+        {
+          "id": "REF_BG_ARENA_DAY",
+          "label": "BỐI CẢNH — Sân tập đua bò trại Caldwell, Colton Springs (chiều muộn)",
+          "desc": "Bối cảnh gốc duy nhất của Hook — sân đấu bò sau trại Caldwell, nơi diễn ra toàn bộ màn sỉ nhục và lời thách đấu.",
+          "prompt": "Bối cảnh ở Mỹ. Sân tập đua bò tót phía sau một trại gia súc lớn vùng đồi Texas, giữa buổi tập chiều — vừa dứt cơn mưa rào, mặt sân đất sét nhão thành bùn nâu với vài vũng nước đục, phần đất cao gần rào vẫn khô và bốc bụi mịn. TRƯỚC MẶT là lòng sân trống hình bầu dục quây bằng hàng rào gỗ sơn trắng đã bạc và tróc, chân rào bám bùn. BÊN TRÁI là dãy chuồng thả bò bằng thép mạ kẽm sáng, bốn ngăn, cổng thép nặng có chốt gạt; ngăn gần nhất nhốt một con bò tót Brahman lai lông xám đen khổng lồ đang đứng thở, u vai nhô cao, sừng cong, thân lấp sau song thép dày. BÊN PHẢI là chòi phát thanh gỗ sồi cũ dựng trên cọc, loa sắt gắn nóc, cạnh đó một bục gỗ thấp dùng cho phiên đấu giá gia súc. SAU LƯNG là hai dãy khán đài gỗ thấp và cổng ống thép mở ra bãi đỗ xe bán tải, xa hơn là nhà kho tôn đỏ và triền đồi cỏ vàng. Khoảng bốn mươi ranch hand mặc sơ mi bạc màu, đội mũ cao bồi, đứng bám dọc rào gỗ và ngồi trên khán đài. Photorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, máy ngang tầm mắt. Nắng chiều muộn vàng ấm chiếu xiên từ bên phải, đổ bóng dài mềm trên mặt bùn, bụi mịn lơ lửng bắt sáng; không u tối, không moody, không cháy trắng. Gỗ rào trắng bạc, thép chuồng xám lạnh, bùn nâu đục, cỏ vàng úa ngoài rào. Tổng thể nắng gắt, khô khát — phải KHÁC HẲN sự tù túng của nội cảnh phòng xử án ở các cảnh sau.\nKHUNG NGANG 16:9",
+          "status": "draft",
+          "notes": "",
+          "usedBy": [],
+          "refs": {
+            "chars": [],
+            "bg": null
+          },
+          "picked": "REF_BG_ARENA_DAY_v1.png"
+        }
+      ],
+      "shots": []
+    },
+    {
+      "id": "HOOK",
+      "name": "HOOK — Kẻ lang bạt bị hất găng xuống bùn và lời thách cược cả trang trại",
+      "sfs": [
+        {
+          "id": "SF-HOOK-M1-MASTER",
+          "label": "[HOOK] Master 1 · Caldwell chặn Raymond trước hàng rào sân đấu, hai người đã khoá mắt nhau",
+          "goc": "Wide establishing two-shot, Raymond Brooks trái khung, Garrett Caldwell phải khung, CẢ HAI RÕ MẶT, khoá ánh mắt vào nhau",
+          "pose": {
+            "zone": "Khoảng đất trước hàng rào gỗ sân đấu, dãy chuồng thép nằm phía trái khung",
+            "who": {
+              "RAYMOND": "Đứng thẳng, đã quay hẳn người đối mặt trực tiếp với Caldwell, ánh mắt khoá chặt vào Caldwell, chưa hề né tránh, túi canvas còn nguyên trên vai phải",
+              "GARRETT": "Đứng đối diện cách hai bước chân, cằm hất cao, ngực ưỡn, mặt khinh miệt lạnh lùng"
+            },
+            "dist": "Máy quay cách khoảng bảy mét, bao trọn khoảng sân giữa hai người và hàng rào phía sau",
+            "hands": {
+              "RAYMOND": "Tay phải nắm quai túi trên vai, tay trái buông thẳng",
+              "GARRETT": "Tay trái kẹp một điếu xì gà đang cháy dở ngang hông, tay phải buông thẳng"
+            }
+          },
+          "prompt": "Wide establishing shot, cinematic photorealistic, máy quay ngang tầm mắt cách khoảng bảy mét. Raymond Brooks đứng bên trái khung trên nền bùn nhão, người đã quay hẳn đối mặt trực tiếp với Garrett Caldwell, ánh mắt khoá chặt vào Caldwell, cằm giữ thẳng, không né tránh; tay phải nắm quai chiếc túi canvas ô-liu còn nguyên trên vai phải. Garrett Caldwell đứng bên phải khung cách hai bước chân, cằm hất cao, ngực ưỡn ra, khoé miệng trề xuống khinh miệt, tay trái kẹp điếu xì gà đang cháy dở ngang hông. Hai người cách nhau một khoảng trống rõ ràng trên mặt bùn. Bám dọc hàng rào gỗ phía sau hai người là khoảng mười lăm ranch hand và cao bồi đội mũ, đã ngừng việc, quay đầu nhìn về phía hai người, vài người nhoài qua thanh rào; một người trẻ giơ điện thoại lên quay, đứng lẫn trong hàng rào. Xa hơn bên trái là dãy chuồng thép mạ kẽm. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL"
+            ],
+            "bg": "REF_BG_ARENA_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M1-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-02",
+          "label": "[HOOK] S02 · OTS qua vai Raymond, cận trung Caldwell cười phá lên nhục mạ",
+          "goc": "OTS qua vai Raymond (vai/gáy trái tiền cảnh mờ), Garrett Caldwell RÕ MẶT giữa khung",
+          "pose": {
+            "zone": "Khoảng đất trước hàng rào gỗ sân đấu",
+            "who": {
+              "GARRETT": "Đứng đối diện, đầu hơi ngửa ra sau, miệng há bật cười, mắt nheo lại khinh miệt",
+              "RAYMOND": "Quay lưng 3/4 về máy, vai trái và một phần gáy chiếm góc dưới trái khung, mờ nét"
+            },
+            "dist": "Máy quay cách Caldwell khoảng hai mét, qua vai trái Raymond phía trước ống kính",
+            "hands": {
+              "GARRETT": "Tay trái giơ điếu xì gà lên ngang ngực, tay phải chống hông",
+              "RAYMOND": "Vai và một phần gáy mờ ở tiền cảnh, không thấy rõ tay"
+            }
+          },
+          "prompt": "OTS qua vai Raymond Brooks: vai trái và một phần gáy của Raymond chiếm góc dưới trái khung, mờ nét ngoài tiêu điểm, đứng hoàn toàn im. Garrett Caldwell RÕ NÉT ở giữa khung, đầu hơi ngửa ra sau, miệng há bật cười lớn, mắt nheo lại đầy khinh miệt, tay trái giơ điếu xì gà lên ngang ngực, tay phải chống hông. Nắng chiều xiên làm nổi rõ nếp nhăn khoé mắt và quai hàm bạnh của ông ta. Hậu cảnh sau lưng Caldwell là hướng chòi phát thanh gỗ và bục gỗ thấp bên phải sân, cùng vài dáng cao bồi đứng nhìn, tất cả ngoài nét. Bụi mịn lơ lửng bắt nắng phía sau vai ông ta.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-02_v1.png"
+        },
+        {
+          "id": "SF-HOOK-03",
+          "label": "[HOOK] S03 · Medium, Caldwell đã chộp quai túi trên vai Raymond, chưa giật",
+          "goc": "Medium Wide two-shot cắt ngang gối, Garrett Caldwell RÕ MẶT bên phải, Raymond Brooks RÕ MẶT bên trái",
+          "pose": {
+            "zone": "Khoảng đất trước hàng rào gỗ sân đấu",
+            "who": {
+              "GARRETT": "Đã bước sát tới, người nghiêng về phía Raymond, mặt gằn lại, mắt khoá vào mặt Raymond",
+              "RAYMOND": "Đứng nguyên tại chỗ, không lùi, mắt nhìn thẳng vào Caldwell, cơ hàm siết lại"
+            },
+            "dist": "Máy quay cách khoảng ba mét rưỡi, ngang tầm ngực và hơi chếch xuống để lấy được dải mặt bùn ở tiền cảnh dưới",
+            "hands": {
+              "GARRETT": "Tay phải đã nắm chặt quai da của chiếc túi trên vai Raymond nhưng CHƯA giật xuống, tay trái vẫn kẹp điếu xì gà",
+              "RAYMOND": "Hai tay buông thẳng hai bên, không giằng lại"
+            }
+          },
+          "prompt": "Medium wide two-shot cắt ngang gối, cinematic photorealistic, máy ngang tầm ngực hơi chếch xuống cách khoảng ba mét rưỡi, dải mặt bùn nhão loang nước chiếm phần dưới khung. Garrett Caldwell bên phải khung đã bước sát tới, người nghiêng về phía Raymond, mặt gằn lại, mắt khoá vào mặt Raymond; tay phải ông ta đã nắm chặt quai da của chiếc túi canvas trên vai Raymond nhưng CHƯA giật xuống, chiếc túi vẫn nguyên trên vai, tay trái vẫn kẹp điếu xì gà. Raymond Brooks bên trái khung đứng nguyên tại chỗ, không lùi, hai tay buông thẳng, không giằng lại, mắt nhìn thẳng vào Caldwell, cơ hàm siết lại. Cả hai rõ mặt. Hậu cảnh sau lưng hai người là hàng rào gỗ trắng bạc với vài dáng cao bồi đứng bám rào nhìn sang, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-03_v1.png"
+        },
+        {
+          "id": "SF-HOOK-04",
+          "label": "[HOOK] S04 · High angle, Raymond quỳ trong bùn, tay vừa chạm chiếc găng thứ nhất",
+          "goc": "High-Angle Medium Shot, Raymond Brooks RÕ MẶT quỳ giữa khung, ủng và ống quần Garrett Caldwell ở mép trên phải khung",
+          "pose": {
+            "zone": "Vũng bùn giữa sân, cách chỗ đứng cũ khoảng bốn bước",
+            "who": {
+              "RAYMOND": "Đang quỳ hai gối trong bùn, lưng hơi cúi, mặt ngẩng đủ để thấy rõ, hàm nghiến chặt, mắt đỏ nhưng không rơi nước mắt",
+              "GARRETT": "Đứng lừng lững ngoài mép trên phải khung, chỉ thấy ủng da nâu và ống quần jeans"
+            },
+            "dist": "Máy quay từ trên chếch xuống khoảng 40 độ, cách Raymond khoảng hai mét",
+            "hands": {
+              "RAYMOND": "Bàn tay phải vừa chạm vào chiếc găng thứ nhất đang nằm úp trong vũng nước nâu, các ngón run; tay trái chống lên đầu gối, CHƯA ôm găng vào ngực",
+              "GARRETT": "Không thấy tay trong khung"
+            }
+          },
+          "prompt": "High angle medium shot, máy chếch từ trên xuống khoảng bốn mươi độ, cách hai mét. Raymond Brooks quỳ hai gối giữa vũng bùn nâu, hai ống quần jeans ướt sẫm từ gối trở xuống, lưng hơi cúi, mặt ngẩng đủ để thấy rõ: hàm nghiến chặt, mắt đỏ nhưng khô. Bàn tay phải anh vừa chạm vào chiếc găng da nâu thứ nhất đang nằm úp trong vũng nước đục, các ngón tay run; tay trái chống lên đầu gối. Găng CHƯA được nhấc lên khỏi bùn và CHƯA áp vào ngực. Chiếc găng thứ hai nằm cách đó một gang tay, lún nửa thân trong bùn nhão. Chiếc túi canvas rách toác nằm ngửa gần đó, một chiếc áo dự phòng và một chai nước văng ra ngoài. Ở mép trên phải khung là đôi ủng da nâu bóng và ống quần jeans của Garrett Caldwell đứng lừng lững ngay cạnh. Sau lưng Raymond chỉ có mặt bùn loang nước và chân hàng rào gỗ, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL",
+              "REF_PROP_GLOVES"
+            ],
+            "bg": "SF-HOOK-M1-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-04_v1.png"
+        },
+        {
+          "id": "SF-HOOK-M2-MASTER",
+          "label": "[HOOK] Master 2 · Raymond đã đứng thẳng ôm găng vào ngực, đối mặt Caldwell giữa vòng vây",
+          "goc": "Wide two-shot, Raymond Brooks trái khung đứng thẳng, Garrett Caldwell phải khung, CẢ HAI RÕ MẶT, khoá ánh mắt vào nhau",
+          "pose": {
+            "zone": "Giữa sân đấu, chỗ vũng bùn, hai người đối diện nhau",
+            "who": {
+              "RAYMOND": "Đã đứng thẳng người, hai gối quần ướt bùn, vai buông, đầu ngẩng, ánh mắt khoá thẳng vào Caldwell không chớp",
+              "GARRETT": "Đứng đối diện cách ba bước, cằm hất cao, khoé miệng còn đọng nét cười khinh, mắt nheo lại"
+            },
+            "dist": "Máy quay cách khoảng sáu mét, ngang tầm mắt, bao cả hai người và vòng người bám rào phía sau",
+            "hands": {
+              "RAYMOND": "Hai bàn tay ôm chặt đôi găng da dính bùn áp vào giữa ngực",
+              "GARRETT": "Tay trái kẹp điếu xì gà buông thõng, tay phải đút hờ vào túi quần"
+            }
+          },
+          "prompt": "Wide two-shot, cinematic photorealistic, máy ngang tầm mắt cách khoảng sáu mét. Raymond Brooks bên trái khung đã đứng thẳng người giữa vũng bùn, hai gối quần jeans ướt sẫm bết bùn, vai buông xuống, đầu ngẩng, ánh mắt khoá thẳng vào Garrett Caldwell không chớp; hai bàn tay anh ôm chặt đôi găng da nâu dính bùn áp vào giữa ngực. Garrett Caldwell bên phải khung đứng đối diện cách ba bước, cằm hất cao, khoé miệng còn đọng nét cười khinh, mắt nheo lại, tay trái kẹp điếu xì gà buông thõng, tay phải đút hờ túi quần. Chiếc túi canvas rách và chai nước vẫn nằm trên bùn giữa hai người. Vòng ngoài, khoảng hai mươi ranch hand và cao bồi đứng bám dọc hàng rào gỗ và ngồi trên khán đài gỗ thấp, quay hết về phía hai người, vài người còn đang cười, một người trẻ giơ điện thoại quay. Phía trái xa là dãy chuồng thép mạ kẽm. Không ai nhìn thẳng vào ống kính.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL",
+              "REF_PROP_GLOVES"
+            ],
+            "bg": "REF_BG_ARENA_DAY"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-M2-MASTER_v1.png"
+        },
+        {
+          "id": "SF-HOOK-06",
+          "label": "[HOOK] S06 · 3/4 Two-Shot, Caldwell buông lời cược, dãy chuồng thép nhốt bò tót ở lớp sau",
+          "goc": "3/4 Two-Shot, Garrett Caldwell RÕ MẶT bên phải, Raymond Brooks RÕ MẶT bên trái, máy đặt chéo thấy phản ứng cả hai",
+          "pose": {
+            "zone": "Giữa sân đấu → dãy chuồng thép phía trái lớp sau",
+            "who": {
+              "GARRETT": "Đứng chéo góc, người hơi xoay về phía dãy chuồng thép, mặt vẫn hướng Raymond, mắt loé lên thích thú độc ác",
+              "RAYMOND": "Đứng đối diện, ôm găng vào ngực, mắt vẫn khoá vào Caldwell, mặt không đổi"
+            },
+            "dist": "Máy quay cách khoảng bốn mét, đặt chéo 45 độ, ngang tầm ngực",
+            "hands": {
+              "GARRETT": "Hai tay còn buông xuôi, tay trái kẹp xì gà, CHƯA giơ tay chỉ về phía nào",
+              "RAYMOND": "Hai bàn tay vẫn ôm đôi găng dính bùn áp vào giữa ngực"
+            }
+          },
+          "prompt": "3/4 two-shot cắt ngang eo, máy đặt chéo bốn mươi lăm độ cách bốn mét, ngang tầm ngực, thấy rõ mặt cả hai. Garrett Caldwell bên phải khung đứng chéo góc, người hơi xoay về phía dãy chuồng thép, mặt vẫn hướng thẳng Raymond, mắt loé lên vẻ thích thú độc ác, khoé miệng nhếch; hai tay còn buông xuôi, tay trái kẹp điếu xì gà, CHƯA giơ tay chỉ về phía nào. Raymond Brooks bên trái khung đứng đối diện, hai bàn tay ôm đôi găng da dính bùn áp vào giữa ngực, mắt vẫn khoá vào Caldwell, mặt không đổi. Lớp sau phía trái khung, cách khoảng mười lăm mét, là dãy chuồng thả bò bằng thép mạ kẽm với cổng thép nặng: trong ngăn gần nhất lộ rõ khối thân xám đen khổng lồ của con bò tót đang thúc vai vào song thép, u vai và một bên sừng cong nhô lên trên mép chuồng. Vài cao bồi bám rào giữa hai lớp, ngoài nét.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL",
+              "REF_PROP_GLOVES"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-06_v1.png"
+        },
+        {
+          "id": "SF-HOOK-07",
+          "label": "[HOOK] S07 · Medium dirty single, Raymond siết đôi găng, cả sân cười phía sau",
+          "goc": "Medium Shot dirty single trên Raymond Brooks RÕ MẶT bên phải khung, vai trái Garrett Caldwell mờ ở tiền cảnh trái",
+          "pose": {
+            "zone": "Giữa sân đấu, quay ngược trục về phía hàng rào và khán đài",
+            "who": {
+              "RAYMOND": "Đứng thẳng, đầu hơi cúi nhìn xuống đôi găng rồi ngước lên, mắt tĩnh lại, quai hàm siết",
+              "GARRETT": "Chỉ còn vai trái và một mảng gilê da nâu mờ ở mép trái tiền cảnh, đứng im"
+            },
+            "dist": "Máy quay cách Raymond khoảng hai mét rưỡi, ngang tầm ngực, chĩa ngược về hướng hàng rào và khán đài",
+            "hands": {
+              "RAYMOND": "Mười ngón tay siết chặt lại quanh đôi găng da dính bùn ép vào ngực, gân tay nổi rõ",
+              "GARRETT": "Không thấy tay trong khung"
+            }
+          },
+          "prompt": "Medium shot dirty single, máy ngang tầm ngực cách hai mét rưỡi, chĩa ngược trục về hướng hàng rào và khán đài gỗ. Raymond Brooks RÕ NÉT bên phải khung, đứng thẳng, đầu hơi cúi nhìn xuống đôi găng rồi ngước lên, mắt tĩnh lại, quai hàm siết; mười ngón tay anh siết chặt quanh đôi găng da nâu dính bùn ép vào ngực, gân tay nổi rõ. Mép trái tiền cảnh là vai trái và một mảng gilê da nâu của Garrett Caldwell, mờ hẳn ngoài tiêu điểm, đứng im như tượng. Hậu cảnh sau lưng Raymond là hàng rào gỗ trắng bạc và hai dãy khán đài gỗ thấp: khoảng hai mươi ranch hand và cao bồi đang ngả người cười phá lên, vài người vỗ đùi, một người huýt sáo — tất cả ở lớp sau, mờ nhoè ngoài nét, không ai nhìn vào ống kính. Bụi mịn bắt nắng chiều lơ lửng giữa hai lớp.\nKHUNG NGANG 16:9",
+          "refs": {
+            "chars": [
+              "REF_RAYMOND_DRIFTER_FULL",
+              "REF_GARRETT_RANCHER_FULL",
+              "REF_PROP_GLOVES"
+            ],
+            "bg": "SF-HOOK-M2-MASTER"
+          },
+          "status": "draft",
+          "picked": "SF-HOOK-07_v1.png"
+        }
+      ],
+      "shots": [
+        {
+          "id": "V-HOOK-01",
+          "sf": "SF-HOOK-M1-MASTER",
+          "dur": 10,
+          "text": "GARRETT: \"What did you just say, you filthy Black clown?\"\nNARRATION: Raymond stepped back.\nRAYMOND: \"I was just stating what I saw, sir.\"\nGARRETT: \"What you saw?\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, canvas bag on his right shoulder.\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, lit cigar in his left hand.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nThe two men are already squared off, eyes locked. Garrett spits his insult into Raymond's face; Raymond gives half a step of ground but never looks away.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 Garrett's line. 0:03–0:04 silent, reserved for: \"Raymond stepped back.\" 0:04–0:07 Raymond's line. 0:07–0:08 Garrett's reply. 0:08–0:10 silent hold on Garrett.\n\nDIALOGUE ORDER:\nGARRETT → RAYMOND → GARRETT\n\nSHOT 1 (0:00–0:04) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward both men. No handheld shake.\n0:00–0:03: Raymond stands facing Garrett head-on, chin level. Garrett leans in as he speaks.\nGARRETT — furious, openly contemptuous: \"What did you just say, you filthy Black clown?\"\n0:03–0:04: Raymond shifts half a step back on the mud, eyes still on Garrett. Silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER TWO-SHOT, FACE TO FACE — STATIC\nCamera: Static locked-off tripod, closer on both faces, both men still in frame.\nRAYMOND — level, careful, steady: \"I was just stating what I saw, sir.\"\n0:07–0:08: Garrett's head tips back a fraction.\nGARRETT — mocking, incredulous: \"What you saw?\"\n0:08–0:10: he holds the sneer, cigar smoke drifting past his jaw. Silent.\n\nPERFORMANCE:\nGarrett is rigid with entitled anger, chin high. Raymond stays contained; the half step back reads as restraint, not fear.\n\nLIP SYNC:\nOnly the currently speaking character moves their lips. No overlapping dialogue. When Garrett speaks, Raymond listens silently with his mouth closed. When Raymond speaks, Garrett listens silently with his mouth closed. During silent pauses, mouths remain closed with lips still.\n\nAUDIO:\nDialogue windows: character dialogue only, clear natural American English. Silent windows: no dialogue, faint arena ambience — leave clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, immediately after Raymond's half step back lands on the mud.\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in.\nSHOT 2 = tighter two-shot face to face, static.",
+          "status": "draft",
+          "vpicked": "V-HOOK-01_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-02",
+          "sf": "SF-HOOK-02",
+          "dur": 10,
+          "text": "NARRATION: Caldwell's laughter tore through the dusty air.\nGARRETT: \"What the hell do you know? A guy like you, daring to lecture seasoned bull riders?\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, lit cigar in his left hand, facing camera.\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, seen only as a blurred shoulder and the back of his head in the foreground, completely still, face never visible.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGarrett laughs at the idea that this man could know anything about bulls, then turns the laugh into a public humiliation for the whole arena.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 no dialogue, only Garrett's own laughter — reserved for: \"Caldwell's laughter tore through the dusty air.\" 0:03–0:09 Garrett's line. 0:09–0:10 silent hold.\n\nDIALOGUE ORDER:\nGARRETT\n\nSHOT 1 (0:00–0:03) — OTS ON GARRETT (OVER RAYMOND'S SHOULDER) — SLOW PUSH-IN\nCamera: Very slow push-in on Garrett. Raymond's blurred shoulder anchors the lower-left foreground, completely still.\nGarrett's head tips back and he laughs out loud, shoulders shaking, cigar raised beside his chest. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — TIGHTER OTS ON GARRETT — VERY SLOW PUSH-IN\nCamera: The push-in tightens on Garrett's face. Raymond's blurred shoulder stays at the frame edge, back to camera.\nThe laugh drops into a hard sneer as Garrett pitches his voice loud enough for the whole fence line to hear.\nGARRETT — loud, jeering, performing for the crowd: \"What the hell do you know? A guy like you, daring to lecture seasoned bull riders?\"\n0:09–0:10: he holds the sneer. Silent.\n\nPERFORMANCE:\nGarrett is enjoying himself; the laugh is cruel and the sneer after it is the face of a man never once contradicted. Raymond never moves.\n\nLIP SYNC:\nOnly Garrett moves his lips, and only while speaking in Shot 2. Raymond's face is never seen and he does not speak. During the laugh and the silent hold, mouths stay closed and still.\n\nAUDIO:\n0:00–0:03: no dialogue, Garrett's laughter and arena ambience only — leave clean for narrator dub. 0:03–0:09: Garrett's dialogue, clear natural American English, jeering. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, on the peak of Garrett's laugh, just as it begins to fall away.\n\nCAMERA SUMMARY:\nSHOT 1 = OTS on Garrett, slow push-in, laughter only.\nSHOT 2 = tighter OTS on Garrett, very slow push-in, dialogue 0:03–0:09.",
+          "status": "draft",
+          "vpicked": "V-HOOK-02_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-03",
+          "sf": "SF-HOOK-03",
+          "dur": 10,
+          "text": "NARRATION: He snatched Raymond's bag and flung it aside. Worn-out gloves skidded across muddy ground.\nGARRETT: \"A useless guy like you wouldn't last two seconds on a bull's back.\"",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, a canvas bag on his right shoulder.\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, his right hand already gripping the strap of that bag, cigar in his left hand.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGarrett rips the bag off Raymond's shoulder and throws it into the mud. It splits open and a pair of worn leather gloves slides out. Raymond does not move to stop him.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 silent, reserved for: \"He snatched Raymond's bag and flung it aside.\" 0:03–0:05 silent, reserved for: \"Worn-out gloves skidded across muddy ground.\" 0:05–0:10 Garrett's line.\n\nDIALOGUE ORDER:\nGARRETT\n\nSHOT 1 (0:00–0:05) — MEDIUM WIDE TWO-SHOT — STATIC\nCamera: Static locked-off tripod on a fixed frame, both men and the strip of mud in the lower frame held in view.\n0:00–0:03: Garrett yanks the strap hard, tears the bag off Raymond's shoulder and hurls it into the mud in the lower foreground. Raymond's arms stay at his sides.\n0:03–0:05: the bag splits open on impact and the pair of brown leather gloves slides out across the wet mud, one landing face down in a puddle. No dialogue.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER TWO-SHOT — VERY SLOW PUSH-IN\nCamera: Very slow push-in, tightening on both men above the fallen bag.\nGarrett straightens up, chin high, entirely satisfied with himself. Raymond's eyes drop once to the gloves in the mud, then come back up to Garrett's face.\nGARRETT — sneering, dismissive: \"A useless guy like you wouldn't last two seconds on a bull's back.\"\n\nPERFORMANCE:\nGarrett's throw is fast and casual, a man discarding trash. Raymond absorbs it without flinching.\n\nLIP SYNC:\nOnly Garrett speaks, and only in Shot 2. Raymond's mouth stays closed throughout. In Shot 1 no character speaks and no lips move.\n\nAUDIO:\n0:00–0:05: no dialogue, arena ambience and the wet impact of the bag only — leave clean for narrator dub. 0:05–0:10: Garrett's dialogue, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:05, the moment the second glove stops sliding in the mud.\n\nCAMERA SUMMARY:\nSHOT 1 = medium wide two-shot, static, silent action.\nSHOT 2 = tighter two-shot, very slow push-in, dialogue 0:05–0:10.",
+          "status": "draft",
+          "vpicked": "V-HOOK-03_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-04",
+          "sf": "SF-HOOK-04",
+          "dur": 10,
+          "text": "NARRATION: Raymond knelt. Picked up the gloves — fingers trembling, teeth clenched. Pressed them against his chest. Jeering laughter echoed across the arena. Then he stood.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, kneeling in the mud.\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, visible only as boots and jeans at the top right edge of frame, standing still.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nRaymond gathers the two gloves out of the mud, hands shaking, jaw locked, presses them to his chest while the arena laughs, then rises.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:01 silent, reserved for: \"Raymond knelt.\" 0:01–0:04 silent, reserved for: \"Picked up the gloves — fingers trembling, teeth clenched.\" 0:04–0:06 silent, reserved for: \"Pressed them against his chest.\" 0:06–0:08 silent, reserved for: \"Jeering laughter echoed across the arena.\" 0:08–0:10 silent, reserved for: \"Then he stood.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — HIGH-ANGLE MEDIUM SHOT ON RAYMOND — VERY SLOW PUSH-IN\nCamera: Very slow push-in from the high angle. Controlled, no shake.\nRaymond stays on both knees. He lifts the first glove out of the brown water, fingers visibly trembling, wipes it against his shirt, then works the second glove free of the mud. Teeth clenched, eyes hard and dry.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER HIGH-ANGLE ON RAYMOND — STATIC\nCamera: Static locked-off, tighter on Raymond's upper body from the same high angle.\n0:04–0:06: he brings both gloves up and presses them flat against the middle of his chest with both hands, head bowed over them.\n0:06–0:08: he holds there while laughter breaks across the arena; he does not look up.\n0:08–0:10: he pushes up off one knee and rises to full height inside the frame, gloves still held at his chest.\n\nPERFORMANCE:\nEverything is held in: the trembling is in the hands only, the face stays locked. Rising is slow, not defiant.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed and still throughout.\n\nAUDIO:\nNo dialogue at any point. Arena ambience and the crowd's jeering laughter only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the instant the second glove comes free of the mud.\n\nCAMERA SUMMARY:\nSHOT 1 = high-angle medium on Raymond, very slow push-in.\nSHOT 2 = tighter high-angle on Raymond, static, ends on him standing up.",
+          "status": "draft",
+          "vpicked": "V-HOOK-04_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-05",
+          "sf": "SF-HOOK-M2-MASTER",
+          "dur": 10,
+          "text": "NARRATION: Eyes locked on Caldwell.\nRAYMOND: \"Then let me ride your meanest bull. I'll outlast every rider here.\"\nNARRATION: Silence fell. Caldwell's expression darkened.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, knees caked with mud, both hands holding a pair of muddy leather gloves against his chest.\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, cigar in his left hand, standing three paces opposite him.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nRaymond is on his feet again, holding Garrett's stare, and makes his offer flatly in front of the whole arena. The laughter dies. Garrett's face closes over.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:02 silent, reserved for: \"Eyes locked on Caldwell.\" 0:02–0:06 Raymond's line. 0:06–0:10 silent, reserved for: \"Silence fell. Caldwell's expression darkened.\"\n\nDIALOGUE ORDER:\nRAYMOND\n\nSHOT 1 (0:00–0:06) — WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in toward both men. No shake.\n0:00–0:02: Raymond stands straight in the churned mud, gloves clutched to his chest, eyes fixed on Garrett without blinking. Silent.\nRAYMOND — quiet, certain, no anger in it: \"Then let me ride your meanest bull. I'll outlast every rider here.\"\n\nHARD CUT.\n\nSHOT 2 (0:06–0:10) — MEDIUM CLOSE-UP ON GARRETT — VERY SLOW PUSH-IN\nCamera: Very slow push-in on Garrett's face and shoulders, framed from the same side of the line.\nThe sneer drains off Garrett's face. His eyes narrow, the jaw sets, the cigar forgotten between his fingers. Around him the laughter has stopped. He says nothing for the full four seconds.\n\nPERFORMANCE:\nRaymond's delivery is flat and unhurried, a statement of fact. Garrett does not look frightened — he looks like a man who has just been contradicted in public and hates it.\n\nLIP SYNC:\nOnly Raymond speaks, and only in Shot 1. Garrett listens silently with his mouth closed. In Shot 2 no character speaks and no lips move.\n\nAUDIO:\n0:00–0:02 and 0:06–0:10: no dialogue, arena ambience falling to near silence — leave clean for narrator dub. 0:02–0:06: Raymond's dialogue, clear natural American English. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:06, immediately after Raymond finishes: \"I'll outlast every rider here.\"\n\nCAMERA SUMMARY:\nSHOT 1 = wide two-shot, slow push-in, dialogue 0:02–0:06.\nSHOT 2 = medium close-up Garrett, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": "V-HOOK-05_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-06",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "GARRETT: \"Ride that bull, and this whole ranch is yours.\"\nNARRATION: He pointed toward Hellfire — nine hundred kilos behind steel.\nNARRATION: The entire ranch erupted in laughter.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, cigar in his left hand, both arms still down at his sides.\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, both hands holding a pair of muddy leather gloves against his chest, standing opposite him.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGarrett makes the wager out loud for the whole ranch to hear, then points at the bull penned behind the steel gates. The arena breaks into laughter.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:03 Garrett's line. 0:03–0:07 silent, reserved for: \"He pointed toward Hellfire — nine hundred kilos behind steel.\" 0:07–0:10 silent, reserved for: \"The entire ranch erupted in laughter.\"\n\nDIALOGUE ORDER:\nGARRETT\n\nSHOT 1 (0:00–0:03) — 3/4 TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow push-in on the pair from the angled position, both faces readable.\nGarrett delivers the offer like a verdict, eyes never leaving Raymond, who does not react.\nGARRETT — cruel, delighted with himself, playing to the crowd: \"Ride that bull, and this whole ranch is yours.\"\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — SAME 3/4 TWO-SHOT, SLIGHTLY WIDER — STATIC\nCamera: Static locked-off tripod holding both men and the steel pens behind them on the left.\n0:03–0:07: Garrett lifts his right arm and points back at the steel pen where the huge dark bull is shouldering the bars, holding the point. Raymond's eyes follow the arm, then return to Garrett's face.\n0:07–0:10: he lowers the arm and lets the laughter roll around him, chin high. The men on the fence behind stay soft and out of focus.\n\nPERFORMANCE:\nGarrett is at the peak of his triumph; this is sport to him. Raymond stays still, no fear and no anger showing.\n\nLIP SYNC:\nOnly Garrett speaks, and only in Shot 1. Raymond listens silently with his mouth closed. In Shot 2 no character speaks and no lips move.\n\nAUDIO:\n0:00–0:03: Garrett's dialogue, clear natural American English. 0:03–0:10: no dialogue, arena ambience and crowd laughter only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:03, immediately after Garrett finishes: \"this whole ranch is yours.\"\n\nCAMERA SUMMARY:\nSHOT 1 = 3/4 two-shot, slow push-in, dialogue 0:00–0:03.\nSHOT 2 = same 3/4 two-shot slightly wider, static, silent point at the pen.",
+          "status": "draft",
+          "vpicked": "V-HOOK-06_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-07",
+          "sf": "SF-HOOK-07",
+          "dur": 10,
+          "text": "NARRATION: Raymond gripped the gloves tightly — they wouldn't be laughing for long.\nNARRATION: Have you ever watched someone get exactly what they deserved for underestimating the wrong person —",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, both hands holding a pair of muddy leather gloves against his chest, sharp in the right of frame.\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, cigar in his left hand, reduced to a blurred shoulder at the left foreground edge, completely still like a statue.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nWhile the arena laughs behind him, Raymond tightens his grip on the gloves. Nothing in his face answers the crowd. The clip is entirely silent, reserved for narration.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:04 silent, reserved for: \"Raymond gripped the gloves tightly — they wouldn't be laughing for long.\" 0:04–0:10 silent, reserved for: \"Have you ever watched someone get exactly what they deserved for underestimating the wrong person —\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — MEDIUM DIRTY SINGLE ON RAYMOND — STATIC\nCamera: Static locked-off tripod on Raymond, Garrett's blurred shoulder holding the left foreground edge.\nRaymond looks down at the gloves once, then lifts his eyes level again. His ten fingers close and tighten around the muddy leather, tendons standing out on the backs of his hands. Behind him the fence line and bleachers stay soft, the hands out there still laughing, all out of focus.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER ON RAYMOND'S HANDS AND FACE — VERY SLOW PUSH-IN\nCamera: Very slow push-in tightening on the gripped gloves at his chest and his face above them.\nThe grip stays locked. His breathing slows. The eyes settle into something calm and finished, no anger in it. Everything behind him stays blurred and unreadable.\n\nPERFORMANCE:\nStillness carries the whole clip. No jaw clenching, no glare — only the hands and a face that has stopped negotiating.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed and still throughout.\n\nAUDIO:\nNo dialogue at any point. Arena ambience and the crowd's laughter behind him only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, the moment his grip finishes tightening on the gloves.\n\nCAMERA SUMMARY:\nSHOT 1 = medium dirty single on Raymond, static.\nSHOT 2 = tighter on hands and face, very slow push-in.",
+          "status": "draft",
+          "vpicked": "V-HOOK-07_v1.mp4"
+        },
+        {
+          "id": "V-HOOK-08",
+          "sf": "SF-HOOK-06",
+          "dur": 10,
+          "text": "NARRATION: because you are about to, so drop a comment, hit that like button, and let me take you back to where it all began.",
+          "prompt": "Use the uploaded reference image as the visual anchor for character appearance, wardrobe, layout, lighting, props, and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nGARRETT — 65-year-old white man, wearing an ivory-white western shirt under a chestnut leather vest and a cream Stetson, cigar in his left hand, arm back down at his side.\nRAYMOND — 45-year-old Black man, wearing a faded indigo plaid flannel shirt, both hands holding a pair of muddy leather gloves against his chest, standing opposite him, unmoving.\n\nKeep exactly these characters throughout the video. Do not add, remove, replace, duplicate, or transform any character.\n\nSCENE:\nGarrett soaks up the laughter of his own ranch, certain he has just won. Raymond stands three paces away holding the gloves. The clip is entirely silent, reserved for narration.\n\nTIMING (no narrator generated — reserve clean silent audio for a narrator track added later in post):\n0:00–0:10 silent for the full ten seconds, reserved for: \"because you are about to, so drop a comment, hit that like button, and let me take you back to where it all began.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — 3/4 TWO-SHOT — STATIC\nCamera: Static locked-off tripod, both men held in the angled frame with the steel pens behind them on the left.\nGarrett tips his head back and laughs openly, shoulders shaking, arm loose at his side, entirely pleased with himself. Raymond stands opposite him without moving, gloves held to his chest, eyes level on Garrett's face.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — MEDIUM CLOSE-UP ON GARRETT — VERY SLOW PUSH-IN\nCamera: Very slow push-in on Garrett's face and shoulders from the same side of the line.\nThe laugh settles into a wide, satisfied grin. His chin stays high, eyes half-lidded with contempt as he looks Raymond over one more time, sure of himself right to the last frame. He never speaks.\n\nPERFORMANCE:\nGarrett must read as fully triumphant here — smug, cold, untouched, not a trace of doubt or unease. Raymond gives him nothing back.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths remain closed and still throughout.\n\nAUDIO:\nNo dialogue at any point. Arena ambience, Garrett's laughter and the crowd's laughter only — leave clean for narrator dub. No narrator generated. No music. No subtitles.\n\nEDITING:\nExactly TWO shots total. Exactly ONE hard cut.\nCUT 1: At 0:04, as Garrett's laugh settles into a grin.\n\nCAMERA SUMMARY:\nSHOT 1 = 3/4 two-shot, static, silent.\nSHOT 2 = medium close-up Garrett, very slow push-in, silent.",
+          "status": "draft",
+          "vpicked": "V-HOOK-08_v1.mp4"
+        }
+      ]
+    }
+  ]
+}

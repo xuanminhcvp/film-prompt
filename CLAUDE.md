@@ -3,7 +3,7 @@
 ## Luật cứng
 
 - Luôn trả lời người dùng bằng tiếng Việt.
-- Không đọc bất cứ project nào đã làm trước đó ( không tham khảo project cũ khi làm kịch bản mới)
+- Golden Project trong từng skill là project chuẩn của skill đó, có thể đọc để hiểu cách làm chuẩn của tôi. Và không được chỉnh sửa Golden Project dù bất cứ lý do gì nhé, chỉ user được sửa Golder Project thủ công.
 - Chuẩn hoá cách đặt tên folder project với tên film giống hệt nhau bằng chữ viết hoa là title của kịch bản đó luôn. HOOK-TITLE hoặc FILM-TITLE.
 - Không sửa `SKILL.md` hay file trong `.claude/skills/` nếu user không yêu cầu
   rõ. Không tự sửa skill khi user chê output.

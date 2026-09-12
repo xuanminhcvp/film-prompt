@@ -1,0 +1,370 @@
+{
+ "film": "velvet96",
+ "kind": "phim",
+ "updated_at": "2026-09-10 14:15:35",
+ "scenes": [
+  {
+   "id": "REF",
+   "name": "REF — nhân vật · đạo cụ · bối cảnh",
+   "sfs": [
+    {
+     "id": "REF_ARLETTA_MAID_FULL",
+     "label": "★ ARLETTA TRAMMELL (đang đóng vai người giúp việc Ruby Sanderlin)",
+     "desc": "Nữ chính, 40 tuổi, phóng viên điều tra của The American Sentinel, tám tuần nằm vùng ở Brackenhall dưới tên Ruby Sanderlin. THẺ NEO NHÂN DẠNG (không có thẻ portrait riêng). Mặt phải đọc ra: điềm tĩnh, tỉnh táo, quen quan sát và ghi nhớ, không van xin, không nao núng.\nDùng: HOOK\nĐồng phục: NGUOI-GIUP-VIEC (neo)",
+     "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng tự nhiên, hai tay thả lỏng hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: phụ nữ Mỹ gốc Phi 40 tuổi, da nâu sẫm ấm có kết cấu thật và lỗ chân lông nhìn rõ, gương mặt ưa nhìn và khoẻ mạnh, gò má cao, sống mũi thẳng, môi đầy vừa phải, miệng khép tự nhiên KHÔNG cười, ánh nhìn tỉnh táo điềm tĩnh của người quen quan sát và ghi nhớ. Không hốc hác, không quầng thâm.\nĐeo kính gọng dày màu nâu sẫm, mắt kính trong suốt hoàn toàn, không loá, thấy rõ mắt phía sau. Khăn vuông màu xám tro trùm kín tóc, buộc gọn sau gáy, không để lộ một sợi tóc nào.\nTrang phục: đồng phục người giúp việc màu XÁM TRO, cotton dày bạc màu nhẹ vì giặt nhiều nhưng được giặt ủi cẩn thận và phẳng phiu, cổ áo trắng nhỏ cài kín toàn bộ cúc, tay áo dài đến khuỷu, chân váy dài quá đầu gối. KHÔNG mặc tạp dề. Giày bệt da đen đế mềm.\nĐồng hồ thép mảnh mặt tròn ở cổ tay TRÁI — trang sức duy nhất. Cổ tay PHẢI để trống hoàn toàn, không đeo gì.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt.",
+     "status": "proposed",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_PHILIPPA_GALA_FULL",
+     "label": "★ PHILIPPA STRATHMORE — VÁY DẠ HỘI CHAMPAGNE",
+     "desc": "Phản diện, 38 tuổi, con gái nhà Strathmore, chủ buổi gala. THẺ NEO NHÂN DẠNG (không có thẻ portrait riêng). Mặt phải đọc ra: lạnh, khinh miệt, đắc thắng, tin chắc không ai dám chạm tới mình — chưa hề bị lộ mặt trong đoạn Hook nên tuyệt đối không có nét rén hay bối rối.\nDùng: HOOK",
+     "prompt": "Ảnh tham chiếu NHÂN DẠNG + TRANG PHỤC, photorealistic, chất điện ảnh, KHUNG DỌC 9:16, toàn thân từ đầu đến chân, đứng thẳng, hai tay buông hai bên. Đây là THẺ NEO NHÂN DẠNG: khuôn mặt phải lấy đủ lớn và đủ nét để đọc rõ từng đường ngũ quan.\nNhân vật: phụ nữ da trắng 38 tuổi, da sáng có kết cấu thật, gương mặt ưa nhìn và khoẻ mạnh, xương gò má cao rõ, sống mũi thẳng và mảnh, môi mỏng khép lại KHÔNG cười, mắt xanh xám ánh nhìn lạnh và sắc, cằm hất nhẹ lên, thần thái tự mãn của người sinh ra đã nắm quyền. Không tự thêm khiếm khuyết nào ngoài kịch bản.\nTóc vàng mật vấn cao dở dang cho buổi tối, gọn ở đỉnh đầu, vài lọn còn thả xuống thái dương.\nTrang phục: váy dạ hội lụa màu CHAMPAGNE dài chấm sàn, thân váy ôm, cổ vuông kín đáo không hở ngực, không tay, lụa bắt sáng mềm, đường may sắc nét kiểu may đo đắt tiền. Giày cao gót lụa cùng màu champagne.\nTrang sức: khuyên tai kim cương dạng giọt ở cả hai tai và một vòng tay vàng mảnh ở cổ tay TRÁI — chỉ đúng hai món này.\nDáng đứng vai mở, cằm hất cao, trọng tâm dồn về sau như đang đánh giá người đối diện.\nNền trơn xám nhạt kiểu phòng chụp, ánh sáng studio đều dịu từ hai bên, không đổ bóng gắt.",
+     "status": "proposed",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_PROP_NUMBER_TAG",
+     "label": "Thẻ đánh số \"032\" — thẻ giấy kẹp lên cổ tay",
+     "desc": "Vật trung tâm của cả phim: thẻ giấy đánh số Philippa kẹp lên cổ tay Arletta, cùng loại với thẻ Elmira Docherty giữ trong hộp cà phê, về sau thành vật chứng và thành vật trưng bày ở Docherty House. Trạng thái ảnh gốc là trạng thái ở cảnh đầu tiên dùng nó: khuy kẹp còn MỞ, chưa bấm.\nDùng: HOOK",
+     "prompt": "Ảnh tham chiếu ĐẠO CỤ, photorealistic, KHUNG VUÔNG 1:1, góc 3/4 chếch từ trên xuống. Chỉ có đạo cụ, KHÔNG có người, KHÔNG có tay.\nMột chiếc thẻ đánh số bằng giấy rẻ tiền: dải giấy trắng ngà hơi thô, dài khoảng mười lăm centimet, rộng chừng ba centimet, in số đen \"032\" bằng mực in rẻ, phông chữ máy in đơn giản, ba chữ số đọc rõ nét. Một đầu dải giấy có khuy kẹp kim loại nhỏ màu bạc xỉn kiểu kẹp niêm phong, ĐANG MỞ và chưa bấm lại — thẻ ở trạng thái chưa kẹp lên bất cứ thứ gì, nằm phẳng hoàn toàn.\nĐặt phẳng trên mặt bàn gỗ óc chó trơn màu nâu ấm để thấy rõ tỉ lệ và bóng đổ mềm. Cạnh thẻ có một bút chì gỗ ngắn đặt song song làm mốc so tỉ lệ.\nÁnh sáng trắng dịu đều từ trên xuống, mặt giấy không bị loá để đọc rõ số. Ngoài ba chữ số \"032\", trên thẻ không có bất kỳ chữ hay nhãn hiệu nào khác.",
+     "status": "proposed",
+     "notes": "Số trên thẻ chốt là \"032\" — mọi SF thấy rõ thẻ đều phải đánh vần đúng ba chữ số này.",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    },
+    {
+     "id": "REF_BG_MIRRORED_HALL_EVENING",
+     "label": "BỐI CẢNH — Đại sảnh gương Brackenhall House, chiều muộn đang dựng gala",
+     "desc": "Bối cảnh gốc duy nhất của Hook. Toàn bộ 8 clip diễn ra trong đại sảnh gương, khoảng 17h40, trước khi bốn trăm khách tới lúc tám giờ.",
+     "prompt": "Bối cảnh ở Mỹ. Đại sảnh gương của một dinh thự tư đang dựng nốt cho buổi gala từ thiện tối nay, khoảng năm giờ bốn mươi chiều, khách chưa tới.\nĐỐI DIỆN: cửa vòm lớn phía bắc, băng-rôn vải trắng căng ngang bên trên in chữ đen rõ nét, đánh vần chính xác \"THE STRATHMORE FUND — DIGNITY FOR THOSE WHO SERVE\"; dưới vòm là bàn thiệp quyên góp và một tô hoa hồng trắng.\nTRÁI: bàn tiệc dài phủ khăn trắng dày, các bó hoa hồng trắng, mấy xô kẽm đựng cành cắt dở của thợ hoa.\nPHẢI: dãy cửa kính cao mở ra bãi cỏ đang bật đèn pha; cạnh đó bục gỗ thấp của tứ tấu đàn dây, giá nhạc trống vì nhạc công tám giờ mới tới.\nSAU LƯNG: cầu thang cẩm thạch, cửa phục vụ hé mở sát chân thang, tủ bày gỗ óc chó đặt bình rượu.\nHai vách dài ốp gương từ sàn tới trần, sàn cẩm thạch trắng. Chín chùm đèn pha lê bật hết công suất, ánh trắng gắt và đều, gần như không còn mảng tối, vẫn giữ sắc tố da và rõ mặt, không cháy trắng.\nNgười đang làm: người giúp việc đồng phục xám tro vừa đứng sát cửa phục vụ vừa rải dọc hai bên sảnh khiêng ghế gấp, thợ hoa ở bàn dài phía tây, nhóm chín mười khách sang trọng cầm ly champagne phía đông. Không ai nhìn ống kính.\nPhotorealistic, điện ảnh nhưng hiện thực, ống kính 28mm, ngang tầm mắt. Tổng thể trắng lạnh, sáng gắt, KHÁC HẲN sắc xanh tím của trời tắt nắng ngoài cửa kính và ánh vàng xỉn của hành lang phục vụ. Chữ trên bề mặt khác là nhãn hư cấu \"Verrand & Co.\"\nKHUNG NGANG 16:9",
+     "status": "proposed",
+     "notes": "",
+     "usedBy": [],
+     "refs": {
+      "chars": [],
+      "bg": null
+     },
+     "picked": ""
+    }
+   ],
+   "shots": []
+  },
+  {
+   "id": "HOOK",
+   "name": "HOOK — Philippa kẹp thẻ đánh số lên cổ tay người giúp việc giữa đại sảnh gương",
+   "sfs": [
+    {
+     "id": "SF-HOOK-M1-MASTER",
+     "label": "[HOOK] Master 1 · Philippa cầm sẵn thẻ, CHƯA chạm vào Arletta — cả sảnh đứng sững",
+     "goc": "Cinematic Wide establishing, PHILIPPA trái khung · ARLETTA phải khung, CẢ HAI RÕ MẶT, đối mặt trực diện, KHÔNG chạm vào nhau",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, dưới vòm bắc có băng-rôn ở lớp sau",
+      "who": {
+       "PHILIPPA": "Đứng bên trái, mặt lạnh và khinh miệt, cằm hất cao, mắt khoá vào mặt Arletta; tay TRÁI nâng dải thẻ giấy ngang ngực MÌNH cho thấy rõ, tay phải còn buông thẳng, CHƯA đưa về phía Arletta",
+       "ARLETTA": "Đứng bên phải, đã quay hẳn người đối mặt trực tiếp với Philippa, ánh mắt khoá chặt vào mặt Philippa, chưa hề né tránh; hai tay buông thẳng hai bên, CẢ HAI CỔ TAY CÒN TRỐNG, chưa có thẻ nào"
+      },
+      "dist": "Máy quay cách hai người khoảng bảy mét, ngang tầm mắt, đặt ở đầu nam sảnh (chân cầu thang) chĩa về vòm bắc",
+      "hands": {
+       "PHILIPPA": "Tay TRÁI cầm dải thẻ giấy nâng ngang ngực mình, khuy kẹp còn MỞ; tay phải buông thẳng dọc hông, KHÔNG chạm vào Arletta",
+       "ARLETTA": "Hai tay buông thẳng hai bên hông, cổ tay phải để trống hoàn toàn; không nắm, không giữ, KHÔNG chạm vào Philippa"
+      }
+     },
+     "prompt": "Cinematic wide establishing shot, photorealistic, máy ngang tầm mắt ở đầu nam sảnh, cách bảy mét, chĩa về vòm bắc nên băng-rôn nằm trên đầu hai người ở lớp sau, in đúng chữ \"THE STRATHMORE FUND — DIGNITY FOR THOSE WHO SERVE\".\nPhilippa Strathmore đứng bên trái khung, cằm hất cao, KHOÉ MIỆNG ĐÃ NHẾCH LÊN nửa phần vì thích thú, đầu hơi nghiêng như đang thẩm định một món hàng, mắt khoá vào mặt Arletta. Tay TRÁI của cô nâng dải thẻ giấy in số đen \"032\" ngang ngực MÌNH cho thấy rõ, khuy kẹp kim loại còn MỞ, CHƯA bấm lại. Tay phải buông thẳng dọc hông.\nArletta đứng bên phải khung, đã quay hẳn người đối mặt trực tiếp với Philippa, ánh mắt khoá chặt vào mặt Philippa, chưa hề né tránh, vai giữ thẳng; hàm siết nhẹ thấy cơ gồ ở khớp, cánh mũi hơi phập phồng vì đang nén một hơi — gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm. Hai tay buông thẳng hai bên hông, CẢ HAI CỔ TAY CÒN TRỐNG.\nGiữa hai người có khoảng trống rõ ràng chừng một mét: hai người KHÔNG chạm vào nhau, không ai nắm tay hay nắm cổ tay ai, không ai đưa tay về phía người kia.\nCả sảnh đứng sững: bên TRÁI ba bốn thợ hoa dừng tay, cành hoa còn trên tay; bên PHẢI nhóm chín mười khách ngừng uống, ly champagne dừng lơ lửng; giữa sảnh hai người giúp việc áo xám đang khiêng ghế gấp đứng sững, ghế còn trên tay. TẤT CẢ quay hẳn người và hướng mắt về phía hai người, thái độ trung tính, KHÔNG ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL",
+       "REF_PROP_NUMBER_TAG"
+      ],
+      "bg": "REF_BG_MIRRORED_HALL_EVENING"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-02",
+     "label": "[HOOK] S02 · Dirty Single cận Philippa buộc tội, vai Arletta mờ tiền cảnh",
+     "goc": "Dirty Single MCU trên PHILIPPA, RÕ MẶT; vai và một phần hàm dưới của ARLETTA mờ ở tiền cảnh phải",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, máy đặt sát ngoài vai phải Arletta",
+      "who": {
+       "PHILIPPA": "Đứng đối diện, thẻ đã kẹp xong nên hai tay đã buông xuống hai bên, miệng khép, mắt nheo lạnh, cằm hất cao",
+       "ARLETTA": "Vai phải và một phần hàm dưới mờ ngoài nét ở tiền cảnh phải, không thấy mắt, không thấy miệng, đứng yên"
+      },
+      "dist": "Máy quay cách Philippa khoảng một mét hai, ngang tầm mắt",
+      "hands": {
+       "PHILIPPA": "Hai tay buông thẳng hai bên hông, không cầm gì",
+       "ARLETTA": "Không lọt vào khung"
+      }
+     },
+     "prompt": "Dirty Single, medium close-up, photorealistic, máy quay đặt sát ngoài vai phải Arletta, cách Philippa khoảng một mét hai, ngang tầm mắt.\nPhilippa Strathmore RÕ NÉT chiếm gần hết khung, mặt chếch 3/4, miệng KHÉP lại nhưng KHOÉ MIỆNG NHẾCH MỘT BÊN như sắp được xem một thứ thú vị; mắt vừa quét dọc bộ đồng phục xám rồi trả về mặt Arletta kèm một nét ghê ghê rất nhẹ ở cánh mũi. Cằm hất cao, hai tay đã buông xuống hai bên sau khi kẹp xong thẻ. Tuyệt đối không có nét nao núng hay bối rối nào.\nVai phải và một phần hàm dưới của Arletta chiếm góc phải khung, MỜ hẳn ngoài tiêu điểm, không thấy mắt, không thấy miệng.\nHậu cảnh sau lưng Philippa là phía TÂY của sảnh: bàn tiệc dài phủ khăn trắng với các bó hoa hồng trắng và xô kẽm, ngoài nét. Hai ba thợ hoa ở đó đã DỪNG HẲN tay, cành hoa còn cầm giữa chừng, quay hẳn người và hướng mắt về phía Philippa và Arletta ở tiền cảnh, mờ ngoài nét, thái độ trung tính, không ai nhìn vào ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-03",
+     "label": "[HOOK] S03 · Tight Two-Shot 3/4, mặt cách mặt, tay Philippa còn buông (trạng thái chờ)",
+     "goc": "Tight Two-Shot 3/4, PHILIPPA trái khung · ARLETTA phải khung, CẢ HAI RÕ MẶT, mặt cách mặt khoảng sáu mươi centimet",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, dưới vòm bắc có băng-rôn ở lớp sau",
+      "who": {
+       "PHILIPPA": "Nghiêng 3/4 về phía Arletta, miệng còn KHÉP, cằm hất cao, mắt lạnh khoá vào mặt Arletta",
+       "ARLETTA": "Nghiêng 3/4 đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá chặt vào mặt Philippa, chưa né tránh, hàm giữ chặt"
+      },
+      "dist": "Máy quay cách hai người khoảng một mét rưỡi, ngang tầm mắt, đặt ở đầu nam sảnh chĩa về vòm bắc",
+      "hands": {
+       "PHILIPPA": "Tay phải BUÔNG THẲNG dọc hông, chưa hề đưa lên phía mặt Arletta; tay trái buông thẳng",
+       "ARLETTA": "Cổ tay phải đã có thẻ giấy số 032 kẹp quanh, để xuôi ngang eo, ba chữ số hướng ra ngoài; tay trái buông thẳng"
+      }
+     },
+     "prompt": "Tight two-shot 3/4, photorealistic, máy ngang tầm mắt ở đầu nam sảnh, cách hai người một mét rưỡi.\nPhilippa Strathmore bên trái khung, nghiêng 3/4 về phía Arletta, RÕ MẶT: miệng còn KHÉP nhưng khoé miệng đã nhếch, cằm hất cao, mắt lạnh khoá vào mặt Arletta. Tay phải BUÔNG THẲNG dọc hông, CHƯA đưa lên phía mặt Arletta.\nArletta bên phải khung, RÕ MẶT, đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá chặt vào mặt Philippa, chưa hề né tránh; cơ hàm gồ lên ở khớp, cánh mũi hơi phập phồng vì nén hơi — mặt đang phải giữ, không trơ. Cổ tay PHẢI đã có dải thẻ giấy in số đen \"032\" kẹp quanh, tay để xuôi ngang eo, ba chữ số hướng ra ngoài và đọc rõ.\nKhoảng trống rõ giữa hai gương mặt, cả hai nét căng. Lớp sau là vòm bắc với băng-rôn in chữ \"THE STRATHMORE FUND — DIGNITY FOR THOSE WHO SERVE\", ngoài nét. Hai thợ hoa lệch trái và hai khách cầm ly lệch phải đã DỪNG HẲN việc, quay hẳn người và hướng mắt về hai người ở tiền cảnh, mờ ngoài nét, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL",
+       "REF_PROP_NUMBER_TAG"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-04",
+     "label": "[HOOK] S04 · Medium 3/4 Philippa hứa \"món hời\", tay vừa rời khỏi má Arletta",
+     "goc": "Medium Shot 3/4 trên PHILIPPA, RÕ MẶT; vai trái của ARLETTA mờ ở tiền cảnh phải khung",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, máy chếch khoảng ba mươi lăm độ so với trục vai Arletta",
+      "who": {
+       "PHILIPPA": "Đứng chếch 3/4 về phía ống kính, cằm hất cao, khoé miệng hơi nhếch, mắt đang tính toán, đắc thắng hoàn toàn",
+       "ARLETTA": "Vai trái mờ ngoài nét ở tiền cảnh phải khung, không thấy mặt"
+      },
+      "dist": "Máy quay cách Philippa khoảng một mét rưỡi, đặt CHỈ HƠI THẤP hơn tầm mắt cô một chút, KHÔNG chếch ngược lên",
+      "hands": {
+       "PHILIPPA": "Tay phải vừa rời khỏi má Arletta, còn nâng lơi ngang eo, ngón tay hơi mở; tay trái buông thẳng",
+       "ARLETTA": "Không lọt vào khung"
+      }
+     },
+     "prompt": "Medium shot 3/4, photorealistic, máy quay đặt chếch khoảng ba mươi lăm độ so với vai Arletta, cách Philippa khoảng một mét rưỡi, ống kính CHỈ HƠI THẤP hơn tầm mắt Philippa một chút — KHÔNG chếch ngược lên, không thấy hõm dưới cằm hay lỗ mũi.\nPhilippa Strathmore RÕ NÉT, khung từ eo trở lên, mặt chếch 3/4 về phía ống kính, cằm hất cao, KHOÉ MIỆNG NHẾCH LÊN thoả mãn như vừa tặng ai một món quà, ánh mắt vừa quét dọc người Arletta xong mới trả về — đắc thắng hoàn toàn, tuyệt đối không một nét nao núng. Tay phải vừa rời khỏi má Arletta, còn nâng lơi ngang eo, ngón tay hơi mở.\nVai trái của Arletta chiếm góc phải khung, MỜ hẳn ngoài nét, đứng yên, không thấy mặt.\nHậu cảnh sau lưng Philippa là phía TÂY của sảnh: đầu bàn tiệc dài phủ khăn trắng. Ba bốn thợ hoa và hai người giúp việc áo xám ở đó đã DỪNG HẲN việc — cành hoa và ghế gấp còn trên tay — quay hẳn người và hướng mắt về hai người ở tiền cảnh, mờ ngoài nét, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-05",
+     "label": "[HOOK] S05 · Tight MCU Arletta, mắt hạ xuống chiếc thẻ số 032 ở cổ tay phải",
+     "goc": "Tight MCU trên ARLETTA, RÕ MẶT; vai trái của PHILIPPA mờ ở tiền cảnh trái khung",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, máy đặt sát ngoài vai trái Philippa",
+      "who": {
+       "ARLETTA": "Khung từ ngực trở lên, mặt tĩnh hoàn toàn, hàm giữ chặt, ánh mắt hạ chếch xuống cổ tay phải của chính mình",
+       "PHILIPPA": "Vai trái mờ ngoài nét ở tiền cảnh trái khung, không thấy mặt, đứng yên"
+      },
+      "dist": "Máy quay cách Arletta khoảng chín mươi centimet, ngang tầm mắt",
+      "hands": {
+       "ARLETTA": "Cổ tay PHẢI nâng ngang eo, lọt vào cạnh dưới khung, thẻ giấy số 032 kẹp quanh, ba chữ số hướng ra ngoài; tay trái buông thẳng",
+       "PHILIPPA": "Không lọt vào khung"
+      }
+     },
+     "prompt": "Tight medium close-up, photorealistic, máy quay ngang tầm mắt đặt sát ngoài vai trái Philippa, cách Arletta khoảng chín mươi centimet, khung lấy từ ngực trở lên.\nArletta RÕ NÉT giữa khung: hàm siết lại thấy rõ cơ gồ ở khớp, cánh mũi hơi phập phồng vì đang nén một hơi thở, mi mắt hạ xuống, ánh mắt chếch xuống cổ tay phải của chính mình. Không một nét van xin hay hoảng loạn, nhưng đọc rõ là đang PHẢI GIỮ — gương mặt SỐNG, tuyệt đối không phải mặt trơ vô cảm.\nCổ tay PHẢI nâng ngang eo và lọt hẳn vào cạnh dưới khung: dải thẻ giấy in số đen \"032\" kẹp quanh cổ tay, ba chữ số hướng ra ngoài, đọc rõ và nét căng.\nVai trái của Philippa chiếm góc trái khung, MỜ hẳn ngoài nét, không thấy mặt.\nHậu cảnh sau lưng Arletta là phía ĐÔNG của sảnh: dãy cửa kính cao mở ra bãi cỏ đang bật đèn pha, ngoài nét. Hai ba khách cầm ly ở đó đã NGỪNG uống và ngừng trò chuyện, quay hẳn người và hướng mắt về hai người ở tiền cảnh, mờ hẳn ngoài nét, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL",
+       "REF_PROP_NUMBER_TAG"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-06",
+     "label": "[HOOK] S06 · Close-Up Arletta, thẻ số 032 nâng gần khung mặt",
+     "goc": "Close-Up trên ARLETTA (vai trở lên), RÕ MẶT; một mảnh vai trái PHILIPPA mờ ở mép trái khung",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, máy nhích sang phải khoảng ba mươi lăm độ so với SF-HOOK-05",
+      "who": {
+       "ARLETTA": "Khung từ vai trở lên, mi mắt còn hạ xuống thẻ ở cổ tay mình, hàm siết, cánh mũi phập phồng vì nén hơi",
+       "PHILIPPA": "Chỉ còn một mảnh vai trái mờ ở mép trái khung, không thấy mặt"
+      },
+      "dist": "Máy quay cách Arletta khoảng bảy mươi centimet, ngang tầm mắt",
+      "hands": {
+       "ARLETTA": "Cổ tay PHẢI nâng cao hơn, gần ngang xương ức, thẻ giấy số 032 kẹp quanh và lọt vào cạnh dưới khung cùng lúc với mặt",
+       "PHILIPPA": "Không lọt vào khung"
+      }
+     },
+     "prompt": "Close-up, photorealistic, máy quay ngang tầm mắt nhích sang phải khoảng ba mươi lăm độ so với góc trước, cách Arletta khoảng bảy mươi centimet, khung lấy từ vai trở lên.\nArletta RÕ NÉT gần trọn khung: hàm siết thấy cơ gồ ở khớp, cánh mũi hơi phập phồng vì đang nén một hơi thở, mi mắt còn hạ xuống. Gương mặt SỐNG, đang phải giữ, KHÔNG phải mặt trơ vô cảm.\nCổ tay PHẢI nâng cao gần ngang xương ức nên dải thẻ giấy in số đen \"032\" lọt vào cạnh dưới khung CÙNG LÚC với gương mặt, ba chữ số hướng ra ngoài và đọc rõ nét căng.\nMột mảnh vai trái của Philippa còn ở mép trái khung, MỜ hẳn ngoài nét, không thấy mặt.\nHậu cảnh sau lưng Arletta là phía ĐÔNG của sảnh: dãy cửa kính cao mở ra bãi cỏ đèn pha, mờ hẳn. Chỉ một dáng khách cầm ly mờ đứng im, đã quay về phía hai người, không nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL",
+       "REF_PROP_NUMBER_TAG"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-07",
+     "label": "[HOOK] S07 · Medium Two-Shot chếch, thấy cả nhóm khách đứng lặng phía sau",
+     "goc": "Medium Two-Shot 3/4, PHILIPPA trái khung · ARLETTA phải khung, CẢ HAI RÕ MẶT, từ eo trở lên",
+     "pose": {
+      "zone": "Giữa đại sảnh gương, máy chếch nam-tây khoảng ba mươi lăm độ so với SF-HOOK-03",
+      "who": {
+       "PHILIPPA": "Đứng bên trái, cằm hất cao, khoé miệng nhếch thoả mãn, thân người hơi xoay về phía nhóm khách nhưng mắt vẫn ở trên mặt Arletta",
+       "ARLETTA": "Đứng bên phải, đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá vào mặt Philippa, vai thẳng, hàm siết"
+      },
+      "dist": "Máy quay cách hai người khoảng ba mét, ngang tầm mắt",
+      "hands": {
+       "PHILIPPA": "Hai tay buông hai bên",
+       "ARLETTA": "Cổ tay phải có thẻ giấy số 032, để xuôi bên hông; tay trái buông thẳng"
+      }
+     },
+     "prompt": "Medium two-shot 3/4, photorealistic, máy quay ngang tầm mắt chếch khoảng ba mươi lăm độ so với góc tight two-shot trước, cách hai người khoảng ba mét, khung lấy từ eo trở lên.\nPhilippa Strathmore bên trái khung, cằm hất cao, KHOÉ MIỆNG NHẾCH thoả mãn, thân người hơi xoay về phía nhóm khách như đang chia sẻ khoảnh khắc với họ, nhưng mắt vẫn ở trên mặt Arletta.\nArletta bên phải khung, đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá vào mặt Philippa, vai thẳng, hàm siết thấy cơ gồ ở khớp — mặt đang phải giữ, không trơ. Cổ tay phải có dải thẻ giấy số \"032\" để xuôi bên hông.\nLớp sau là vòm bắc với băng-rôn in chữ \"THE STRATHMORE FUND — DIGNITY FOR THOSE WHO SERVE\", ngoài nét. Phía sau Arletta, bốn năm khách sang trọng cầm ly champagne đứng lặng, đã ngừng uống và quay hẳn về phía hai người, mờ ngoài nét, không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    },
+    {
+     "id": "SF-HOOK-08",
+     "label": "[HOOK] S08 · Cinematic Wide từ dưới băng-rôn nhìn dọc sảnh, cả phòng đứng lặng",
+     "goc": "Cinematic Wide, PHILIPPA trái khung · ARLETTA phải khung ở giữa sảnh, CẢ HAI RÕ MẶT dù ở cỡ toàn",
+     "pose": {
+      "zone": "Dưới vòm bắc → dọc sảnh về phía cầu thang",
+      "who": {
+       "PHILIPPA": "Đứng giữa sảnh bên trái, cằm hất cao, quay nửa người về phía nhóm khách, thần thái đắc thắng lạnh lùng",
+       "ARLETTA": "Đứng bên phải cách Philippa khoảng một mét, đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá vào mặt Philippa, người thẳng, không rụt lại"
+      },
+      "dist": "Máy quay ngang tầm mắt đặt ngay dưới vòm bắc, cách hai người khoảng tám mét",
+      "hands": {
+       "PHILIPPA": "Hai tay buông hai bên",
+       "ARLETTA": "Cổ tay phải có thẻ giấy số 032, để xuôi bên hông; tay trái buông thẳng"
+      }
+     },
+     "prompt": "Cinematic wide shot, photorealistic, máy quay ngang tầm mắt đặt ngay dưới vòm bắc, chĩa dọc theo chiều dài sảnh về phía cầu thang, cách hai người khoảng tám mét.\nBăng-rôn vải trắng căng ngang sát cạnh trên khung ở tiền cảnh, in đúng chữ \"THE STRATHMORE FUND — DIGNITY FOR THOSE WHO SERVE\", đọc rõ từng chữ.\nGiữa sảnh, Philippa Strathmore đứng bên trái, cằm hất cao, KHOÉ MIỆNG NHẾCH thoả mãn, quay nửa người về phía nhóm khách như đang chia sẻ khoảnh khắc với họ, hai tay buông. Arletta đứng bên phải cách khoảng một mét, đã quay hẳn người đối mặt trực tiếp Philippa, ánh mắt khoá vào mặt Philippa, người thẳng; cổ tay phải có dải thẻ giấy in số \"032\" để xuôi bên hông.\nHậu cảnh phía NAM là cầu thang cẩm thạch và cửa phục vụ hé mở. Hàng người giúp việc áo xám đứng sững sát cửa phục vụ, thợ hoa bên bàn tiệc dài phía tây, nhóm chín mười khách cầm ly phía đông — tất cả dừng việc và quay hẳn về phía hai người, thái độ trung tính. Không ai nhìn ống kính.\nKHUNG NGANG 16:9",
+     "refs": {
+      "chars": [
+       "REF_ARLETTA_MAID_FULL",
+       "REF_PHILIPPA_GALA_FULL"
+      ],
+      "bg": "SF-HOOK-M1-MASTER"
+     },
+     "status": "draft",
+     "picked": ""
+    }
+   ],
+   "shots": [
+    {
+     "id": "V-HOOK-01",
+     "sf": "SF-HOOK-M1-MASTER",
+     "dur": 10,
+     "text": "NARRATION: Philippa Strathmore yanked Arletta's wrist up and clamped a numbered tag on it. Every maid froze. The florists stood still beneath a charity banner",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nPHILIPPA — 38-year-old white woman, in a champagne silk gown, an open paper tag in her own left hand.\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform, thick-framed glasses and a gray headscarf, both wrists bare.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nThe CHAMPAGNE GOWN woman tags the wrist of the ASH-GRAY maid. ONE WAY ONLY, never reversed: champagne gown tags, ash-gray uniform is tagged.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:05 SHOT 1, fully silent, reserved for: \"Philippa Strathmore yanked Arletta's wrist up and clamped a numbered tag on it.\"\n0:05–0:10 SHOT 2, fully silent, reserved for: \"Every maid froze. The florists stood still beneath a charity banner\"\n\nDIALOGUE ORDER:\nNone. No character speaks.\n\nSHOT 1 (0:00–0:05) — CINEMATIC WIDE TWO-SHOT — SLOW PUSH-IN\nCamera: Very slow, smooth push-in, no shake.\nFrom 0:00 the two stand a metre apart, no contact: the champagne-gown woman holds the open tag in her own left hand; the ash-gray maid faces her, arms down, wrists bare. She reaches across, closes her hand around the maid's RIGHT wrist, yanks it up, brings the tag around it and snaps the clasp shut — then tugs the tag to seat it, the way you straighten a price ticket, and glances at her guests to check they are watching. The maid's free hand curls into a fist and opens again on purpose.\n\nHARD CUT.\n\nSHOT 2 (0:05–0:10) — TIGHTER WIDE, SAME ANGLE — STATIC\nCamera: Static locked-off, slightly tighter on the same hall, identical angle.\nThe champagne-gown woman lets go and wipes her fingertips on her own gown; the maid's wrist lowers with the tag plainly fastened around the ash-gray sleeve, and she draws one breath in through her nose and holds it. Nothing else moves: florists with cut stems in hand, two maids stopped mid-hall with a folding chair, guests holding glasses.\n\nPERFORMANCE:\nPhilippa's cruelty is casual and social — she does this for her guests, not to make a point to the maid. Arletta's restraint must look expensive, never blank: jaw at the hinge, one swallow, a fist opened on purpose. Never pleading, never crumpling.\n\nLIP SYNC:\nNo character speaks or moves their lips. Mouths stay closed and still throughout.\n\nAUDIO:\nNo dialogue at all — ambient room tone only, clean for a narrator dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:05, as the metal clasp snaps shut on the ash-gray maid's wrist.\n\nCAMERA SUMMARY: SHOT 1 = cinematic wide two-shot, slow push-in. SHOT 2 = tighter wide, static.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-02",
+     "sf": "SF-HOOK-02",
+     "dur": 10,
+     "text": "NARRATION: promising dignity for household workers.\nPHILIPPA: \"You went into my private room. You'll come to my dinner tonight and pay.\"\nARLETTA: \"I was only cleaning, ma'am—\"",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nPhilippa states the charge and the sentence in one breath, pleasantly.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:02 silent open of SHOT 1, for: \"promising dignity for household workers.\"\n0:02–0:07 Philippa's line fills the rest of SHOT 1.\n0:07–0:10 Arletta's line in SHOT 2, off-camera.\n\nDIALOGUE ORDER:\nPHILIPPA → ARLETTA\n\nSHOT 1 (0:00–0:07) — DIRTY SINGLE, MEDIUM CLOSE-UP ON PHILIPPA — SLOW PUSH-IN\nCamera: Very slow push-in on Philippa. Arletta's shoulder and jaw anchor the blurred right foreground, still.\n0:00–0:02: Philippa's eyes travel down the ash-gray uniform and back up to the maid's face with faint distaste. No dialogue.\nPHILIPPA — light, almost pleasant, as if adjusting a seating plan: \"You went into my private room. You'll come to my dinner tonight and pay.\"\n\nHARD CUT.\n\nSHOT 2 (0:07–0:10) — TIGHTER DIRTY SINGLE ON PHILIPPA — STATIC\nCamera: Static locked-off, tighter on Philippa. Arletta's blurred shoulder stays at the frame edge, face never shown.\nArletta answers off-camera. Philippa lets out one short breath of a laugh through her nose while the maid is still speaking, and her chin goes up.\nARLETTA — quiet, careful, the voice thinning on the last word as she is cut off, face out of frame: \"I was only cleaning, ma'am—\"\n\nPERFORMANCE:\nNever let Philippa shout here: light, hostess-pleasant delivery over monstrous content is what makes it land. She addresses the uniform before the face. Arletta's answer is quiet, and the effort of keeping it that quiet should be audible.\n\nLIP SYNC:\nOnly the speaking character moves their lips. No overlapping dialogue. Arletta's line in Shot 2 is voice only — face out of frame, no mouth movement — Philippa's mouth stays closed. During the silent pause, mouths stay closed and still.\n\nAUDIO:\n0:00–0:02: no dialogue, ambient only, clean for a post dub. Philippa 0:02–0:07, clear American English, light and level. Arletta 0:07–0:10, quiet, off-camera. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:07, immediately after Philippa finishes: \"You went into my private room. You'll come to my dinner tonight and pay.\"\n\nCAMERA SUMMARY: SHOT 1 = dirty single MCU on Philippa, slow push-in. SHOT 2 = tighter dirty single, static, Arletta off-camera.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-03",
+     "sf": "SF-HOOK-03",
+     "dur": 10,
+     "text": "PHILIPPA: \"Quiet! No excuses! You'll wear those filthy clothes to my elegant party!\"\nNARRATION: Philippa stepped closer and ran a hand down her face, eyes calculating.",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nPhilippa shuts the answer down, then takes the maid's measure by hand.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:04 Philippa's line fills SHOT 1.\n0:04–0:10 SHOT 2, silent, for: \"Philippa stepped closer and ran a hand down her face, eyes calculating.\"\n\nDIALOGUE ORDER:\nPHILIPPA\n\nSHOT 1 (0:00–0:04) — TIGHT TWO-SHOT, FACE TO FACE — STATIC\nCamera: Static locked-off, both faces in frame at eye level.\nFrom 0:00 the two are already squared off, eyes locked. Philippa's chin snaps forward on the first word and the line comes hard and fast into the maid's face — she throws the last of it half toward her friends, not at Arletta. Arletta does not blink at the volume; one muscle moves at her jaw.\nPHILIPPA — furious, imperious, shouted: \"Quiet! No excuses! You'll wear those filthy clothes to my elegant party!\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHT TWO-SHOT, FACE TO FACE — VERY SLOW PUSH-IN\nCamera: Very slow, restrained push-in, both faces in frame, no shake.\nPhilippa takes the last half step in until they almost touch. The champagne-gown woman raises her OWN right hand, runs it down the ash-gray maid's face temple to jaw, turns the maid's chin a few degrees toward the light the way a buyer turns a head, then drops the hand and rubs her fingertips against her thumb — one way only, never reversed. Arletta's eyes close for exactly one beat and open again straight onto Philippa. Hold six seconds silent.\n\nPERFORMANCE:\nThe shout is loud but never out of control — she is performing for the friends behind her. The slow hand, and the fingertips rubbed together afterwards, say more than the shout does. Arletta takes all of it eyes open and hands down; the one closed beat is all that gets out.\n\nLIP SYNC:\nOnly Philippa speaks, only in Shot 1. In Shot 2 nobody speaks or moves their lips; mouths stay closed and still.\n\nAUDIO:\nPhilippa 0:00–0:04, clear American English, sharp and raised. 0:04–0:10: no dialogue, ambient only, clean for a post dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:04, right after Philippa finishes her shouted line, as she starts the half step in.\n\nCAMERA SUMMARY: SHOT 1 = tight two-shot face to face, static, dialogue. SHOT 2 = same frame, very slow push-in, silent.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-04",
+     "sf": "SF-HOOK-04",
+     "dur": 10,
+     "text": "PHILIPPA: \"You'll receive a great deal at the party I prepared.\"\nNARRATION: Revenge was the reason she said out loud. Beneath it sat something worse.",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nPhilippa promises a reward that is not a reward, and only she knows the whole of it.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:04 Philippa's line fills SHOT 1.\n0:04–0:10 SHOT 2, fully silent, reserved for: \"Revenge was the reason she said out loud. Beneath it sat something worse.\"\n\nDIALOGUE ORDER:\nPHILIPPA\n\nSHOT 1 (0:00–0:04) — MEDIUM THREE-QUARTER SHOT ON PHILIPPA — VERY SLOW PUSH-IN\nCamera: Eye level, a fraction below Philippa's eyeline — never tilted up from underneath. Very slow push-in. Arletta's blurred shoulder anchors the right foreground, still.\nHer right hand, just lowered from Arletta's cheek, settles back at her side as she speaks, entirely in command.\nPHILIPPA — warm, generous, as if handing over a gift, eyes flicking to her guests halfway through the line to make sure it lands: \"You'll receive a great deal at the party I prepared.\"\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER MEDIUM CLOSE-UP ON PHILIPPA — STATIC\nCamera: Static locked-off, tighter on Philippa's face, same angle and height.\nHer mouth stays curled. Her eyes go over the maid once more, top to bottom, pricing her, then come back with something colder behind them. She barely blinks. No softening, no hesitation, no fear. Hold six seconds silent.\n\nPERFORMANCE:\nWarm delivery over a monstrous meaning — she thinks she is being witty and wants the guests to enjoy it with her. In the silent half let only the eyes move, and let them price the maid; nothing may read as doubt. The lowered hand is her own; the maid's hands never rise.\n\nLIP SYNC:\nOnly Philippa speaks, and only in Shot 1. Arletta's shoulder stays blurred and motionless; she never speaks. In Shot 2 nobody speaks or moves their lips; mouths stay closed and still.\n\nAUDIO:\nPhilippa 0:00–0:04, clear natural American English, smooth and low. 0:04–0:10: no dialogue, ambient room tone only, clean for narrator dub. No narrator generated. No music. No sound effects. No subtitles.\n\nEDITING:\nCUT 1: At 0:04, right after Philippa finishes: \"You'll receive a great deal at the party I prepared.\"\n\nCAMERA SUMMARY:\nSHOT 1 = medium 3/4 shot on Philippa, very slow push-in, dialogue 0:00–0:04.\nSHOT 2 = tighter medium close-up on Philippa, static, silent 0:04–0:10.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-05",
+     "sf": "SF-HOOK-05",
+     "dur": 10,
+     "text": "NARRATION: Arletta had seen these tags before. They appeared on quiet Black women who came to work, stayed a few weeks, then vanished. Her heart hammered.",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nArletta looks at the tag on her own wrist and recognises it. She has seen this exact object on other women in this house, and she knows what happened to them.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:07 SHOT 1, fully silent, reserved for: \"Arletta had seen these tags before. They appeared on quiet Black women who came to work, stayed a few weeks, then vanished.\"\n0:07–0:10 SHOT 2, fully silent, reserved for: \"Her heart hammered.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:07) — TIGHT MEDIUM CLOSE-UP ON ARLETTA — VERY SLOW PUSH-IN\nCamera: Very slow push-in on Arletta's face. Philippa's shoulder anchors the blurred left foreground, completely still like a statue.\nArletta's eyes drop to the paper tag on her own right wrist and stop. Recognition goes through her in one small wave: the nostrils widen on a held breath, the jaw sets at the hinge, and her free hand closes into a fist against her skirt. Nothing reaches her mouth or her eyebrows — she will not give them that. Hold seven seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:07–0:10) — TIGHTER CLOSE-UP ON ARLETTA — STATIC\nCamera: Static locked-off, tight on Arletta's face and throat, same angle.\nOne hard swallow. A pulse ticks at the side of her neck. Her eyelids close for a single controlled beat and open again, and the fist against her skirt unfolds finger by finger, on purpose. Hold three seconds silent.\n\nPERFORMANCE:\nThis clip only works if the audience can see how much it costs her to look calm. Restraint, not blankness: breath held, jaw working, a fist made and unmade. No tears, no crying, no trembling lip, the face never slack or empty, and Philippa's blurred shoulder never comes into focus.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed and still throughout.\n\nAUDIO:\nNo dialogue at all — ambient room tone only, clean for a narrator dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:07, as Arletta's gaze settles on the number and stops moving.\n\nCAMERA SUMMARY:\nSHOT 1 = tight medium close-up on Arletta, very slow push-in, silent 0:00–0:07.\nSHOT 2 = tighter close-up on Arletta's face and throat, static, silent 0:07–0:10.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-06",
+     "sf": "SF-HOOK-06",
+     "dur": 10,
+     "text": "NARRATION: Cold spread through her chest. She did not flinch. She read the number and memorized it. What Philippa Strathmore didn't know was that",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nArletta reads the number on her own wrist once, files it, and lifts her eyes back to the woman who put it there. She is already working.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:04 SHOT 1, fully silent, reserved for: \"Cold spread through her chest. She did not flinch.\"\n0:04–0:10 SHOT 2, fully silent, reserved for: \"She read the number and memorized it. What Philippa Strathmore didn't know was that\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — CLOSE-UP ON ARLETTA — STATIC\nCamera: Static locked-off on a fixed tripod, tight on Arletta from the shoulders up, same angle as the anchor image.\nArletta's breathing goes shallow. The muscle at her jaw moves once. Her shoulders do not drop, her chin does not drop, and she does not step back. Philippa's shoulder stays blurred and motionless in the left foreground. Hold four seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — VERY SLOW PUSH-IN ON ARLETTA — RACK FOCUS\nCamera: Very slow push-in. Focus racks from Arletta's face down to the numbered tag already held up near her sternum, then back up to her eyes.\nHer eyes move once across the three printed digits, left to right, reading. Her lips press together for a fraction — the number going in. Then her gaze comes back up onto Philippa's face and stays, and something has shifted behind it: the fear is still there, and it is now underneath something working. Hold six seconds silent.\n\nPERFORMANCE:\nThis is where the frightened maid turns back into the reporter, and it lives in the eyes and the timing. Nothing theatrical — no smirk, no glare, no defiant chin-lift — but the face must be ALIVE: eyes tracking the digits, lips pressing, breath resetting. Never a blank stare.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed and still throughout.\n\nAUDIO:\nNo dialogue at all — ambient room tone only, clean for a narrator dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:04, on the last of her shallow breaths, just before her focus drops to the tag.\n\nCAMERA SUMMARY: SHOT 1 = close-up on Arletta, static, silent. SHOT 2 = very slow push-in with a rack focus to the tag and back, silent.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-07",
+     "sf": "SF-HOOK-07",
+     "dur": 10,
+     "text": "NARRATION: this gala would be her family's last. Have you ever watched a room full of powerful people fall silent because the one woman they never bothered",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nTwo women stand face to face. One of them believes the evening belongs to her. Nothing in her face suggests otherwise, and that is the point of holding on it.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:03 SHOT 1, fully silent, reserved for: \"this gala would be her family's last.\"\n0:03–0:10 SHOT 2, fully silent, reserved for: \"Have you ever watched a room full of powerful people fall silent because the one woman they never bothered\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:03) — MEDIUM TWO-SHOT — STATIC\nCamera: Static locked-off on a fixed tripod, both women from the waist up, the knot of guests blurred behind them.\nPhilippa's chin lifts a fraction further and the corner of her mouth goes up and stays up. She looks the maid over one last time — scarf, collar, tag — the way you check a delivery, and finds it satisfactory. Arletta holds her gaze. Hold three seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:03–0:10) — MEDIUM TWO-SHOT — VERY SLOW PUSH-IN\nCamera: Very slow, restrained push-in on both women. Smooth, no shake.\nPhilippa turns her head a few degrees toward her guests and back, sharing the moment with them without a word, entirely certain she has won; nothing cracks. Arletta's eyes stay on her: one slow blink, jaw tight, breathing through her nose. Hold seven seconds silent.\n\nPERFORMANCE:\nPhilippa sits at full triumph for the whole clip — not one frame of nerves, doubt or fear — and her pleasure is social: she keeps including her guests in it. Arletta's stillness is not submission and not blankness; it is a person deciding, in real time, to say nothing yet.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed and still throughout.\n\nAUDIO:\nNo dialogue at all — ambient room tone only, clean for a narrator dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:03, on the small final lift of Philippa's chin.\n\nCAMERA SUMMARY: SHOT 1 = medium two-shot, static, silent. SHOT 2 = same frame, very slow push-in, silent.",
+     "status": "draft",
+     "vpicked": ""
+    },
+    {
+     "id": "V-HOOK-08",
+     "sf": "SF-HOOK-08",
+     "dur": 10,
+     "text": "NARRATION: to look at finally spoke, because you are about to — so drop a comment, hit like, and let me take you back to the beginning.",
+     "prompt": "Use the uploaded reference image as the visual anchor for characters, wardrobe, layout, lighting, props and spatial relationships.\n\n10-SECOND VIDEO. EXACTLY TWO SHOTS. EXACTLY ONE HARD CUT.\n\nCHARACTERS:\nARLETTA — 40-year-old Black woman, wearing an ash-gray maid's uniform with a white collar, thick-framed glasses and a gray headscarf.\nPHILIPPA — 38-year-old white woman, wearing a champagne silk gown.\n\nKeep exactly these characters. Do not add, remove, replace, duplicate or transform any character.\n\nSCENE:\nThe whole room seen from under the charity banner: a tagged woman in gray, the woman who tagged her, and everyone present choosing to say nothing.\n\nTIMING (no narrator; leave clean silent audio for a post dub):\n0:00–0:04 SHOT 1, fully silent, reserved for: \"to look at finally spoke, because you are about to —\"\n0:04–0:10 SHOT 2, fully silent, reserved for: \"so drop a comment, hit like, and let me take you back to the beginning.\"\n\nDIALOGUE ORDER:\nNone. No character speaks in this clip.\n\nSHOT 1 (0:00–0:04) — CINEMATIC WIDE DOWN THE HALL — SLOW PUSH-IN\nCamera: Very slow, smooth push-in from beneath the banner, straight down the hall. No handheld shake.\nPhilippa stands mid-hall with her chin high, half turned toward her guests and sharing it with them; one of them smiles behind a raised glass. Arletta stands a metre away facing her directly, tagged wrist at her side, shoulders straight. Nobody else moves: maids frozen by the service door, florists at the long table, guests holding glasses without drinking. Hold four seconds silent.\n\nHARD CUT.\n\nSHOT 2 (0:04–0:10) — TIGHTER WIDE ON THE TWO WOMEN — STATIC\nCamera: Static locked-off, framed tighter on Philippa and Arletta mid-hall, same angle, banner still spanning the top of frame.\nPhilippa's mouth curves, satisfied — and she is not looking at Arletta at all any more, she is looking at her guests. Arletta does not move and does not look away from her, jaw tight, breathing deliberate. Nobody in the room steps forward. Hold six seconds silent.\n\nPERFORMANCE:\nThe last image has to make the room complicit: Philippa pleased and already turning away, Arletta the only person standing straight. Her cruelty is casual, never theatrical; Arletta is composed but not empty. Background figures stay still and neutral, nobody looking at camera.\n\nLIP SYNC:\nNo character speaks. No character moves their lips as if talking. Mouths stay closed and still throughout.\n\nAUDIO:\nNo dialogue at all — ambient room tone only, clean for a narrator dub. No narrator, music, sound effects or subtitles.\n\nEDITING:\nCUT 1: At 0:04, as the push-in stops with both women centred in the hall.\n\nCAMERA SUMMARY:\nSHOT 1 = cinematic wide down the hall, slow push-in, silent 0:00–0:04.\nSHOT 2 = tighter wide on both women, static, silent 0:04–0:10.",
+     "status": "draft",
+     "vpicked": ""
+    }
+   ]
+  }
+ ]
+}
